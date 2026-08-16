@@ -1,0 +1,115 @@
+{
+  "actualizado": "2026-08-16",
+  "heroInicio": {
+    "titulo": "Crimson Horizon: Rebirth",
+    "descripcion": "Un guerrero olvidado despierta en un mundo devastado, decidido a recuperar lo que perdio.",
+    "imagen": "https://picsum.photos/seed/crimsonhero/1200/700",
+    "animeId": "crimson-horizon"
+  },
+  "generos": [
+    { "nombre": "Shonen", "imagen": "https://picsum.photos/seed/shonen/400/240" },
+    { "nombre": "Seinen", "imagen": "https://picsum.photos/seed/seinen/400/240" },
+    { "nombre": "Fantasia", "imagen": "https://picsum.photos/seed/fantasia/400/240" },
+    { "nombre": "Accion", "imagen": "https://picsum.photos/seed/accion/400/240" }
+  ],
+  "animes": [
+    {
+      "id": "crimson-horizon",
+      "titulo": "Crimson Horizon: Rebirth",
+      "imagen": "https://picsum.photos/seed/crimsonposter/400/600",
+      "imagenFondo": "https://picsum.photos/seed/crimsonfondo/1200/700",
+      "descripcion": "Un guerrero olvidado despierta en un mundo devastado por la guerra, decidido a recuperar lo que perdio y enfrentar a quienes traicionaron su reino.",
+      "generos": ["Accion", "Fantasia"],
+      "puntuacion": 9.8,
+      "anio": 2024,
+      "clasificacion": "TV-MA",
+      "estado": "emision",
+      "destacado": true,
+      "finalizado": false,
+      "capitulos": [],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            {
+              "numero": 1,
+              "titulo": "El Despertar Carmesi",
+              "duracion": "24 min",
+              "miniatura": "https://picsum.photos/seed/ep1/400/225",
+              "video": "https://example.com/video/capitulo-1.mp4",
+              "progreso": 0,
+              "visto": false
+            },
+            {
+              "numero": 2,
+              "titulo": "Cenizas del Pasado",
+              "duracion": "23 min",
+              "miniatura": "https://picsum.photos/seed/ep2/400/225",
+              "video": "https://example.com/video/capitulo-2.mp4",
+              "progreso": 0,
+              "visto": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "silent-blade",
+      "titulo": "Silent Blade",
+      "imagen": "https://picsum.photos/seed/silentblade/400/600",
+      "imagenFondo": "https://picsum.photos/seed/silentbladefondo/1200/700",
+      "descripcion": "Una espadachina solitaria recorre un pais fracturado buscando justicia para su clan caido.",
+      "generos": ["Seinen", "Accion"],
+      "puntuacion": 8.9,
+      "anio": 2019,
+      "clasificacion": "TV-14",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "capitulos": [],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            {
+              "numero": 1,
+              "titulo": "La Ultima Katana",
+              "duracion": "22 min",
+              "miniatura": "https://picsum.photos/seed/sb1/400/225",
+              "video": "https://example.com/video/silent-blade-ep1.mp4",
+              "progreso": 0,
+              "visto": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ghibli": {
+    "hero": {
+      "titulo": "Studio Ghibli",
+      "subtitulo": "Magia en cada frame",
+      "imagen": "https://picsum.photos/seed/ghiblihero/1200/700"
+    },
+    "peliculas": [
+      {
+        "id": "el-bosque-eterno",
+        "titulo": "El Bosque Eterno",
+        "imagen": "https://picsum.photos/seed/bosqueeterno/400/600",
+        "genero": "Fantasia",
+        "anio": 2001,
+        "puntuacion": 9.6,
+        "video": "https://example.com/video/el-bosque-eterno.mp4"
+      },
+      {
+        "id": "el-viaje-de-luna",
+        "titulo": "El Viaje de Luna",
+        "imagen": "https://picsum.photos/seed/viajeluna/400/600",
+        "genero": "Aventura",
+        "anio": 1997,
+        "puntuacion": 9.4,
+        "video": "https://example.com/video/el-viaje-de-luna.mp4"
+      }
+    ]
+  }
+}

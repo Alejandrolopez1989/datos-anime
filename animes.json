@@ -1,115 +1,254 @@
 {
-  "actualizado": "2026-08-16",
-  "heroInicio": {
-    "titulo": "Crimson Horizon: Rebirth",
-    "descripcion": "Un guerrero olvidado despierta en un mundo devastado, decidido a recuperar lo que perdio.",
-    "imagen": "https://picsum.photos/seed/crimsonhero/1200/700",
-    "animeId": "crimson-horizon"
-  },
-  "generos": [
-    { "nombre": "Shonen", "imagen": "https://picsum.photos/seed/shonen/400/240" },
-    { "nombre": "Seinen", "imagen": "https://picsum.photos/seed/seinen/400/240" },
-    { "nombre": "Fantasia", "imagen": "https://picsum.photos/seed/fantasia/400/240" },
-    { "nombre": "Accion", "imagen": "https://picsum.photos/seed/accion/400/240" }
-  ],
   "animes": [
     {
-      "id": "crimson-horizon",
-      "titulo": "Crimson Horizon: Rebirth",
-      "imagen": "https://picsum.photos/seed/crimsonposter/400/600",
-      "imagenFondo": "https://picsum.photos/seed/crimsonfondo/1200/700",
-      "descripcion": "Un guerrero olvidado despierta en un mundo devastado por la guerra, decidido a recuperar lo que perdio y enfrentar a quienes traicionaron su reino.",
-      "generos": ["Accion", "Fantasia"],
-      "puntuacion": 9.8,
-      "anio": 2024,
-      "clasificacion": "TV-MA",
+      "id": "snk",
+      "titulo": "Shingeki no Kyojin",
       "estado": "emision",
       "destacado": true,
       "finalizado": false,
-      "capitulos": [],
       "temporadas": [
         {
           "numero": 1,
           "capitulos": [
-            {
-              "numero": 1,
-              "titulo": "El Despertar Carmesi",
-              "duracion": "24 min",
-              "miniatura": "https://picsum.photos/seed/ep1/400/225",
-              "video": "https://zplayer.io/?v=UVSwnlZk3",
-              "progreso": 0,
-              "visto": false
-            },
-            {
-              "numero": 2,
-              "titulo": "Cenizas del Pasado",
-              "duracion": "23 min",
-              "miniatura": "https://picsum.photos/seed/ep2/400/225",
-              "video": "https://example.com/video/capitulo-2.mp4",
-              "progreso": 0,
-              "visto": false
-            }
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" },
+            { "numero": 3, "video": "NixHaHuGI" },
+            { "numero": 4, "video": "NixHaHuGI" },
+            { "numero": 5, "video": "NixHaHuGI" },
+            { "numero": 6, "video": "NixHaHuGI" },
+            { "numero": 7, "video": "NixHaHuGI" },
+            { "numero": 8, "video": "NixHaHuGI" },
+            { "numero": 9, "video": "NixHaHuGI" },
+            { "numero": 10, "video": "NixHaHuGI" },
+            { "numero": 11, "video": "NixHaHuGI" },
+            { "numero": 12, "video": "NixHaHuGI" },
+            { "numero": 13, "video": "NixHaHuGI" },
+            { "numero": 14, "video": "NixHaHuGI" },
+            { "numero": 15, "video": "NixHaHuGI" },
+            { "numero": 16, "video": "NixHaHuGI" },
+            { "numero": 17, "video": "NixHaHuGI" },
+            { "numero": 18, "video": "NixHaHuGI" },
+            { "numero": 19, "video": "NixHaHuGI" },
+            { "numero": 20, "video": "NixHaHuGI" },
+            { "numero": 21, "video": "NixHaHuGI" },
+            { "numero": 22, "video": "NixHaHuGI" },
+            { "numero": 23, "video": "NixHaHuGI" },
+            { "numero": 24, "video": "NixHaHuGI" },
+            { "numero": 25, "video": "NixHaHuGI" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" },
+            { "numero": 3, "video": "NixHaHuGI" },
+            { "numero": 4, "video": "NixHaHuGI" },
+            { "numero": 5, "video": "NixHaHuGI" },
+            { "numero": 6, "video": "NixHaHuGI" },
+            { "numero": 7, "video": "NixHaHuGI" },
+            { "numero": 8, "video": "NixHaHuGI" },
+            { "numero": 9, "video": "NixHaHuGI" },
+            { "numero": 10, "video": "NixHaHuGI" },
+            { "numero": 11, "video": "NixHaHuGI" },
+            { "numero": 12, "video": "NixHaHuGI" }
           ]
         }
       ]
     },
     {
-      "id": "silent-blade",
-      "titulo": "Silent Blade",
-      "imagen": "https://picsum.photos/seed/silentblade/400/600",
-      "imagenFondo": "https://picsum.photos/seed/silentbladefondo/1200/700",
-      "descripcion": "Una espadachina solitaria recorre un pais fracturado buscando justicia para su clan caido.",
-      "generos": ["Seinen", "Accion"],
-      "puntuacion": 8.9,
-      "anio": 2019,
-      "clasificacion": "TV-14",
+      "id": "deathnote",
+      "titulo": "Death Note",
       "estado": "finalizado",
       "destacado": false,
       "finalizado": true,
-      "capitulos": [],
       "temporadas": [
         {
           "numero": 1,
           "capitulos": [
-            {
-              "numero": 1,
-              "titulo": "La Ultima Katana",
-              "duracion": "22 min",
-              "miniatura": "https://picsum.photos/seed/sb1/400/225",
-              "video": "https://example.com/video/silent-blade-ep1.mp4",
-              "progreso": 0,
-              "visto": false
-            }
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" },
+            { "numero": 3, "video": "NixHaHuGI" },
+            { "numero": 4, "video": "NixHaHuGI" },
+            { "numero": 5, "video": "NixHaHuGI" },
+            { "numero": 6, "video": "NixHaHuGI" },
+            { "numero": 7, "video": "NixHaHuGI" },
+            { "numero": 8, "video": "NixHaHuGI" },
+            { "numero": 9, "video": "NixHaHuGI" },
+            { "numero": 10, "video": "NixHaHuGI" },
+            { "numero": 11, "video": "NixHaHuGI" },
+            { "numero": 12, "video": "NixHaHuGI" },
+            { "numero": 13, "video": "NixHaHuGI" },
+            { "numero": 14, "video": "NixHaHuGI" },
+            { "numero": 15, "video": "NixHaHuGI" },
+            { "numero": 16, "video": "NixHaHuGI" },
+            { "numero": 17, "video": "NixHaHuGI" },
+            { "numero": 18, "video": "NixHaHuGI" },
+            { "numero": 19, "video": "NixHaHuGI" },
+            { "numero": 20, "video": "NixHaHuGI" },
+            { "numero": 21, "video": "NixHaHuGI" },
+            { "numero": 22, "video": "NixHaHuGI" },
+            { "numero": 23, "video": "NixHaHuGI" },
+            { "numero": 24, "video": "NixHaHuGI" },
+            { "numero": 25, "video": "NixHaHuGI" },
+            { "numero": 26, "video": "NixHaHuGI" },
+            { "numero": 27, "video": "NixHaHuGI" },
+            { "numero": 28, "video": "NixHaHuGI" },
+            { "numero": 29, "video": "NixHaHuGI" },
+            { "numero": 30, "video": "NixHaHuGI" },
+            { "numero": 31, "video": "NixHaHuGI" },
+            { "numero": 32, "video": "NixHaHuGI" },
+            { "numero": 33, "video": "NixHaHuGI" },
+            { "numero": 34, "video": "NixHaHuGI" },
+            { "numero": 35, "video": "NixHaHuGI" },
+            { "numero": 36, "video": "NixHaHuGI" },
+            { "numero": 37, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fmab",
+      "titulo": "Fullmetal Alchemist Brotherhood",
+      "estado": "finalizado",
+      "destacado": true,
+      "finalizado": true,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" },
+            { "numero": 3, "video": "NixHaHuGI" },
+            { "numero": 4, "video": "NixHaHuGI" },
+            { "numero": 5, "video": "NixHaHuGI" },
+            { "numero": 6, "video": "NixHaHuGI" },
+            { "numero": 7, "video": "NixHaHuGI" },
+            { "numero": 8, "video": "NixHaHuGI" },
+            { "numero": 9, "video": "NixHaHuGI" },
+            { "numero": 10, "video": "NixHaHuGI" },
+            { "numero": 11, "video": "NixHaHuGI" },
+            { "numero": 12, "video": "NixHaHuGI" },
+            { "numero": 13, "video": "NixHaHuGI" },
+            { "numero": 14, "video": "NixHaHuGI" },
+            { "numero": 15, "video": "NixHaHuGI" },
+            { "numero": 16, "video": "NixHaHuGI" },
+            { "numero": 17, "video": "NixHaHuGI" },
+            { "numero": 18, "video": "NixHaHuGI" },
+            { "numero": 19, "video": "NixHaHuGI" },
+            { "numero": 20, "video": "NixHaHuGI" },
+            { "numero": 21, "video": "NixHaHuGI" },
+            { "numero": 22, "video": "NixHaHuGI" },
+            { "numero": 23, "video": "NixHaHuGI" },
+            { "numero": 24, "video": "NixHaHuGI" },
+            { "numero": 25, "video": "NixHaHuGI" },
+            { "numero": 26, "video": "NixHaHuGI" },
+            { "numero": 27, "video": "NixHaHuGI" },
+            { "numero": 28, "video": "NixHaHuGI" },
+            { "numero": 29, "video": "NixHaHuGI" },
+            { "numero": 30, "video": "NixHaHuGI" },
+            { "numero": 31, "video": "NixHaHuGI" },
+            { "numero": 32, "video": "NixHaHuGI" },
+            { "numero": 33, "video": "NixHaHuGI" },
+            { "numero": 34, "video": "NixHaHuGI" },
+            { "numero": 35, "video": "NixHaHuGI" },
+            { "numero": 36, "video": "NixHaHuGI" },
+            { "numero": 37, "video": "NixHaHuGI" },
+            { "numero": 38, "video": "NixHaHuGI" },
+            { "numero": 39, "video": "NixHaHuGI" },
+            { "numero": 40, "video": "NixHaHuGI" },
+            { "numero": 41, "video": "NixHaHuGI" },
+            { "numero": 42, "video": "NixHaHuGI" },
+            { "numero": 43, "video": "NixHaHuGI" },
+            { "numero": 44, "video": "NixHaHuGI" },
+            { "numero": 45, "video": "NixHaHuGI" },
+            { "numero": 46, "video": "NixHaHuGI" },
+            { "numero": 47, "video": "NixHaHuGI" },
+            { "numero": 48, "video": "NixHaHuGI" },
+            { "numero": 49, "video": "NixHaHuGI" },
+            { "numero": 50, "video": "NixHaHuGI" },
+            { "numero": 51, "video": "NixHaHuGI" },
+            { "numero": 52, "video": "NixHaHuGI" },
+            { "numero": 53, "video": "NixHaHuGI" },
+            { "numero": 54, "video": "NixHaHuGI" },
+            { "numero": 55, "video": "NixHaHuGI" },
+            { "numero": 56, "video": "NixHaHuGI" },
+            { "numero": 57, "video": "NixHaHuGI" },
+            { "numero": 58, "video": "NixHaHuGI" },
+            { "numero": 59, "video": "NixHaHuGI" },
+            { "numero": 60, "video": "NixHaHuGI" },
+            { "numero": 61, "video": "NixHaHuGI" },
+            { "numero": 62, "video": "NixHaHuGI" },
+            { "numero": 63, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opm",
+      "titulo": "One Punch Man",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" },
+            { "numero": 3, "video": "NixHaHuGI" },
+            { "numero": 4, "video": "NixHaHuGI" },
+            { "numero": 5, "video": "NixHaHuGI" },
+            { "numero": 6, "video": "NixHaHuGI" },
+            { "numero": 7, "video": "NixHaHuGI" },
+            { "numero": 8, "video": "NixHaHuGI" },
+            { "numero": 9, "video": "NixHaHuGI" },
+            { "numero": 10, "video": "NixHaHuGI" },
+            { "numero": 11, "video": "NixHaHuGI" },
+            { "numero": 12, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kimetsu",
+      "titulo": "Kimetsu no Yaiba",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" },
+            { "numero": 3, "video": "NixHaHuGI" },
+            { "numero": 4, "video": "NixHaHuGI" },
+            { "numero": 5, "video": "NixHaHuGI" },
+            { "numero": 6, "video": "NixHaHuGI" },
+            { "numero": 7, "video": "NixHaHuGI" },
+            { "numero": 8, "video": "NixHaHuGI" },
+            { "numero": 9, "video": "NixHaHuGI" },
+            { "numero": 10, "video": "NixHaHuGI" },
+            { "numero": 11, "video": "NixHaHuGI" },
+            { "numero": 12, "video": "NixHaHuGI" },
+            { "numero": 13, "video": "NixHaHuGI" },
+            { "numero": 14, "video": "NixHaHuGI" },
+            { "numero": 15, "video": "NixHaHuGI" },
+            { "numero": 16, "video": "NixHaHuGI" },
+            { "numero": 17, "video": "NixHaHuGI" },
+            { "numero": 18, "video": "NixHaHuGI" },
+            { "numero": 19, "video": "NixHaHuGI" },
+            { "numero": 20, "video": "NixHaHuGI" },
+            { "numero": 21, "video": "NixHaHuGI" },
+            { "numero": 22, "video": "NixHaHuGI" },
+            { "numero": 23, "video": "NixHaHuGI" },
+            { "numero": 24, "video": "NixHaHuGI" },
+            { "numero": 25, "video": "NixHaHuGI" },
+            { "numero": 26, "video": "NixHaHuGI" }
           ]
         }
       ]
     }
-  ],
-  "ghibli": {
-    "hero": {
-      "titulo": "Studio Ghibli",
-      "subtitulo": "Magia en cada frame",
-      "imagen": "https://picsum.photos/seed/ghiblihero/1200/700"
-    },
-    "peliculas": [
-      {
-        "id": "el-bosque-eterno",
-        "titulo": "El Bosque Eterno",
-        "imagen": "https://picsum.photos/seed/bosqueeterno/400/600",
-        "genero": "Fantasia",
-        "anio": 2001,
-        "puntuacion": 9.6,
-        "video": "https://example.com/video/el-bosque-eterno.mp4"
-      },
-      {
-        "id": "el-viaje-de-luna",
-        "titulo": "El Viaje de Luna",
-        "imagen": "https://picsum.photos/seed/viajeluna/400/600",
-        "genero": "Aventura",
-        "anio": 1997,
-        "puntuacion": 9.4,
-        "video": "https://example.com/video/el-viaje-de-luna.mp4"
-      }
-    ]
-  }
+  ]
 }

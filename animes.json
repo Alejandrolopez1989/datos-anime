@@ -179,7 +179,8 @@
             { "numero": 60, "video": "NixHaHuGI" },
             { "numero": 61, "video": "NixHaHuGI" },
             { "numero": 62, "video": "NixHaHuGI" },
-            { "numero": 63, "video": "NixHaHuGI" }
+            { "numero": 63, "video": "NixHaHuGI" },
+            { "numero": 64, "video": "NixHaHuGI" }
           ]
         }
       ]
@@ -250,5 +251,230 @@
         }
       ]
     }
-  ]
+  ],
+  "ghibli": {
+    "hero": {
+      "titulo": "Studio Ghibli",
+      "subtitulo": "Colección especial de obras maestras",
+      "imagen": "https://www.ghibli.jp/images/top_main.jpg"
+    },
+    "peliculas": [
+      {
+        "id": "arrietty",
+        "titulo": "Arrietty y el mundo de los diminutos",
+        "imagen": "",
+        "genero": "Fantasía",
+        "anio": 2010,
+        "puntuacion": 0,
+        "video": "https://short.icu/Jzar2wdLXC"
+      },
+      {
+        "id": "ponyo",
+        "titulo": "Ponyo",
+        "imagen": "",
+        "genero": "Fantasía",
+        "anio": 2008,
+        "puntuacion": 0,
+        "video": "https://short.icu/ih8JzKX6Q"
+      },
+      {
+        "id": "kaguya",
+        "titulo": "El Cuento De La Princesa Kaguya",
+        "imagen": "",
+        "genero": "Drama",
+        "anio": 2013,
+        "puntuacion": 0,
+        "video": "https://short.icu/c6NYj_yTu"
+      },
+      {
+        "id": "marnie",
+        "titulo": "El Recuerdo de Marnie",
+        "imagen": "",
+        "genero": "Drama",
+        "anio": 2014,
+        "puntuacion": 0,
+        "video": "https://short.icu/6SiwQJXWP"
+      },
+      {
+        "id": "viento_se_levanta",
+        "titulo": "El Viento se Levanta",
+        "imagen": "",
+        "genero": "Drama",
+        "anio": 2013,
+        "puntuacion": 0,
+        "video": "https://short.icu/qsLTcLobc"
+      },
+      {
+        "id": "pompoko",
+        "titulo": "Pompoko",
+        "imagen": "",
+        "genero": "Comedia",
+        "anio": 1994,
+        "puntuacion": 0,
+        "video": "https://short.icu/vCNW8FHOq"
+      },
+      {
+        "id": "totoro",
+        "titulo": "Mi vecino Totoro",
+        "imagen": "",
+        "genero": "Fantasía",
+        "anio": 1988,
+        "puntuacion": 0,
+        "video": "https://short.icu/2JQY76NVkZYP"
+      },
+      {
+        "id": "tumba_luciernagas",
+        "titulo": "La Tumba de las Luciérnagas",
+        "imagen": "",
+        "genero": "Drama",
+        "anio": 1988,
+        "puntuacion": 0,
+        "video": "https://short.icu/izt_GCrRoWw"
+      },
+      {
+        "id": "chihiro",
+        "titulo": "El viaje de Chihiro",
+        "imagen": "",
+        "genero": "Fantasía",
+        "anio": 2001,
+        "puntuacion": 0,
+        "video": "https://short.icu/1InRcF5WTCa"
+      },
+      {
+        "id": "yamada",
+        "titulo": "Mis vecinos los Yamada",
+        "imagen": "",
+        "genero": "Comedia",
+        "anio": 1999,
+        "puntuacion": 0,
+        "video": "https://short.icu/S3V6qKNhemz"
+      },
+      {
+        "id": "haru",
+        "titulo": "Haru en el reino de los gatos",
+        "imagen": "",
+        "genero": "Fantasía",
+        "anio": 2002,
+        "puntuacion": 0,
+        "video": "https://short.icu/EPfDvUv34PI"
+      },
+      {
+        "id": "terramar",
+        "titulo": "Cuentos de Terramar",
+        "imagen": "",
+        "genero": "Fantasía",
+        "anio": 2006,
+        "puntuacion": 0,
+        "video": "https://short.icu/52-KM5mlYbA"
+      },
+      {
+        "id": "porco_rosso",
+        "titulo": "Porco Rosso",
+        "imagen": "",
+        "genero": "Aventura",
+        "anio": 1992,
+        "puntuacion": 0,
+        "video": "https://short.icu/QcEXVG1wQT3"
+      },
+      {
+        "id": "kiki",
+        "titulo": "Nicky, la aprendiz de bruja",
+        "imagen": "",
+        "genero": "Fantasía",
+        "anio": 1989,
+        "puntuacion": 0,
+        "video": "https://short.icu/H_v4C5HRvKi"
+      },
+      {
+        "id": "susurros",
+        "titulo": "Susurros del Corazón",
+        "imagen": "",
+        "genero": "Romance",
+        "anio": 1995,
+        "puntuacion": 0,
+        "video": "https://short.icu/fRBHJ82wiUV"
+      },
+      {
+        "id": "recuerdos_ayer",
+        "titulo": "Recuerdos del ayer",
+        "imagen": "",
+        "genero": "Drama",
+        "anio": 1991,
+        "puntuacion": 0,
+        "video": "https://short.icu/PYaRt7MCdwV"
+      },
+      {
+        "id": "mononoke",
+        "titulo": "La Princesa Mononoke",
+        "imagen": "",
+        "genero": "Fantasía",
+        "anio": 1997,
+        "puntuacion": 0,
+        "video": "https://short.icu/xZuU_Wl2KTX"
+      },
+      {
+        "id": "castillo_cielo",
+        "titulo": "El castillo en el cielo",
+        "imagen": "",
+        "genero": "Aventura",
+        "anio": 1986,
+        "puntuacion": 0,
+        "video": "https://short.icu/_SQ3aubYCc2"
+      },
+      {
+        "id": "nausicaa",
+        "titulo": "Nausicaä del Valle del Viento",
+        "imagen": "",
+        "genero": "Ciencia Ficción",
+        "anio": 1984,
+        "puntuacion": 0,
+        "video": "https://short.icu/hRNHB4KqdUYb"
+      },
+      {
+        "id": "castillo_ambulante",
+        "titulo": "El Castillo Ambulante",
+        "imagen": "",
+        "genero": "Fantasía",
+        "anio": 2004,
+        "puntuacion": 0,
+        "video": "https://short.icu/3nyWyTwOC"
+      },
+      {
+        "id": "amapolas",
+        "titulo": "La Colina De Las Amapolas",
+        "imagen": "",
+        "genero": "Drama",
+        "anio": 2011,
+        "puntuacion": 0,
+        "video": "https://short.icu/QxgYcG4Ft"
+      },
+      {
+        "id": "escuchar_mar",
+        "titulo": "Puedo escuchar el mar",
+        "imagen": "",
+        "genero": "Drama",
+        "anio": 1993,
+        "puntuacion": 0,
+        "video": "https://short.icu/iWDT9eNcf"
+      },
+      {
+        "id": "earwig",
+        "titulo": "Earwig y la Bruja",
+        "imagen": "",
+        "genero": "Fantasía",
+        "anio": 2021,
+        "puntuacion": 0,
+        "video": "https://short.icu/JRWxk7JiO"
+      },
+      {
+        "id": "chico_garza",
+        "titulo": "El chico y la garza",
+        "imagen": "",
+        "genero": "Fantasía",
+        "anio": 2023,
+        "puntuacion": 0,
+        "video": "https://short.icu/DJuzuYB9V"
+      }
+    ]
+  }
 }

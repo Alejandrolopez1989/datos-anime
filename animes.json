@@ -1,6 +1,118 @@
 {
   "animes": [
     {
+    "id": "marika-chan-no-koukando-wa-bukkowarete-iru",
+    "titulo": "Marika-chan no Koukando wa Bukkowarete Iru",
+    "malId": 62983,
+    "imagen": "",
+    "imagenFondo": "",
+    "descripcion": "",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "bYIRs8OFL" },
+          { "numero": 2, "video": "CZzVek5k-" },
+          { "numero": 3, "video": "t_xDT91kp" },
+          { "numero": 4, "video": "ADJ_Ilb0z" },
+          { "numero": 5, "video": "hIQ1jUWbi" },
+          { "numero": 6, "video": "zVXjIrmU9" },
+          { "numero": 7, "video": "0ccgg5qPv" },
+          { "numero": 8, "video": "Nt2KUglhq" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "omae-wa-mada-gunma-wo-shiranai-reiwa-ban",
+    "titulo": "Omae wa Mada Gunma wo Shiranai ~Reiwa-ban~",
+    "malId": 62864,
+    "imagen": "",
+    "imagenFondo": "",
+    "descripcion": "",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "bpWM8YdHc" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ookii-onnanoko-wa-suki-desu-ka",
+    "titulo": "Ookii Onnanoko wa Suki desu ka?",
+    "malId": 63248,
+    "imagen": "",
+    "imagenFondo": "",
+    "descripcion": "",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "ZqD7NwbHu_" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "princess-session-orchestra",
+    "titulo": "Princess-Session Orchestra",
+    "malId": 59078,
+    "imagen": "",
+    "imagenFondo": "",
+    "descripcion": "",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 37, "video": "lod7rwUGm" },
+          { "numero": 38, "video": "-Awlru8ej" },
+          { "numero": 39, "video": "7fVYypZul" },
+          { "numero": 40, "video": "OaSgpc5SF" },
+          { "numero": 41, "video": "VLQklr_q7" },
+          { "numero": 42, "video": "JCaIyOwED" },
+          { "numero": 43, "video": "bqP7duyjM" },
+          { "numero": 44, "video": "uX7aYH_ix" },
+          { "numero": 45, "video": "HWVzL_9yK" },
+          { "numero": 46, "video": "babW488yX" },
+          { "numero": 47, "video": "vgu5Ljt6Y" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jojos-bizarre-adventure-steel-ball-run",
+    "titulo": "JoJo's Bizarre Adventure: STEEL BALL RUN",
+    "malId": 61469,
+    "imagen": "",
+    "imagenFondo": "",
+    "descripcion": "",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "FerO76Kr2" }
+        ]
+      }
+    ]
+  },
+    {
     "id": "cardfight-vanguard-divinez-genma-seisen-hen",
     "titulo": "CARDFIGHT!! VANGUARD Divinez Genma Seisen-hen",
     "malId": 59227,

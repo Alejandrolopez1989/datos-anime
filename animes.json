@@ -1,9 +1,37 @@
 {
   "animes": [
     {
+    "id": "cardfight-vanguard-divinez-genma-seisen-hen",
+    "titulo": "CARDFIGHT!! VANGUARD Divinez Genma Seisen-hen",
+    "malId": 59227,
+    "imagen": "",
+    "imagenFondo": "",
+    "descripcion": "",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "NixHaHuGI" },
+          { "numero": 2, "video": "JcrnpDfWJ" },
+          { "numero": 3, "video": "ZG1zaQ5-A" },
+          { "numero": 4, "video": "EVxly8TXN" },
+          { "numero": 5, "video": "WLXlblgUb" },
+          { "numero": 6, "video": "3_mrqXRPah" },
+          { "numero": 7, "video": "C13Vb-v_B" },
+          { "numero": 8, "video": "jse8LHIJx" },
+          { "numero": 9, "video": "iIbVn4nfgI" },
+          { "numero": 10, "video": "6awBhUHFF" }
+        ]
+      }
+    ]
+  },
+    {
     "id": "marika-chan-no-koukando-wa-bukkowarete-iru",
     "titulo": "Marika-chan no Koukando wa Bukkowarete Iru",
-    "malId": 62649,
+    "malId": 62983,
     "imagen": "",
     "imagenFondo": "",
     "descripcion": "",
@@ -108,34 +136,6 @@
         "numero": 1,
         "capitulos": [
           { "numero": 1, "video": "FerO76Kr2" }
-        ]
-      }
-    ]
-  },
-    {
-    "id": "cardfight-vanguard-divinez-genma-seisen-hen",
-    "titulo": "CARDFIGHT!! VANGUARD Divinez Genma Seisen-hen",
-    "malId": 59227,
-    "imagen": "",
-    "imagenFondo": "",
-    "descripcion": "",
-    "estado": "emision",
-    "destacado": false,
-    "finalizado": false,
-    "temporadas": [
-      {
-        "numero": 1,
-        "capitulos": [
-          { "numero": 1, "video": "NixHaHuGI" },
-          { "numero": 2, "video": "JcrnpDfWJ" },
-          { "numero": 3, "video": "ZG1zaQ5-A" },
-          { "numero": 4, "video": "EVxly8TXN" },
-          { "numero": 5, "video": "WLXlblgUb" },
-          { "numero": 6, "video": "3_mrqXRPah" },
-          { "numero": 7, "video": "C13Vb-v_B" },
-          { "numero": 8, "video": "jse8LHIJx" },
-          { "numero": 9, "video": "iIbVn4nfgI" },
-          { "numero": 10, "video": "6awBhUHFF" }
         ]
       }
     ]

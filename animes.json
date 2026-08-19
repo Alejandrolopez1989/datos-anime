@@ -63,15 +63,16 @@
   "descripcion": "Nori Kamitsuki se ha mudado recientemente a la prefectura de Gunma desde Chiba, siguiendo a Otoya Todoroki, un antiguo amigo que se mudó allí en la escuela primaria. De camino, recibe un siniestro mensaje de texto de Todoroki diciéndole que se dé la vuelta y que una vez que alguien entra en Gunma, nunca regresa. Ignorando el mensaje, Kamitsuki continúa con su vida escolar y hace nuevos amigos. Estas personas tienen la misión de demostrar que los estereotipos negativos sobre Gunma son falsos y mostrarle a Kamitsuki todas las formas en que Gunma es diferente del resto de Japón, desde sus comidas y lugares emblemáticos locales, los cambios en su vida escolar diaria, e incluso la actitud de las personas que viven allí. Gunma es ampliamente considerada la prefectura menos popular de Japón, ¡pero claramente aún no conocen Gunma!",
   "estado": "emision",
   "destacado": false,
-  "finalizado": [
-      {
-        "numero": 1,
-        "capitulos": [
-          { "numero": 1, "video": "bpWM8YdHc" }
-        ]
-      }
-    ]
-  },
+  "finalizado": false,
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "bpWM8YdHc" }
+      ]
+    }
+  ]
+},
   {
   "id": "ookii-onnanoko-wa-suki-desu-ka",
   "titulo": "Ookii Onnanoko wa Suki desu ka?",
@@ -81,15 +82,16 @@
   "descripcion": "Souta Tachibana pasa de un trabajo a tiempo parcial a otro, simplemente dejándose llevar por la vida. Es un chico común y corriente, excepto por ser bastante bajo. Un día, lo enganchan en un nuevo trabajo: como ayudante del equipo de voleibol universitario de su hermana mayor. De repente, rodeado de un montón de mujeres voluptuosas que lo superan en altura, Souta se convierte en el centro de atención femenina como nunca antes. Primero, tiene que decidir a qué chica quiere conquistar... y luego tiene que asegurarse de que sus grandes y atléticos cuerpos no lo destruyan en el acto.",
   "estado": "emision",
   "destacado": false,
-  "finalizado": [
-      {
-        "numero": 1,
-        "capitulos": [
-          { "numero": 1, "video": "ZqD7NwbHu_" }
-        ]
-      }
-    ]
-  },
+  "finalizado": false,
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "ZqD7NwbHu_" }
+      ]
+    }
+  ]
+},
   {
   "id": "princession-orchestra",
   "titulo": "Princession Orchestra",
@@ -99,25 +101,26 @@
   "descripcion": "Alicepia Channel es un sitio web para compartir vídeos exclusivamente para chicas, donde comparten sus canciones, maquillaje y bailes. Sin que los demás lo sepan, los usuarios de la plataforma pueden viajar a Alicepia, un mundo secreto donde el tiempo pasa más lentamente que en la realidad. Para Minamo Sorano y su mejor amiga Natsu Hinoshita, Alicepia les permite ver en directo a la idol Kagari Shirube. Sin embargo, el ambiente alegre se arruina cuando unos monstruos llamados Jamaocks atacan el lugar del concierto de Shirube, causando pánico en el público. Solo las princesas cuyos corazones están llenos de canción pueden salvar a Alicepia de los Jamaocks, y Minamo se encontrará entre las valientes defensoras de este país de maravillas.",
   "estado": "emision",
   "destacado": false,
-  "finalizado": [
-      {
-        "numero": 1,
-        "capitulos": [
-          { "numero": 37, "video": "lod7rwUGm" },
-          { "numero": 38, "video": "-Awlru8ej" },
-          { "numero": 39, "video": "7fVYypZul" },
-          { "numero": 40, "video": "OaSgpc5SF" },
-          { "numero": 41, "video": "VLQklr_q7" },
-          { "numero": 42, "video": "JCaIyOwED" },
-          { "numero": 43, "video": "bqP7duyjM" },
-          { "numero": 44, "video": "uX7aYH_ix" },
-          { "numero": 45, "video": "HWVzL_9yK" },
-          { "numero": 46, "video": "babW488yX" },
-          { "numero": 47, "video": "vgu5Ljt6Y" }
-        ]
-      }
-    ]
-  },
+  "finalizado": false,
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 37, "video": "lod7rwUGm" },
+        { "numero": 38, "video": "-Awlru8ej" },
+        { "numero": 39, "video": "7fVYypZul" },
+        { "numero": 40, "video": "OaSgpc5SF" },
+        { "numero": 41, "video": "VLQklr_q7" },
+        { "numero": 42, "video": "JCaIyOwED" },
+        { "numero": 43, "video": "bqP7duyjM" },
+        { "numero": 44, "video": "uX7aYH_ix" },
+        { "numero": 45, "video": "HWVzL_9yK" },
+        { "numero": 46, "video": "babW488yX" },
+        { "numero": 47, "video": "vgu5Ljt6Y" }
+      ]
+    }
+  ]
+},
   {
     "id": "jojos-bizarre-adventure-steel-ball-run",
     "titulo": "JoJo's Bizarre Adventure: STEEL BALL RUN",

@@ -1,3 +1,260 @@
+{
+  "animes": [
+    {
+      "id": "cardfight-vanguard-divinez-genma-seisen-hen",
+      "titulo": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
+      "malId": 62649,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1567/159151.jpg",
+      "imagenFondo": "",
+      "descripcion": "Se ha observado un fenómeno anormal en Kaga, donde viven Akina y sus amigos. Un pueblo envuelto en una densa niebla, una gran torre que se alza como centinela... Esto es el Fantasma. ——En la noche en que se alza la luna carmesí, se convertirán en \"Fantôme\". (Fuente: Sitio Oficial)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "JcrnpDfWJ" },
+            { "numero": 3, "video": "ZG1zaQ5-A" },
+            { "numero": 4, "video": "EVxly8TXN" },
+            { "numero": 5, "video": "WLXlblgUb" },
+            { "numero": 6, "video": "3_mrqXRPah" },
+            { "numero": 7, "video": "C13Vb-v_B" },
+            { "numero": 8, "video": "jse8LHIJx" },
+            { "numero": 9, "video": "iIbVn4nfgI" },
+            { "numero": 10, "video": "6awBhUHFF" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marika-chan-no-koukando-wa-bukkowarete-iru",
+      "titulo": "Marika-chan no Koukando wa Bukkowarete Iru",
+      "malId": 62983,
+      "imagen": "",
+      "imagenFondo": "",
+      "descripcion": "",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "bYIRs8OFL" },
+            { "numero": 2, "video": "CZzVek5k-" },
+            { "numero": 3, "video": "t_xDT91kp" },
+            { "numero": 4, "video": "ADJ_Ilb0z" },
+            { "numero": 5, "video": "hIQ1jUWbi" },
+            { "numero": 6, "video": "zVXjIrmU9" },
+            { "numero": 7, "video": "0ccgg5qPv" },
+            { "numero": 8, "video": "Nt2KUglhq" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "omae-wa-mada-gunma-wo-shiranai-reiwa-ban",
+      "titulo": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
+      "malId": 62864,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1156/153079.jpg",
+      "imagenFondo": "",
+      "descripcion": "Nori Kamitsuki se ha mudado recientemente a la prefectura de Gunma desde Chiba, siguiendo a Otoya Todoroki, un antiguo amigo que se mudó allí en la escuela primaria. De camino, recibe un siniestro mensaje de texto de Todoroki diciéndole que se dé la vuelta y que una vez que alguien entra en Gunma, nunca regresa. Ignorando el mensaje, Kamitsuki continúa con su vida escolar y hace nuevos amigos. Estas personas tienen la misión de demostrar que los estereotipos negativos sobre Gunma son falsos y mostrarle a Kamitsuki todas las formas en que Gunma es diferente del resto de Japón, desde sus comidas y lugares emblemáticos locales, los cambios en su vida escolar diaria, e incluso la actitud de las personas que viven allí. Gunma es ampliamente considerada la prefectura menos popular de Japón, ¡pero claramente aún no conocen Gunma!",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "bpWM8YdHc" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ookii-onnanoko-wa-suki-desu-ka",
+      "titulo": "Ookii Onnanoko wa Suki desu ka?",
+      "malId": 63248,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1482/155539.jpg",
+      "imagenFondo": "",
+      "descripcion": "Souta Tachibana pasa de un trabajo a tiempo parcial a otro, simplemente dejándose llevar por la vida. Es un chico común y corriente, excepto por ser bastante bajo. Un día, lo enganchan en un nuevo trabajo: como ayudante del equipo de voleibol universitario de su hermana mayor. De repente, rodeado de un montón de mujeres voluptuosas que lo superan en altura, Souta se convierte en el centro de atención femenina como nunca antes. Primero, tiene que decidir a qué chica quiere conquistar... y luego tiene que asegurarse de que sus grandes y atléticos cuerpos no lo destruyan en el acto.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "ZqD7NwbHu_" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "princession-orchestra",
+      "titulo": "Princession Orchestra",
+      "malId": 59078,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1405/152146.jpg",
+      "imagenFondo": "",
+      "descripcion": "Alicepia Channel es un sitio web para compartir vídeos exclusivamente para chicas, donde comparten sus canciones, maquillaje y bailes. Sin que los demás lo sepan, los usuarios de la plataforma pueden viajar a Alicepia, un mundo secreto donde el tiempo pasa más lentamente que en la realidad. Para Minamo Sorano y su mejor amiga Natsu Hinoshita, Alicepia les permite ver en directo a la idol Kagari Shirube. Sin embargo, el ambiente alegre se arruina cuando unos monstruos llamados Jamaocks atacan el lugar del concierto de Shirube, causando pánico en el público. Solo las princesas cuyos corazones están llenos de canción pueden salvar a Alicepia de los Jamaocks, y Minamo se encontrará entre las valientes defensoras de este país de maravillas.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 37, "video": "lod7rwUGm" },
+            { "numero": 38, "video": "-Awlru8ej" },
+            { "numero": 39, "video": "7fVYypZul" },
+            { "numero": 40, "video": "OaSgpc5SF" },
+            { "numero": 41, "video": "VLQklr_q7" },
+            { "numero": 42, "video": "JCaIyOwED" },
+            { "numero": 43, "video": "bqP7duyjM" },
+            { "numero": 44, "video": "uX7aYH_ix" },
+            { "numero": 45, "video": "HWVzL_9yK" },
+            { "numero": 46, "video": "babW488yX" },
+            { "numero": 47, "video": "vgu5Ljt6Y" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jojos-bizarre-adventure-steel-ball-run",
+      "titulo": "JoJo's Bizarre Adventure: STEEL BALL RUN",
+      "malId": 61469,
+      "imagen": "",
+      "imagenFondo": "",
+      "descripcion": "",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "FerO76Kr2" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "snk",
+      "titulo": "Shingeki no Kyojin",
+      "malId": 16498,
+      "imagen": "",
+      "imagenFondo": "",
+      "descripcion": "",
+      "estado": "emision",
+      "destacado": true,
+      "finalizado": false,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deathnote",
+      "titulo": "Death Note",
+      "malId": 1535,
+      "imagen": "",
+      "imagenFondo": "",
+      "descripcion": "",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fmab",
+      "titulo": "Fullmetal Alchemist: Brotherhood",
+      "malId": 5114,
+      "imagen": "",
+      "imagenFondo": "",
+      "descripcion": "",
+      "estado": "finalizado",
+      "destacado": true,
+      "finalizado": true,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opm",
+      "titulo": "One Punch Man",
+      "malId": 30276,
+      "imagen": "",
+      "imagenFondo": "",
+      "descripcion": "",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kimetsu",
+      "titulo": "Kimetsu no Yaiba",
+      "malId": 38000,
+      "imagen": "",
+      "imagenFondo": "",
+      "descripcion": "",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    }
+  ],
+  "ghibli": {
+    "hero": {
+      "titulo": "Studio Ghibli",
+      "subtitulo": "Colección especial de obras maestras",
+      "imagen": "https://www.ghibli.jp/images/top_main.jpg"
+    },
+    "peliculas":
 [
   {
     "id": "arrietty",
@@ -264,3 +521,5 @@
     "descripcion": "Mahito, un joven que ha perdido a su madre, se muda al campo con su padre y su nueva madrastra. Allí encuentra una torre abandonada y una misteriosa garza que lo guía hacia un mundo fantástico que conecta a los vivos con los muertos. En este viaje surrealista, Mahito deberá enfrentar su dolor y encontrar su propio camino en un mundo de magia y reflexión."
   }
 ]
+  }
+}

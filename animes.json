@@ -10,7 +10,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 0,
+      "puntuacion": 6.52,
       "anio": 2026,
       "temporadas": [
         {
@@ -51,7 +51,8 @@
             { "numero": 5, "video": "hIQ1jUWbi" },
             { "numero": 6, "video": "zVXjIrmU9" },
             { "numero": 7, "video": "0ccgg5qPv" },
-            { "numero": 8, "video": "Nt2KUglhq" }
+            { "numero": 8, "video": "6dhfaksdh" },
+            { "numero": 9, "video": "Nt2KUglhq" }
           ]
         }
       ]

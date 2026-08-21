@@ -10,7 +10,8 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 6.56,
+      "puntuacion": 6.52,
+      "anio": 2026,
       "temporadas": [
         {
           "numero": 1,
@@ -66,6 +67,7 @@
       "destacado": false,
       "finalizado": false,
       "puntuacion": 5.44,
+      "anio": 2026,
       "temporadas": [
         {
           "numero": 1,
@@ -86,6 +88,7 @@
       "destacado": false,
       "finalizado": false,
       "puntuacion": 6.13,
+      "anio": 2026,
       "temporadas": [
         {
           "numero": 1,
@@ -106,6 +109,7 @@
       "destacado": false,
       "finalizado": false,
       "puntuacion": 7.18,
+      "anio": 2025,
       "temporadas": [
         {
           "numero": 1,
@@ -365,7 +369,7 @@
         "imagen": "https://cdn.myanimelist.net/images/anime/6/64545.jpg",
         "genero": "Comedia",
         "anio": 0,
-        "puntuacion": 7.09,
+        "puntuacion": 7.10,
         "video": "S3V6qKNhemz",
         "descripcion": "La familia Yamada es una típica familia japonesa moderna: padre despistado, madre impaciente, hijo adolescente, hija pequeña y abuela sabia. A través de una serie de viñetas cómicas y con un estilo de animación sencillo y colorido, la película retrata el día a día de esta familia, sus alegrías, sus peleas y los pequeños momentos que hacen de la vida familiar una aventura."
       },
@@ -387,7 +391,7 @@
         "imagen": "https://cdn.myanimelist.net/images/anime/5/73443.jpg",
         "genero": "Fantasía",
         "anio": 0,
-        "puntuacion": 6.79,
+        "puntuacion": 6.90,
         "video": "52-KM5mlYbA",
         "descripcion": "En el mundo de Terramar, un desequilibrio mágico amenaza con destruir todo. El archimago Sparrowhawk, el mago más poderoso, busca la fuente de este mal y se cruza con Arren, un joven príncipe que huye de su pasado oscuro. Juntos viajan para enfrentar a la malvada maga Cob, que busca la inmortalidad, y descubren que el verdadero conflicto reside en el interior de cada persona."
       },
@@ -409,7 +413,7 @@
         "imagen": "https://cdn.myanimelist.net/images/anime/1579/140483.jpg",
         "genero": "Fantasía",
         "anio": 0,
-        "puntuacion": 8.24,
+        "puntuacion": 7.90,
         "video": "H_v4C5HRvKi",
         "descripcion": "Kiki es una joven bruja que, siguiendo la tradición, debe pasar un año de entrenamiento en una ciudad lejana. Con su gato parlante Jiji, llega a un pintoresco pueblo costero y abre un servicio de mensajería volando en su escoba. Pero cuando su magia se debilita, Kiki deberá aprender que la verdadera fuerza viene de la confianza en una misma."
       },
@@ -486,7 +490,7 @@
         "imagen": "https://cdn.myanimelist.net/images/anime/8/32547.jpg",
         "genero": "Drama",
         "anio": 0,
-        "puntuacion": 7.78,
+        "puntuacion": 7.53,
         "video": "QxgYcG4Ft",
         "descripcion": "Umi, una estudiante de secundaria en el Yokohama de 1963, cuida de su familia mientras su padre está desaparecido en la guerra de Corea. Junto con un grupo de compañeros, lucha por salvar su club escolar de la demolición. En el camino, conocerá a Shun, un joven que le ayudará a descubrir secretos del pasado de su familia y a encontrar el valor para seguir adelante."
       },
@@ -519,7 +523,7 @@
         "imagen": "https://cdn.myanimelist.net/images/anime/1126/139654.jpg",
         "genero": "Fantasía",
         "anio": 0,
-        "puntuacion": 8.00,
+        "puntuacion": 7.60,
         "video": "DJuzuYB9V",
         "descripcion": "Mahito, un joven que ha perdido a su madre, se muda al campo con su padre y su nueva madrastra. Allí encuentra una torre abandonada y una misteriosa garza que lo guía hacia un mundo fantástico que conecta a los vivos con los muertos. En este viaje surrealista, Mahito deberá enfrentar su dolor y encontrar su propio camino en un mundo de magia y reflexión."
       }

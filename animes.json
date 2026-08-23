@@ -164,6 +164,8 @@
       "estado": "emision",
       "destacado": true,
       "finalizado": false,
+      "puntuacion": 8.58,
+      "anio": 2013,
       "temporadas": [
         {
           "numero": 1,
@@ -191,6 +193,8 @@
       "estado": "finalizado",
       "destacado": false,
       "finalizado": true,
+      "puntuacion": 7.73,
+      "anio": 2007,
       "temporadas": [
         {
           "numero": 1,
@@ -211,6 +215,8 @@
       "estado": "finalizado",
       "destacado": true,
       "finalizado": true,
+      "puntuacion": 9.11,
+      "anio": 2009,
       "temporadas": [
         {
           "numero": 1,
@@ -231,6 +237,8 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
+      "puntuacion": 8.47,
+      "anio": 2015,
       "temporadas": [
         {
           "numero": 1,
@@ -251,6 +259,8 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
+      "puntuacion": 8.39,
+      "anio": 2019,
       "temporadas": [
         {
           "numero": 1,

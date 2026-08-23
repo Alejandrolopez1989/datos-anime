@@ -41,6 +41,8 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
+      "puntuacion": 6.8,
+      "anio": 2026,
       "temporadas": [
         {
           "numero": 1,

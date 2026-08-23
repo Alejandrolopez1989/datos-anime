@@ -206,28 +206,6 @@
       ]
     },
     {
-      "id": "fmab",
-      "titulo": "Fullmetal Alchemist: Brotherhood",
-      "malId": 5114,
-      "imagen": "",
-      "imagenFondo": "",
-      "descripcion": "",
-      "estado": "finalizado",
-      "destacado": true,
-      "finalizado": true,
-      "puntuacion": 9.11,
-      "anio": 2009,
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "NixHaHuGI" },
-            { "numero": 2, "video": "NixHaHuGI" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "opm",
       "titulo": "One Punch Man",
       "malId": 30276,

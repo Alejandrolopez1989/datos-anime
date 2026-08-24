@@ -8,7 +8,7 @@
       "imagenFondo": "",
       "descripcion": "Se ha observado un fenómeno anormal en Kaga, donde viven Akina y sus amigos. Un pueblo envuelto en una densa niebla, una gran torre que se alza como centinela... Esto es el Fantasma. ——En la noche en que se alza la luna carmesí, se convertirán en \"Fantôme\". (Fuente: Sitio Oficial)",
       "estado": "emision",
-      "destacado": true,
+      "destacado": false,
       "finalizado": false,
       "puntuacion": 6.8,
       "anio": 2026,
@@ -39,7 +39,7 @@
       "imagenFondo": "",
       "descripcion": "",
       "estado": "emision",
-      "destacado": true,
+      "destacado": false,
       "finalizado": false,
       "puntuacion": 5.07,
       "anio": 2026,
@@ -141,7 +141,7 @@
       "imagenFondo": "",
       "descripcion": "",
       "estado": "emision",
-      "destacado": true,
+      "destacado": false,
       "finalizado": false,
       "puntuacion": 9.09,
       "anio": 2026,
@@ -169,7 +169,17 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": []
+          "capitulos": [
+            { "numero": 1, "video": "ZKohq7qS9" },
+            { "numero": 2, "video": "Upllfghu_" },
+            { "numero": 3, "video": "55T3Lk0t_" },
+            { "numero": 4, "video": "YfbQzN1XI" },
+            { "numero": 5, "video": "ROI3R2Gfbo" },
+            { "numero": 6, "video": "m3whc-lOq" },
+            { "numero": 7, "video": "NqSrmKdI2" },
+            { "numero": 8, "video": "YLY-ivKYn" },
+            { "numero": 9, "video": "QoSkGjYwE" }
+          ]
         }
       ]
     },
@@ -188,7 +198,16 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": []
+          "capitulos": [
+            { "numero": 1, "video": "rImbXhC8PL" },
+            { "numero": 2, "video": "jIu6MF7FP" },
+            { "numero": 3, "video": "edbHL20mq" },
+            { "numero": 4, "video": "1wyxd7ngV" },
+            { "numero": 5, "video": "Zvx3Q2uPZ" },
+            { "numero": 6, "video": "KXMTtvcDw" },
+            { "numero": 7, "video": "ANb1Qifdn" },
+            { "numero": 8, "video": "Dbtnq4_Ge" }
+          ]
         }
       ]
     },
@@ -207,7 +226,16 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": []
+          "capitulos": [
+            { "numero": 1, "video": "Wrt62gr_z" },
+            { "numero": 2, "video": "3Edk7DVGz" },
+            { "numero": 3, "video": "oyaYPiasn" },
+            { "numero": 4, "video": "LBPf3GhfK" },
+            { "numero": 5, "video": "j15xRy1_Tb" },
+            { "numero": 6, "video": "5cPtQvnQ-" },
+            { "numero": 7, "video": "AcUvTwN2y" },
+            { "numero": 8, "video": "_F3fKhsNu" }
+          ]
         }
       ]
     },
@@ -226,7 +254,18 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": []
+          "capitulos": [
+            { "numero": 1, "video": "feQz1BdQm" },
+            { "numero": 2, "video": "X3SMNLyV5" },
+            { "numero": 3, "video": "eGGgUaKmu" },
+            { "numero": 4, "video": "o2I50XDHu" },
+            { "numero": 5, "video": "u7PKt-cTb" },
+            { "numero": 6, "video": "T-uloX6nd" },
+            { "numero": 7, "video": "YRTLuSgrB" },
+            { "numero": 8, "video": "lNkxrATAX" },
+            { "numero": 9, "video": "V8YXMCese" },
+            { "numero": 10, "video": "ld19aBDo0" }
+          ]
         }
       ]
     },
@@ -245,7 +284,16 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": []
+          "capitulos": [
+            { "numero": 1, "video": "QrBn3IDxP" },
+            { "numero": 2, "video": "qqYjsG6ho" },
+            { "numero": 3, "video": "P0JFizd2T" },
+            { "numero": 4, "video": "nRhsLgRCx" },
+            { "numero": 5, "video": "r76Y-zBAe" },
+            { "numero": 6, "video": "0zI1ZjhmF" },
+            { "numero": 7, "video": "OWcBqEI-P" },
+            { "numero": 8, "video": "dzuNHbqTY" }
+          ]
         }
       ]
     },
@@ -264,11 +312,21 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": []
+          "capitulos": [
+            { "numero": 1, "video": "I2btqtoPM" },
+            { "numero": 2, "video": "DQFjpoK3n" },
+            { "numero": 3, "video": "J7pbgeENL" },
+            { "numero": 4, "video": "b6Gr4b-H9" },
+            { "numero": 5, "video": "eCVc4C-Rj" },
+            { "numero": 6, "video": "iW_lPjJBm" },
+            { "numero": 7, "video": "2Syeq_uMZ" },
+            { "numero": 8, "video": "FwbwlRVe5" }
+          ]
         }
       ]
     }
-  ],
+  ]
+}
   "ghibli": {
     "hero": {
       "titulo": "Studio Ghibli",

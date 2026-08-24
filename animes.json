@@ -985,6 +985,24 @@
       ]
     }
   ],
+  "idsEnEmision": [
+    "cardfight-vanguard-divinez-genma-seisen-hen",
+    "marika-chan-no-koukando-wa-bukkowarete-iru",
+    "omae-wa-mada-gunma-wo-shiranai-reiwa-ban",
+    "ookii-onnanoko-wa-suki-desu-ka",
+    "princession-orchestra",
+    "jojos-bizarre-adventure-steel-ball-run",
+    "rakudai-kenja-no-gakuin-musou",
+    "reiwa-no-dara-san",
+    "yani-neko",
+    "bang-dream-yumemita"
+  ],
+  "idsFinalizados": [
+    "claymore",
+    "one-outs",
+    "vinland-saga",
+    "11eyes"
+  ],
   "ghibli": {
     "hero": {
       "titulo": "Studio Ghibli",

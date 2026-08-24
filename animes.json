@@ -801,6 +801,188 @@
           ]
         }
       ]
+    },
+    {
+      "id": "mao",
+      "titulo": "Mao",
+      "malId": 62048,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1738/156386.jpg",
+      "imagenFondo": "",
+      "descripcion": "Nanoka passes through a portal into the Taisho era, where exorcist Mao reluctantly rescues her from the jaws of a grotesque yokai. When Nanoka gets back to the present, she discovers she has some new, incredible abilities. She returns to the past looking for answers, only to get caught up in Mao's investigation of a series of gruesome murders. As her questions about herself multiply, Nanoka learns that Mao is cursed by a cat demon named Byoki—and so is his sword. If anyone but Mao attempts to wield it, they are doomed. But when Mao's life is in jeopardy, Nanoka picks up his blade and swings! (Source: VIZ Media)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.95,
+      "anio": 2026,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "Zx6CR3daPq" },
+            { "numero": 2, "video": "IGNOoIa3N" },
+            { "numero": 3, "video": "17HPzmpjH" },
+            { "numero": 4, "video": "po7TTU5v3" },
+            { "numero": 5, "video": "Fd86VTvyH" },
+            { "numero": 6, "video": "uW8aLLA8O" },
+            { "numero": 7, "video": "M2zZLLMaX" },
+            { "numero": 8, "video": "GyYpsx8ys" },
+            { "numero": 9, "video": "Ppen-CGqw" },
+            { "numero": 10, "video": "qqMwN2wqR" },
+            { "numero": 11, "video": "W6wWNh-fb" },
+            { "numero": 12, "video": "F_1lqpZot" },
+            { "numero": 13, "video": "mH7-oSX3MV" },
+            { "numero": 14, "video": "F52r4AYzF" },
+            { "numero": 15, "video": "DyoXKwGzf" },
+            { "numero": 16, "video": "Jb8Le3ZlY" },
+            { "numero": 17, "video": "kV_LXZ6JQ" },
+            { "numero": 18, "video": "fQVzS9tZ2" },
+            { "numero": 19, "video": "BZPruHYXf" },
+            { "numero": 20, "video": "lZ88hdf6l" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neko-to-ryuu",
+      "titulo": "Neko to Ryuu",
+      "malId": 61048,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1878/157796.jpg",
+      "imagenFondo": "",
+      "descripcion": "An orphan since hatched, a lone dragon named \"Uncle Wings\" is taken in by a family of magic-wielding cats and raised as one of their own. As Uncle Wings grows, he becomes the cats' protector, determined to keep them safe from humans. But as he watches the cats connect with humans using their magic, Uncle Wings slowly starts to warm up to humans in this heartfelt, bittersweet tale. (Source: Crunchyroll)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.73,
+      "anio": 2026,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "CYJbI7t4P" },
+            { "numero": 2, "video": "AQT3KMnXp" },
+            { "numero": 3, "video": "kCjSRxYci" },
+            { "numero": 4, "video": "q_MJ_qNUE" },
+            { "numero": 5, "video": "LQr2kaclEk" },
+            { "numero": 6, "video": "Q-gp34tRv" },
+            { "numero": 7, "video": "kOp2CXklU" },
+            { "numero": 8, "video": "rIOgJabac" },
+            { "numero": 9, "video": "Qs5luaAE5" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mushoku-tensei-iii",
+      "titulo": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "malId": 59193,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1527/158340.jpg",
+      "imagenFondo": "",
+      "descripcion": "Third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 8.58,
+      "anio": 2026,
+      "temporadas": [
+        {
+          "numero": 3,
+          "capitulos": [
+            { "numero": 1, "video": "fFZJABtni" },
+            { "numero": 2, "video": "750Z5YSTT" },
+            { "numero": 3, "video": "iVcVXI_2C" },
+            { "numero": 4, "video": "BFqy_fhWC" },
+            { "numero": 5, "video": "8xna0pueB" },
+            { "numero": 6, "video": "oxqFvNLS-" },
+            { "numero": 7, "video": "du9XAkMcn" },
+            { "numero": 8, "video": "59gYjS_x0" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tenmaku-no-jaadugar",
+      "titulo": "Tenmaku no Jaadugar",
+      "malId": 61483,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1098/158891.jpg",
+      "imagenFondo": "",
+      "descripcion": "In the harem of the Khan, wisdom is beauty. The time: the thirteenth century. The place: Yeke Mongol Ulus, the greatest empire the world has ever known. The woman: Fatima, hailing from Persia, where medical technique and scientific knowledge have been perfected beyond all precedent. Fatima's desire for a stage where she can put her knowledge to work has brought her to the palace of the Mongols, where she falls under the wing of Töregene, the sixth wife of Ögedei, the second Great Khan—a mighty woman with complicated feelings about the direction of the empire. These two women are the axel upon which the politics of the palace, and soon the very world, will turn... (Source: Yen Press)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 8.45,
+      "anio": 2026,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "KT8HGsiT9" },
+            { "numero": 2, "video": "YBaPP1njH" },
+            { "numero": 3, "video": "H3dcwQOLq" },
+            { "numero": 4, "video": "T2skiNAgc" },
+            { "numero": 5, "video": "QBE1JwAMs" },
+            { "numero": 6, "video": "Oq6ByaBLk" },
+            { "numero": 7, "video": "wUhq-VBPk" },
+            { "numero": 8, "video": "UzOQDEf2p" },
+            { "numero": 9, "video": "gFclgARrM" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oni-no-hanayome",
+      "titulo": "Oni no Hanayome",
+      "malId": 61814,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1082/158708.jpg",
+      "imagenFondo": "",
+      "descripcion": "\"You're the bride I've been searching for all this time.\" A Japanese-style ayakashi Cinderella story! The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their \"bride.\" The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appeared before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! \"Just be quiet and let me hold you.\" The most powerful, \"cold-hearted\" ayakashi is pouring his heart out for Yuzu?! (Source: MangaPlaza, edited)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.89,
+      "anio": 2026,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "2vOKzPFdD" },
+            { "numero": 2, "video": "Lu5LMUjU_" },
+            { "numero": 3, "video": "nBYwGwQT-" },
+            { "numero": 4, "video": "TNpKlJ5Cp" },
+            { "numero": 5, "video": "8b0Uc4dxV" },
+            { "numero": 6, "video": "8deYJg5J1" },
+            { "numero": 7, "video": "3J5g8M5CV" },
+            { "numero": 8, "video": "6TCqn9wCf" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kimi-wo-aisuru-ki-wa-nai",
+      "titulo": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
+      "malId": 63537,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1217/158710.jpg",
+      "imagenFondo": "",
+      "descripcion": "An arranged marriage. Two complete strangers. One adorable romance! When cheerful noblewoman Elsa is suddenly wed to the reserved duke-to-be Julius, neither expects their political marriage to spark something more. As awkward misunderstandings, sweet gestures, and growing feelings pile up, these newlyweds discover that falling in love might be the easiest—and hardest—part of married life. (Source: Crunchyroll)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.78,
+      "anio": 2026,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "k7bRORA1D" },
+            { "numero": 2, "video": "-otN3NrRf" },
+            { "numero": 3, "video": "2cqGbrxUN" },
+            { "numero": 4, "video": "N5Sdlr0OS" },
+            { "numero": 5, "video": "CT6rA8yYi" },
+            { "numero": 6, "video": "pfFXnYuOc" },
+            { "numero": 7, "video": "H-IrfY672" },
+            { "numero": 8, "video": "dr3-NYtZt" }
+          ]
+        }
+      ]
     }
   ],
   "ghibli": {

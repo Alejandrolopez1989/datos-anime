@@ -155,6 +155,101 @@
       ]
     },
     {
+      "id": "snk",
+      "titulo": "Shingeki no Kyojin",
+      "malId": 16498,
+      "imagen": "",
+      "imagenFondo": "",
+      "descripcion": "",
+      "estado": "emision",
+      "destacado": true,
+      "finalizado": false,
+      "puntuacion": 8.58,
+      "anio": 2013,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deathnote",
+      "titulo": "Death Note",
+      "malId": 1535,
+      "imagen": "",
+      "imagenFondo": "",
+      "descripcion": "",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.73,
+      "anio": 2007,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opm",
+      "titulo": "One Punch Man",
+      "malId": 30276,
+      "imagen": "",
+      "imagenFondo": "",
+      "descripcion": "",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 8.47,
+      "anio": 2015,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kimetsu",
+      "titulo": "Kimetsu no Yaiba",
+      "malId": 38000,
+      "imagen": "",
+      "imagenFondo": "",
+      "descripcion": "",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 8.39,
+      "anio": 2019,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "NixHaHuGI" },
+            { "numero": 2, "video": "NixHaHuGI" }
+          ]
+        }
+      ]
+    },
+    {
       "id": "rakudai-kenja-no-gakuin-musou",
       "titulo": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
       "malId": 63508,
@@ -169,17 +264,7 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "ZKohq7qS9" },
-            { "numero": 2, "video": "Upllfghu_" },
-            { "numero": 3, "video": "55T3Lk0t_" },
-            { "numero": 4, "video": "YfbQzN1XI" },
-            { "numero": 5, "video": "ROI3R2Gfbo" },
-            { "numero": 6, "video": "m3whc-lOq" },
-            { "numero": 7, "video": "NqSrmKdI2" },
-            { "numero": 8, "video": "YLY-ivKYn" },
-            { "numero": 9, "video": "QoSkGjYwE" }
-          ]
+          "capitulos": []
         }
       ]
     },
@@ -198,16 +283,7 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "rImbXhC8PL" },
-            { "numero": 2, "video": "jIu6MF7FP" },
-            { "numero": 3, "video": "edbHL20mq" },
-            { "numero": 4, "video": "1wyxd7ngV" },
-            { "numero": 5, "video": "Zvx3Q2uPZ" },
-            { "numero": 6, "video": "KXMTtvcDw" },
-            { "numero": 7, "video": "ANb1Qifdn" },
-            { "numero": 8, "video": "Dbtnq4_Ge" }
-          ]
+          "capitulos": []
         }
       ]
     },
@@ -226,16 +302,7 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "Wrt62gr_z" },
-            { "numero": 2, "video": "3Edk7DVGz" },
-            { "numero": 3, "video": "oyaYPiasn" },
-            { "numero": 4, "video": "LBPf3GhfK" },
-            { "numero": 5, "video": "j15xRy1_Tb" },
-            { "numero": 6, "video": "5cPtQvnQ-" },
-            { "numero": 7, "video": "AcUvTwN2y" },
-            { "numero": 8, "video": "_F3fKhsNu" }
-          ]
+          "capitulos": []
         }
       ]
     },
@@ -254,18 +321,7 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "feQz1BdQm" },
-            { "numero": 2, "video": "X3SMNLyV5" },
-            { "numero": 3, "video": "eGGgUaKmu" },
-            { "numero": 4, "video": "o2I50XDHu" },
-            { "numero": 5, "video": "u7PKt-cTb" },
-            { "numero": 6, "video": "T-uloX6nd" },
-            { "numero": 7, "video": "YRTLuSgrB" },
-            { "numero": 8, "video": "lNkxrATAX" },
-            { "numero": 9, "video": "V8YXMCese" },
-            { "numero": 10, "video": "ld19aBDo0" }
-          ]
+          "capitulos": []
         }
       ]
     },
@@ -284,16 +340,7 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "QrBn3IDxP" },
-            { "numero": 2, "video": "qqYjsG6ho" },
-            { "numero": 3, "video": "P0JFizd2T" },
-            { "numero": 4, "video": "nRhsLgRCx" },
-            { "numero": 5, "video": "r76Y-zBAe" },
-            { "numero": 6, "video": "0zI1ZjhmF" },
-            { "numero": 7, "video": "OWcBqEI-P" },
-            { "numero": 8, "video": "dzuNHbqTY" }
-          ]
+          "capitulos": []
         }
       ]
     },
@@ -312,21 +359,11 @@
       "temporadas": [
         {
           "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "I2btqtoPM" },
-            { "numero": 2, "video": "DQFjpoK3n" },
-            { "numero": 3, "video": "J7pbgeENL" },
-            { "numero": 4, "video": "b6Gr4b-H9" },
-            { "numero": 5, "video": "eCVc4C-Rj" },
-            { "numero": 6, "video": "iW_lPjJBm" },
-            { "numero": 7, "video": "2Syeq_uMZ" },
-            { "numero": 8, "video": "FwbwlRVe5" }
-          ]
+          "capitulos": []
         }
       ]
     }
-  ]
-},
+  ],
   "ghibli": {
     "hero": {
       "titulo": "Studio Ghibli",

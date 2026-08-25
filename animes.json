@@ -1,5 +1,5 @@
 {
-  "animes": [
+  "emision": [
     {
       "id": "cardfight-vanguard-divinez-genma-seisen-hen",
       "titulo": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
@@ -321,203 +321,6 @@
             { "numero": 6, "video": "iW_lPjJBm" },
             { "numero": 7, "video": "2Syeq_uMZ" },
             { "numero": 8, "video": "FwbwlRVe5" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "claymore",
-      "titulo": "Claymore",
-      "malId": 1818,
-      "imagen": "https://cdn.myanimelist.net/images/anime/3/21834.jpg",
-      "imagenFondo": "",
-      "descripcion": "Cuando un demonio cambiaformas con sed de carne humana, conocido como \"youma\", llega al pueblo de Raki, una mujer solitaria con ojos plateados entra en la ciudad con solo una espada a la espalda. Ella es una \"Claymore\", un ser creado como mitad humano y mitad youma, con el propósito expreso de exterminar a estos monstruos. Después de que la familia de Raki es asesinada, la Claymore salva su vida, pero él es desterrado de su hogar. Sin ningún lugar a donde ir, Raki encuentra a la Claymore, llamada Clare, y decide seguirla en sus viajes. Mientras la pareja viaja de pueblo en pueblo, derrotando youma en el camino, más información sobre la organización de Clare y sus compañeras guerreras sale a la luz. Con cada pueblo limpiado y cada demonio destruido, se acercan más al youma del cual Clare ha buscado venganza desde que eligió convertirse en una Claymore.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 7.73,
-      "anio": 2007,
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "CFplPJdRY" },
-            { "numero": 2, "video": "XPa3B53Z0" },
-            { "numero": 3, "video": "4gFM6nUcb" },
-            { "numero": 4, "video": "ZnGPgLE2a" },
-            { "numero": 5, "video": "wBacyjlvQ" },
-            { "numero": 6, "video": "oLKJvidfs" },
-            { "numero": 7, "video": "ZWneADEde" },
-            { "numero": 8, "video": "VpKDQgh-W" },
-            { "numero": 9, "video": "fOpBai5sY" },
-            { "numero": 10, "video": "2EZsx1gww" },
-            { "numero": 11, "video": "0omwIR8WQ" },
-            { "numero": 12, "video": "ux9JBKAoL" },
-            { "numero": 13, "video": "OqgQO27qk" },
-            { "numero": 14, "video": "xP398aX6i" },
-            { "numero": 15, "video": "EtpTVUBWc" },
-            { "numero": 16, "video": "cGTBeGrCn" },
-            { "numero": 17, "video": "73UEwwj0P" },
-            { "numero": 18, "video": "2LekPwHQj" },
-            { "numero": 19, "video": "bVD-JLHVo" },
-            { "numero": 20, "video": "qALQs_pnX" },
-            { "numero": 21, "video": "ahJXxy-6J7" },
-            { "numero": 22, "video": "dWO4XZ3WX" },
-            { "numero": 23, "video": "jRRmxOqil" },
-            { "numero": 24, "video": "sdralLCJu" },
-            { "numero": 25, "video": "k-HXwzK9S" },
-            { "numero": 26, "video": "N1XXlr1Cx" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "one-outs",
-      "titulo": "One Outs",
-      "malId": 5040,
-      "imagen": "https://cdn.myanimelist.net/images/anime/7/21065.jpg",
-      "imagenFondo": "",
-      "descripcion": "Toua Tokuchi es un prodigio tanto en el béisbol como en el juego. Lanzando nada más que rectas mediocres, se ha hecho un nombre al obtener 499 victorias consecutivas en el juego de One Outs: un duelo uno contra uno entre un lanzador y un bateador. A pesar de sus notables habilidades, sin embargo, Tokuchi ve el deporte como nada más que una forma de ganar dinero rápido. Cuando Hiromichi Kojima, un legendario bateador de los debilitados Saikyou Saitama Lycaons, presencia las habilidades de Tokuchi de primera mano, se da cuenta de que el hombre podría ser exactamente lo que el equipo necesita para salir de su mala racha. Decidido a reclutar a Tokuchi cueste lo que cueste, Kojima pone su propia carrera en juego y derrota a Tokuchi en su propia especialidad: One Outs. Forzado a convertirse en un Lycaon, Tokuchi pronto se encuentra en desacuerdo con el dueño del equipo, Tsuneo Saikawa. Después de que Saikawa se niega a darle un salario razonable, Tokuchi propone un contrato especial: lanzar un out le ganará cinco millones de yenes, pero dar una carrera le costará cincuenta millones. Con cada juego teniendo el potencial de hacerlo o destruirlo, Tokuchi debe superar a todos los que se interpongan en su camino.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 8.32,
-      "anio": 2008,
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "SE5xLEQfR" },
-            { "numero": 2, "video": "jvrKFshxA" },
-            { "numero": 3, "video": "pBJG2JRO2" },
-            { "numero": 4, "video": "nyD0yIf__" },
-            { "numero": 5, "video": "HU6hwLAIx" },
-            { "numero": 6, "video": "0C3QwVf7R" },
-            { "numero": 7, "video": "budvnPDgU" },
-            { "numero": 8, "video": "k-oNxSd7U" },
-            { "numero": 9, "video": "yOV8CAkG0" },
-            { "numero": 10, "video": "zQcGHMOtDJ" },
-            { "numero": 11, "video": "tKrUI1m1K" },
-            { "numero": 12, "video": "AYvHjLz3au" },
-            { "numero": 13, "video": "aeLhDA0S-" },
-            { "numero": 14, "video": "ceh9KswPt" },
-            { "numero": 15, "video": "vim2_kYRH" },
-            { "numero": 16, "video": "vm6IMmGV_" },
-            { "numero": 17, "video": "GiJVpcWU2" },
-            { "numero": 18, "video": "yWWqJr_iS" },
-            { "numero": 19, "video": "BRNB0s1h1" },
-            { "numero": 20, "video": "mkepOAn8L" },
-            { "numero": 21, "video": "0GBBg8m8C" },
-            { "numero": 22, "video": "BeeMRNW9Q" },
-            { "numero": 23, "video": "CQOJzPdwA" },
-            { "numero": 24, "video": "dtTfN2Nzu" },
-            { "numero": 25, "video": "VOlT1vh8n9" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "vinland-saga",
-      "titulo": "Vinland Saga",
-      "malId": 37521,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
-      "imagenFondo": "",
-      "descripcion": "El joven Thorfinn creció escuchando las historias de viejos marineros que habían viajado por el océano y llegado al lugar de la leyenda, Vinland. Se dice que es cálido y fértil, un lugar donde no habría necesidad de luchar, nada parecido al pueblo congelado de Islandia donde nació, y ciertamente no como su vida actual como mercenario. La guerra es su hogar ahora. Aunque su padre una vez le dijo: \"No tienes enemigos, nadie los tiene. No hay nadie a quien esté bien lastimar\", mientras crecía, Thorfinn sabía que nada estaba más lejos de la verdad. La guerra entre Inglaterra y los daneses empeora con cada año que pasa. La muerte se ha vuelto algo común, y los mercenarios vikingos están disfrutando cada momento de ello. Aliarse con cualquiera de los lados causará un gran cambio en el equilibrio de poder, y los vikingos están felices de hacerse un nombre y tomar cualquier botín que ganen en el camino. En medio del caos, Thorfinn debe tomar su venganza y matar a Askeladd, el hombre que asesinó a su padre. El único paraíso para los vikingos, parece ser la era de guerra y muerte que se desata.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 8.78,
-      "anio": 2019,
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "MRpDQlxvvI" },
-            { "numero": 2, "video": "YofZCI8yP" },
-            { "numero": 3, "video": "xz5ujwCFI" },
-            { "numero": 4, "video": "2TprlnQS0" },
-            { "numero": 5, "video": "2JfZncGXzK" },
-            { "numero": 6, "video": "QRAjnvyCF" },
-            { "numero": 7, "video": "vd8XLHbBdn" },
-            { "numero": 8, "video": "OP_hOqrQ8" },
-            { "numero": 9, "video": "4v7yHu93i" },
-            { "numero": 10, "video": "1kBxwhJa0" },
-            { "numero": 11, "video": "IjQhaEs_-" },
-            { "numero": 12, "video": "_2RSDLNTN" },
-            { "numero": 13, "video": "dxu6vU65RF" },
-            { "numero": 14, "video": "BQmn29Kvk" },
-            { "numero": 15, "video": "NrNJvzUbP" },
-            { "numero": 16, "video": "w9BKWpwp8" },
-            { "numero": 17, "video": "IF9EdGtPM" },
-            { "numero": 18, "video": "SjnOLzsou" },
-            { "numero": 19, "video": "897kF7u5m" },
-            { "numero": 20, "video": "UCQ9WSaJt" },
-            { "numero": 21, "video": "xNN-xXqoc" },
-            { "numero": 22, "video": "dQTTEv44n" },
-            { "numero": 23, "video": "jczDmjad-" },
-            { "numero": 24, "video": "EaMczOLDm" }
-          ]
-        },
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "8s6q7p6FN" },
-            { "numero": 2, "video": "Gv90fMoubE" },
-            { "numero": 3, "video": "2KF4XVS40" },
-            { "numero": 4, "video": "QnugrM08Vh" },
-            { "numero": 5, "video": "F8TPntxJ4" },
-            { "numero": 6, "video": "Os3W0BzdO" },
-            { "numero": 7, "video": "dBN-BCW4w" },
-            { "numero": 8, "video": "xG_1cIbDK" },
-            { "numero": 9, "video": "YBVJsn8Vf" },
-            { "numero": 10, "video": "L0EHFEQvV" },
-            { "numero": 11, "video": "PtCBy_lnm" },
-            { "numero": 12, "video": "VPeTPIJgE" },
-            { "numero": 13, "video": "Ik1OCzVG_" },
-            { "numero": 14, "video": "CZD--1ZvM" },
-            { "numero": 15, "video": "pbb4inRX2" },
-            { "numero": 16, "video": "3ROdGssoy" },
-            { "numero": 17, "video": "fMOZyWVwa" },
-            { "numero": 18, "video": "kPh3C4iP5" },
-            { "numero": 19, "video": "-KUqJvz-D" },
-            { "numero": 20, "video": "EHNdXEaOk" },
-            { "numero": 21, "video": "KaV8ISXt4" },
-            { "numero": 22, "video": "YUzvsMYgZ" },
-            { "numero": 23, "video": "GEZ5amLdpU" },
-            { "numero": 24, "video": "mX79bLBou" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "11eyes",
-      "titulo": "11eyes",
-      "malId": 6682,
-      "imagen": "https://cdn.myanimelist.net/images/anime/6/73520.jpg",
-      "imagenFondo": "",
-      "descripcion": "Hace siete años, Kakeru Satsuki perdió a su única familia después de presenciar el suicidio de su hermana, y terminó en un orfanato. Ahora en la secundaria, todo parece ir bien para Kakeru. Hasta que un día, durante una salida con su mejor amiga Yuka Minase, el cielo de repente se vuelve rojo y todos, excepto ellos, desaparecen. Mientras los monstruos comienzan a perseguirlos, la muerte parece inminente, pero el mundo inexplicablemente vuelve a la normalidad justo a tiempo. Al día siguiente, el mismo evento de pesadilla, apodado la Noche Roja, tiene lugar, pero Kakeru y Yuka son salvados por su superior, Misuzu Kusakabe. El trío pronto descubre que una chica aprisionada en un cristal parece estar detrás de todo. Además, más personas de su escuela están involucradas, cada una con sus propias luchas. Para proteger a Yuka, Kakeru debe fortalecerse y unir fuerzas con sus compañeros para acabar con la Noche Roja para siempre.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 6.03,
-      "anio": 2009,
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "4mg02R6S46V" },
-            { "numero": 2, "video": "yP5yHce8eGF" },
-            { "numero": 3, "video": "CR8XKLuZhXo" },
-            { "numero": 4, "video": "v3TsqMVGH8i" },
-            { "numero": 5, "video": "FODjJyNm2Jj" },
-            { "numero": 6, "video": "7Vdwoae7aKW" },
-            { "numero": 7, "video": "L8NiEgJmtnE" },
-            { "numero": 8, "video": "Xe8GOzB-MLM" },
-            { "numero": 9, "video": "9plGgpspHW7" },
-            { "numero": 10, "video": "WYo8NUy9ckp" },
-            { "numero": 11, "video": "RsTnOwSFPgt" },
-            { "numero": 12, "video": "C53B8W8aTfD" },
-            { "numero": 13, "video": "w9sfmCOYoIq" }
           ]
         }
       ]
@@ -1335,6 +1138,205 @@
             { "numero": 6, "video": "HSbp7msz5" },
             { "numero": 7, "video": "SynF3gZIe" },
             { "numero": 8, "video": "DaVqLnBJE" }
+          ]
+        }
+      ]
+    }
+  ],
+  "finalizados": [
+    {
+      "id": "claymore",
+      "titulo": "Claymore",
+      "malId": 1818,
+      "imagen": "https://cdn.myanimelist.net/images/anime/3/21834.jpg",
+      "imagenFondo": "",
+      "descripcion": "Cuando un demonio cambiaformas con sed de carne humana, conocido como \"youma\", llega al pueblo de Raki, una mujer solitaria con ojos plateados entra en la ciudad con solo una espada a la espalda. Ella es una \"Claymore\", un ser creado como mitad humano y mitad youma, con el propósito expreso de exterminar a estos monstruos. Después de que la familia de Raki es asesinada, la Claymore salva su vida, pero él es desterrado de su hogar. Sin ningún lugar a donde ir, Raki encuentra a la Claymore, llamada Clare, y decide seguirla en sus viajes. Mientras la pareja viaja de pueblo en pueblo, derrotando youma en el camino, más información sobre la organización de Clare y sus compañeras guerreras sale a la luz. Con cada pueblo limpiado y cada demonio destruido, se acercan más al youma del cual Clare ha buscado venganza desde que eligió convertirse en una Claymore.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.73,
+      "anio": 2007,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "CFplPJdRY" },
+            { "numero": 2, "video": "XPa3B53Z0" },
+            { "numero": 3, "video": "4gFM6nUcb" },
+            { "numero": 4, "video": "ZnGPgLE2a" },
+            { "numero": 5, "video": "wBacyjlvQ" },
+            { "numero": 6, "video": "oLKJvidfs" },
+            { "numero": 7, "video": "ZWneADEde" },
+            { "numero": 8, "video": "VpKDQgh-W" },
+            { "numero": 9, "video": "fOpBai5sY" },
+            { "numero": 10, "video": "2EZsx1gww" },
+            { "numero": 11, "video": "0omwIR8WQ" },
+            { "numero": 12, "video": "ux9JBKAoL" },
+            { "numero": 13, "video": "OqgQO27qk" },
+            { "numero": 14, "video": "xP398aX6i" },
+            { "numero": 15, "video": "EtpTVUBWc" },
+            { "numero": 16, "video": "cGTBeGrCn" },
+            { "numero": 17, "video": "73UEwwj0P" },
+            { "numero": 18, "video": "2LekPwHQj" },
+            { "numero": 19, "video": "bVD-JLHVo" },
+            { "numero": 20, "video": "qALQs_pnX" },
+            { "numero": 21, "video": "ahJXxy-6J7" },
+            { "numero": 22, "video": "dWO4XZ3WX" },
+            { "numero": 23, "video": "jRRmxOqil" },
+            { "numero": 24, "video": "sdralLCJu" },
+            { "numero": 25, "video": "k-HXwzK9S" },
+            { "numero": 26, "video": "N1XXlr1Cx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "one-outs",
+      "titulo": "One Outs",
+      "malId": 5040,
+      "imagen": "https://cdn.myanimelist.net/images/anime/7/21065.jpg",
+      "imagenFondo": "",
+      "descripcion": "Toua Tokuchi es un prodigio tanto en el béisbol como en el juego. Lanzando nada más que rectas mediocres, se ha hecho un nombre al obtener 499 victorias consecutivas en el juego de One Outs: un duelo uno contra uno entre un lanzador y un bateador. A pesar de sus notables habilidades, sin embargo, Tokuchi ve el deporte como nada más que una forma de ganar dinero rápido. Cuando Hiromichi Kojima, un legendario bateador de los debilitados Saikyou Saitama Lycaons, presencia las habilidades de Tokuchi de primera mano, se da cuenta de que el hombre podría ser exactamente lo que el equipo necesita para salir de su mala racha. Decidido a reclutar a Tokuchi cueste lo que cueste, Kojima pone su propia carrera en juego y derrota a Tokuchi en su propia especialidad: One Outs. Forzado a convertirse en un Lycaon, Tokuchi pronto se encuentra en desacuerdo con el dueño del equipo, Tsuneo Saikawa. Después de que Saikawa se niega a darle un salario razonable, Tokuchi propone un contrato especial: lanzar un out le ganará cinco millones de yenes, pero dar una carrera le costará cincuenta millones. Con cada juego teniendo el potencial de hacerlo o destruirlo, Tokuchi debe superar a todos los que se interpongan en su camino.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 8.32,
+      "anio": 2008,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "SE5xLEQfR" },
+            { "numero": 2, "video": "jvrKFshxA" },
+            { "numero": 3, "video": "pBJG2JRO2" },
+            { "numero": 4, "video": "nyD0yIf__" },
+            { "numero": 5, "video": "HU6hwLAIx" },
+            { "numero": 6, "video": "0C3QwVf7R" },
+            { "numero": 7, "video": "budvnPDgU" },
+            { "numero": 8, "video": "k-oNxSd7U" },
+            { "numero": 9, "video": "yOV8CAkG0" },
+            { "numero": 10, "video": "zQcGHMOtDJ" },
+            { "numero": 11, "video": "tKrUI1m1K" },
+            { "numero": 12, "video": "AYvHjLz3au" },
+            { "numero": 13, "video": "aeLhDA0S-" },
+            { "numero": 14, "video": "ceh9KswPt" },
+            { "numero": 15, "video": "vim2_kYRH" },
+            { "numero": 16, "video": "vm6IMmGV_" },
+            { "numero": 17, "video": "GiJVpcWU2" },
+            { "numero": 18, "video": "yWWqJr_iS" },
+            { "numero": 19, "video": "BRNB0s1h1" },
+            { "numero": 20, "video": "mkepOAn8L" },
+            { "numero": 21, "video": "0GBBg8m8C" },
+            { "numero": 22, "video": "BeeMRNW9Q" },
+            { "numero": 23, "video": "CQOJzPdwA" },
+            { "numero": 24, "video": "dtTfN2Nzu" },
+            { "numero": 25, "video": "VOlT1vh8n9" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vinland-saga",
+      "titulo": "Vinland Saga",
+      "malId": 37521,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+      "imagenFondo": "",
+      "descripcion": "El joven Thorfinn creció escuchando las historias de viejos marineros que habían viajado por el océano y llegado al lugar de la leyenda, Vinland. Se dice que es cálido y fértil, un lugar donde no habría necesidad de luchar, nada parecido al pueblo congelado de Islandia donde nació, y ciertamente no como su vida actual como mercenario. La guerra es su hogar ahora. Aunque su padre una vez le dijo: \"No tienes enemigos, nadie los tiene. No hay nadie a quien esté bien lastimar\", mientras crecía, Thorfinn sabía que nada estaba más lejos de la verdad. La guerra entre Inglaterra y los daneses empeora con cada año que pasa. La muerte se ha vuelto algo común, y los mercenarios vikingos están disfrutando cada momento de ello. Aliarse con cualquiera de los lados causará un gran cambio en el equilibrio de poder, y los vikingos están felices de hacerse un nombre y tomar cualquier botín que ganen en el camino. En medio del caos, Thorfinn debe tomar su venganza y matar a Askeladd, el hombre que asesinó a su padre. El único paraíso para los vikingos, parece ser la era de guerra y muerte que se desata.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 8.78,
+      "anio": 2019,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "MRpDQlxvvI" },
+            { "numero": 2, "video": "YofZCI8yP" },
+            { "numero": 3, "video": "xz5ujwCFI" },
+            { "numero": 4, "video": "2TprlnQS0" },
+            { "numero": 5, "video": "2JfZncGXzK" },
+            { "numero": 6, "video": "QRAjnvyCF" },
+            { "numero": 7, "video": "vd8XLHbBdn" },
+            { "numero": 8, "video": "OP_hOqrQ8" },
+            { "numero": 9, "video": "4v7yHu93i" },
+            { "numero": 10, "video": "1kBxwhJa0" },
+            { "numero": 11, "video": "IjQhaEs_-" },
+            { "numero": 12, "video": "_2RSDLNTN" },
+            { "numero": 13, "video": "dxu6vU65RF" },
+            { "numero": 14, "video": "BQmn29Kvk" },
+            { "numero": 15, "video": "NrNJvzUbP" },
+            { "numero": 16, "video": "w9BKWpwp8" },
+            { "numero": 17, "video": "IF9EdGtPM" },
+            { "numero": 18, "video": "SjnOLzsou" },
+            { "numero": 19, "video": "897kF7u5m" },
+            { "numero": 20, "video": "UCQ9WSaJt" },
+            { "numero": 21, "video": "xNN-xXqoc" },
+            { "numero": 22, "video": "dQTTEv44n" },
+            { "numero": 23, "video": "jczDmjad-" },
+            { "numero": 24, "video": "EaMczOLDm" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "8s6q7p6FN" },
+            { "numero": 2, "video": "Gv90fMoubE" },
+            { "numero": 3, "video": "2KF4XVS40" },
+            { "numero": 4, "video": "QnugrM08Vh" },
+            { "numero": 5, "video": "F8TPntxJ4" },
+            { "numero": 6, "video": "Os3W0BzdO" },
+            { "numero": 7, "video": "dBN-BCW4w" },
+            { "numero": 8, "video": "xG_1cIbDK" },
+            { "numero": 9, "video": "YBVJsn8Vf" },
+            { "numero": 10, "video": "L0EHFEQvV" },
+            { "numero": 11, "video": "PtCBy_lnm" },
+            { "numero": 12, "video": "VPeTPIJgE" },
+            { "numero": 13, "video": "Ik1OCzVG_" },
+            { "numero": 14, "video": "CZD--1ZvM" },
+            { "numero": 15, "video": "pbb4inRX2" },
+            { "numero": 16, "video": "3ROdGssoy" },
+            { "numero": 17, "video": "fMOZyWVwa" },
+            { "numero": 18, "video": "kPh3C4iP5" },
+            { "numero": 19, "video": "-KUqJvz-D" },
+            { "numero": 20, "video": "EHNdXEaOk" },
+            { "numero": 21, "video": "KaV8ISXt4" },
+            { "numero": 22, "video": "YUzvsMYgZ" },
+            { "numero": 23, "video": "GEZ5amLdpU" },
+            { "numero": 24, "video": "mX79bLBou" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11eyes",
+      "titulo": "11eyes",
+      "malId": 6682,
+      "imagen": "https://cdn.myanimelist.net/images/anime/6/73520.jpg",
+      "imagenFondo": "",
+      "descripcion": "Hace siete años, Kakeru Satsuki perdió a su única familia después de presenciar el suicidio de su hermana, y terminó en un orfanato. Ahora en la secundaria, todo parece ir bien para Kakeru. Hasta que un día, durante una salida con su mejor amiga Yuka Minase, el cielo de repente se vuelve rojo y todos, excepto ellos, desaparecen. Mientras los monstruos comienzan a perseguirlos, la muerte parece inminente, pero el mundo inexplicablemente vuelve a la normalidad justo a tiempo. Al día siguiente, el mismo evento de pesadilla, apodado la Noche Roja, tiene lugar, pero Kakeru y Yuka son salvados por su superior, Misuzu Kusakabe. El trío pronto descubre que una chica aprisionada en un cristal parece estar detrás de todo. Además, más personas de su escuela están involucradas, cada una con sus propias luchas. Para proteger a Yuka, Kakeru debe fortalecerse y unir fuerzas con sus compañeros para acabar con la Noche Roja para siempre.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.03,
+      "anio": 2009,
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "4mg02R6S46V" },
+            { "numero": 2, "video": "yP5yHce8eGF" },
+            { "numero": 3, "video": "CR8XKLuZhXo" },
+            { "numero": 4, "video": "v3TsqMVGH8i" },
+            { "numero": 5, "video": "FODjJyNm2Jj" },
+            { "numero": 6, "video": "7Vdwoae7aKW" },
+            { "numero": 7, "video": "L8NiEgJmtnE" },
+            { "numero": 8, "video": "Xe8GOzB-MLM" },
+            { "numero": 9, "video": "9plGgpspHW7" },
+            { "numero": 10, "video": "WYo8NUy9ckp" },
+            { "numero": 11, "video": "RsTnOwSFPgt" },
+            { "numero": 12, "video": "C53B8W8aTfD" },
+            { "numero": 13, "video": "w9sfmCOYoIq" }
           ]
         }
       ]

@@ -12,7 +12,7 @@
       "finalizado": false,
       "puntuacion": 6.8,
       "anio": 2026,
-      "genero": ["Acción", "Fantasía", "Juego de cartas"],
+      "generos": ["Acción", "Fantasía", "Juego de cartas"],
       "temporadas": [
         {
           "numero": 1,
@@ -44,7 +44,7 @@
       "finalizado": false,
       "puntuacion": 5.07,
       "anio": 2026,
-      "genero": ["Comedia", "Romance", "Escuela"],
+      "generos": ["Comedia", "Romance", "Escuela"],
       "temporadas": [
         {
           "numero": 1,
@@ -74,7 +74,7 @@
       "finalizado": false,
       "puntuacion": 5.44,
       "anio": 2026,
-      "genero": ["Comedia", "Recuentos de la vida"],
+      "generos": ["Comedia", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -96,7 +96,7 @@
       "finalizado": false,
       "puntuacion": 6.13,
       "anio": 2026,
-      "genero": ["Comedia", "Romance", "Ecchi"],
+      "generos": ["Comedia", "Romance", "Ecchi"],
       "temporadas": [
         {
           "numero": 1,
@@ -118,7 +118,7 @@
       "finalizado": false,
       "puntuacion": 7.18,
       "anio": 2025,
-      "genero": ["Música", "Fantasía", "Idol"],
+      "generos": ["Música", "Fantasía", "Idol"],
       "temporadas": [
         {
           "numero": 1,
@@ -150,7 +150,7 @@
       "finalizado": false,
       "puntuacion": 9.09,
       "anio": 2026,
-      "genero": ["Acción", "Aventura", "Sobrenatural", "Deportes", "Shounen"],
+      "generos": ["Acción", "Aventura", "Sobrenatural", "Deportes", "Shounen"],
       "temporadas": [
         {
           "numero": 1,
@@ -172,7 +172,7 @@
       "finalizado": false,
       "puntuacion": 6.33,
       "anio": 2026,
-      "genero": ["Acción", "Fantasía", "Magia", "Reencarnación", "Isekai"],
+      "generos": ["Acción", "Fantasía", "Magia", "Reencarnación", "Isekai"],
       "temporadas": [
         {
           "numero": 1,
@@ -202,7 +202,7 @@
       "finalizado": false,
       "puntuacion": 6.90,
       "anio": 2026,
-      "genero": ["Comedia", "Sobrenatural", "Recuentos de la vida"],
+      "generos": ["Comedia", "Sobrenatural", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -231,7 +231,7 @@
       "finalizado": false,
       "puntuacion": 7.05,
       "anio": 2026,
-      "genero": ["Comedia", "Recuentos de la vida"],
+      "generos": ["Comedia", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -260,7 +260,7 @@
       "finalizado": false,
       "puntuacion": 7.54,
       "anio": 2026,
-      "genero": ["Música", "Recuentos de la vida", "Idol"],
+      "generos": ["Música", "Recuentos de la vida", "Idol"],
       "temporadas": [
         {
           "numero": 1,
@@ -291,7 +291,7 @@
       "finalizado": false,
       "puntuacion": 6.78,
       "anio": 2026,
-      "genero": ["Acción", "Fantasía", "Magia", "Isekai", "Reencarnación"],
+      "generos": ["Acción", "Fantasía", "Magia", "Isekai", "Reencarnación"],
       "temporadas": [
         {
           "numero": 1,
@@ -320,7 +320,7 @@
       "finalizado": false,
       "puntuacion": 7.54,
       "anio": 2026,
-      "genero": ["Comedia", "Romance", "Escuela", "Sobrenatural"],
+      "generos": ["Comedia", "Romance", "Escuela", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -349,7 +349,7 @@
       "finalizado": false,
       "puntuacion": 7.3,
       "anio": 2026,
-      "genero": ["Comedia", "Parodia"],
+      "generos": ["Comedia", "Parodia"],
       "temporadas": [
         {
           "numero": 1,
@@ -378,7 +378,7 @@
       "finalizado": false,
       "puntuacion": 8.3,
       "anio": 2026,
-      "genero": ["Comedia", "Recuentos de la vida"],
+      "generos": ["Comedia", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -406,7 +406,7 @@
       "finalizado": false,
       "puntuacion": 5.3,
       "anio": 2026,
-      "genero": ["Ciencia Ficción", "Acción", "Sobrenatural"],
+      "generos": ["Ciencia Ficción", "Acción", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -434,7 +434,7 @@
       "finalizado": false,
       "puntuacion": 8.15,
       "anio": 2026,
-      "genero": ["Acción", "Aventura", "Fantasía", "Magia", "Reencarnación", "Isekai"],
+      "generos": ["Acción", "Aventura", "Fantasía", "Magia", "Reencarnación", "Isekai"],
       "temporadas": [
         {
           "numero": 4,
@@ -474,7 +474,7 @@
       "finalizado": false,
       "puntuacion": 7.84,
       "anio": 2026,
-      "genero": ["Acción", "Fantasía", "Sobrenatural"],
+      "generos": ["Acción", "Fantasía", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -515,7 +515,7 @@
       "finalizado": false,
       "puntuacion": 7.77,
       "anio": 2026,
-      "genero": ["Drama", "Fantasía", "Recuentos de la vida"],
+      "generos": ["Drama", "Fantasía", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 4,
@@ -555,7 +555,7 @@
       "finalizado": false,
       "puntuacion": 8.10,
       "anio": 2026,
-      "genero": ["Comedia", "Fantasía", "Sobrenatural", "Escuela"],
+      "generos": ["Comedia", "Fantasía", "Sobrenatural", "Escuela"],
       "temporadas": [
         {
           "numero": 4,
@@ -595,7 +595,7 @@
       "finalizado": false,
       "puntuacion": 6.49,
       "anio": 2026,
-      "genero": ["Recuentos de la vida", "Comedia"],
+      "generos": ["Recuentos de la vida", "Comedia"],
       "temporadas": [
         {
           "numero": 1,
@@ -637,7 +637,7 @@
       "finalizado": false,
       "puntuacion": 6.95,
       "anio": 2026,
-      "genero": ["Acción", "Romance", "Fantasía", "Sobrenatural"],
+      "generos": ["Acción", "Romance", "Fantasía", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -678,7 +678,7 @@
       "finalizado": false,
       "puntuacion": 7.73,
       "anio": 2026,
-      "genero": ["Fantasía", "Recuentos de la vida"],
+      "generos": ["Fantasía", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -708,7 +708,7 @@
       "finalizado": false,
       "puntuacion": 8.58,
       "anio": 2026,
-      "genero": ["Acción", "Aventura", "Drama", "Fantasía", "Magia", "Reencarnación", "Isekai"],
+      "generos": ["Acción", "Aventura", "Drama", "Fantasía", "Magia", "Reencarnación", "Isekai"],
       "temporadas": [
         {
           "numero": 3,
@@ -737,7 +737,7 @@
       "finalizado": false,
       "puntuacion": 8.45,
       "anio": 2026,
-      "genero": ["Drama", "Histórico", "Romance"],
+      "generos": ["Drama", "Histórico", "Romance"],
       "temporadas": [
         {
           "numero": 1,
@@ -767,7 +767,7 @@
       "finalizado": false,
       "puntuacion": 6.89,
       "anio": 2026,
-      "genero": ["Romance", "Fantasía", "Sobrenatural"],
+      "generos": ["Romance", "Fantasía", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -796,7 +796,7 @@
       "finalizado": false,
       "puntuacion": 6.78,
       "anio": 2026,
-      "genero": ["Romance", "Comedia", "Escuela"],
+      "generos": ["Romance", "Comedia", "Escuela"],
       "temporadas": [
         {
           "numero": 1,
@@ -825,7 +825,7 @@
       "finalizado": false,
       "puntuacion": 7.10,
       "anio": 2026,
-      "genero": ["Acción", "Ciencia Ficción", "Magia"],
+      "generos": ["Acción", "Ciencia Ficción", "Magia"],
       "temporadas": [
         {
           "numero": 1,
@@ -854,7 +854,7 @@
       "finalizado": false,
       "puntuacion": 7.17,
       "anio": 2026,
-      "genero": ["Drama", "Música", "Recuentos de la vida"],
+      "generos": ["Drama", "Música", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -883,7 +883,7 @@
       "finalizado": false,
       "puntuacion": 6.78,
       "anio": 2026,
-      "genero": ["Acción", "Fantasía", "Magia", "Isekai"],
+      "generos": ["Acción", "Fantasía", "Magia", "Isekai"],
       "temporadas": [
         {
           "numero": 2,
@@ -911,7 +911,7 @@
       "finalizado": false,
       "puntuacion": 7.00,
       "anio": 2026,
-      "genero": ["Acción", "Sobrenatural", "Shounen"],
+      "generos": ["Acción", "Sobrenatural", "Shounen"],
       "temporadas": [
         {
           "numero": 1,
@@ -940,7 +940,7 @@
       "finalizado": false,
       "puntuacion": 5.73,
       "anio": 2026,
-      "genero": ["Misterio", "Sobrenatural", "Histórico"],
+      "generos": ["Misterio", "Sobrenatural", "Histórico"],
       "temporadas": [
         {
           "numero": 1,
@@ -969,7 +969,7 @@
       "finalizado": false,
       "puntuacion": 7.20,
       "anio": 2026,
-      "genero": ["Comedia", "Romance", "Escuela"],
+      "generos": ["Comedia", "Romance", "Escuela"],
       "temporadas": [
         {
           "numero": 1,
@@ -998,7 +998,7 @@
       "finalizado": false,
       "puntuacion": 7.16,
       "anio": 2026,
-      "genero": ["Acción", "Comedia", "Fantasía", "Magia"],
+      "generos": ["Acción", "Comedia", "Fantasía", "Magia"],
       "temporadas": [
         {
           "numero": 2,
@@ -1027,7 +1027,7 @@
       "finalizado": false,
       "puntuacion": 7.21,
       "anio": 2026,
-      "genero": ["Drama", "Ciencia Ficción"],
+      "generos": ["Drama", "Ciencia Ficción"],
       "temporadas": [
         {
           "numero": 1,
@@ -1049,7 +1049,7 @@
       "finalizado": false,
       "puntuacion": 7.04,
       "anio": 2026,
-      "genero": ["Acción", "Comedia", "Fantasía", "Romance"],
+      "generos": ["Acción", "Comedia", "Fantasía", "Romance"],
       "temporadas": [
         {
           "numero": 1,
@@ -1077,7 +1077,7 @@
       "finalizado": false,
       "puntuacion": 8.39,
       "anio": 2026,
-      "genero": ["Comedia", "Romance", "Escuela"],
+      "generos": ["Comedia", "Romance", "Escuela"],
       "temporadas": [
         {
           "numero": 2,
@@ -1106,7 +1106,7 @@
       "finalizado": false,
       "puntuacion": 7.24,
       "anio": 2026,
-      "genero": ["Comedia", "Drama", "Shounen", "Cocina"],
+      "generos": ["Comedia", "Drama", "Shounen", "Cocina"],
       "temporadas": [
         {
           "numero": 1,
@@ -1135,7 +1135,7 @@
       "finalizado": false,
       "puntuacion": 6.32,
       "anio": 2026,
-      "genero": ["Comedia", "Sobrenatural", "Misterio"],
+      "generos": ["Comedia", "Sobrenatural", "Misterio"],
       "temporadas": [
         {
           "numero": 1,
@@ -1164,7 +1164,7 @@
       "finalizado": false,
       "puntuacion": 7.76,
       "anio": 2026,
-      "genero": ["Ciencia Ficción", "Aventura", "Steampunk"],
+      "generos": ["Ciencia Ficción", "Aventura", "Steampunk"],
       "temporadas": [
         {
           "numero": 1,
@@ -1193,7 +1193,7 @@
       "finalizado": false,
       "puntuacion": 7.86,
       "anio": 2026,
-      "genero": ["Comedia", "Romance", "Harem", "Escuela"],
+      "generos": ["Comedia", "Romance", "Harem", "Escuela"],
       "temporadas": [
         {
           "numero": 3,
@@ -1222,7 +1222,7 @@
       "finalizado": false,
       "puntuacion": 6.50,
       "anio": 2026,
-      "genero": ["Acción", "Fantasía", "Isekai"],
+      "generos": ["Acción", "Fantasía", "Isekai"],
       "temporadas": [
         {
           "numero": 1,
@@ -1251,7 +1251,7 @@
       "finalizado": false,
       "puntuacion": 6.00,
       "anio": 2026,
-      "genero": ["Drama", "Fantasía", "Romance"],
+      "generos": ["Drama", "Fantasía", "Romance"],
       "temporadas": [
         {
           "numero": 1,
@@ -1279,7 +1279,7 @@
       "finalizado": false,
       "puntuacion": 6.80,
       "anio": 2026,
-      "genero": ["Comedia", "Recuentos de la vida", "Ciencia Ficción"],
+      "generos": ["Comedia", "Recuentos de la vida", "Ciencia Ficción"],
       "temporadas": [
         {
           "numero": 2,
@@ -1308,7 +1308,7 @@
       "finalizado": false,
       "puntuacion": 8.64,
       "anio": 1999,
-      "genero": ["Acción", "Aventura", "Comedia", "Drama", "Fantasía", "Shounen"],
+      "generos": ["Acción", "Aventura", "Comedia", "Drama", "Fantasía", "Shounen"],
       "temporadas": [
         {
           "numero": 1,
@@ -1351,7 +1351,7 @@
       "finalizado": true,
       "puntuacion": 7.73,
       "anio": 2007,
-      "genero": ["Acción", "Aventura", "Fantasía", "Terror", "Sobrenatural"],
+      "generos": ["Acción", "Aventura", "Fantasía", "Terror", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -1398,7 +1398,7 @@
       "finalizado": true,
       "puntuacion": 8.32,
       "anio": 2008,
-      "genero": ["Deportes", "Psicológico", "Drama"],
+      "generos": ["Deportes", "Psicológico", "Drama"],
       "temporadas": [
         {
           "numero": 1,
@@ -1444,7 +1444,7 @@
       "finalizado": true,
       "puntuacion": 8.78,
       "anio": 2019,
-      "genero": ["Acción", "Aventura", "Histórico", "Drama", "Seinen"],
+      "generos": ["Acción", "Aventura", "Histórico", "Drama", "Seinen"],
       "temporadas": [
         {
           "numero": 1,
@@ -1518,7 +1518,7 @@
       "finalizado": true,
       "puntuacion": 6.03,
       "anio": 2009,
-      "genero": ["Acción", "Sobrenatural", "Drama", "Romance"],
+      "generos": ["Acción", "Sobrenatural", "Drama", "Romance"],
       "temporadas": [
         {
           "numero": 1,
@@ -1552,7 +1552,7 @@
       "finalizado": true,
       "puntuacion": 6.50,
       "anio": 2026,
-      "genero": ["Acción", "Aventura", "Comedia", "Fantasía"],
+      "generos": ["Acción", "Aventura", "Comedia", "Fantasía"],
       "temporadas": [
         {
           "numero": 1,
@@ -1628,7 +1628,7 @@
         "titulo": "Arrietty y el mundo de los diminutos",
         "malId": 7711,
         "imagen": "https://cdn.myanimelist.net/images/anime/1974/116417.jpg",
-        "genero": "Fantasía",
+        "generos": "Fantasía",
         "anio": 0,
         "puntuacion": 7.90,
         "video": "Jzar2wdLXC",
@@ -1639,7 +1639,7 @@
         "titulo": "Ponyo",
         "malId": 2890,
         "imagen": "https://cdn.myanimelist.net/images/anime/1331/138727.jpg",
-        "genero": "Fantasía",
+        "generos": "Fantasía",
         "anio": 0,
         "puntuacion": 7.97,
         "video": "ih8JzKX6Q",
@@ -1650,7 +1650,7 @@
         "titulo": "El Cuento De La Princesa Kaguya",
         "malId": 16664,
         "imagen": "https://cdn.myanimelist.net/images/anime/1935/93606.jpg",
-        "genero": "Drama",
+        "generos": "Drama",
         "anio": 0,
         "puntuacion": 8.22,
         "video": "c6NYj_yTu",
@@ -1661,7 +1661,7 @@
         "titulo": "El Recuerdo de Marnie",
         "malId": 21557,
         "imagen": "https://cdn.myanimelist.net/images/anime/7/64293.jpg",
-        "genero": "Drama",
+        "generos": "Drama",
         "anio": 0,
         "puntuacion": 8.04,
         "video": "6SiwQJXWP",
@@ -1672,7 +1672,7 @@
         "titulo": "El Viento se Levanta",
         "malId": 16662,
         "imagen": "https://cdn.myanimelist.net/images/anime/8/52353.jpg",
-        "genero": "Drama",
+        "generos": "Drama",
         "anio": 0,
         "puntuacion": 8.14,
         "video": "qsLTcLobc",
@@ -1683,7 +1683,7 @@
         "titulo": "Pompoko",
         "malId": 1041,
         "imagen": "https://cdn.myanimelist.net/images/anime/1962/138712.jpg",
-        "genero": "Comedia",
+        "generos": "Comedia",
         "anio": 0,
         "puntuacion": 7.30,
         "video": "vCNW8FHOq",
@@ -1694,7 +1694,7 @@
         "titulo": "Mi vecino Totoro",
         "malId": 523,
         "imagen": "https://cdn.myanimelist.net/images/anime/1110/147278.jpg",
-        "genero": "Fantasía",
+        "generos": "Fantasía",
         "anio": 0,
         "puntuacion": 8.25,
         "video": "2JQY76NVkZYP",
@@ -1705,7 +1705,7 @@
         "titulo": "La Tumba de las Luciérnagas",
         "malId": 578,
         "imagen": "https://cdn.myanimelist.net/images/anime/1485/141208.jpg",
-        "genero": "Drama",
+        "generos": "Drama",
         "anio": 0,
         "puntuacion": 8.54,
         "video": "izt_GCrRoWw",
@@ -1716,7 +1716,7 @@
         "titulo": "El viaje de Chihiro",
         "malId": 199,
         "imagen": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
-        "genero": "Fantasía",
+        "generos": "Fantasía",
         "anio": 0,
         "puntuacion": 8.77,
         "video": "1InRcF5WTCa",
@@ -1727,7 +1727,7 @@
         "titulo": "Mis vecinos los Yamada",
         "malId": 1139,
         "imagen": "https://cdn.myanimelist.net/images/anime/6/64545.jpg",
-        "genero": "Comedia",
+        "generos": "Comedia",
         "anio": 0,
         "puntuacion": 7.10,
         "video": "S3V6qKNhemz",
@@ -1738,7 +1738,7 @@
         "titulo": "Haru en el reino de los gatos",
         "malId": 597,
         "imagen": "https://cdn.myanimelist.net/images/anime/1109/138719.jpg",
-        "genero": "Fantasía",
+        "generos": "Fantasía",
         "anio": 0,
         "puntuacion": 7.72,
         "video": "EPfDvUv34PI",
@@ -1749,7 +1749,7 @@
         "titulo": "Cuentos de Terramar",
         "malId": 2904,
         "imagen": "https://cdn.myanimelist.net/images/anime/5/73443.jpg",
-        "genero": "Fantasía",
+        "generos": "Fantasía",
         "anio": 0,
         "puntuacion": 6.90,
         "video": "52-KM5mlYbA",
@@ -1760,7 +1760,7 @@
         "titulo": "Porco Rosso",
         "malId": 416,
         "imagen": "https://cdn.myanimelist.net/images/anime/1728/138709.jpg",
-        "genero": "Aventura",
+        "generos": "Aventura",
         "anio": 0,
         "puntuacion": 7.97,
         "video": "QcEXVG1wQT3",
@@ -1771,7 +1771,7 @@
         "titulo": "Nicky, la aprendiz de bruja",
         "malId": 510,
         "imagen": "https://cdn.myanimelist.net/images/anime/1579/140483.jpg",
-        "genero": "Fantasía",
+        "generos": "Fantasía",
         "anio": 0,
         "puntuacion": 7.90,
         "video": "H_v4C5HRvKi",
@@ -1782,7 +1782,7 @@
         "titulo": "Susurros del Corazón",
         "malId": 585,
         "imagen": "https://cdn.myanimelist.net/images/anime/1764/138714.jpg",
-        "genero": "Romance",
+        "generos": "Romance",
         "anio": 0,
         "puntuacion": 8.23,
         "video": "fRBHJ82wiUV",
@@ -1793,7 +1793,7 @@
         "titulo": "Recuerdos del ayer",
         "malId": 1029,
         "imagen": "https://cdn.myanimelist.net/images/anime/1289/138708.jpg",
-        "genero": "Drama",
+        "generos": "Drama",
         "anio": 0,
         "puntuacion": 7.45,
         "video": "PYaRt7MCdwV",
@@ -1804,7 +1804,7 @@
         "titulo": "La Princesa Mononoke",
         "malId": 164,
         "imagen": "https://cdn.myanimelist.net/images/anime/1355/147277.jpg",
-        "genero": "Fantasía",
+        "generos": "Fantasía",
         "anio": 0,
         "puntuacion": 8.67,
         "video": "xZuU_Wl2KTX",
@@ -1815,7 +1815,7 @@
         "titulo": "El castillo en el cielo",
         "malId": 513,
         "imagen": "https://cdn.myanimelist.net/images/anime/5/37799.jpg",
-        "genero": "Aventura",
+        "generos": "Aventura",
         "anio": 0,
         "puntuacion": 8.26,
         "video": "_SQ3aubYCc2",
@@ -1826,7 +1826,7 @@
         "titulo": "Nausicaä del Valle del Viento",
         "malId": 572,
         "imagen": "https://cdn.myanimelist.net/images/anime/10/75914.jpg",
-        "genero": "Ciencia Ficción",
+        "generos": "Ciencia Ficción",
         "anio": 0,
         "puntuacion": 8.36,
         "video": "hRNHB4KqdUYb",
@@ -1837,7 +1837,7 @@
         "titulo": "El Castillo Ambulante",
         "malId": 431,
         "imagen": "https://cdn.myanimelist.net/images/anime/1470/138723.jpg",
-        "genero": "Fantasía",
+        "generos": "Fantasía",
         "anio": 0,
         "puntuacion": 8.67,
         "video": "3nyWyTwOC",
@@ -1848,7 +1848,7 @@
         "titulo": "La Colina De Las Amapolas",
         "malId": 12739,
         "imagen": "https://cdn.myanimelist.net/images/anime/8/32547.jpg",
-        "genero": "Drama",
+        "generos": "Drama",
         "anio": 0,
         "puntuacion": 7.53,
         "video": "QxgYcG4Ft",
@@ -1859,7 +1859,7 @@
         "titulo": "Puedo escuchar el mar",
         "malId": 743,
         "imagen": "https://cdn.myanimelist.net/images/anime/1498/131411.jpg",
-        "genero": "Drama",
+        "generos": "Drama",
         "anio": 0,
         "puntuacion": 6.54,
         "video": "iWDT9eNcf",
@@ -1870,7 +1870,7 @@
         "titulo": "Earwig y la Bruja",
         "malId": 42143,
         "imagen": "https://cdn.myanimelist.net/images/anime/1242/110170.jpg",
-        "genero": "Fantasía",
+        "generos": "Fantasía",
         "anio": 0,
         "puntuacion": 5.38,
         "video": "JRWxk7JiO",
@@ -1881,7 +1881,7 @@
         "titulo": "El chico y la garza",
         "malId": 36699,
         "imagen": "https://cdn.myanimelist.net/images/anime/1126/139654.jpg",
-        "genero": "Fantasía",
+        "generos": "Fantasía",
         "anio": 0,
         "puntuacion": 7.60,
         "video": "DJuzuYB9V",

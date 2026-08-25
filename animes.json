@@ -12,6 +12,7 @@
       "finalizado": false,
       "puntuacion": 6.8,
       "anio": 2026,
+      "genero": ["Acción", "Fantasía", "Juego de cartas"],
       "temporadas": [
         {
           "numero": 1,
@@ -43,6 +44,7 @@
       "finalizado": false,
       "puntuacion": 5.07,
       "anio": 2026,
+      "genero": ["Comedia", "Romance", "Escuela"],
       "temporadas": [
         {
           "numero": 1,
@@ -72,6 +74,7 @@
       "finalizado": false,
       "puntuacion": 5.44,
       "anio": 2026,
+      "genero": ["Comedia", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -93,6 +96,7 @@
       "finalizado": false,
       "puntuacion": 6.13,
       "anio": 2026,
+      "genero": ["Comedia", "Romance", "Ecchi"],
       "temporadas": [
         {
           "numero": 1,
@@ -114,6 +118,7 @@
       "finalizado": false,
       "puntuacion": 7.18,
       "anio": 2025,
+      "genero": ["Música", "Fantasía", "Idol"],
       "temporadas": [
         {
           "numero": 1,
@@ -145,6 +150,7 @@
       "finalizado": false,
       "puntuacion": 9.09,
       "anio": 2026,
+      "genero": ["Acción", "Aventura", "Sobrenatural", "Deportes", "Shounen"],
       "temporadas": [
         {
           "numero": 1,
@@ -166,6 +172,7 @@
       "finalizado": false,
       "puntuacion": 6.33,
       "anio": 2026,
+      "genero": ["Acción", "Fantasía", "Magia", "Reencarnación", "Isekai"],
       "temporadas": [
         {
           "numero": 1,
@@ -195,6 +202,7 @@
       "finalizado": false,
       "puntuacion": 6.90,
       "anio": 2026,
+      "genero": ["Comedia", "Sobrenatural", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -223,6 +231,7 @@
       "finalizado": false,
       "puntuacion": 7.05,
       "anio": 2026,
+      "genero": ["Comedia", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -251,6 +260,7 @@
       "finalizado": false,
       "puntuacion": 7.54,
       "anio": 2026,
+      "genero": ["Música", "Recuentos de la vida", "Idol"],
       "temporadas": [
         {
           "numero": 1,
@@ -281,6 +291,7 @@
       "finalizado": false,
       "puntuacion": 6.78,
       "anio": 2026,
+      "genero": ["Acción", "Fantasía", "Magia", "Isekai", "Reencarnación"],
       "temporadas": [
         {
           "numero": 1,
@@ -309,6 +320,7 @@
       "finalizado": false,
       "puntuacion": 7.54,
       "anio": 2026,
+      "genero": ["Comedia", "Romance", "Escuela", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -337,6 +349,7 @@
       "finalizado": false,
       "puntuacion": 7.3,
       "anio": 2026,
+      "genero": ["Comedia", "Parodia"],
       "temporadas": [
         {
           "numero": 1,
@@ -365,6 +378,7 @@
       "finalizado": false,
       "puntuacion": 8.3,
       "anio": 2026,
+      "genero": ["Comedia", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -392,6 +406,7 @@
       "finalizado": false,
       "puntuacion": 5.3,
       "anio": 2026,
+      "genero": ["Ciencia Ficción", "Acción", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -419,6 +434,7 @@
       "finalizado": false,
       "puntuacion": 8.15,
       "anio": 2026,
+      "genero": ["Acción", "Aventura", "Fantasía", "Magia", "Reencarnación", "Isekai"],
       "temporadas": [
         {
           "numero": 4,
@@ -458,6 +474,7 @@
       "finalizado": false,
       "puntuacion": 7.84,
       "anio": 2026,
+      "genero": ["Acción", "Fantasía", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -498,6 +515,7 @@
       "finalizado": false,
       "puntuacion": 7.77,
       "anio": 2026,
+      "genero": ["Drama", "Fantasía", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 4,
@@ -537,6 +555,7 @@
       "finalizado": false,
       "puntuacion": 8.10,
       "anio": 2026,
+      "genero": ["Comedia", "Fantasía", "Sobrenatural", "Escuela"],
       "temporadas": [
         {
           "numero": 4,
@@ -576,6 +595,7 @@
       "finalizado": false,
       "puntuacion": 6.49,
       "anio": 2026,
+      "genero": ["Recuentos de la vida", "Comedia"],
       "temporadas": [
         {
           "numero": 1,
@@ -617,6 +637,7 @@
       "finalizado": false,
       "puntuacion": 6.95,
       "anio": 2026,
+      "genero": ["Acción", "Romance", "Fantasía", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -657,6 +678,7 @@
       "finalizado": false,
       "puntuacion": 7.73,
       "anio": 2026,
+      "genero": ["Fantasía", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -686,6 +708,7 @@
       "finalizado": false,
       "puntuacion": 8.58,
       "anio": 2026,
+      "genero": ["Acción", "Aventura", "Drama", "Fantasía", "Magia", "Reencarnación", "Isekai"],
       "temporadas": [
         {
           "numero": 3,
@@ -714,6 +737,7 @@
       "finalizado": false,
       "puntuacion": 8.45,
       "anio": 2026,
+      "genero": ["Drama", "Histórico", "Romance"],
       "temporadas": [
         {
           "numero": 1,
@@ -743,6 +767,7 @@
       "finalizado": false,
       "puntuacion": 6.89,
       "anio": 2026,
+      "genero": ["Romance", "Fantasía", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -771,6 +796,7 @@
       "finalizado": false,
       "puntuacion": 6.78,
       "anio": 2026,
+      "genero": ["Romance", "Comedia", "Escuela"],
       "temporadas": [
         {
           "numero": 1,
@@ -799,6 +825,7 @@
       "finalizado": false,
       "puntuacion": 7.10,
       "anio": 2026,
+      "genero": ["Acción", "Ciencia Ficción", "Magia"],
       "temporadas": [
         {
           "numero": 1,
@@ -827,6 +854,7 @@
       "finalizado": false,
       "puntuacion": 7.17,
       "anio": 2026,
+      "genero": ["Drama", "Música", "Recuentos de la vida"],
       "temporadas": [
         {
           "numero": 1,
@@ -855,6 +883,7 @@
       "finalizado": false,
       "puntuacion": 6.78,
       "anio": 2026,
+      "genero": ["Acción", "Fantasía", "Magia", "Isekai"],
       "temporadas": [
         {
           "numero": 2,
@@ -882,6 +911,7 @@
       "finalizado": false,
       "puntuacion": 7.00,
       "anio": 2026,
+      "genero": ["Acción", "Sobrenatural", "Shounen"],
       "temporadas": [
         {
           "numero": 1,
@@ -910,6 +940,7 @@
       "finalizado": false,
       "puntuacion": 5.73,
       "anio": 2026,
+      "genero": ["Misterio", "Sobrenatural", "Histórico"],
       "temporadas": [
         {
           "numero": 1,
@@ -938,6 +969,7 @@
       "finalizado": false,
       "puntuacion": 7.20,
       "anio": 2026,
+      "genero": ["Comedia", "Romance", "Escuela"],
       "temporadas": [
         {
           "numero": 1,
@@ -966,6 +998,7 @@
       "finalizado": false,
       "puntuacion": 7.16,
       "anio": 2026,
+      "genero": ["Acción", "Comedia", "Fantasía", "Magia"],
       "temporadas": [
         {
           "numero": 2,
@@ -994,6 +1027,7 @@
       "finalizado": false,
       "puntuacion": 7.21,
       "anio": 2026,
+      "genero": ["Drama", "Ciencia Ficción"],
       "temporadas": [
         {
           "numero": 1,
@@ -1015,6 +1049,7 @@
       "finalizado": false,
       "puntuacion": 7.04,
       "anio": 2026,
+      "genero": ["Acción", "Comedia", "Fantasía", "Romance"],
       "temporadas": [
         {
           "numero": 1,
@@ -1042,6 +1077,7 @@
       "finalizado": false,
       "puntuacion": 8.39,
       "anio": 2026,
+      "genero": ["Comedia", "Romance", "Escuela"],
       "temporadas": [
         {
           "numero": 2,
@@ -1070,6 +1106,7 @@
       "finalizado": false,
       "puntuacion": 7.24,
       "anio": 2026,
+      "genero": ["Comedia", "Drama", "Shounen", "Cocina"],
       "temporadas": [
         {
           "numero": 1,
@@ -1098,6 +1135,7 @@
       "finalizado": false,
       "puntuacion": 6.32,
       "anio": 2026,
+      "genero": ["Comedia", "Sobrenatural", "Misterio"],
       "temporadas": [
         {
           "numero": 1,
@@ -1126,6 +1164,7 @@
       "finalizado": false,
       "puntuacion": 7.76,
       "anio": 2026,
+      "genero": ["Ciencia Ficción", "Aventura", "Steampunk"],
       "temporadas": [
         {
           "numero": 1,
@@ -1154,6 +1193,7 @@
       "finalizado": false,
       "puntuacion": 7.86,
       "anio": 2026,
+      "genero": ["Comedia", "Romance", "Harem", "Escuela"],
       "temporadas": [
         {
           "numero": 3,
@@ -1182,6 +1222,7 @@
       "finalizado": false,
       "puntuacion": 6.50,
       "anio": 2026,
+      "genero": ["Acción", "Fantasía", "Isekai"],
       "temporadas": [
         {
           "numero": 1,
@@ -1210,6 +1251,7 @@
       "finalizado": false,
       "puntuacion": 6.00,
       "anio": 2026,
+      "genero": ["Drama", "Fantasía", "Romance"],
       "temporadas": [
         {
           "numero": 1,
@@ -1237,6 +1279,7 @@
       "finalizado": false,
       "puntuacion": 6.80,
       "anio": 2026,
+      "genero": ["Comedia", "Recuentos de la vida", "Ciencia Ficción"],
       "temporadas": [
         {
           "numero": 2,
@@ -1265,6 +1308,7 @@
       "finalizado": false,
       "puntuacion": 8.64,
       "anio": 1999,
+      "genero": ["Acción", "Aventura", "Comedia", "Drama", "Fantasía", "Shounen"],
       "temporadas": [
         {
           "numero": 1,
@@ -1307,6 +1351,7 @@
       "finalizado": true,
       "puntuacion": 7.73,
       "anio": 2007,
+      "genero": ["Acción", "Aventura", "Fantasía", "Terror", "Sobrenatural"],
       "temporadas": [
         {
           "numero": 1,
@@ -1353,6 +1398,7 @@
       "finalizado": true,
       "puntuacion": 8.32,
       "anio": 2008,
+      "genero": ["Deportes", "Psicológico", "Drama"],
       "temporadas": [
         {
           "numero": 1,
@@ -1398,6 +1444,7 @@
       "finalizado": true,
       "puntuacion": 8.78,
       "anio": 2019,
+      "genero": ["Acción", "Aventura", "Histórico", "Drama", "Seinen"],
       "temporadas": [
         {
           "numero": 1,
@@ -1471,6 +1518,7 @@
       "finalizado": true,
       "puntuacion": 6.03,
       "anio": 2009,
+      "genero": ["Acción", "Sobrenatural", "Drama", "Romance"],
       "temporadas": [
         {
           "numero": 1,
@@ -1504,6 +1552,7 @@
       "finalizado": true,
       "puntuacion": 6.50,
       "anio": 2026,
+      "genero": ["Acción", "Aventura", "Comedia", "Fantasía"],
       "temporadas": [
         {
           "numero": 1,
@@ -1524,13 +1573,48 @@
     "rakudai-kenja-no-gakuin-musou",
     "reiwa-no-dara-san",
     "yani-neko",
-    "bang-dream-yumemita"
+    "bang-dream-yumemita",
+    "tsuihou-sareta-tensei-juukishi",
+    "otome-kaijuu-carameliser",
+    "bungou-stray-dogs-wan-2",
+    "super-no-ura-de-yani-suu-futari",
+    "mebius-dust",
+    "tensei-shitara-slime-datta-ken-4th-season",
+    "yomi-no-tsugai",
+    "honzuki-no-gekokujou-ryoushu-no-youjo",
+    "mairimashita-iruma-kun-4th-season",
+    "rilakkuma",
+    "mao",
+    "neko-to-ryuu",
+    "mushoku-tensei-iii",
+    "tenmaku-no-jaadugar",
+    "oni-no-hanayome",
+    "kimi-wo-aisuru-ki-wa-nai",
+    "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
+    "grow-up-show-himawari-no-circus-dan",
+    "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+    "black-torch",
+    "iwamoto-senpai-no-suisen",
+    "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama",
+    "kabushikigaisha-magi-lumiere-2nd-season",
+    "oneechan-gokko",
+    "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
+    "seihantai-na-kimi-to-boku-2nd-season",
+    "tetsunabe-no-jan",
+    "lets-go-kaiki-gumi",
+    "nijusseiki-denki-mokuroku-eureka-evrika",
+    "100-nin-no-kanojo-3rd-season",
+    "sekai-saikyou-no-kouei",
+    "sayonara-lara",
+    "azur-lane-bisoku-zenshin-ni",
+    "one-piece"
   ],
   "idsFinalizados": [
     "claymore",
     "one-outs",
     "vinland-saga",
-    "11eyes"
+    "11eyes",
+    "one-piece-heroines"
   ],
   "ghibli": {
     "hero": {

@@ -3339,6 +3339,350 @@
           "capitulos": []
         }
       ]
+    },
+    {
+      "id": "temple",
+      "titulo": "Temple",
+      "malId": 54275,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1879/136896.jpg",
+      "imagenFondo": "",
+      "descripcion": "Desde joven, Akemitsu Akagami aprendió de su padre que las personas nunca pueden vivir solas. Pero debajo del aparentemente prudente consejo yace una verdad que lo corrompe: los hijos del linaje Akagami son infames por ser playboys atroces. Decidido a limpiar la notoriedad de su apellido, Akemitsu se mantiene alejado de las chicas durante toda su vida, solo para convertirse en víctima de los instintos de su linaje, al enamorarse a primera vista. En un último esfuerzo por deshacerse de estos deseos, Akemitsu viaja a un templo cercano con la esperanza de recibir entrenamiento budista. Sin embargo, el caos se desata cuando la chica de la que se enamoró lo recibe en la puerta. Después de que la conmoción se calma, descubre que el templo es en realidad un convento del cual su padre había tomado prestados millones antes de huir. Ahora trabajando en el convento para pagar las deudas pendientes, Akemitsu hace todo lo posible por mantener la compostura y mantenerse célibe mientras está rodeado de hermosas chicas de todo tipo.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.69,
+      "anio": 2023,
+      "generos": ["Comedia", "Romance", "Ecchi", "Harem"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "e1vigdaUVX" },
+            { "numero": 2, "video": "Lm-uBmy6p" },
+            { "numero": 3, "video": "3nUqIXbaT" },
+            { "numero": 4, "video": "JiEt3qllh" },
+            { "numero": 5, "video": "8rGJ_Ip_r" },
+            { "numero": 6, "video": "i-4_KSNFWy" },
+            { "numero": 7, "video": "EDjZSIs0_" },
+            { "numero": 8, "video": "5O4L-zXazT" },
+            { "numero": 9, "video": "buFzwNpRcl" },
+            { "numero": 10, "video": "uoESvFS0J" },
+            { "numero": 11, "video": "XTbcBUrfTK" },
+            { "numero": 12, "video": "H7XdisD2F" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tengoku-daimakyou",
+      "titulo": "Tengoku Daimakyou",
+      "malId": 53393,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1121/133132.jpg",
+      "imagenFondo": "",
+      "descripcion": "Hace quince años, un desastre azotó la civilización humana, y ahora peligrosos monstruos devoradores de hombres deambulan por las tierras devastadas, representando una amenaza existencial para los supervivientes. En medio de este tumulto, una instalación aislada alberga a niños y los cría en paz. Sin embargo, cuando algunos de ellos descubren el mundo más allá de los estrechos límites de los muros de su guardería, su curiosidad por él crece lentamente. Mientras tanto, en el mundo exterior, los jóvenes supervivientes Maru y Kiruko se unen para buscar un lugar especial llamado Cielo, cada uno por sus propias razones. Cargando con pesadas cargas del pasado y trágicos secretos, los dos esperan encontrar respuestas a la crueldad que han experimentado en sus vidas y en el mundo, que aún permanece hecho jirones.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 8.20,
+      "anio": 2023,
+      "generos": ["Aventura", "Misterio", "Ciencia Ficción"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "EeDIi_j-E" },
+            { "numero": 2, "video": "ZnnAltxAh" },
+            { "numero": 3, "video": "RtJAjAfUA" },
+            { "numero": 4, "video": "T7RPBJ7ThS" },
+            { "numero": 5, "video": "FN3hr01Ec" },
+            { "numero": 6, "video": "aG0FM8Hz_" },
+            { "numero": 7, "video": "-IXm2oxik" },
+            { "numero": 8, "video": "uaYw8vtb6" },
+            { "numero": 9, "video": "QKPMOKb2i" },
+            { "numero": 10, "video": "IlZWR6rT_" },
+            { "numero": 11, "video": "cWQgkrMEf" },
+            { "numero": 12, "video": "TahF3fnx3" },
+            { "numero": 13, "video": "tYlMwrL8_h" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "undead-girl-murder-farce",
+      "titulo": "Undead Girl Murder Farce",
+      "malId": 54790,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1946/136661.jpg",
+      "imagenFondo": "",
+      "descripcion": "En la Francia del siglo XIX, la esposa del noble vampiro Jean Duchet Godard es asesinada en su propia casa. Con las autoridades humanas locales poco dispuestas a investigar adecuadamente el caso, Godard contrata a un par de detectives privados conocidos por especializarse en lo sobrenatural: Tsugaru Shinuchi, un hombre con una misteriosa jaula de pájaros; y su compañera, Aya Rindou. Este enigmático dúo ha llegado desde el lejano Japón con un solo propósito: rastrear al hombre que robó tanto el cuerpo de Aya como la humanidad de Tsugaru.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.84,
+      "anio": 2023,
+      "generos": ["Fantasía", "Misterio", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "tk-kx7bsN" },
+            { "numero": 2, "video": "1gMaSiEJz" },
+            { "numero": 3, "video": "N5LndvwZ8" },
+            { "numero": 4, "video": "8gx0tWN9A" },
+            { "numero": 5, "video": "-QGf6gzvK" },
+            { "numero": 6, "video": "zhy4DEQhTo" },
+            { "numero": 7, "video": "8nrrSAy9J" },
+            { "numero": 8, "video": "uWrYXoy3e5" },
+            { "numero": 9, "video": "HYWJZDxeO" },
+            { "numero": 10, "video": "U7WpnlV49" },
+            { "numero": 11, "video": "s56bqHUJE" },
+            { "numero": 12, "video": "gqUaoOTBN" },
+            { "numero": 13, "video": "zuv7mU8EZ" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
+      "titulo": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+      "malId": 54112,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1384/136408.jpg",
+      "imagenFondo": "",
+      "descripcion": "Después de graduarse de una universidad de primer nivel con un impresionante historial extracurricular en el club de rugby, Akira Tendou ha superado todos los pasos para asegurar el trabajo de sus sueños. Además, una compañera de trabajo hermosa y amable siempre alegra su día en la oficina. La vida parece ir muy bien para Akira hasta que se da cuenta lentamente de que las noches sin dormir y el trabajo brutal son su nueva realidad. Debido a tres años de trabajo insoportable en una empresa explotadora, Akira es incapaz de reconocer a la persona cansada y sin logros en la que se ha convertido. A punto de perder toda pasión por la vida, como varios de sus colegas sobrecargados de trabajo, Akira encuentra su salvación de la manera más inesperada posible: el estallido de un apocalipsis zombie. Con el tiempo libre que finalmente tiene, Akira decide completar una lista de cien cosas que quiere hacer antes de convertirse en un zombie.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.69,
+      "anio": 2023,
+      "generos": ["Comedia", "Suspenso"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "QJwPsmEGR" },
+            { "numero": 2, "video": "5ZF80N_APk" },
+            { "numero": 3, "video": "iaGALrtAs" },
+            { "numero": 4, "video": "PRTpngcbH" },
+            { "numero": 5, "video": "1yiYWzNg9" },
+            { "numero": 6, "video": "i2V5-iGU-" },
+            { "numero": 7, "video": "hwxSVxXl4" },
+            { "numero": 8, "video": "Kd38pgOhn" },
+            { "numero": 9, "video": "F8p4D5OXY" },
+            { "numero": 10, "video": "LeWvQbwQk" },
+            { "numero": 11, "video": "isnXxBjeq" },
+            { "numero": 12, "video": "SKgiIgDv8x" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "undead-unluck",
+      "titulo": "Undead Unluck",
+      "malId": 52741,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1136/138410.jpg",
+      "imagenFondo": "",
+      "descripcion": "Con la conclusión de su manga romántico favorito, Fuuko Izumo está lista para acabar con su vida de miseria y soledad, habiendo aceptado durante mucho tiempo su destino de nunca poder experimentar un amor apasionado como los personajes de ficción. Maldita con \"mala suerte\", cualquiera que Fuuko toque corre grave peligro de experimentar una calamidad inimaginable. Si bien la posibilidad de un peligro inminente haría que la mayoría de las personas cuerdas corrieran en dirección opuesta, Undead tiene otras ideas. Es un ser inmortal con poderes regenerativos sobrehumanos que busca desesperadamente la muerte, la cual siempre lo ha eludido. Cuando sus caminos finalmente se cruzan, Undead ve una oportunidad para poner fin a su sufrimiento usando la mala suerte de Fuuko. Pero antes de que Undead pueda desbloquear todo el potencial del poder de Fuuko para desencadenar el golpe devastador final, el dúo primero debe defenderse de una organización secreta asesina empeñada en exterminar a aquellos con habilidades especiales.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.73,
+      "anio": 2023,
+      "generos": ["Acción", "Comedia", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "DZsErNmcB" },
+            { "numero": 2, "video": "kFN8KNPNe" },
+            { "numero": 3, "video": "29Hj1wpq7" },
+            { "numero": 4, "video": "sGNnnuW5UP" },
+            { "numero": 5, "video": "vXGuD3yiHP" },
+            { "numero": 6, "video": "Yh5QrL6WJ" },
+            { "numero": 7, "video": "n9SkZ0TAJk" },
+            { "numero": 8, "video": "daUh8amHYS" },
+            { "numero": 9, "video": "EkxhPOEoF" },
+            { "numero": 10, "video": "xt3T7aO24" },
+            { "numero": 11, "video": "1yaoas0rw" },
+            { "numero": 12, "video": "octCFwYdn2" },
+            { "numero": 13, "video": "nk9rtI4vF5" },
+            { "numero": 14, "video": "eAnL9GSdT" },
+            { "numero": 15, "video": "qOpzofmLte" },
+            { "numero": 16, "video": "dozeW0Yow" },
+            { "numero": 17, "video": "kY1Lta-e-" },
+            { "numero": 18, "video": "kW2s8WNuS" },
+            { "numero": 19, "video": "3_iRjUUP1" },
+            { "numero": 20, "video": "bPPUuZzl9" },
+            { "numero": 21, "video": "ndTOjOVUb" },
+            { "numero": 22, "video": "POKpOfxlm" },
+            { "numero": 23, "video": "MRHQicHe5" },
+            { "numero": 24, "video": "PKoLcaZzA" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tokyo-ghoul",
+      "titulo": "Tokyo Ghoul",
+      "malId": 22319,
+      "imagen": "https://cdn.myanimelist.net/images/anime/5/64449.jpg",
+      "imagenFondo": "",
+      "descripcion": "Una siniestra amenaza está invadiendo Tokio: \"ghouls\" devoradores de carne que parecen idénticos a los humanos y se mezclan con su población. El reservado estudiante universitario Ken Kaneki entierra su nariz en los libros y evita las noticias sobre la creciente crisis. Sin embargo, la aparición de una atractiva mujer llamada Rize Kamishiro rompe su soledad cuando ella le pide directamente una cita. Mientras acompaña a Rize a casa, Kaneki descubre que ella no es tan amable como parecía inicialmente, y lo ha llevado con una intención siniestra. Después de una trágica lucha, más tarde despierta en un hospital y descubre que su vida fue salvada trasplantando los órganos de la ahora fallecida Rize a su propio cuerpo. El cuerpo de Kaneki comienza a cambiar de manera horrible, y se transforma en un híbrido de humano y ghoul. Mientras se embarca en su nuevo y temible viaje, Kaneki se aferra a su humanidad en el sangriento conflicto en evolución entre los nuevos monstruos de la sociedad y los agentes gubernamentales que los cazan.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.79,
+      "anio": 2014,
+      "generos": ["Acción", "Terror", "Sobrenatural", "Drama"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "BUjmlWzhG" },
+            { "numero": 2, "video": "mgpAbPusAm" },
+            { "numero": 3, "video": "ud94wM2r2F" },
+            { "numero": 4, "video": "mr__lEBAQ" },
+            { "numero": 5, "video": "ngoqMMcUxU" },
+            { "numero": 6, "video": "nRnS0_X6C" },
+            { "numero": 7, "video": "zVAGYLarW" },
+            { "numero": 8, "video": "V49A6q7nxx" },
+            { "numero": 9, "video": "ZF5PDkF1o" },
+            { "numero": 10, "video": "b1_gn-x7S" },
+            { "numero": 11, "video": "xrjmtXaPZb" },
+            { "numero": 12, "video": "UF8k0OhEw" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "LgI5mKDGB" },
+            { "numero": 2, "video": "nEGylp-78" },
+            { "numero": 3, "video": "r1qVK54JQ" },
+            { "numero": 4, "video": "yfA7eDhl6" },
+            { "numero": 5, "video": "ZcgSd-bmS" },
+            { "numero": 6, "video": "zdiu6r4Uk" },
+            { "numero": 7, "video": "w2c5cR9ji" },
+            { "numero": 8, "video": "1Eu2Vuej0" },
+            { "numero": 9, "video": "eao7cbJlx" },
+            { "numero": 10, "video": "C9hZ4CJLF" },
+            { "numero": 11, "video": "JwRDy26Qwn" },
+            { "numero": 12, "video": "2y_usupxJ" }
+          ]
+        },
+        {
+          "numero": 3,
+          "capitulos": [
+            { "numero": 1, "video": "YMelal6ti" },
+            { "numero": 2, "video": "-FlWG9QvO" },
+            { "numero": 3, "video": "9GvlGxf79" },
+            { "numero": 4, "video": "NBtZ3lUl5" },
+            { "numero": 5, "video": "ZYk_D5oC2" },
+            { "numero": 6, "video": "n6ulICjYu" },
+            { "numero": 7, "video": "oRLgpvz-g" },
+            { "numero": 8, "video": "1wqlFVnnu0" },
+            { "numero": 9, "video": "4QJu42qzc" },
+            { "numero": 10, "video": "O1FnWiB62" },
+            { "numero": 11, "video": "FWn7vnkgqx" },
+            { "numero": 12, "video": "k2QqKBq6s" }
+          ]
+        },
+        {
+          "numero": 4,
+          "capitulos": [
+            { "numero": 1, "video": "4gY1Yk9Z4l" },
+            { "numero": 2, "video": "BznkSdhiw" },
+            { "numero": 3, "video": "w64j5-NN2" },
+            { "numero": 4, "video": "Jx1-oymBL" },
+            { "numero": 5, "video": "yn-cKEObg" },
+            { "numero": 6, "video": "0CDlKcQet" },
+            { "numero": 7, "video": "--yBUlgQP" },
+            { "numero": 8, "video": "JqnuoGaVg" },
+            { "numero": 9, "video": "YlH2Fuv7s" },
+            { "numero": 10, "video": "N4tSos-YQ" },
+            { "numero": 11, "video": "wY-Ww6ix6" },
+            { "numero": 12, "video": "e7Tq98AUF" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tokyo-revengers",
+      "titulo": "Tokyo Revengers",
+      "malId": 42249,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1733/140802.jpg",
+      "imagenFondo": "",
+      "descripcion": "El segundo año de secundaria de Takemichi Hanagaki fue el punto más alto de su vida. Tenía respeto, una pandilla de amigos en los que podía contar e incluso una novia. Pero eso fue hace doce años. Hoy, es un don nadie: un fracasado sin importancia del que los niños se burlan y que siempre se ve obligado a disculparse con su jefe más joven. Un informe de noticias repentino sobre el cruel asesinato de la única novia que tuvo, junto con su hermano, a manos de la Pandilla Tokyo Manji, solo añade insulto a la injuria. Medio segundo antes de que un tren acabe con su patética vida para siempre, Takemichi recuerda ese mismo día hace 12 años, cuando aún salía con Hinata Tachibana. Después de verse obligado a revivir exactamente el mismo día que inició su espiral descendente, Takemichi se encuentra con el hermano menor de Hinata. Sin pensar, admite su aparente muerte antes de regresar al pasado. Takemichi le insta a proteger a su hermana antes de regresar inexplicablemente al futuro. Milagrosamente, no está muerto. Aún más extraño, el futuro ha cambiado. Parece que Takemichi puede alterar el flujo del tiempo. Dada la oportunidad de evitar la trágica muerte de su exnovia a manos de la Pandilla Tokyo Manji, Takemichi decide viajar en el tiempo para cambiar el curso del futuro.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.81,
+      "anio": 2021,
+      "generos": ["Acción", "Drama", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "GddM-qNaK" },
+            { "numero": 2, "video": "fF6vPGH-zi" },
+            { "numero": 3, "video": "euPdV2JE6" },
+            { "numero": 4, "video": "pXulKEH5K" },
+            { "numero": 5, "video": "7n3LdR4R_" },
+            { "numero": 6, "video": "l5t-TxcD_" },
+            { "numero": 7, "video": "kra9iOcrQ" },
+            { "numero": 8, "video": "hhIsHRRNiC" },
+            { "numero": 9, "video": "tUyf5bt7a" },
+            { "numero": 10, "video": "mZvthCqxR" },
+            { "numero": 11, "video": "hoofwYQv9" },
+            { "numero": 12, "video": "piWAZvGQe" },
+            { "numero": 13, "video": "Ml0Pff_iX5" },
+            { "numero": 14, "video": "ZtjSFgtwx" },
+            { "numero": 15, "video": "spTU1X8Ry" },
+            { "numero": 16, "video": "y0HETIdvDE" },
+            { "numero": 17, "video": "mGUGEDiVO" },
+            { "numero": 18, "video": "2rU7kVfLS" },
+            { "numero": 19, "video": "aDuy39UDao" },
+            { "numero": 20, "video": "fKh_55lSHD" },
+            { "numero": 21, "video": "4mQlD-IIV" },
+            { "numero": 22, "video": "qkwTXMrWh" },
+            { "numero": 23, "video": "0dkilEjYJ" },
+            { "numero": 24, "video": "JkwS9m9Sz" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "_NKKJgaNl" },
+            { "numero": 2, "video": "Lg5_R1920" },
+            { "numero": 3, "video": "5-b3xWpA2" },
+            { "numero": 4, "video": "Krz2WCLXb" },
+            { "numero": 5, "video": "52SSeuYM9f" },
+            { "numero": 6, "video": "gR-O4e-LF" },
+            { "numero": 7, "video": "zUV65nHkig" },
+            { "numero": 8, "video": "yRmxFZUsy" },
+            { "numero": 9, "video": "YK8RlQdLa" },
+            { "numero": 10, "video": "Rokp_EbBE" },
+            { "numero": 11, "video": "sC5FMJSR4" },
+            { "numero": 12, "video": "6Sxp0rBZc" },
+            { "numero": 13, "video": "5RsySyAep" }
+          ]
+        },
+        {
+          "numero": 3,
+          "capitulos": [
+            { "numero": 1, "video": "wGr2eoMdi" },
+            { "numero": 2, "video": "lLnkYLhoN" },
+            { "numero": 3, "video": "djTd0OUvt" },
+            { "numero": 4, "video": "sZZsGfcuxJ" },
+            { "numero": 5, "video": "Hp9v4mtAG" },
+            { "numero": 6, "video": "3n6_s4tyY" },
+            { "numero": 7, "video": "DRyRHt60b" },
+            { "numero": 8, "video": "18KoGdWn0" },
+            { "numero": 9, "video": "PsTrzxa89" },
+            { "numero": 10, "video": "ca70wh4B1" },
+            { "numero": 11, "video": "P1cIX51di8" },
+            { "numero": 12, "video": "SPYO_sKro" },
+            { "numero": 13, "video": "hDSV-5SIk" }
+          ]
+        }
+      ]
     }
   ],
   "idsEnEmision": [

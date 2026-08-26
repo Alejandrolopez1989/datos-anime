@@ -3859,7 +3859,7 @@
     {
       "id": "isekai-suicide-squad",
       "titulo": "Isekai Suicide Squad",
-      "malId": 55848,
+      "malId": 58161,
       "imagen": "https://cdn.myanimelist.net/images/anime/1644/142052.jpg",
       "imagenFondo": "",
       "descripcion": "El Escuadrón Suicida, un grupo de villanos reclutados por el gobierno estadounidense para misiones de alto riesgo, es transportado a un mundo de fantasía lleno de magia y monstruos. Allí, deben completar una peligrosa misión para salvar un reino, pero con su naturaleza caótica y sus propios intereses, el caos está asegurado. ¿Podrán trabajar en equipo y regresar a su mundo antes de que sea demasiado tarde?",
@@ -4394,6 +4394,1118 @@
             { "numero": 10, "video": "-jnixbtIH" },
             { "numero": 11, "video": "ZivkSw0t0" },
             { "numero": 12, "video": "4at5Oa0sV" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "giji-harem",
+      "titulo": "Giji Harem",
+      "malId": 54968,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1731/124874.jpg",
+      "imagenFondo": "",
+      "descripcion": "Eiji Kitahama tiene el sueño de muchos chicos de secundaria: ser popular y tener un harén de chicas que lo adoren. Para su suerte, su nueva compañera en el club de teatro, Rin Nanakura, ha decidido ayudarlo a cumplir este deseo. Usando sus impresionantes habilidades de actuación, Rin adopta muchas personalidades, desde la coqueta hasta la tranquila y serena, para interpretar a los personajes del harén simulado de Eiji. A medida que su conexión se profundiza, Rin amplía su repertorio, alternando rápidamente entre personajes mientras disfrutan juntos de la vida en la secundaria.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.82,
+      "anio": 2024,
+      "generos": ["Comedia", "Romance", "Escuela"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "bbQyRnQCm" },
+            { "numero": 2, "video": "KgL4LD-XZy" },
+            { "numero": 3, "video": "GctzKqpYD" },
+            { "numero": 4, "video": "SdEXcrOiip" },
+            { "numero": 5, "video": "pacPh6deHXl" },
+            { "numero": 6, "video": "Nx3raM1fOt" },
+            { "numero": 7, "video": "AtukZjChZLo" },
+            { "numero": 8, "video": "OONg7H_FdIZ" },
+            { "numero": 9, "video": "cm_O51DQ5B" },
+            { "numero": 10, "video": "ZrVlGwI43" },
+            { "numero": 11, "video": "a07d1fC3u" },
+            { "numero": 12, "video": "fn8DyYW9CJ" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "megami-no-cafe-terrace",
+      "titulo": "Megami no Café Terrace",
+      "malId": 52973,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1731/124874.jpg",
+      "imagenFondo": "",
+      "descripcion": "Después de que su abuela Sachiko fallece, Hayato Kasukabe regresa de Tokio y hereda su café: el Café Terrace Familia. Su plan es demoler el café, pero se encuentra con que cinco jóvenes mujeres viven allí. La historia sigue a Hayato mientras intenta reabrir el café y lidia con las personalidades de las cinco chicas.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.32,
+      "anio": 2023,
+      "generos": ["Comedia", "Romance", "Ecchi"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "hSviMRpVt" },
+            { "numero": 2, "video": "Nzx4Kv0Gf" },
+            { "numero": 3, "video": "4xGViPnF9k" },
+            { "numero": 4, "video": "b7KeJ2RXe" },
+            { "numero": 5, "video": "1ApRlAENo" },
+            { "numero": 6, "video": "Ur4vkp_UhX" },
+            { "numero": 7, "video": "0YB0JcVEU" },
+            { "numero": 8, "video": "NY-B6Nck_" },
+            { "numero": 9, "video": "LBloGJwad" },
+            { "numero": 10, "video": "aqmghCgnQ" },
+            { "numero": 11, "video": "aiK4NfmkV" },
+            { "numero": 12, "video": "BfGQNI4RQ" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "xvpyRrSEC7" },
+            { "numero": 2, "video": "dUtHGAUOFU" },
+            { "numero": 3, "video": "gEKTfbJETu" },
+            { "numero": 4, "video": "RJoT7GU-xu9" },
+            { "numero": 5, "video": "Pt7kZe528j" },
+            { "numero": 6, "video": "5ML4S9ngu9" },
+            { "numero": 7, "video": "osO7bfsJJMg" },
+            { "numero": 8, "video": "LjIGnAxU0I" },
+            { "numero": 9, "video": "bx9jFu0Dm" },
+            { "numero": 10, "video": "Cj9Q00lQT" },
+            { "numero": 11, "video": "eFMyZQMgV" },
+            { "numero": 12, "video": "PLeu9yLhO" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tasogare-out-focus",
+      "titulo": "Tasogare Out Focus",
+      "malId": 58027,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1866/146546.jpg",
+      "imagenFondo": "",
+      "descripcion": "A pesar de un comienzo difícil en su relación, los estudiantes de segundo año de secundaria Mao Tsuchiya y Hisashi Ootomo han logrado encontrar una manera de coexistir en su dormitorio por otro año. La serie explora su relación y las dinámicas dentro del club de cine de su escuela.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.48,
+      "anio": 2024,
+      "generos": ["Boys Love", "Escuela", "Recuentos de la vida"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "xX_aJfNkHD" },
+            { "numero": 2, "video": "yFy3OqPrU" },
+            { "numero": 3, "video": "EnXW-GCdlH_" },
+            { "numero": 4, "video": "cxSZH9RRpe" },
+            { "numero": 5, "video": "D80srda5Vw" },
+            { "numero": 6, "video": "FbToDtKqLk" },
+            { "numero": 7, "video": "tsvr93hbkU" },
+            { "numero": 8, "video": "Cf0l-rNUJk" },
+            { "numero": 9, "video": "4vVGHAkIvi" },
+            { "numero": 10, "video": "8Ggq1OKBj" },
+            { "numero": 11, "video": "t6NPH9Uf-" },
+            { "numero": 12, "video": "j46UXiw4jo" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "code-geass-hangyaku-no-lelouch",
+      "titulo": "Code Geass: Hangyaku no Lelouch",
+      "malId": 1575,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
+      "imagenFondo": "",
+      "descripcion": "En el año 2010, el Sacro Imperio de Britannia se establece como una nación militar dominante, comenzando con la conquista de Japón. Renombrado como Área 11, Japón ha visto una resistencia significativa contra estos tiranos. Lelouch Lamperouge, un estudiante britanniano, se ve atrapado en un fuego cruzado y obtiene el poder de Geass, el \"Poder de los Reyes\". Decide usar este poder para vengarse de Britannia y crear un mundo mejor.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 8.71,
+      "anio": 2006,
+      "generos": ["Acción", "Ciencia Ficción", "Mecha", "Drama"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "LzRHmh0xI" },
+            { "numero": 2, "video": "j9nDGKMzy" },
+            { "numero": 3, "video": "sabZd8soD" },
+            { "numero": 4, "video": "XQGdnhCay" },
+            { "numero": 5, "video": "IdFMID-WB" },
+            { "numero": 6, "video": "PHU59q1hf" },
+            { "numero": 7, "video": "LLOWZ6h-1" },
+            { "numero": 8, "video": "0mFBNny6X" },
+            { "numero": 9, "video": "BS4nkjpwF" },
+            { "numero": 10, "video": "kKWgNzOsW" },
+            { "numero": 11, "video": "L27RyO2uj" },
+            { "numero": 12, "video": "e9VDgDkJY" },
+            { "numero": 13, "video": "amGkYKdlV" },
+            { "numero": 14, "video": "PkhlEjhkza" },
+            { "numero": 15, "video": "Oa2hBf5WE" },
+            { "numero": 16, "video": "d5VFfAF5w" },
+            { "numero": 17, "video": "nyxhkyWiG" },
+            { "numero": 18, "video": "wdwqefr3k" },
+            { "numero": 19, "video": "dweaz7av8" },
+            { "numero": 20, "video": "E_ww_evqE" },
+            { "numero": 21, "video": "8lOuV5g-z" },
+            { "numero": 22, "video": "F6PK92Y8M" },
+            { "numero": 23, "video": "0Teh2NBaz" },
+            { "numero": 24, "video": "2qWBz578u" },
+            { "numero": 25, "video": "wyEDQlTRy" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "f5doUzVFw" },
+            { "numero": 2, "video": "yxQbdOKW2t" },
+            { "numero": 3, "video": "4fFxvDP1A" },
+            { "numero": 4, "video": "lUYzvs7we" },
+            { "numero": 5, "video": "JsuOQtEbw" },
+            { "numero": 6, "video": "PZ0Ha01oO" },
+            { "numero": 7, "video": "STKgu13dV" },
+            { "numero": 8, "video": "Qa-z2bmMu" },
+            { "numero": 9, "video": "hRK5uhnF4" },
+            { "numero": 10, "video": "kSG1gNRXEl" },
+            { "numero": 11, "video": "hckoOsgNr" },
+            { "numero": 12, "video": "wv47708N0" },
+            { "numero": 13, "video": "ajzrV2D1J" },
+            { "numero": 14, "video": "jI1L-Ijc3" },
+            { "numero": 15, "video": "9tc-psGbB" },
+            { "numero": 16, "video": "Npu7IMG7E" },
+            { "numero": 17, "video": "EJU2-amGj" },
+            { "numero": 18, "video": "M6oxtKy7d" },
+            { "numero": 19, "video": "qD_E5R8LD" },
+            { "numero": 20, "video": "lvHd3hOoP" },
+            { "numero": 21, "video": "4HJdUvEdg" },
+            { "numero": 22, "video": "myqqKtvpk" },
+            { "numero": 23, "video": "5nvp8VK3E" },
+            { "numero": 24, "video": "t6r8dkdgW" },
+            { "numero": 25, "video": "jfWV6_Ggn8" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ore-wa-subete-wo-parry-suru",
+      "titulo": "Ore wa Subete wo Parry suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+      "malId": 58416,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1040/141974.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un joven que posee la habilidad de 'parry' (desviar) todo, busca convertirse en un aventurero en un mundo de fantasía. A pesar de ser malinterpretado por todos, su habilidad lo convierte en el más fuerte.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.86,
+      "anio": 2024,
+      "generos": ["Acción", "Aventura", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "tLcV_toPAo" },
+            { "numero": 2, "video": "T9eKvkPs7F" },
+            { "numero": 3, "video": "6GJUxjWuS" },
+            { "numero": 4, "video": "Kml5NZJ8H" },
+            { "numero": 5, "video": "aN_cOUgWI" },
+            { "numero": 6, "video": "oZSsBaYpE4" },
+            { "numero": 7, "video": "Jlqj0KZ-2F" },
+            { "numero": 8, "video": "u2oBOx9wPw" },
+            { "numero": 9, "video": "eP6NASMMBR" },
+            { "numero": 10, "video": "l9WlTlzTZ" },
+            { "numero": 11, "video": "XxmQL5nCcF" },
+            { "numero": 12, "video": "RQsdkk99XO" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ramen-akaneko",
+      "titulo": "Ramen Akaneko",
+      "malId": 57325,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1805/142211.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un restaurante llamado Ramen Akaneko es operado completamente por gatos. Su negocio prospera bajo la dirección del gerente Bunzou y los otros empleados felinos. Un día, una tímida humana llamada Tamako Yashiro viene a una entrevista. Para su sorpresa, Bunzou la contrata inmediatamente después de descubrir que prefiere los perros a los gatos.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.41,
+      "anio": 2024,
+      "generos": ["Comedia", "Recuentos de la vida", "Shounen"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "nICUAbhr-r" },
+            { "numero": 2, "video": "WxFi1DSDp" },
+            { "numero": 3, "video": "TynaR5Xa5" },
+            { "numero": 4, "video": "5o7Eb63C9M" },
+            { "numero": 5, "video": "x6TlXl7Lgg" },
+            { "numero": 6, "video": "UqK-VYvdkW" },
+            { "numero": 7, "video": "BCyjmpgYUs" },
+            { "numero": 8, "video": "at_prrRyRF" },
+            { "numero": 9, "video": "xxSYVcka3m" },
+            { "numero": 10, "video": "Y-u8E9VJS" },
+            { "numero": 11, "video": "iLchoOBNT" },
+            { "numero": 12, "video": "_m5wUGjkuG" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elf-san-wa-yaserarenai",
+      "titulo": "Elf-san wa Yaserarenai.",
+      "malId": 55848,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1666/141042.jpg",
+      "imagenFondo": "",
+      "descripcion": "Una elfa llamada Aru es transportada a la Tierra y se obsesiona con la comida humana, especialmente con la comida chatarra. Pronto, su amigo humano y nutricionista, el Dr. Kyou, se enfrenta al desafío de ayudarla a perder peso mientras ella lucha contra sus antojos. Una comedia sobre dieta y vida cotidiana con elfos.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.48,
+      "anio": 2024,
+      "generos": ["Comedia", "Fantasía", "Ecchi", "Recuentos de la vida"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "SgE4h7D70i" },
+            { "numero": 2, "video": "bfmNBu0oBq" },
+            { "numero": 3, "video": "cZW6fM7Iq" },
+            { "numero": 4, "video": "YYfYg2TNL" },
+            { "numero": 5, "video": "Xy3gg_c2kw" },
+            { "numero": 6, "video": "YX4YTIQ_uf" },
+            { "numero": 7, "video": "9RmoKHZyRz" },
+            { "numero": 8, "video": "GeiIkI5ZG" },
+            { "numero": 9, "video": "684ktyRqr0" },
+            { "numero": 10, "video": "QWPl7xKTJi" },
+            { "numero": 11, "video": "XZD8D86ZhU" },
+            { "numero": 12, "video": "vHF-HMVz1" },
+            { "numero": 13, "video": "dI2LBV_ENk" },
+            { "numero": 14, "video": "fB_UTATMVe" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kinnikuman-kanpeki-choujin-shiso-hen",
+      "titulo": "Kinnikuman: Kanpeki Choujin Shiso-hen",
+      "malId": 59162,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1937/143762.jpg",
+      "imagenFondo": "",
+      "descripcion": "Episodio 0 de Kinnikuman: Kanpeki Choujin Shiso-hen. Un recopilatorio de arcos anteriores de la serie Kinnikuman.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.47,
+      "anio": 2024,
+      "generos": ["Comedia", "Deportes", "Shounen"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "uoDnloe_m" },
+            { "numero": 2, "video": "wMIZLeZUOz" },
+            { "numero": 3, "video": "u4ZsHNwRz" },
+            { "numero": 4, "video": "WnzKkdmIQp" },
+            { "numero": 5, "video": "lk4w7qHAH6" },
+            { "numero": 6, "video": "lal6JMLFGP" },
+            { "numero": 7, "video": "YghvqK6ii" },
+            { "numero": 8, "video": "0bCLAEjUR" },
+            { "numero": 9, "video": "IEEZSSyIc" },
+            { "numero": 10, "video": "S5mhybwSB" },
+            { "numero": 11, "video": "YUQ0I_7FV0" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "g_cmXC6iDJ" },
+            { "numero": 2, "video": "W4-1LqHacp" },
+            { "numero": 3, "video": "jruErdOy-" },
+            { "numero": 4, "video": "hAabHA74w" },
+            { "numero": 5, "video": "bqL-qdJuf" },
+            { "numero": 6, "video": "cqWxnxS5j" },
+            { "numero": 7, "video": "m58Jb34fCT" },
+            { "numero": 8, "video": "1Rewp1Vlt" },
+            { "numero": 9, "video": "2Sr_qbnp6" },
+            { "numero": 10, "video": "-zENC_4BPC" },
+            { "numero": 11, "video": "LIty-6jSx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "na-nare-hana-nare",
+      "titulo": "Na Nare Hana Nare",
+      "malId": 58117,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1796/143820.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un grupo de chicas de secundaria que practican el deporte de salto con pértiga en la ciudad de Gunma. La historia sigue sus vidas, amistades y aspiraciones mientras se preparan para una competencia nacional.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.59,
+      "anio": 2024,
+      "generos": ["Deportes", "Recuentos de la vida", "Escuela"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "KOol1O5xdl" },
+            { "numero": 2, "video": "RsYGSDCaD" },
+            { "numero": 3, "video": "mKcbK54kqG" },
+            { "numero": 4, "video": "LKFZxFqx_" },
+            { "numero": 5, "video": "vMgrrj2sB" },
+            { "numero": 6, "video": "btePPt5SbI" },
+            { "numero": 7, "video": "QUxGuxogpy" },
+            { "numero": 8, "video": "5w_7DBEZZE" },
+            { "numero": 9, "video": "cHk8MLdlH" },
+            { "numero": 10, "video": "eX9fN4v9_" },
+            { "numero": 11, "video": "_bR_4aIKt" },
+            { "numero": 12, "video": "0Na9uDQ_yz" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+      "titulo": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+      "malId": 56762,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1449/142419.jpg",
+      "imagenFondo": "",
+      "descripcion": "Una VTuber llamada Kizuna AI se convierte en una leyenda después de olvidar apagar su transmisión en vivo. Lo que sigue es una comedia sobre su vida cotidiana y las reacciones de sus fans.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.32,
+      "anio": 2024,
+      "generos": ["Comedia", "Recuentos de la vida", "Idol"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "WVJxe2yy0" },
+            { "numero": 2, "video": "PB6bsVJP4" },
+            { "numero": 3, "video": "8YVO7qt5VP" },
+            { "numero": 4, "video": "0C-NdVuaCS5" },
+            { "numero": 5, "video": "TNxjxr6lB" },
+            { "numero": 6, "video": "5PwSS8ia-d" },
+            { "numero": 7, "video": "fwddqEfL7" },
+            { "numero": 8, "video": "wp8Ps9aSK" },
+            { "numero": 9, "video": "GYyWlaAWG" },
+            { "numero": 10, "video": "Kjfz6gax4" },
+            { "numero": 11, "video": "JA2h3x4z1h" },
+            { "numero": 12, "video": "hUvLFbDmn" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "boku-no-tsuma-wa-kanjou-ga-nai",
+      "titulo": "Boku no Tsuma wa Kanjou ga Nai",
+      "malId": 55848,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1324/142753.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un hombre llamado Takuma se casa con una androide llamada Mina, quien no tiene emociones. Sin embargo, a medida que pasa el tiempo, Takuma comienza a notar que Mina está mostrando signos de tener sentimientos, lo que lo lleva a cuestionar la naturaleza de su relación.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.46,
+      "anio": 2024,
+      "generos": ["Comedia", "Romance", "Ciencia Ficción"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "64gSxwDmcE" },
+            { "numero": 2, "video": "Cb75b8Obys" },
+            { "numero": 3, "video": "p8DrmbWwb1" },
+            { "numero": 4, "video": "5waEAK1BV1" },
+            { "numero": 5, "video": "lllxg0eaFV" },
+            { "numero": 6, "video": "miPS4pv2st" },
+            { "numero": 7, "video": "C4Rh-Dbu8u" },
+            { "numero": 8, "video": "UqdwHTweuZ" },
+            { "numero": 9, "video": "08Eo1kCNpc" },
+            { "numero": 10, "video": "LH0g3T8ae" },
+            { "numero": 11, "video": "hoV26Pq_GP" },
+            { "numero": 12, "video": "5QQB7d34o" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "madougushi-dahliya-wa-utsumukanai",
+      "titulo": "Madougushi Dahliya wa Utsumukanai",
+      "malId": 56449,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1537/141042.jpg",
+      "imagenFondo": "",
+      "descripcion": "Dahliya, una joven maga, se dedica a fabricar artilugios mágicos en su taller. Después de ser traicionada por su prometido, ella decide independizarse y seguir su sueño de crear artefactos únicos. En su viaje, conoce a un misterioso caballero que la ayudará a descubrir su verdadero potencial.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.81,
+      "anio": 2024,
+      "generos": ["Fantasía", "Romance", "Recuentos de la vida"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "0g27hEZ7MN" },
+            { "numero": 2, "video": "F_yvqnXeW" },
+            { "numero": 3, "video": "3khmnpwpFw" },
+            { "numero": 4, "video": "Nt8mA9vqKR" },
+            { "numero": 5, "video": "R6Q-7EmiZ" },
+            { "numero": 6, "video": "ooFC-Z9ISvT" },
+            { "numero": 7, "video": "ybxW3-39le" },
+            { "numero": 8, "video": "Wk24HFZkP" },
+            { "numero": 9, "video": "sz0RhSOIqeW" },
+            { "numero": 10, "video": "X55ADQY6u" },
+            { "numero": 11, "video": "FUres6-VHt" },
+            { "numero": 12, "video": "4eW7FmKz6" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prism-rondo",
+      "titulo": "Prism Rondo",
+      "malId": 59405,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1936/143762.jpg",
+      "imagenFondo": "",
+      "descripcion": "Una serie de cortos animados que exploran diferentes historias y géneros, desde la comedia hasta la ciencia ficción, presentando personajes coloridos y situaciones surrealistas.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 5.93,
+      "anio": 2026,
+      "generos": ["Comedia", "Ciencia Ficción", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "sL23WbDSxF" },
+            { "numero": 2, "video": "XcUfG-LzW" },
+            { "numero": 3, "video": "8MwLCCsN-" },
+            { "numero": 4, "video": "1ZSwOIe8Z" },
+            { "numero": 5, "video": "Yadqw99qi" },
+            { "numero": 6, "video": "TAZeZoyhD" },
+            { "numero": 7, "video": "s8auJ9cw4" },
+            { "numero": 8, "video": "fJRJ3DWi6" },
+            { "numero": 9, "video": "P5sgLfLSV" },
+            { "numero": 10, "video": "-sUOVw1bO" },
+            { "numero": 11, "video": "oShgihZHa" },
+            { "numero": 12, "video": "v4ZFRPeqL" },
+            { "numero": 13, "video": "EtKn_dE8mi" },
+            { "numero": 14, "video": "2MFYY2VXX" },
+            { "numero": 15, "video": "0USGeubEI" },
+            { "numero": 16, "video": "tbpVaCky-" },
+            { "numero": 17, "video": "lc_lT-3m1" },
+            { "numero": 18, "video": "EzMxRHrl8" },
+            { "numero": 19, "video": "OE0OfzqRB" },
+            { "numero": 20, "video": "--QwrjInm" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kage-no-jitsuryokusha-ni-naritakute",
+      "titulo": "Kage no Jitsuryokusha ni Naritakute!",
+      "malId": 53792,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1765/135172.jpg",
+      "imagenFondo": "",
+      "descripcion": "Cid Kagenou es un joven que sueña con convertirse en el 'poder en la sombra', un maestro de la conspiración que manipula los acontecimientos desde las sombras. Para lograrlo, lidera una organización secreta llamada 'Sombra' que combate una amenaza invisible. Sin embargo, sus acciones tienen consecuencias reales que lo llevan a enfrentar un destino más grande de lo que imaginaba.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 8.41,
+      "anio": 2022,
+      "generos": ["Acción", "Comedia", "Fantasía", "Isekai"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "aPpf2e916s" },
+            { "numero": 2, "video": "wW6I_krPp" },
+            { "numero": 3, "video": "HXPe7syD8" },
+            { "numero": 4, "video": "mOP_Oahie" },
+            { "numero": 5, "video": "1JXo3JVhy" },
+            { "numero": 6, "video": "iFdUllEsV" },
+            { "numero": 7, "video": "wV-MqjmXd" },
+            { "numero": 8, "video": "DFR5EJLtS" },
+            { "numero": 9, "video": "9xC80UnIf" },
+            { "numero": 10, "video": "PZ32mxPqv" },
+            { "numero": 11, "video": "mqiUT0jvj" },
+            { "numero": 12, "video": "LhCKmPcIS" },
+            { "numero": 13, "video": "-rIp9Wvyb" },
+            { "numero": 14, "video": "ctazkDstj" },
+            { "numero": 15, "video": "fqnQiISsh" },
+            { "numero": 16, "video": "xZ90-BO8J" },
+            { "numero": 17, "video": "RrEzgnhiZ" },
+            { "numero": 18, "video": "6QvGL1Qhq" },
+            { "numero": 19, "video": "jv9cassro" },
+            { "numero": 20, "video": "YoWgPpX9t" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "xQ2sDoVJz" },
+            { "numero": 2, "video": "kP06qa-RD" },
+            { "numero": 3, "video": "JDNGL1M7u" },
+            { "numero": 4, "video": "AszvfPjU-" },
+            { "numero": 5, "video": "yq5CYlTLQ" },
+            { "numero": 6, "video": "uonHILXaE" },
+            { "numero": 7, "video": "VIIRqQvdv" },
+            { "numero": 8, "video": "4gaNb8SRQ" },
+            { "numero": 9, "video": "K-4cfja1y" },
+            { "numero": 10, "video": "esbMOzUGQA" },
+            { "numero": 11, "video": "7MjokspgX" },
+            { "numero": 12, "video": "MP93jG-sj" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mayonaka-punch",
+      "titulo": "Mayonaka Punch",
+      "malId": 57912,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1210/142348.jpg",
+      "imagenFondo": "",
+      "descripcion": "Una serie de acción y comedia que sigue a un grupo de jóvenes que se convierten en luchadores nocturnos. Cada episodio presenta combates emocionantes y situaciones absurdas mientras intentan proteger su ciudad de amenazas sobrenaturales.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.75,
+      "anio": 2024,
+      "generos": ["Acción", "Comedia", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "A7DmChDl-" },
+            { "numero": 2, "video": "X6YAqHqxS" },
+            { "numero": 3, "video": "YK00u5EAhF" },
+            { "numero": 4, "video": "Z2lSQr_3f" },
+            { "numero": 5, "video": "pQz0B6hL8iL" },
+            { "numero": 6, "video": "x-0GEG_XE7" },
+            { "numero": 7, "video": "V9juQT-2S" },
+            { "numero": 8, "video": "Pdwc591xey" },
+            { "numero": 9, "video": "ZgTFLX4gUH5" },
+            { "numero": 10, "video": "rnHcrngQX" },
+            { "numero": 11, "video": "3mwrsuHSqV" },
+            { "numero": 12, "video": "is5-_2uIVP" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shy",
+      "titulo": "Shy",
+      "malId": 53388,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1382/137980.jpg",
+      "imagenFondo": "",
+      "descripcion": "Teru Momijiyama es una superheroína que lucha contra el crimen, pero su timidez extrema la hace dudar constantemente. Con la ayuda de sus amigos y compañeros, Shy (como es conocida) debe superar sus inseguridades para proteger a los inocentes y enfrentar a una organización malvada que amenaza la paz mundial.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.08,
+      "anio": 2023,
+      "generos": ["Acción", "Comedia", "Superhéroes", "Recuentos de la vida"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "edv_us2jA" },
+            { "numero": 2, "video": "UXJWSb-Mk" },
+            { "numero": 3, "video": "uk3Me_cWy" },
+            { "numero": 4, "video": "9n09i8Laq" },
+            { "numero": 5, "video": "hSnH4Nuvmo" },
+            { "numero": 6, "video": "YMgmHOflVC" },
+            { "numero": 7, "video": "TthS4ydk7G" },
+            { "numero": 8, "video": "kOCwSCxRVC" },
+            { "numero": 9, "video": "JscU0razfY" },
+            { "numero": 10, "video": "-hnBueUXIl" },
+            { "numero": 11, "video": "kmNpjcI4x" },
+            { "numero": 12, "video": "kiJC1zklh" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "JNoqieC_dr" },
+            { "numero": 2, "video": "WCJ2Ye2a7" },
+            { "numero": 3, "video": "dKowl67WsY" },
+            { "numero": 4, "video": "XbhbbWbxj" },
+            { "numero": 5, "video": "0efNMTfEB" },
+            { "numero": 6, "video": "s-GdP3DRhM" },
+            { "numero": 7, "video": "Q5pljxpIk" },
+            { "numero": 8, "video": "wS-t7CrOsA_" },
+            { "numero": 9, "video": "UWZnAryCj" },
+            { "numero": 10, "video": "RLEZoMLkf" },
+            { "numero": 11, "video": "JhYoPzsbK" },
+            { "numero": 12, "video": "ZAcfIpPBjI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scissor-seven-cike-wu-liuqi",
+      "titulo": "Scissor Seven (Cike Wu Liuqi)",
+      "malId": 37756,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1494/114948.jpg",
+      "imagenFondo": "",
+      "descripcion": "Seven es un barbero de la isla Chicken que también trabaja como asesino a tiempo parcial. Con su habilidad para transformar tijeras de peluquería en armas, Seven se enfrenta a enemigos poderosos y situaciones cómicas mientras busca recuperar su memoria perdida y descubrir su verdadera identidad.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 8.23,
+      "anio": 2018,
+      "generos": ["Acción", "Comedia", "Shounen", "Superhéroes"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "v6WJz7trK" },
+            { "numero": 2, "video": "VXKqO3EwV" },
+            { "numero": 3, "video": "8kGkul7X3" },
+            { "numero": 4, "video": "kUQiKyr5i" },
+            { "numero": 5, "video": "yIqTAVeLE" },
+            { "numero": 6, "video": "u31yLArG-" },
+            { "numero": 7, "video": "EyHWgWKJr" },
+            { "numero": 8, "video": "pSMz-zUZ7xQ" },
+            { "numero": 9, "video": "QbCAZN1SU" },
+            { "numero": 10, "video": "DuJvmn_YE" },
+            { "numero": 11, "video": "6_s8atAmX" },
+            { "numero": 12, "video": "QQd86cnXw" },
+            { "numero": 13, "video": "-L3FPPgUn" },
+            { "numero": 14, "video": "xCTVL6KQx" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "GAYqQNE6-" },
+            { "numero": 2, "video": "a-3nYAouA" },
+            { "numero": 3, "video": "XFDPMov8R" },
+            { "numero": 4, "video": "fe88rso7l" },
+            { "numero": 5, "video": "ER3Z8xp05" },
+            { "numero": 6, "video": "xjnpQszR0" },
+            { "numero": 7, "video": "fHe1ue_eN" },
+            { "numero": 8, "video": "PP43-JAPK" },
+            { "numero": 9, "video": "r5rFlClZ_" },
+            { "numero": 10, "video": "arO_O7YEh" }
+          ]
+        },
+        {
+          "numero": 3,
+          "capitulos": [
+            { "numero": 1, "video": "0XpZN661K" },
+            { "numero": 2, "video": "LUgqeIYY5" },
+            { "numero": 3, "video": "4LQbY5pxz" },
+            { "numero": 4, "video": "SjWsGecPw" },
+            { "numero": 5, "video": "pFpnNZrMU" },
+            { "numero": 6, "video": "3DKwdXVxe" },
+            { "numero": 7, "video": "-4W6zBRVa" },
+            { "numero": 8, "video": "zmTRk68Dv" },
+            { "numero": 9, "video": "WBSauGGFC" },
+            { "numero": 10, "video": "Gjbj2nH-Mw" }
+          ]
+        },
+        {
+          "numero": 4,
+          "capitulos": [
+            { "numero": 1, "video": "0XpZN661K" },
+            { "numero": 2, "video": "LUgqeIYY5" },
+            { "numero": 3, "video": "4LQbY5pxz" },
+            { "numero": 4, "video": "SjWsGecPw" },
+            { "numero": 5, "video": "pFpnNZrMU" },
+            { "numero": 6, "video": "3DKwdXVxe" },
+            { "numero": 7, "video": "-4W6zBRVa" },
+            { "numero": 8, "video": "zmTRk68Dv" },
+            { "numero": 9, "video": "WBSauGGFC" },
+            { "numero": 10, "video": "Gjbj2nH-Mw" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
+      "titulo": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+      "malId": 57912,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1210/142348.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un hombre de mediana edad que siempre ha querido ser aventurero se une a un grupo de élite. A través de un entrenamiento extremo, se vuelve invencible y demuestra que la edad no es un límite para alcanzar los sueños.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.75,
+      "anio": 2024,
+      "generos": ["Acción", "Fantasía", "Aventura"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "9LtqDUUJyO" },
+            { "numero": 2, "video": "fky5fOe5X" },
+            { "numero": 3, "video": "UWqelI68U0o" },
+            { "numero": 4, "video": "p1lPt1v5S" },
+            { "numero": 5, "video": "D-r9rP_Jo" },
+            { "numero": 6, "video": "_WviI9cbcZ" },
+            { "numero": 7, "video": "feFhhojED" },
+            { "numero": 8, "video": "8KszpXEDZg" },
+            { "numero": 9, "video": "RUNwiCnoF" },
+            { "numero": 10, "video": "Uf1juk8TA" },
+            { "numero": 11, "video": "2ZPa2ftHn" },
+            { "numero": 12, "video": "X8bPsBYh6w" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
+      "titulo": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+      "malId": 51718,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1122/142376.jpg",
+      "imagenFondo": "",
+      "descripcion": "El comerciante Lawrence se encuentra con una diosa lobo llamada Holo, quien le propone un trato: viajar juntos a su tierra natal, la ciudad de Yoitsu, a cambio de su ayuda en sus negocios. Juntos, enfrentarán los peligros del comercio y la política en un mundo medieval.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 8.35,
+      "anio": 2024,
+      "generos": ["Aventura", "Romance", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "oa9uX3SJMO" },
+            { "numero": 2, "video": "7vHoi5f_af" },
+            { "numero": 3, "video": "PRiyEZPSKu" },
+            { "numero": 4, "video": "I-Gf9LVuCvL" },
+            { "numero": 5, "video": "uI31_wkprs" },
+            { "numero": 6, "video": "OXJ9iXGuvi" },
+            { "numero": 7, "video": "BWymGtmw7Q" },
+            { "numero": 8, "video": "P7bv3b2Bz4" },
+            { "numero": 9, "video": "JS2JYzWOKL" },
+            { "numero": 10, "video": "2gIzi8_00I" },
+            { "numero": 11, "video": "SPN-n3l2mwo" },
+            { "numero": 12, "video": "1hMecoGz5aK" },
+            { "numero": 13, "video": "2ltR5r1SIG" },
+            { "numero": 14, "video": "F-2nHOxNhge" },
+            { "numero": 15, "video": "8VxPo79XSx" },
+            { "numero": 16, "video": "CkmoG_uECW" },
+            { "numero": 17, "video": "7yDvS0Ax6v" },
+            { "numero": 18, "video": "wZJIZ7QZOV" },
+            { "numero": 19, "video": "3MnrcsDilW" },
+            { "numero": 20, "video": "3oSsaefso" },
+            { "numero": 21, "video": "t97eJgM0zq" },
+            { "numero": 22, "video": "5BtDLQVRl" },
+            { "numero": 23, "video": "AZTANx1JvZ" },
+            { "numero": 24, "video": "A9NMzwEEjG" },
+            { "numero": 25, "video": "pcgH43m7X" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+      "titulo": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
+      "malId": 56399,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1565/141042.jpg",
+      "imagenFondo": "",
+      "descripcion": "Una parodia de los animes de chicas mágicas donde la heroína y la villana en realidad están enamoradas la una de la otra. La serie sigue sus cómicas interacciones mientras intentan mantener su rivalidad en secreto.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.38,
+      "anio": 2024,
+      "generos": ["Comedia", "Romance", "Fantasía", "Magia"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "eWrfnzIe5" },
+            { "numero": 2, "video": "EDSmNdq3f2" },
+            { "numero": 3, "video": "O0liSIhM6L" },
+            { "numero": 4, "video": "t3I9zEFXnK" },
+            { "numero": 5, "video": "Bxp4jhS6go" },
+            { "numero": 6, "video": "329-lqz-Uw" },
+            { "numero": 7, "video": "Kg2U_hMVG" },
+            { "numero": 8, "video": "xVz-KZ-7k" },
+            { "numero": 9, "video": "qPWK-Ea9_k" },
+            { "numero": 10, "video": "fJAcJ7gxBt" },
+            { "numero": 11, "video": "h2nBoe_yG0" },
+            { "numero": 12, "video": "KKucNHTA63" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "isekai-shikkaku",
+      "titulo": "Isekai Shikkaku",
+      "malId": 51718,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1122/142376.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un escritor de novelas ligeras es transportado a un mundo de fantasía, pero su poder es nulo y todos lo subestiman. Sin embargo, su conocimiento y habilidades literarias lo convierten en un aliado invaluable para el reino, mientras lucha por demostrar su valía.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.22,
+      "anio": 2024,
+      "generos": ["Acción", "Aventura", "Fantasía", "Isekai"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "3kzldnFqc" },
+            { "numero": 2, "video": "_KbRmueSN" },
+            { "numero": 3, "video": "hPfXGxzaZ" },
+            { "numero": 4, "video": "Unwk_zRHz" },
+            { "numero": 5, "video": "CMIFYiOTcG" },
+            { "numero": 6, "video": "xbd1Y7jfvb" },
+            { "numero": 7, "video": "WMKR-8kxg" },
+            { "numero": 8, "video": "kxRDx2dU12" },
+            { "numero": 9, "video": "2ZM_tkGSL" },
+            { "numero": 10, "video": "3Ziak21hZ" },
+            { "numero": 11, "video": "ECD72b0tDw" },
+            { "numero": 12, "video": "fbz9jmVU-v" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "koi-wa-futago-de-warikirenai",
+      "titulo": "Koi wa Futago de Warikirenai",
+      "malId": 57741,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1491/142753.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un chico llamado Junta se encuentra enamorado de dos gemelas idénticas, Ruri y Miu. Incapaz de decidirse, se ve envuelto en un triángulo amoroso lleno de malentendidos y situaciones cómicas, mientras intenta descubrir sus verdaderos sentimientos.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.72,
+      "anio": 2024,
+      "generos": ["Comedia", "Romance", "Escuela"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "d6eLkyfK_" },
+            { "numero": 2, "video": "7z2kmyDYOQ" },
+            { "numero": 3, "video": "NRasxpWnkf" },
+            { "numero": 4, "video": "7N0T409B99" },
+            { "numero": 5, "video": "F9PJu97pu2" },
+            { "numero": 6, "video": "qRLFqE2qMD" },
+            { "numero": 7, "video": "UBs70aXNwr" },
+            { "numero": 8, "video": "Eax8lQVd4" },
+            { "numero": 9, "video": "7KNSH28tf" },
+            { "numero": 10, "video": "Cl2D-V8LX" },
+            { "numero": 11, "video": "iBOrRHS-L" },
+            { "numero": 12, "video": "EtGozd9hwO" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita",
+      "titulo": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
+      "malId": 51718,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1122/142376.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un joven que fue transportado a otro mundo descubre que puede obtener una segunda profesión. Con la habilidad de un sabio y su nueva profesión, se convierte en el más poderoso del mundo, pero debe aprender a controlar su poder y enfrentar los desafíos que se le presentan.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.69,
+      "anio": 2022,
+      "generos": ["Acción", "Aventura", "Fantasía", "Isekai"],
+      "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "nWS7soMp2k" },
+            { "numero": 2, "video": "m1WDTm26c" },
+            { "numero": 3, "video": "jWcUUzir81" },
+            { "numero": 4, "video": "Dsf82PsnUq" },
+            { "numero": 5, "video": "RJwFtkMNh" },
+            { "numero": 6, "video": "6VFSR_hwhR" },
+            { "numero": 7, "video": "vgDDBm1pd" },
+            { "numero": 8, "video": "2hvmEuE_by" },
+            { "numero": 9, "video": "b5kh0UvBfE" },
+            { "numero": 10, "video": "nYua_9eWe" },
+            { "numero": 11, "video": "mSRzaoO5Ff" },
+            { "numero": 12, "video": "2SHia7DCKQ" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grendizer-u",
+      "titulo": "Grendizer U",
+      "malId": 51718,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1122/142376.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un remake de la clásica serie de mechas. Grendizer, un robot gigante, defiende la Tierra de una invasión alienígena. Duke Fleed, el piloto, debe luchar contra los villanos mientras protege a la humanidad de la destrucción.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.06,
+      "anio": 2024,
+      "generos": ["Acción", "Ciencia Ficción", "Mecha"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "1RCmjNt5tv" },
+            { "numero": 2, "video": "ehsZa0uGi4" },
+            { "numero": 3, "video": "rh7g4JL33h" },
+            { "numero": 4, "video": "X-zs0jU-7Y" },
+            { "numero": 5, "video": "vZUVkkdRr" },
+            { "numero": 6, "video": "4hi-yU28WJ" },
+            { "numero": 7, "video": "i65Irvd516" },
+            { "numero": 8, "video": "23tGbsCJv" },
+            { "numero": 9, "video": "acHLal0mm" },
+            { "numero": 10, "video": "hVdBt6Nkl" },
+            { "numero": 11, "video": "sicwlnmefG" },
+            { "numero": 12, "video": "D9if5LcZIl" },
+            { "numero": 13, "video": "2ZHqCU1Mh" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "senpai-wa-otokonoko",
+      "titulo": "Senpai wa Otokonoko",
+      "malId": 57741,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1491/142753.jpg",
+      "imagenFondo": "",
+      "descripcion": "Makoto, un estudiante de secundaria que se viste como chico, es el senpai de Saki, una chica que se enamora de él sin saber su verdadero género. La serie explora temas de identidad, amor y aceptación en un entorno escolar.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.62,
+      "anio": 2024,
+      "generos": ["Comedia", "Romance", "Drama", "Escuela"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "mFEXCkYcnS" },
+            { "numero": 2, "video": "ocVwBreCH0" },
+            { "numero": 3, "video": "QvRChg4oH" },
+            { "numero": 4, "video": "iBUgt3bpc" },
+            { "numero": 5, "video": "bFKFTToMB3" },
+            { "numero": 6, "video": "vet53taTAn" },
+            { "numero": 7, "video": "xDabPcMURL" },
+            { "numero": 8, "video": "501lqB8y4" },
+            { "numero": 9, "video": "VJmjDLkbvt" },
+            { "numero": 10, "video": "py06IuTr0H" },
+            { "numero": 11, "video": "dhgDgOSGf" },
+            { "numero": 12, "video": "JCL5UtufbY" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "make-heroine-ga-oosugiru",
+      "titulo": "Make Heroine ga Oosugiru!",
+      "malId": 57741,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1491/142753.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un chico llamado Shouma tiene la habilidad de ver las rutas de los finales de las chicas (heroínas). Con esta habilidad, intenta evitar que sus amigas terminen en finales trágicos, pero sus acciones a menudo causan más problemas que soluciones.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.34,
+      "anio": 2024,
+      "generos": ["Comedia", "Romance", "Escuela"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "GvwssqVm0" },
+            { "numero": 2, "video": "_1q3Ouckf_" },
+            { "numero": 3, "video": "wFobMPiqc" },
+            { "numero": 4, "video": "YzTQcReGuQ" },
+            { "numero": 5, "video": "_a2QHgzfHA" },
+            { "numero": 6, "video": "BpVHXBE33B" },
+            { "numero": 7, "video": "KUXi88Dww" },
+            { "numero": 8, "video": "lwB6Cuskek" },
+            { "numero": 9, "video": "vtt31sodQ" },
+            { "numero": 10, "video": "T90Pg7KBN" },
+            { "numero": 11, "video": "9DmWK9FGhY" },
+            { "numero": 12, "video": "rKUVR2zqu" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+      "titulo": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+      "malId": 59220,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1122/142376.jpg",
+      "imagenFondo": "",
+      "descripcion": "En un mundo donde la humanidad ha olvidado su propia historia, un joven llamado Kai descubre que el pasado fue alterado por una organización secreta. Con la ayuda de una chica misteriosa, Kai busca restaurar los recuerdos perdidos y evitar que el mundo caiga en el caos.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.98,
+      "anio": 2024,
+      "generos": ["Acción", "Ciencia Ficción", "Misterio"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "f6AFzHxeS" },
+            { "numero": 2, "video": "JterC0TWK" },
+            { "numero": 3, "video": "ep06pNtEKa" },
+            { "numero": 4, "video": "w4mftj0htk" },
+            { "numero": 5, "video": "6HX_XgHEIY" },
+            { "numero": 6, "video": "IiAP2Vnsps" },
+            { "numero": 7, "video": "omnLJlkL_" },
+            { "numero": 8, "video": "FcxgHIeRu" },
+            { "numero": 9, "video": "XIVlni54F" },
+            { "numero": 10, "video": "kA5poBzhqT" },
+            { "numero": 11, "video": "0pCleuGu8" },
+            { "numero": 12, "video": "BBHAMV5rvKc" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nige-jouzu-no-wakagimi",
+      "titulo": "Nige Jouzu no Wakagimi",
+      "malId": 57741,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1491/142753.jpg",
+      "imagenFondo": "",
+      "descripcion": "Tokiyuki Hojo, el joven señor del clan Hojo, es conocido por su habilidad para escapar de cualquier situación. Después de la caída de su clan, Tokiyuki debe usar su talento para sobrevivir y reconstruir su legado, mientras evade a sus enemigos.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.62,
+      "anio": 2024,
+      "generos": ["Acción", "Histórico", "Comedia", "Shounen"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "1QDJVm0QVw" },
+            { "numero": 2, "video": "q69xydowM" },
+            { "numero": 3, "video": "WM9ecBMPKs" },
+            { "numero": 4, "video": "2AvRO76mp" },
+            { "numero": 5, "video": "y3I_XKckrR" },
+            { "numero": 6, "video": "5vrpj0jFav" },
+            { "numero": 7, "video": "U761DwS7XJv" },
+            { "numero": 8, "video": "5_2Is88YM" },
+            { "numero": 9, "video": "KPBpHMRDabP" },
+            { "numero": 10, "video": "sblYXp0tP" },
+            { "numero": 11, "video": "DdcFpYIFgs" },
+            { "numero": 12, "video": "mbLpUrhNa" }
           ]
         }
       ]

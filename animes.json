@@ -3199,6 +3199,146 @@
           ]
         }
       ]
+    },
+    {
+      "id": "temple",
+      "titulo": "Temple",
+      "malId": 54275,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1879/136896.jpg",
+      "imagenFondo": "",
+      "descripcion": "Desde joven, Akemitsu Akagami aprendió de su padre que las personas nunca pueden vivir solas. Pero debajo del aparentemente prudente consejo yace una verdad que lo corrompe: los hijos del linaje Akagami son infames por ser playboys atroces. Decidido a limpiar la notoriedad de su apellido, Akemitsu se mantiene alejado de las chicas durante toda su vida, solo para convertirse en víctima de los instintos de su linaje, al enamorarse a primera vista. En un último esfuerzo por deshacerse de estos deseos, Akemitsu viaja a un templo cercano con la esperanza de recibir entrenamiento budista. Sin embargo, el caos se desata cuando la chica de la que se enamoró lo recibe en la puerta. Después de que la conmoción se calma, descubre que el templo es en realidad un convento del cual su padre había tomado prestados millones antes de huir. Ahora trabajando en el convento para pagar las deudas pendientes, Akemitsu hace todo lo posible por mantener la compostura y mantenerse célibe mientras está rodeado de hermosas chicas de todo tipo.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.69,
+      "anio": 2023,
+      "generos": ["Comedia", "Romance", "Ecchi", "Harem"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": []
+        }
+      ]
+    },
+    {
+      "id": "tengoku-daimakyou",
+      "titulo": "Tengoku Daimakyou",
+      "malId": 53393,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1121/133132.jpg",
+      "imagenFondo": "",
+      "descripcion": "Hace quince años, un desastre azotó la civilización humana, y ahora peligrosos monstruos devoradores de hombres deambulan por las tierras devastadas, representando una amenaza existencial para los supervivientes. En medio de este tumulto, una instalación aislada alberga a niños y los cría en paz. Sin embargo, cuando algunos de ellos descubren el mundo más allá de los estrechos límites de los muros de su guardería, su curiosidad por él crece lentamente. Mientras tanto, en el mundo exterior, los jóvenes supervivientes Maru y Kiruko se unen para buscar un lugar especial llamado Cielo, cada uno por sus propias razones. Cargando con pesadas cargas del pasado y trágicos secretos, los dos esperan encontrar respuestas a la crueldad que han experimentado en sus vidas y en el mundo, que aún permanece hecho jirones.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 8.20,
+      "anio": 2023,
+      "generos": ["Aventura", "Misterio", "Ciencia Ficción"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": []
+        }
+      ]
+    },
+    {
+      "id": "undead-girl-murder-farce",
+      "titulo": "Undead Girl Murder Farce",
+      "malId": 54790,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1946/136661.jpg",
+      "imagenFondo": "",
+      "descripcion": "En la Francia del siglo XIX, la esposa del noble vampiro Jean Duchet Godard es asesinada en su propia casa. Con las autoridades humanas locales poco dispuestas a investigar adecuadamente el caso, Godard contrata a un par de detectives privados conocidos por especializarse en lo sobrenatural: Tsugaru Shinuchi, un hombre con una misteriosa jaula de pájaros; y su compañera, Aya Rindou. Este enigmático dúo ha llegado desde el lejano Japón con un solo propósito: rastrear al hombre que robó tanto el cuerpo de Aya como la humanidad de Tsugaru.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.84,
+      "anio": 2023,
+      "generos": ["Fantasía", "Misterio", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": []
+        }
+      ]
+    },
+    {
+      "id": "zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
+      "titulo": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+      "malId": 54112,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1384/136408.jpg",
+      "imagenFondo": "",
+      "descripcion": "Después de graduarse de una universidad de primer nivel con un impresionante historial extracurricular en el club de rugby, Akira Tendou ha superado todos los pasos para asegurar el trabajo de sus sueños. Además, una compañera de trabajo hermosa y amable siempre alegra su día en la oficina. La vida parece ir muy bien para Akira hasta que se da cuenta lentamente de que las noches sin dormir y el trabajo brutal son su nueva realidad. Debido a tres años de trabajo insoportable en una empresa explotadora, Akira es incapaz de reconocer a la persona cansada y sin logros en la que se ha convertido. A punto de perder toda pasión por la vida, como varios de sus colegas sobrecargados de trabajo, Akira encuentra su salvación de la manera más inesperada posible: el estallido de un apocalipsis zombie. Con el tiempo libre que finalmente tiene, Akira decide completar una lista de cien cosas que quiere hacer antes de convertirse en un zombie.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.69,
+      "anio": 2023,
+      "generos": ["Comedia", "Suspenso"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": []
+        }
+      ]
+    },
+    {
+      "id": "undead-unluck",
+      "titulo": "Undead Unluck",
+      "malId": 52741,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1136/138410.jpg",
+      "imagenFondo": "",
+      "descripcion": "Con la conclusión de su manga romántico favorito, Fuuko Izumo está lista para acabar con su vida de miseria y soledad, habiendo aceptado durante mucho tiempo su destino de nunca poder experimentar un amor apasionado como los personajes de ficción. Maldita con \"mala suerte\", cualquiera que Fuuko toque corre grave peligro de experimentar una calamidad inimaginable. Si bien la posibilidad de un peligro inminente haría que la mayoría de las personas cuerdas corrieran en dirección opuesta, Undead tiene otras ideas. Es un ser inmortal con poderes regenerativos sobrehumanos que busca desesperadamente la muerte, la cual siempre lo ha eludido. Cuando sus caminos finalmente se cruzan, Undead ve una oportunidad para poner fin a su sufrimiento usando la mala suerte de Fuuko. Pero antes de que Undead pueda desbloquear todo el potencial del poder de Fuuko para desencadenar el golpe devastador final, el dúo primero debe defenderse de una organización secreta asesina empeñada en exterminar a aquellos con habilidades especiales.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.73,
+      "anio": 2023,
+      "generos": ["Acción", "Comedia", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": []
+        }
+      ]
+    },
+    {
+      "id": "tokyo-ghoul",
+      "titulo": "Tokyo Ghoul",
+      "malId": 22319,
+      "imagen": "https://cdn.myanimelist.net/images/anime/5/64449.jpg",
+      "imagenFondo": "",
+      "descripcion": "Una siniestra amenaza está invadiendo Tokio: \"ghouls\" devoradores de carne que parecen idénticos a los humanos y se mezclan con su población. El reservado estudiante universitario Ken Kaneki entierra su nariz en los libros y evita las noticias sobre la creciente crisis. Sin embargo, la aparición de una atractiva mujer llamada Rize Kamishiro rompe su soledad cuando ella le pide directamente una cita. Mientras acompaña a Rize a casa, Kaneki descubre que ella no es tan amable como parecía inicialmente, y lo ha llevado con una intención siniestra. Después de una trágica lucha, más tarde despierta en un hospital y descubre que su vida fue salvada trasplantando los órganos de la ahora fallecida Rize a su propio cuerpo. El cuerpo de Kaneki comienza a cambiar de manera horrible, y se transforma en un híbrido de humano y ghoul. Mientras se embarca en su nuevo y temible viaje, Kaneki se aferra a su humanidad en el sangriento conflicto en evolución entre los nuevos monstruos de la sociedad y los agentes gubernamentales que los cazan.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.79,
+      "anio": 2014,
+      "generos": ["Acción", "Terror", "Sobrenatural", "Drama"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": []
+        }
+      ]
+    },
+    {
+      "id": "tokyo-revengers",
+      "titulo": "Tokyo Revengers",
+      "malId": 42249,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1733/140802.jpg",
+      "imagenFondo": "",
+      "descripcion": "El segundo año de secundaria de Takemichi Hanagaki fue el punto más alto de su vida. Tenía respeto, una pandilla de amigos en los que podía contar e incluso una novia. Pero eso fue hace doce años. Hoy, es un don nadie: un fracasado sin importancia del que los niños se burlan y que siempre se ve obligado a disculparse con su jefe más joven. Un informe de noticias repentino sobre el cruel asesinato de la única novia que tuvo, junto con su hermano, a manos de la Pandilla Tokyo Manji, solo añade insulto a la injuria. Medio segundo antes de que un tren acabe con su patética vida para siempre, Takemichi recuerda ese mismo día hace 12 años, cuando aún salía con Hinata Tachibana. Después de verse obligado a revivir exactamente el mismo día que inició su espiral descendente, Takemichi se encuentra con el hermano menor de Hinata. Sin pensar, admite su aparente muerte antes de regresar al pasado. Takemichi le insta a proteger a su hermana antes de regresar inexplicablemente al futuro. Milagrosamente, no está muerto. Aún más extraño, el futuro ha cambiado. Parece que Takemichi puede alterar el flujo del tiempo. Dada la oportunidad de evitar la trágica muerte de su exnovia a manos de la Pandilla Tokyo Manji, Takemichi decide viajar en el tiempo para cambiar el curso del futuro.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.81,
+      "anio": 2021,
+      "generos": ["Acción", "Drama", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": []
+        }
+      ]
     }
   ],
   "idsEnEmision": [

@@ -6455,6 +6455,710 @@
         ]
       }
     ]
+  },
+  {
+    "id": "sakamichi-no-apollon",
+    "titulo": "Sakamichi no Apollon",
+    "malId": 12531,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1604/98654.jpg",
+    "imagenFondo": "",
+    "descripcion": "Kaoru Nishimi, un estudiante de secundaria de clase alta y refinada, se muda a la ciudad costera de Kyushu para vivir con su tío. Su padre, que es un músico de jazz famoso, lo abandonó cuando era joven. Kaoru es un chico introvertido y tímido que no tiene amigos. Un día, conoce a Sentarou Kawabuchi, un delincuente conocido por su comportamiento violento. Sentarou es un baterista de jazz que toca en un club de jazz local. A través de su amistad con Sentarou, Kaoru descubre el mundo del jazz y comienza a tocar el piano en el club. La serie sigue la amistad, el amor y la música de Kaoru, Sentarou y sus amigos.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 8.20,
+    "anio": 2012,
+    "generos": ["Drama", "Musica", "Romance", "Escuela", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sentai-red-isekai-de-boukensha-ni-naru",
+    "titulo": "Sentai Red Isekai de Boukensha ni Naru",
+    "malId": 59514,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1390/146918.jpg",
+    "imagenFondo": "",
+    "descripcion": "Kizuna Red es el líder de un equipo de héroes sentai que luchan contra las fuerzas del mal. En una batalla final contra el Rey Demonio, Kizuna Red sacrifica su vida para salvar a sus compañeros, pero en lugar de morir, es transportado a un mundo de fantasía. Allí, se convierte en un aventurero que usa sus habilidades de sentai para ayudar a los demás. Junto a la princesa Idola, se embarca en una nueva aventura para derrotar al Rey Demonio de este mundo.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.32,
+    "anio": 2025,
+    "generos": ["Acción", "Aventura", "Fantasía", "Comedia", "Isekai"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sorairo-utility",
+    "titulo": "Sorairo Utility",
+    "malId": 50209,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1291/118973.jpg",
+    "imagenFondo": "",
+    "descripcion": "Minami Aoyama es una chica que no sabe qué hacer con su vida. Un día, es invitada por su amiga Haruka a jugar al golf. A pesar de no tener experiencia, Minami se siente atraída por el deporte y decide practicarlo. Junto a sus amigas, descubre la diversión del golf y la amistad.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.53,
+    "anio": 2025,
+    "generos": ["Deportes", "Slice of Life", "Comedia"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tasokare-hotel",
+    "titulo": "Tasokare Hotel",
+    "malId": 59136,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1974/147269.jpg",
+    "imagenFondo": "",
+    "descripcion": "Una joven llamada Neko encuentra un misterioso hotel en medio de la nada. El hotel está habitado por personas que han perdido sus recuerdos. Neko decide trabajar en el hotel para ayudar a los huéspedes a recuperar sus recuerdos. Sin embargo, cada huésped tiene un secreto oscuro que debe ser revelado antes de que pueda encontrar la paz.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.06,
+    "anio": 2025,
+    "generos": ["Misterio", "Sobrenatural", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uniteup",
+    "titulo": "UniteUp!",
+    "malId": 53132,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1308/130458.jpg",
+    "imagenFondo": "",
+    "descripcion": "En un mundo donde la música es la salvación, un grupo de jóvenes idols se unen para formar una unidad llamada \"UniteUp!\". Cada uno tiene su propia historia y talento, y juntos deben superar los desafíos de la industria musical para alcanzar sus sueños.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.27,
+    "anio": 2023,
+    "generos": ["Idols", "Music", "Slice of Life"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ubel-blatt",
+    "titulo": "Übel Blatt",
+    "malId": 58216,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1647/146961.jpg",
+    "imagenFondo": "",
+    "descripcion": "En un reino gobernado por la traición, Köinzell, un joven con una espada legendaria, busca venganza contra los nobles que traicionaron a su pueblo. Junto a una elfa y una niña, viaja por el mundo para enfrentar a sus enemigos y descubrir la verdad detrás de su pasado. Sin embargo, su sed de venganza podría consumirlo.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.12,
+    "anio": 2025,
+    "generos": ["Acción", "Aventura", "Fantasía", "Seinen", "Gore"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unnamed-memory",
+    "titulo": "Unnamed Memory",
+    "malId": 53835,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1143/142439.jpg",
+    "imagenFondo": "",
+    "descripcion": "El poderoso mago Oscar quiere romper una maldición que lo atormenta, y cree que la única forma de hacerlo es casarse con la bruja Tinasha. Tinasha es una maga solitaria que vive en una torre, y aunque al principio rechaza sus avances, finalmente acepta ayudarlo en su búsqueda para romper la maldición. Juntos, exploran el mundo y enfrentan peligros para desentrañar los secretos de su pasado y presente.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.59,
+    "anio": 2024,
+    "generos": ["Fantasía", "Romance", "Magia"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "botsuraku-yotei-no-kizoku-dakedo-hima-datta-kara-mahou-wo-kiwametemita",
+    "titulo": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita",
+    "malId": 58437,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1245/147612.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un noble menor llamado Liam sufre un accidente y descubre que en su vida pasada fue un mago poderoso. Decide usar su conocimiento mágico para mejorar su vida y la de su familia. Sin embargo, su camino está lleno de desafíos y enemigos que quieren su poder.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.79,
+    "anio": 2025,
+    "generos": ["Fantasía", "Magia", "Isekai"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zenshuu",
+    "titulo": "Zenshuu.",
+    "malId": 58502,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1003/146841.jpg",
+    "imagenFondo": "",
+    "descripcion": "Una joven llamada Natsuko Hirose es una directora de anime en apuros. Después de perder a su equipo en un incendio, se ve atrapada en un mundo de fantasía donde debe usar sus habilidades para derrotar a monstruos y encontrar el camino de regreso a casa. Junto a un grupo de aventureros, descubre que su destino está ligado al mundo en el que se encuentra.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.34,
+    "anio": 2025,
+    "generos": ["Acción", "Aventura", "Fantasía", "Comedia"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mahoutsukai-no-yakusoku",
+    "titulo": "Mahoutsukai no Yakusoku",
+    "malId": 57152,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1116/146903.jpg",
+    "imagenFondo": "",
+    "descripcion": "En un mundo donde los magos y los humanos coexisten, un grupo de magos debe enfrentar una amenaza que podría destruir la paz. Cada mago tiene su propia historia y motivo para luchar, pero juntos deben unirse para salvar su mundo.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.47,
+    "anio": 2025,
+    "generos": ["Fantasía", "Magia", "Josei"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "akuyaku-reijou-tensei-ojisan",
+    "titulo": "Akuyaku Reijou Tensei Ojisan",
+    "malId": 57719,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1255/146484.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un hombre de 50 años reencarna como la villana de un juego de otome, la princesa Grace. Para evitar su trágico final, debe navegar por los eventos del juego mientras mantiene su personalidad de adulto. Sin embargo, su actitud madura y sus conocimientos del mundo moderno le ayudarán a cambiar su destino y el de quienes la rodean.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.98,
+    "anio": 2025,
+    "generos": ["Comedia", "Fantasía", "Romance", "Reencarnación", "Isekai"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yamato-yo-towa-ni-rebel-3199",
+    "titulo": "Yamato yo, Towa ni: Rebel 3199",
+    "malId": 50855,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1856/143246.jpg",
+    "imagenFondo": "",
+    "descripcion": "Secuela de la serie Space Battleship Yamato 2205. La tripulación del Yamato se embarca en una nueva misión para proteger la Tierra de una amenaza alienígena. En su viaje, descubrirán nuevos aliados y enemigos, y deberán tomar decisiones difíciles para salvar la humanidad.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.45,
+    "anio": 2024,
+    "generos": ["Acción", "Ciencia Ficción", "Space", "Drama", "Mecha"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aharen-san-wa-hakarenai",
+    "titulo": "Aharen-san wa Hakarenai",
+    "malId": 49520,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1612/120636.jpg",
+    "imagenFondo": "",
+    "descripcion": "Reina Aharen es una chica pequeña y callada que se sienta al lado de Raidou Matsuboshi. A pesar de ser amable, es muy difícil de leer y tiene una personalidad un poco extraña. Raidou, que es un chico con una imaginación muy activa, malinterpreta constantemente las acciones de Aharen. Juntos, viven situaciones cómicas y absurdas que los acercan cada vez más.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.21,
+    "anio": 2022,
+    "generos": ["Comedia", "Romance", "Escuela", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anne-shirley",
+    "titulo": "Anne Shirley",
+    "malId": 60334,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1564/150049.jpg",
+    "imagenFondo": "",
+    "descripcion": "Anne Shirley es una huérfana que es adoptada por los hermanos Cuthbert, quienes esperaban un niño para ayudar en su granja. A pesar de las dificultades, Anne se gana el corazón de sus nuevos padres y de la comunidad con su imaginación y su espíritu alegre. La serie sigue las aventuras de Anne en su nueva vida.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.91,
+    "anio": 2025,
+    "generos": ["Drama", "Histórico", "Slice of Life"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "apocalypse-hotel",
+    "titulo": "Apocalypse Hotel",
+    "malId": 59675,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1511/148642.jpg",
+    "imagenFondo": "",
+    "descripcion": "En un futuro post-apocalíptico, un hotel en medio de la nada se convierte en el refugio de los últimos sobrevivientes de la humanidad. La serie sigue la vida cotidiana de los huéspedes y el personal del hotel, quienes deben encontrar la manera de sobrevivir y mantener la esperanza en un mundo destruido.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.79,
+    "anio": 2025,
+    "generos": ["Ciencia Ficción", "Slice of Life", "Drama"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baki-dou",
+    "titulo": "Baki-dou",
+    "malId": 58573,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1722/155148.jpg",
+    "imagenFondo": "",
+    "descripcion": "La serie sigue a Baki Hanma en su búsqueda por convertirse en el luchador más fuerte del mundo. Después de derrotar a su padre, Yujiro Hanma, Baki se enfrenta a nuevos desafíos y oponentes poderosos. La serie es conocida por sus intensas peleas de artes marciales y su estilo único.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.46,
+    "anio": 2025,
+    "generos": ["Acción", "Artes Marciales", "Deportes", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "itou-junji-collection",
+    "titulo": "Itou Junji: Collection",
+    "malId": 36124,
+    "imagen": "https://cdn.myanimelist.net/images/anime/7/88366.jpg",
+    "imagenFondo": "",
+    "descripcion": "Una colección de historias cortas de terror del famoso mangaka Junji Ito. Cada episodio presenta una historia independiente que explora el horror y el surrealismo, con elementos que van desde lo grotesco hasta lo psicológico. Las historias incluyen \"Tomie\", \"Uzumaki\" y \"Gyo\".",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.19,
+    "anio": 2018,
+    "generos": ["Horror", "Misterio", "Sobrenatural", "Psicológico", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-god-of-high-school",
+    "titulo": "The God of High School",
+    "malId": 41353,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un torneo de artes marciales llamado \"The God of High School\" se celebra cada año en Corea del Sur. Los participantes luchan para demostrar su fuerza y ganar el premio final: la oportunidad de cumplir cualquier deseo. La serie sigue a Jin Mori, un joven luchador que participa en el torneo para descubrir la verdad sobre su pasado.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.31,
+    "anio": 2020,
+    "generos": ["Acción", "Artes Marciales", "Sobrenatural", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aru-majo-ga-shinu-made",
+    "titulo": "Aru Majo ga Shinu Made",
+    "malId": 59169,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1620/148221.jpg",
+    "imagenFondo": "",
+    "descripcion": "Meg, una bruja de 15 años, es condenada a morir al cumplir 16. Antes de su muerte, debe recolectar 99 almas para salvar a su pueblo. Sin embargo, su misión se vuelve complicada cuando descubre que las almas que recolecta son personas que deben morir. Debe decidir si cumplir su misión o encontrar otra manera de salvar su pueblo.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.75,
+    "anio": 2025,
+    "generos": ["Drama", "Fantasía", "Magia", "Shoujo"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zatsu-tabi-thats-journey",
+    "titulo": "Zatsu Tabi: That's Journey",
+    "malId": 55514,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1944/148218.jpg",
+    "imagenFondo": "",
+    "descripcion": "Una joven llamada Itsuki Natsume es una mangaka que decide viajar por todo Japón para encontrar inspiración para su próximo manga. En su viaje, descubre nuevos lugares, conoce a nuevas personas y aprende lecciones sobre la vida y el amor.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.38,
+    "anio": 2025,
+    "generos": ["Aventura", "Slice of Life", "Comedia", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "your-forma",
+    "titulo": "Your Forma",
+    "malId": 55995,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1577/147967.jpg",
+    "imagenFondo": "",
+    "descripcion": "En un mundo donde la tecnología ha avanzado hasta el punto de que las personas pueden grabar y compartir sus recuerdos, una joven llamada Tsumugi se convierte en una \"Forma\", una persona que puede acceder a los recuerdos de otros. Junto a su compañero, investiga crímenes y descubre la verdad detrás de los recuerdos robados.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.48,
+    "anio": 2025,
+    "generos": ["Ciencia Ficción", "Misterio", "Psicológico", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maou-no-musume-wa-yasashisugiru",
+    "titulo": "Maou no Musume wa Yasashisugiru!!",
+    "malId": 61884,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1160/154083.jpg",
+    "imagenFondo": "",
+    "descripcion": "La hija del Rey Demonio, que debería ser la villana más malvada del mundo, resulta ser una chica amable y cariñosa. Su objetivo es proteger a los humanos en lugar de destruirlos. Junto a un joven humano, emprende un viaje para cambiar el mundo y demostrar que el bien y el mal no son tan sencillos.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.98,
+    "anio": 2025,
+    "generos": ["Comedia", "Fantasía", "Slice of Life"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yuusha-party-wo-oidasareta-kiyoubinbou",
+    "titulo": "Yuusha Party wo Oidasareta Kiyoubinbou",
+    "malId": 61128,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un joven llamado Lyle es expulsado de su grupo de héroes por ser considerado inútil. Sin embargo, sus habilidades únicas le permiten sobrevivir en el mundo y demostrar que puede ser un héroe a su manera. Junto a una elfa y una niña, emprende un viaje para encontrar su lugar en el mundo.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.57,
+    "anio": 2025,
+    "generos": ["Acción", "Aventura", "Fantasía", "Comedia", "Isekai"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "champignon-no-majo",
+    "titulo": "Champignon no Majo",
+    "malId": 60509,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1499/152613.jpg",
+    "imagenFondo": "",
+    "descripcion": "Una bruja que vive en un bosque de hongos tiene el poder de curar cualquier enfermedad. Un día, una joven llamada Lily llega a su casa buscando ayuda para salvar a su pueblo. La bruja acepta ayudarla a cambio de que Lily se convierta en su aprendiz. Juntas, viajan por el mundo para curar a los enfermos.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.82,
+    "anio": 2025,
+    "generos": ["Fantasía", "Magia", "Slice of Life"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kirei-ni-shitemoraemasu-ka",
+    "titulo": "Kirei ni Shitemoraemasu ka.",
+    "malId": 61782,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1940/154234.jpg",
+    "imagenFondo": "",
+    "descripcion": "Una joven llamada Rinko trabaja en una tienda de segunda mano. Un día, conoce a un cliente misterioso que le pide que limpie una antigua muñeca. Mientras limpia la muñeca, Rinko descubre que está poseída por un espíritu. Juntos, deben ayudar al espíritu a encontrar la paz.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.17,
+    "anio": 2025,
+    "generos": ["Misterio", "Sobrenatural", "Slice of Life"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
+    "titulo": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "malId": 61159,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1455/152139.jpg",
+    "imagenFondo": "",
+    "descripcion": "Tanzaburou Toujima es un estudiante de secundaria que sueña con convertirse en un Kamen Rider. Un día, conoce a un misterioso hombre que le ofrece la oportunidad de convertirse en un héroe. Sin embargo, ser un héroe no es tan fácil como parece, y Tanzaburou debe enfrentar sus propios miedos para lograr su sueño.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.85,
+    "anio": 2025,
+    "generos": ["Acción", "Comedia", "Parodia", "Escuela"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "majutsushi-kunon-wa-mieteiru",
+    "titulo": "Majutsushi Kunon wa Mieteiru",
+    "malId": 60810,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1704/154459.jpg",
+    "imagenFondo": "",
+    "descripcion": "Kunon es un mago que perdió la vista en un accidente. A pesar de su discapacidad, se convierte en un mago hábil y decide viajar por el mundo para ayudar a los demás. En su viaje, descubre que su ceguera le ha dado una habilidad especial para ver la verdadera naturaleza de las personas y las cosas.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.51,
+    "anio": 2025,
+    "generos": ["Fantasía", "Magia", "Drama", "Isekai"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
+    "titulo": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+    "malId": 60692,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1629/153722.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un noble menor llamado Arthur muere en un accidente y reencarna en un mundo de fantasía con sus recuerdos intactos. Usando su conocimiento del mundo moderno, se convierte en un poderoso mago y lucha contra los enemigos que amenazan su nuevo hogar.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.08,
+    "anio": 2025,
+    "generos": ["Fantasía", "Reencarnación", "Magia", "Isekai"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goumon-baito-kun-no-nichijou",
+    "titulo": "Goumon Baito-kun no Nichijou",
+    "malId": 61886,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1721/153380.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un joven llamado Baito trabaja en un puesto de comida rápida. Un día, conoce a un cliente misterioso que le pide que torture a sus empleados. Baito acepta el trabajo y descubre que sus empleados son en realidad monstruos disfrazados. La serie sigue las aventuras de Baito mientras trabaja en el puesto y lidia con las extrañas criaturas.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.93,
+    "anio": 2025,
+    "generos": ["Comedia", "Sobrenatural", "Vida Diaria"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isekai-no-sata-wa-shachiku-shidai",
+    "titulo": "Isekai no Sata wa Shachiku Shidai",
+    "malId": 60226,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1510/153806.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un asalariado llamado Kaito es transportado a un mundo de fantasía. Para sobrevivir, debe usar sus habilidades de oficina para administrar un reino. Junto a la princesa del reino, debe enfrentar desafíos políticos y militares mientras intenta encontrar el camino de regreso a casa.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.94,
+    "anio": 2025,
+    "generos": ["Fantasía", "Isekai", "Comedia", "Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mayonaka-heart-tune",
+    "titulo": "Mayonaka Heart Tune",
+    "malId": 61211,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1769/152823.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un estudiante de secundaria llamado Haru escucha una voz misteriosa que canta en medio de la noche. Fascinado por la voz, decide encontrar a la persona que canta. Su búsqueda lo lleva a conocer a una joven llamada Hana, que tiene el poder de curar a través de su canto. Juntos, deben enfrentar las dificultades de la vida y descubrir el poder de la música.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.23,
+    "anio": 2025,
+    "generos": ["Romance", "Musica", "Escuela", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yoroi-shin-den-samurai-troopers",
+    "titulo": "Yoroi Shin Den Samurai Troopers",
+    "malId": 61830,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1289/153952.jpg",
+    "imagenFondo": "",
+    "descripcion": "Una nueva serie de Samurai Troopers (conocida como Ronin Warriors en Occidente). Cinco jóvenes guerreros con armaduras legendarias deben unirse para proteger el mundo de las fuerzas del mal. Cada uno de ellos posee un poder único y debe aprender a confiar en los demás para enfrentar la oscuridad que se cierne sobre la Tierra.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.20,
+    "anio": 2025,
+    "generos": ["Acción", "Aventura", "Fantasía", "Mecha", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
   }
 ],
   "idsEnEmision": [

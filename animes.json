@@ -5817,8 +5817,294 @@
         ]
       }
     ]
+  },
+  {
+    "id": "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu",
+    "titulo": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
+    "malId": 59730,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1897/149800.jpg",
+    "imagenFondo": "",
+    "descripcion": "\"¡Ya no puedo más!\" Yuke Feldio, un mago rojo, acaba de dejar su grupo de aventureros de rango A. Después de ser maltratado y ridiculizado durante cinco años, ¡finalmente explotó! Y así comenzó su vida desempleada y desolada... ¡o eso creía! Por un golpe de suerte, Yuke es recibido en un grupo de aventureras compuesto por sus antiguas alumnas. Mientras derrotan mazmorras una tras otra, el verdadero poder de Yuke se revela gradualmente. ¡Resulta que este mago rojo posee una magia y habilidades extraordinarias!",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.54,
+    "anio": 2025,
+    "generos": ["Harem"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }, { "numero": 14, "video": "" }, { "numero": 15, "video": "" }, { "numero": 16, "video": "" }, { "numero": 17, "video": "" }, { "numero": 18, "video": "" }, { "numero": 19, "video": "" }, { "numero": 20, "video": "" }, { "numero": 21, "video": "" }, { "numero": 22, "video": "" }, { "numero": 23, "video": "" }, { "numero": 24, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "babanbabanban-vampire",
+    "titulo": "Babanbabanban Vampire",
+    "malId": 58265,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1221/146649.jpg",
+    "imagenFondo": "",
+    "descripcion": "Hace una década, el vampiro de 450 años Ranmaru Mori fue salvado al borde de la muerte por Rihito Tatsuno, un niño joven e inocente. Desde entonces, Ranmaru ha estado trabajando en la casa de baños de la familia Tatsuno con un secreto: quiere probar la sangre virgen de Rihito en cuanto cumpla 18 años. Sin embargo, su plan se ve amenazado cuando Rihito se enamora de una chica en su primer día de secundaria. Celoso y temiendo que la pureza de Rihito se arruine, Ranmaru comienza a acechar en las sombras para protegerlo de cualquier daño. Durante su operación, el vampiro debe mantener oculta su verdadera identidad y asegurarse de que la virginidad de su objetivo permanezca intacta.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.54,
+    "anio": 2025,
+    "generos": ["Vampiros", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bang-dream-its-mygo",
+    "titulo": "BanG Dream! It's MyGO!!!!!",
+    "malId": 54959,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1891/136948.jpg",
+    "imagenFondo": "",
+    "descripcion": "En su último año de secundaria, los cinco miembros de la banda CRYCHIC se separaron después de una desagradable disolución. Cada una lidiando con sus propios arrepentimientos, las chicas se inscribieron en diferentes preparatorias, con la esperanza de no volver a saber nunca más de las demás. Mientras tanto, Anon Chihaya se transfiere a la Academia Femenina Haneoka a mitad del año escolar. Como la mayoría de las estudiantes tocan en una banda como pasatiempo, Anon desea encajar y pasa sus primeros días tratando de reclutar miembros para su propia banda, imaginándose a sí misma como la vocalista. Se hace amiga de Tomori Takamatsu, una chica tímida que parece interesada pero dudosa en unirse. Resulta que Tomori solía ser parte de CRYCHIC, una experiencia que la ha marcado profundamente. A través de Tomori, Anon conoce a Taki Shiina y Soyo Nagasaki, ambas exmiembros de la misma banda. Aunque Taki detesta la idea de tocar con Anon, Soyo está encantada de ayudarla. Ahora con Soyo a su lado, el sueño de Anon de formar una banda está al alcance, si tan solo pudiera encontrar algunos miembros más.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 8.22,
+    "anio": 2023,
+    "generos": ["Drama", "Música"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
+    "titulo": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
+    "malId": 59135,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1775/147330.jpg",
+    "imagenFondo": "",
+    "descripcion": "Solo hay una persona que el estudiante de preparatoria Saito Houjou no soporta: su temperamental compañera de clase, Akane Sakuramori. Los dos siempre han estado en malos términos; sus puntos de vista y personalidades opuestas solo llevan a peleas interminables. Sin embargo, todo cambia cuando el abuelo de Saito y la abuela de Akane organizan una reunión repentina e insisten en que los dos se casen. Caminar hacia el altar es lo último que Saito y Akane quieren, pero son rápidamente obligados a aceptar el ridículo plan y pronto se mudan a una casa compartida como marido y mujer. Aunque Saito y Akane se desprecian mutuamente, navegar la vida juntos bajo el mismo techo puede convertir su amargo odio en un amor eterno.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.73,
+    "anio": 2025,
+    "generos": ["Comedia", "Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "douse-koishite-shimaunda",
+    "titulo": "Douse, Koishite Shimaunda.",
+    "malId": 58259,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1021/146952.jpg",
+    "imagenFondo": "",
+    "descripcion": "La aspirante a mangaka Mizuho Nishino ha crecido junto a sus cuatro amigos de la infancia: Kizuki Hazawa, Shuugo Hoshikawa, Shin Kashiwagi y Airu Izumi. Pero en el cumpleaños número 17 de Mizuho, Kizuki de repente le pide que sea su novia. Sin experiencia previa en el romance, Mizuho lo descarta fácilmente, pero Kizuki es sincero y tiene la intención de ganarse su corazón. Kizuki ya no oculta sus afectos, y Mizuho duda, preocupada por las consecuencias que su posible relación podría tener en todo su grupo de amigos. Mientras Mizuho navega por la confusión de la juventud, parece que los otros tres chicos también se han enamorado de ella, y debe encontrar una manera de ordenar sus sentimientos sin destrozar el grupo unido que tanto aprecia.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.12,
+    "anio": 2025,
+    "generos": ["Drama", "Romance", "Reverse Harem", "Escuela", "Shoujo"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "farmagia",
+    "titulo": "Farmagia",
+    "malId": 59113,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1406/146839.jpg",
+    "imagenFondo": "",
+    "descripcion": "En el Inframundo de Felicidad, los agricultores que pueden producir monstruos a partir de semillas y hacerse amigos de ellos son llamados Farmagia. Uno de los cinco continentes del mundo, Avrion, es el hogar de un espíritu Farmagia, Ten, y sus amigos: Chica, Arche, Leii y un hada llamada Lookie-Loo. Pasan sus días en paz, cultivando sus campos junto a sus monstruos. Todo cambia cuando el Magus, el líder de Felicidad, muere inesperadamente. Oración Seis, los seis generales que sirven directamente al gobernante, eligen a uno de los suyos, Glaza, como nuevo Magus. Sin embargo, Glaza planea renunciar a aquellos sin poderes y elevar solo a los talentosos. Peor aún, sus fuerzas atacan Avrion para separarlo del resto del mundo. Con la ayuda de sus aliados, Ten y sus amigos resisten la invasión. El grupo, cada uno con sus propias criaturas, debe levantarse y luchar para salvar a Felicidad de la destrucción inminente. Farmagia adapta el videojuego del mismo nombre.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.63,
+    "anio": 2025,
+    "generos": ["Acción", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta",
+    "titulo": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
+    "malId": 59144,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1683/146293.jpg",
+    "imagenFondo": "",
+    "descripcion": "En un mundo donde se prefieren las clases fuertes, Ein siempre ha sido tratado con desdén debido a su mero trabajo de Tasador, que le permite tasar cualquier cosa. Durante una expedición a una mazmorra, donde Ein normalmente solo observa desde un lado, aparece un enemigo peligroso y sus aliados lo usan como cebo para escapar de la situación. Preparado para morir, Ein cae al abismo, donde es salvado milagrosamente por Yuri, el espíritu del árbol del mundo perdido hace mucho tiempo, y Ursula, su feroz guardiana. Los dos utilizan sus maravillosas habilidades para curar las graves heridas de Ein y otorgarle el \"Ojo Espiritual\" protésico, que le permite predecir los movimientos de sus oponentes y recibir un número infinito de habilidades. Para ayudar a Ein a salir de las profundidades de la mazmorra, Ursula decide entrenarlo. Después de semanas de duro entrenamiento, el cuerpo de Ein es encantado aún más, y lleva a Yuri y Ursula de regreso a la superficie con él. Mientras el trío comienza su viaje juntos, Ein tiene como objetivo reunir a Yuri con su familia y convertirse en un héroe que nunca será olvidado.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.32,
+    "anio": 2025,
+    "generos": ["Acción", "Aventura", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grisaia-no-kajitsu",
+    "titulo": "Grisaia no Kajitsu",
+    "malId": 17729,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1645/112632.jpg",
+    "imagenFondo": "",
+    "descripcion": "Yuuji Kazami es un estudiante transferido que acaba de ser admitido en la Academia Mihama. Quiere vivir una vida escolar ordinaria, pero este sueño puede no hacerse realidad pronto, ya que la Academia Mihama es todo lo contrario. Compuesta solo por el director y otras cinco estudiantes, todas ellas chicas, Yuuji se familiariza con cada una de ellas, descubriendo más sobre sus personalidades a medida que la socialización es inevitable. Lentamente, comienza a conocer la verdad detrás del pequeño grupo de estudiantes que ocupan la academia: cada una tiene su propia parte de experiencias traumáticas que están ocultas al mundo. La Academia Mihama actúa como un hogar para estas chicas, son la \"fruta\" que cayó de sus árboles y ha comenzado a pudrirse. Depende de Yuuji convertirse en el catalizador para salvarlas de sí mismas, pero ¿cómo puede salvar a otro si ni siquiera puede salvarse a sí mismo?",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.45,
+    "anio": 2014,
+    "generos": ["Drama", "Romance", "Escuela", "Harem"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
+    "titulo": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
+    "malId": 55997,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1904/144608.jpg",
+    "imagenFondo": "",
+    "descripcion": "Alina Clover se convierte en recepcionista del gremio de aventureros, creyendo que, a diferencia de los aventureros que arriesgan sus vidas cada día para conquistar mazmorras, disfrutará de una carrera segura y cómoda con muchos beneficios. Odia las horas extras más que nada, anhelando el día en que finalmente pueda salir a tiempo. Lamentablemente, ese día aún no ha llegado, ya que debe abrirse paso constantemente a través de montones de papeleo. Para empeorar las cosas, cuando los aventureros tardan demasiado en someter a un jefe de mazmorra, el trabajo pendiente solo aumenta, obligando a Alina a hacer aún más horas extras. Cuando su paciencia se agota, se disfraza y se encarga del jefe ella misma, ganando pronto fama como la enigmática \"Ejecutora\". Alina ha logrado mantener este secreto durante dos años, hasta que remata a un jefe asignado al grupo de alto rango Silver Sword. Desafortunadamente para ella, el eagle-eyed leader del grupo, Jade Scrade, deduce su identidad, poniendo en peligro el sueño de la recepcionista de una vida despreocupada.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.63,
+    "anio": 2025,
+    "generos": ["Acción", "Aventura", "Fantasía", "Comedia", "Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hana-wa-saku-shura-no-gotoku",
+    "titulo": "Hana wa Saku, Shura no Gotoku",
+    "malId": 59055,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1787/146809.jpg",
+    "imagenFondo": "",
+    "descripcion": "Desde la infancia, Hana Haruyama ha estado cautivada por el arte de contar historias. Después de ver a un niño de su edad actuar en televisión con una gracia hipnotizante, Hana decide intentarlo ella misma. Practica recitando cuentos a los niños de la isla Tonaki, quienes siempre están entusiasmados con sus actuaciones. Sin embargo, al crecer en una comunidad tan pequeña, Hana desconoce las posibilidades más allá de su mundo, satisfecha con cómo son las cosas. Al ingresar a la preparatoria Sumomogaoka como estudiante de primer año, Hana llama la atención de Mizuki Usurai, la presidenta del club de radiodifusión, con sus habilidades. A pesar de la vacilación y la ansiedad de Hana sobre el camino que tiene por delante, Mizuki la convence con éxito de que se una al club, cultive su don y tal vez algún día llegue a la cima: el nacional del Concurso de Radiodifusión de la NHK.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.09,
+    "anio": 2025,
+    "generos": ["Drama", "Escuela", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hazure-skill-kinomi-master",
+    "titulo": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
+    "malId": 59002,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1703/146128.jpg",
+    "imagenFondo": "",
+    "descripcion": "Se dice que la única forma de obtener habilidades es comer una fruta llamada Fruta de Habilidad. Cada persona solo puede comer una durante su vida, ya que ingerir una segunda resultaría en la muerte instantánea. Light Underwood desea una habilidad poderosa que le permita convertirse en un aventurero con su amiga de la infancia Lena Floria. Cuando llega el día de la selección, el emocionado chico adquiere lamentablemente Fruitmaster, una habilidad que simplemente mejora su cultivo de frutas. Peor aún, se separa de Lena cuando ella obtiene una habilidad excepcional. Aunque decepcionado por el resultado, Light comienza su vida como granjero y acoge a una niña llamada Ayla Lawrence. Un día, debido a un malentendido, los dos consumen Frutas de Habilidad. Sin embargo, en lugar de morir, Light recibe milagrosamente una segunda habilidad, adecuada para el combate, con su habilidad original. Ahora, aparentemente la única persona que puede obtener múltiples habilidades, Light quiere alcanzar a Lena y hacer historia como el aventurero más fuerte.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.77,
+    "anio": 2025,
+    "generos": ["Acción", "Aventura", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "honey-lemon-soda",
+    "titulo": "Honey Lemon Soda",
+    "malId": 58271,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1382/144602.jpg",
+    "imagenFondo": "",
+    "descripcion": "La estudiante de primer año de secundaria Uka Ishimori quiere un nuevo comienzo. En la secundaria, sus compañeros la apodaron \"Rocky\", malinterpretándola como alguien sin emociones cuando en realidad era tímida e introvertida. Como resultado, Uka fue acosada sin piedad y vivió una vida escolar solitaria y aislada. Ahora, Uka está decidida a cambiar. Durante la primera semana de clases, Uka accidentalmente se moja con soda de limón por su compañero de clase Kai Miura, cuya personalidad fría es todo lo contrario a la de ella. Después del incidente, Uka se sorprende cuando Kai realiza pequeños actos de bondad hacia ella, animándola a salir gradualmente de su caparazón. Como una soda de limón, los sentimientos efervescentes y emocionantes comienzan a agitarse.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.15,
+    "anio": 2025,
+    "generos": ["Romance", "Escuela", "Shoujo"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ishura",
+    "titulo": "Ishura",
+    "malId": 54449,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1364/140875.jpg",
+    "imagenFondo": "",
+    "descripcion": "Después de la muerte del rey demonio, el vacío de poder resultante ha roto el equilibrio del mundo. Ansiosos por reclamar este poder para sí mismos, los autoproclamados reyes demonio de varios mundos se reúnen en el Nuevo Principado de Lithia para luchar por él. Entre ellos, el maestro espadachín Soujirou Yagyuu busca tomar esta codiciada posición para sí mismo. Acompañado por Tooi Kagizume no Yuno, una joven a la que salvó de un ejército de golems que destruyó su ciudad, Soujirou entra en Lithia para abrirse camino hacia el título. Al mismo tiempo, los líderes del Reino de Aureatia buscan desestabilizar Lithia enviando bandidos tras los convoyes de mercancías que transitan por el principado. Enfurecido, Imashime de Taren, el fundador de Lithia y desertor de Aureatia, envía al vicioso ladrón Kasasagi no Dakai para investigar el origen de estos ataques. Con la guerra al borde de la erupción, nadie puede predecir qué influencia tendrán los contendientes al trono del rey demonio en el conflicto que se avecina.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.74,
+    "anio": 2024,
+    "generos": ["Gore", "Isekai", "Acción", "Aventura", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
   }
-  ],
+],
   "idsEnEmision": [
     "cardfight-vanguard-divinez-genma-seisen-hen",
     "marika-chan-no-koukando-wa-bukkowarete-iru",

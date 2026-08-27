@@ -5509,7 +5509,315 @@
           ]
         }
       ]
-    }
+    },
+  {
+    "id": "tensui-no-sakuna-hime",
+    "titulo": "Tensui no Sakuna-hime",
+    "malId": 58357,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1888/143803.jpg",
+    "imagenFondo": "",
+    "descripcion": "La diosa de la cosecha Sakuna, malcriada y consentida, se encuentra desterrada de su opulento hogar celestial a una isla invadida por demonios. En este salvaje y desconocido territorio, debe redescubrir su herencia como hija de un dios guerrero y una diosa de la cosecha, enfrentándose a los elementos, luchando contra monstruos y cultivando arroz, la fuente de su poder. A su lado en este lugar hostil se encuentran su guardián Tama y un grupo de humanos marginados. Juntos, estos inusuales compañeros deben unir sus fuerzas para domesticar tanto la tierra como los demonios de la isla Hinoe.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.75,
+    "anio": 2024,
+    "generos": ["Acción", "Fantasía", "Mitología"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-fable",
+    "titulo": "The Fable",
+    "malId": 55911,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1254/141155.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un legendario asesino conocido como \"The Fable\" recibe la orden de su jefe de vivir una vida normal y pacífica durante un año en Osaka, sin matar a nadie. Bajo el nombre de Akira Sato, debe adaptarse a una vida común junto a su compañera, Yin, mientras intenta pasar desapercibido. Sin embargo, su pasado y las personas que lo rodean amenazan con romper su frágil paz.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 8.15,
+    "anio": 2024,
+    "generos": ["Comedia", "Suspenso", "Crimen Organizado", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }, { "numero": 14, "video": "" }, { "numero": 15, "video": "" }, { "numero": 16, "video": "" }, { "numero": 17, "video": "" }, { "numero": 18, "video": "" }, { "numero": 19, "video": "" }, { "numero": 20, "video": "" }, { "numero": 21, "video": "" }, { "numero": 22, "video": "" }, { "numero": 23, "video": "" }, { "numero": 24, "video": "" }, { "numero": 25, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tsue-to-tsurugi-no-wistoria",
+    "titulo": "Tsue to Tsurugi no Wistoria",
+    "malId": 58059,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1281/144104.jpg",
+    "imagenFondo": "",
+    "descripcion": "Cuando la humanidad fue oprimida por los misteriosos enemigos conocidos como los Anfitriones Celestiales, cinco magos excepcionales se unieron para derrotarlos. Temiendo que estos formidables enemigos regresaran, los cinco magos más poderosos, conocidos como los Magia Vander, construyeron una cúpula mágica y una torre para contenerlos. Desde entonces, los cinco magos más fuertes de cada generación son los encargados de vigilar la cúpula desde la cima de la Torre del Mago. Inspirado por esta historia, el amigo de la infancia de Will Serfort, Elfaria Albis Serfort, le prometió que llegarían juntos a la cima de la Torre del Mago. Sin embargo, ahora como estudiante de sexto año en la Academia de Magia Regarden, el futuro de Will parece sombrío. Aunque Elfaria logró unirse a las filas de los Magia Vander cinco años antes gracias a su poder mágico incomparable, Will no tiene ninguna habilidad mágica, lo que atrae la ira de profesores y estudiantes por igual. Sin embargo, bendecido con una condición física excepcional, Will es capaz de matar monstruos en el laberinto y prevalecer contra magos hábiles con la única ayuda de su espada y algunos objetos mágicos. Decidido a escalar la Torre del Mago a toda costa, Will está decidido a no permitir que nadie ni nada le impida cumplir la promesa que le hizo a Elfaria.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.86,
+    "anio": 2024,
+    "generos": ["Acción", "Fantasía", "Escuela", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "egumi-legacy",
+    "titulo": "Egumi Legacy",
+    "malId": 58926,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1755/143273.jpg",
+    "imagenFondo": "",
+    "descripcion": "En medio de un océano, existe una isla llamada \"Isla EGU\". El único entretenimiento en esta isla es escuchar a la cantante, \"Fin del Mundo\". Día tras día, los isleños quedan hechizados por su canto. Sin embargo, este tiempo de tranquilidad se rompe en un instante. Desde la desaparición de la cantante, la isla se ha llenado de \"ira\", \"duda\" y \"ansiedad\". Varios pensamientos e intenciones comienzan a agitarse... Una guerra de lametones estalla alrededor de \"Fin del Mundo\". Aquel que posea su destino es el legendario legado \"EGUMI Legacy\".",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.72,
+    "anio": 2024,
+    "generos": ["Vanguardia", "Comedia", "Antropomórfico"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "atri-my-dear-moments",
+    "titulo": "Atri: My Dear Moments",
+    "malId": 53128,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1825/143408.jpg",
+    "imagenFondo": "",
+    "descripcion": "En un futuro no muy lejano, el nivel del mar ha aumentado y ha sumergido gran parte de la tierra. Natsuki Ikaruga, un estudiante que perdió una pierna y a su madre en un accidente marítimo, vive en una pequeña isla a la que ha llegado un misterioso barco. Dentro del barco encuentra a Atri, una androide que dice ser una robot con corazón. Atri le pide a Natsuki que la ayude a completar su misión final, una misión que su creadora le encomendó antes de desaparecer: encontrar un lugar donde sea feliz.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.21,
+    "anio": 2024,
+    "generos": ["Drama", "Romance", "Ciencia Ficción"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oshi-no-ko",
+    "titulo": "[Oshi no Ko]",
+    "malId": 52034,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg",
+    "imagenFondo": "",
+    "descripcion": "El ginecólogo Gorou Amemiya es un gran fan de la idol Ai Hoshino. Por lo tanto, se sorprende cuando la idol embarazada se presenta en su hospital para dar a luz en secreto. Gorou le promete a Ai que la ayudará a tener un parto seguro. Sin embargo, el mismo día en que Ai dará a luz, Gorou es asesinado por un acosador. Despierta y descubre que ha renacido como el hijo de Ai, Aquamarine Hoshino. Junto a su hermana gemela Ruby, que también es una reencarnación de una paciente de Gorou, Aquamarine crece en el mundo del espectáculo. Sin embargo, la tragedia golpea cuando Ai es asesinada, y Aquamarine jura vengar su muerte.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 8.53,
+    "anio": 2023,
+    "generos": ["Drama", "Reencarnación", "Espectáculo", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ninja-kamui",
+    "titulo": "Ninja Kamui",
+    "malId": 56285,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1142/141351.jpg",
+    "imagenFondo": "",
+    "descripcion": "Joe Higan es un Nukenin, un ex ninja que escapó de su clan y se esconde de su violento pasado en la América rural junto a su familia. Una noche, es emboscado por un equipo de asesinos de su antigua organización, que ejecutan una venganza sangrienta contra Joe y su familia por traicionar su antiguo código. Resurgiendo de su aparente \"muerte\", Joe renacerá como su antiguo yo, Ninja Kamui, para vengar a su familia y amigos. Kamui es un ninja del siglo XXI, una anacronismo sombrío que enfrenta sus antiguas habilidades contra la tecnología de alta tecnología con una brutal destreza. Debe enfrentarse a asesinos entrenados, cyborgs de combate y ninjas rivales para acabar con el clan que lo creó.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 8.53,
+    "anio": 2024,
+    "generos": ["Acción", "Ciencia Ficción"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "boku-no-hero-academia",
+    "titulo": "Boku no Hero Academia",
+    "malId": 31964,
+    "imagen": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "imagenFondo": "",
+    "descripcion": "En un mundo donde el 80% de la población posee un don (\"Quirk\"), Izuku Midoriya es uno de los desafortunados que nació sin uno. Sin embargo, su sueño de convertirse en un héroe no se desvanece. Un encuentro con su ídolo, el héroe número uno All Might, le otorga la oportunidad de cambiar su destino al heredar el Quirk más poderoso: One For All. Izuku deberá ingresar a la prestigiosa Academia U.A. y entrenar para convertirse en el héroe que siempre quiso ser.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.82,
+    "anio": 2016,
+    "generos": ["Acción", "Escuela", "Superpoderes", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dorohedoro",
+    "titulo": "Dorohedoro",
+    "malId": 38668,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1230/119278.jpg",
+    "imagenFondo": "",
+    "descripcion": "En una ciudad distópica llamada \"El Agujero\", los humanos viven aterrorizados por los hechiceros, quienes usan a la gente como conejillos de indias para sus experimentos. Kaiman, un hombre con cabeza de reptil y amnesia, busca al hechicero responsable de su maldición junto a su amiga Nikaido. Su única pista es una marca en su interior que dice: \"Hechicero responsable de mi transformación\".",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 8.05,
+    "anio": 2020,
+    "generos": ["Acción", "Comedia", "Fantasía", "Terror", "Gore", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "monogatari-series-off-monster-season",
+    "titulo": "Monogatari Series: Off & Monster Season",
+    "malId": 57864,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1142/146776.jpg",
+    "imagenFondo": "",
+    "descripcion": "Koyomi Araragi pasó su último año de secundaria ayudando a chicas en su ciudad a resolver diversas aflicciones sobrenaturales. Pero ahora Araragi se ha ido a la universidad, dejando a sus amigos para que se defiendan contra nuevos problemas y maldiciones que los acosan. Yotsugi Ononoki, alguna vez un cadáver humano y ahora una muñeca viviente, se instala en la casa de Araragi, vigilando a su hermana Tsukihi, una chica que guarda un secreto místico. Como parte de sus deberes, Yotsugi ocupa el papel vacante de Araragi como experta en lo oculto, ayudando a otros en la ciudad con sus problemas. Una de estas chicas, la estudiante de secundaria Nadeko Sengoku, se recupera lentamente de sus recientes encuentros con lo paranormal. Evita volver a la escuela y pasa tiempo sola en su habitación, persiguiendo su sueño de convertirse en una mangaka profesional. Para acelerar la búsqueda de Nadeko por el dominio de su oficio, Yotsugi la convence de crear cuatro copias de sí misma, cada una representando un aspecto distinto de su personalidad. Sin embargo, las clones se niegan a ayudar a Nadeko y escapan a la ciudad, creando un caos. Ahora, obligada a lidiar con su fracturado sentido de identidad, Nadeko se propone capturarlas y resolver su conflicto interno.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 8.64,
+    "anio": 2024,
+    "generos": ["Comedia", "Misterio", "Sobrenatural", "Vampiro"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }, { "numero": 14, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sengoku-youko-yonaoshi-kyoudai-hen",
+    "titulo": "Sengoku Youko: Yonaoshi Kyoudai-hen",
+    "malId": 56242,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1645/140627.jpg",
+    "imagenFondo": "",
+    "descripcion": "En una era de guerra y demonios, dos hermanos, Jinka y Shakugan, buscan la paz en un mundo caótico. Jinka es un medio demonio con una sed de venganza, mientras que Shakugan es un ser espiritual que lucha por proteger a los humanos. Juntos, viajan por el Japón feudal enfrentándose a enemigos poderosos y forjando un vínculo inquebrantable. Su viaje los llevará a descubrir los oscuros secretos que esconde el mundo y el verdadero significado de su misión.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.99,
+    "anio": 2024,
+    "generos": ["Histórico", "Mitología", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "25-jigen-no-ririsa",
+    "titulo": "2.5-jigen no Ririsa",
+    "malId": 53802,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1779/143584.jpg",
+    "imagenFondo": "",
+    "descripcion": "Después de una desastrosa confesión romántica, Masamune Okumura encuentra consuelo en el mundo ficticio del anime y el manga. Ahora, como estudiante de segundo año de secundaria y presidente del Club de Investigación de Manga, Masamune disfruta de una existencia pacífica siguiendo las aventuras de Liliel, su personaje favorito. Al comienzo del año académico, la vida de Masamune da un giro cuando conoce a Ririsa Amano, una apasionada practicante del cosplay. A pesar de la resistencia inicial de Masamune, la joven determinada logra convencerlo de que se convierta en su fotógrafo personal para la producción de una colección dedicada a su personaje favorito en común: Liliel. Mientras Masamune descubre con entusiasmo el mundo del cosplay y la edición de fotos, se reencuentra inesperadamente con su amiga de la infancia Mikari Tachibana, quien se ha convertido en modelo con la esperanza de impresionar a su amado senpai. Al darse cuenta de que el modelaje no es suficiente para intrigar al otaku sin esperanza, Mikari decide unirse al club y convertirse ella misma en cosplayer, todo para tener la oportunidad de ganarse el corazón de Masamune. Sin embargo, el amor de Masamune por los personajes ficticios puede no ser capaz de extenderse a aquellos que los interpretan.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.40,
+    "anio": 2024,
+    "generos": ["Comedia", "Ecchi", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }, { "numero": 14, "video": "" }, { "numero": 15, "video": "" }, { "numero": 16, "video": "" }, { "numero": 17, "video": "" }, { "numero": 18, "video": "" }, { "numero": 19, "video": "" }, { "numero": 20, "video": "" }, { "numero": 21, "video": "" }, { "numero": 22, "video": "" }, { "numero": 23, "video": "" }, { "numero": 24, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arifureta-shokugyou-de-sekai-saikyou",
+    "titulo": "Arifureta Shokugyou de Sekai Saikyou",
+    "malId": 36882,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1776/97682.jpg",
+    "imagenFondo": "",
+    "descripcion": "La vida ordinaria del otaku de 17 años, Hajime Nagumo, se ve interrumpida cuando él y sus compañeros de clase son invocados a un mundo de fantasía y se les encomienda la tarea de salvar a la humanidad. Mientras que a sus compañeros se les otorgan habilidades impresionantes útiles en el combate, Hajime es menospreciado por solo obtener una habilidad de transmutación inferior que carece de poder ofensivo real. Durante una expedición en el Gran Laberinto de Orcus, Hajime es traicionado por uno de sus compañeros, precipitándolo al fondo de un abismo. Aunque sobrevive a la caída, Hajime se enfrenta a monstruos amenazantes y desgracias que lo sumergen en una pesadilla sombría. Desesperado por vivir y volver a casa algún día, decide luchar por su supervivencia, solo para encontrarse con una vampiresa encarcelada a la que llama Yue, que también busca escapar del laberinto. Interesada en él, Yue y algunos otros en el camino acompañan a Hajime en su viaje para encontrar el camino a casa, mientras se transforman de lo común al más fuerte del mundo.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.72,
+    "anio": 2019,
+    "generos": ["Acción", "Aventura", "Fantasía", "Harem", "Isekai"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "acro-trip",
+    "titulo": "Acro Trip",
+    "malId": 53723,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1397/145153.jpg",
+    "imagenFondo": "",
+    "descripcion": "Debido al trabajo de su madre, Chizuko Date nunca ha permanecido en un solo lugar por mucho tiempo ni se ha encariñado con algo en particular. Sin embargo, un día presencia algo extraordinario: una chica mágica llamada Berry Blossom luchando contra Chroma, miembro de la malvada organización Fossa Magna. Fascinada por la lucha, Chizuko decide convertirse en la mayor fan de Berry Blossom y hacer todo lo posible para que su heroína sea más famosa. Sin embargo, sus planes se complican cuando descubre que Chroma, el villano, en realidad es un inútil que no puede causar daño real. Chizuko, entonces, decide ayudar a Chroma a convertirse en un villano más competente para que las batallas de Berry Blossom sean más emocionantes.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.73,
+    "anio": 2024,
+    "generos": ["Comedia", "Magia", "Parodia", "Shoujo"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  }
   ],
   "idsEnEmision": [
     "cardfight-vanguard-divinez-genma-seisen-hen",

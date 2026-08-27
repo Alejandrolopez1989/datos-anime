@@ -6103,6 +6103,358 @@
         ]
       }
     ]
+  },
+  {
+    "id": "hortensia-saga",
+    "titulo": "Hortensia Saga",
+    "malId": 40961,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1558/113940.jpg",
+    "imagenFondo": "",
+    "descripcion": "Una violenta rebelión en la capital liderada por el duque Rugis Camellia causa estragos en el reino de Hortensia, dejando a todos los miembros de la realeza muertos o desaparecidos. Escapando con vida, el caballero Maurice Baudelaire huye del caos después de que su hermano, Fernando Albert, muera en batalla. Para honrar su legado, Maurice viaja a la casa de Albert y entrega a su hijo, Alfred Ober, la espada de su padre. A pesar de su dolor, Alfred recuerda la promesa que hizo con su padre: convertirse en caballero para poder proteger su tierra, el Dominio de Albert. Bajo la tutela de Maurice, Alfred perfecciona sus habilidades de combate para cumplir su promesa. Junto a él entrena Marius Casterede, un chico intrigante cuya edad parece ser más de lo que aparenta. Mientras tanto, el Papa Alexi Valdebron ordena capturar a la princesa desaparecida y corona a Charlot D'Hortensia como el nuevo rey. Hortensia Saga es una historia de camaradería y determinación mientras Alfred, Marius y Maurice trabajan junto a amigos del pasado y del presente para traer luz en medio de los oscuros tiempos de Hortensia.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.85,
+    "anio": 2021,
+    "generos": ["Acción", "Aventura", "Fantasía", "Magia"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "izure-saikyou-no-renkinjutsushi",
+    "titulo": "Izure Saikyou no Renkinjutsushi?",
+    "malId": 58822,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1431/146222.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un asalariado se sorprende al ser invocado a otro mundo por accidente. Sin posibilidad de regresar a la Tierra, recibe el nombre de Takumi Iruma, un cuerpo más joven, poderes mágicos y un nuevo comienzo en una tierra desconocida. Para preservar su vida tranquila, Takumi se instala en una aldea local y asume el trabajo de alquimista, lo que le permite crear casi cualquier cosa que desee. Aprovechando al máximo su tiempo, explora sus nuevas habilidades e incluso domestica a una mascota poco común. Sin embargo, Takumi decide mudarse a una gran ciudad con la esperanza de mejorar sus habilidades de alquimia y su negocio. A medida que sigue aprendiendo sobre su profesión y haciendo nuevas conexiones, Takumi podría llegar a convertirse en el mejor alquimista de todos los tiempos.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.62,
+    "anio": 2025,
+    "generos": ["Aventura", "Fantasía", "Isekai"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jibaku-shounen-hanako-kun",
+    "titulo": "Jibaku Shounen Hanako-kun",
+    "malId": 38534,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1050/111687.jpg",
+    "imagenFondo": "",
+    "descripcion": "Las famosas Siete Maravillas que toda escuela parece tener son un elemento básico de las leyendas urbanas japonesas. Una de las más conocidas de estas historias es la de Hanako-san: el fantasma de una niña que habita en los baños de la escuela. La Academia Kamome tiene su propia versión de la leyenda de Hanako-san. Los rumores afirman que si uno logra invocar a Hanako-san, ella concederá cualquier deseo a quien la invoque. Atraída por el chisme, mucha gente ha intentado invocarla, pero todos los intentos han fracasado. Sin embargo, cuando Nene Yashiro, una chica que espera tener suerte en el amor, se atreve a invocar a Hanako-san, descubre que la \"chica\" de la que se rumorea es en realidad un chico. Después de una serie de eventos desafortunados relacionados con sus deseos románticos, Nene se ve involuntariamente envuelta en el mundo de lo sobrenatural, convirtiéndose en la asistente de Hanako-kun. Pronto descubre el deber menos conocido de Hanako-kun: mantener el frágil equilibrio entre los mortales y las apariciones.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.82,
+    "anio": 2020,
+    "generos": ["Sobrenatural", "Escuela", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season",
+    "titulo": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+    "malId": 54714,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1812/136764.jpg",
+    "imagenFondo": "",
+    "descripcion": "Tercera temporada de Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 8.10,
+    "anio": 2026,
+    "generos": ["Comedia", "Romance", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kisaki-kyouiku-kara-nigetai-watashi",
+    "titulo": "Kisaki Kyouiku kara Nigetai Watashi",
+    "malId": 57050,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1711/146319.jpg",
+    "imagenFondo": "",
+    "descripcion": "La duquesa Leticia Dorman ha estado comprometida con el príncipe heredero Clarke desde los siete años. Una vez fue una niña traviesa y de espíritu libre, pero la estricta educación que ha recibido para convertirla en una princesa digna ha limitado su estilo de vida. Su única esperanza es que el príncipe se interese por otra persona, así que cuando Clarke aparece en un baile real con una mujer desconocida a su lado, Lettie se llena de alegría, pensando que su sueño se ha hecho realidad y su compromiso ha sido roto. No pierde tiempo retirándose a una vida campestre tranquila, pero su nueva paz se ve interrumpida cuando el príncipe aparece y declara que ella sigue siendo su prometida. Clarke está decidido a conquistar a Lettie y casarse con ella, mientras que Lettie está decidida a resistir sus encantos y escapar. ¿Quién saldrá victorioso en esta emocionante batalla de voluntades?",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.67,
+    "anio": 2025,
+    "generos": ["Comedia", "Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kono-kaisha-ni-suki-na-hito-ga-imasu",
+    "titulo": "Kono Kaisha ni Suki na Hito ga Imasu",
+    "malId": 59361,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1123/146384.jpg",
+    "imagenFondo": "",
+    "descripcion": "Los compañeros de trabajo Yui Mitsuya y Masugu Tateishi son las últimas personas que cualquiera esperaría que se llevaran bien, especialmente con sus constantes peleas en la oficina. Sin embargo, las apariencias engañan: ¡en realidad están saliendo! Temerosos de perder la paz de sus vidas profesionales, Yui y Masugu fingen aún más su discordia para asegurarse de que nadie descubra su secreto. A medida que se acumulan situaciones incómodas y encuentros cercanos, aumenta el riesgo de que sus compañeros se den cuenta. Mantener la farsa no es fácil, pero con cada nuevo día, su relación se fortalece.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.49,
+    "anio": 2025,
+    "generos": ["Comedia", "Romance", "Adult Cast", "Workplace", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai",
+    "titulo": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+    "malId": 58853,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1792/146404.jpg",
+    "imagenFondo": "",
+    "descripcion": "No hay un solo lugar al que Mona Kawai entre donde no se convierta en el centro de atención: lidiar con este foco eterno es un hecho de su vida diaria. Sin embargo, la absoluta confianza de Mona en sus propios encantos se tambalea cuando conoce a Medaka Kuroiwa, un estudiante transferido reciente a su escuela secundaria. A diferencia de todos los demás compañeros que la adoran constantemente, Medaka frunce el ceño cada vez que interactúan. Viendo su desinterés como algo que debe ser rectificado, Mona hace todo lo posible para conquistar a Medaka, solo para encontrarse con una cara severa tras otra. Resulta que la indiferencia de Medaka hacia Mona proviene de su deseo de convertirse algún día en monje y, por lo tanto, debe dejar atrás todos los deseos mundanos. Mientras la inconsciente Mona intensifica sus ataques contra Medaka, todas sus payasadas podrían llevarla a enamorarse de él en su lugar.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.54,
+    "anio": 2025,
+    "generos": ["Comedia", "Romance", "Love Status Quo", "Escuela", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kusuriya-no-hitorigoto-2nd-season",
+    "titulo": "Kusuriya no Hitorigoto 2nd Season",
+    "malId": 54492,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1708/138033.jpg",
+    "imagenFondo": "",
+    "descripcion": "Usando su ingenio y su vasto conocimiento de medicinas y venenos, Maomao jugó un papel fundamental en la resolución de una serie de misterios y conspiraciones que asolaban la corte imperial. Habiendo llegado recientemente a un acuerdo con los secretos de sus padres, regresa para cumplir con sus deberes en nombre de las consortes de más alto rango del emperador. Maomao también trabaja junto al eunuco Jinshi para mejorar a las muchas damas de compañía de las consortes, incluso ayudándolas a aprender a leer. Sin embargo, con la llegada de una caravana de comerciantes llega una nueva ola de intriga. Un patrón de extrañas coincidencias que involucran a los visitantes y sus mercancías inquieta a Maomao, impulsándola a investigar las misteriosas circunstancias detrás del convoy. Mientras los peligros tanto del exterior como del interior amenazan el equilibrio entre las concubinas imperiales, Maomao continúa utilizando su astucia y su experiencia médica para mantener a salvo a las mujeres.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 8.90,
+    "anio": 2025,
+    "generos": ["Drama", "Misterio", "Histórico", "Médico"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }, { "numero": 14, "video": "" }, { "numero": 15, "video": "" }, { "numero": 16, "video": "" }, { "numero": 17, "video": "" }, { "numero": 18, "video": "" }, { "numero": 19, "video": "" }, { "numero": 20, "video": "" }, { "numero": 21, "video": "" }, { "numero": 22, "video": "" }, { "numero": 23, "video": "" }, { "numero": 24, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "magic-maker-isekai-mahou-no-tsukurikata",
+    "titulo": "Magic Maker: Isekai Mahou no Tsukurikata",
+    "malId": 59265,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1802/146725.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un hombre de 30 años que sueña con convertirse en mago pierde la vida repentinamente. Reencarnado en otro mundo como un niño pequeño llamado Shion, crece junto a Marie, su hermana mayor en quien puede confiar y que lo adora. Shion espera ansiosamente usar poderes mágicos, pero descubre que el nuevo mundo aparentemente no tiene magia. Pasa los años siguientes como un niño sombrío y abatido hasta que un fenómeno místico en un lago cercano capta la atención de los hermanos y devuelve la vida a su sueño mágico. Mientras experimenta con la extraña luz que emana del agua, Shion finalmente confirma que la energía mágica realmente existe. Puede que no sea útil para nada todavía, pero Shion dedica su tiempo a estudiar la anomalía, decidido a descubrir todas las maravillas existentes en su búsqueda para hacer magia.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.78,
+    "anio": 2025,
+    "generos": ["Fantasía", "Isekai", "Reencarnación"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "medalist",
+    "titulo": "Medalist",
+    "malId": 55318,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1029/146850.jpg",
+    "imagenFondo": "",
+    "descripcion": "Tsukasa Akeuraji siempre soñó con convertirse en un patinador artístico competitivo, pero comenzar demasiado tarde en la vida significó que sus ambiciones nunca despegaron. Ahora apenas sobrevive, acepta un trabajo como entrenador asistente, resignado a un futuro muy lejos del que una vez imaginó. Antes de su primer día, Tsukasa conoce a Inori Yuitsuka, una tímida estudiante de quinto grado que se escabulle en la pista para practicar. Cautivada por el patinaje artístico, pero frenada por la sobreprotección de su madre y sus propias dudas, Inori nunca ha recibido el apoyo para perseguir su pasión hasta que se encuentra con Tsukasa. Debajo de su personalidad se encuentra un gran potencial, esperando ser desbloqueado con la guía adecuada. Conmovido por la determinación de Inori para cambiar y recordando sus propias luchas, Tsukasa se ofrece a entrenarla y ayudarla a perseguir el sueño que ha tenido demasiado miedo de expresar. Aunque el camino por delante es largo y está lleno de desafíos desconocidos y patinadores rivales, Inori se dedica al arte y se esfuerza por llegar algún día a los Juegos Olímpicos y convertirse en una medallista.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 8.38,
+    "anio": 2025,
+    "generos": ["Drama", "Deportes", "Artes Escénicas", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "momentary-lily",
+    "titulo": "Momentary Lily",
+    "malId": 58739,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1107/143656.jpg",
+    "imagenFondo": "",
+    "descripcion": "Invasores robóticos acabaron con toda la vida, pero Renge lucha por sobrevivir usando sus poderes. Sin recuerdos, deambula por la ciudad hasta que conoce a otras cinco jóvenes, cada una con habilidades únicas. Juntas, aprovechan al máximo sus vidas, cocinando deliciosas comidas entre batallas con monstruos mecánicos. A medida que descubren los secretos de sus poderes y pasados, encuentran fuerza en su amistad.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.95,
+    "anio": 2025,
+    "generos": ["Acción", "Ciencia Ficción"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "neet-kunoichi-to-nazeka-dousei-hajimemashita",
+    "titulo": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+    "malId": 58082,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1748/148595.jpg",
+    "imagenFondo": "",
+    "descripcion": "Tsukasa Atsumi es un asalariado que lleva una vida ordinaria y solitaria. De camino a casa una noche, es salvado de un ataque de demonios por una misteriosa mujer vestida de ninja. Presentándose como Shizuri Ideura, ella afirma que los demonios atacan a personas como Tsukasa, que tienen sangre de samurái en sus venas, y que su especie los ha estado protegiendo desde las sombras. Tras saber por Shizuri que los ataques serán más frecuentes, Tsukasa llega a un acuerdo para proporcionarle alojamiento a cambio de su seguridad. Para su sorpresa, descubre rápidamente que Shizuri es una ermitaña a la que le encanta jugar videojuegos cuando no está ocupada con sus deberes de ninja. A medida que los dos pasan más tiempo juntos, Tsukasa llega a apreciar la compañía de Shizuri, y sus sentimientos podrían ser mutuos.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 6.14,
+    "anio": 2025,
+    "generos": ["Comedia", "Romance", "Ecchi"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }, { "numero": 13, "video": "" }, { "numero": 14, "video": "" }, { "numero": 15, "video": "" }, { "numero": 16, "video": "" }, { "numero": 17, "video": "" }, { "numero": 18, "video": "" }, { "numero": 19, "video": "" }, { "numero": 20, "video": "" }, { "numero": 21, "video": "" }, { "numero": 22, "video": "" }, { "numero": 23, "video": "" }, { "numero": 24, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nihon-e-youkoso-elf-san",
+    "titulo": "Nihon e Youkoso Elf-san.",
+    "malId": 57648,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1650/146113.jpg",
+    "imagenFondo": "",
+    "descripcion": "Desde su infancia, Kazuhiro Kitase ha podido soñar con un mundo diferente. Puede regresar a la realidad durmiendo o muriendo, y puede retomar donde lo dejó volviendo a dormir. Durante años, ha tenido muchas aventuras junto a Mariabelle, una hermosa elfa que trabaja para el Gremio de Hechicería. En una de sus correrías, se topan con la guarida de un dragón que cuida sus huevos. Despiertan accidentalmente a la bestia dormida, que los reduce a cenizas. Para Kazuhiro, es solo un revés temporal, ya que puede simplemente regresar. Sin embargo, se sorprende al encontrar a Mariabelle sana y salva durmiendo a su lado. Kazuhiro se da cuenta de que su mundo de sueños es en realidad una realidad alternativa. Mientras tanto, aprovecha al máximo esta extraña circunstancia, presentando a Mariabelle las maravillas de Japón. Ahora, con su tiempo juntos abarcando dos mundos, ¡sus verdaderas aventuras acaban de comenzar!",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.29,
+    "anio": 2025,
+    "generos": ["Comedia", "Fantasía", "Isekai"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "okinawa-de-suki-ni-natta-ko-ga-hougen-sugite-tsurasugiru",
+    "titulo": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+    "malId": 55842,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1744/147363.jpg",
+    "imagenFondo": "",
+    "descripcion": "Mudándose de Tokio a la isla de Okinawa, Teruaki \"Teru\" Nakamura se enamora inesperadamente de su extrovertida compañera de clase Hina Kyan, quien se asegura de que se sienta incluido en su nueva escuela secundaria. Sin embargo, debido a su fuerte dialecto local, a Teru a menudo le resulta difícil entender lo que Hina dice. Aun así, Hina continúa explicándole apasionadamente la diversa cultura de Okinawa. Afortunadamente para Teru, la mejor amiga de Hina, Kana Higa, está ansiosa por ayudar con la traducción e incluso ofrece enseñarle palabras y frases útiles. Sin embargo, Kana tiene sus propias razones: ha desarrollado un crush por Teru y usa esta oportunidad para hablar con él. A medida que Teru, Hina y Kana pasan más tiempo juntos, sin saber los sentimientos de los demás, Teru aprende más sobre su nuevo hogar y disfruta de la compañía de sus amigos.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.09,
+    "anio": 2025,
+    "generos": ["Comedia", "Romance", "Love Polygon", "Escuela"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu",
+    "titulo": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
+    "malId": 58473,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1656/146916.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un orgulloso caballero, muerto en batalla, se encuentra vivo de nuevo, reencarnado en el cuerpo de un temible behemoth. Para colmo, resulta que las crías de behemoth se parecen exactamente a adorables gatitos. Aunque el mundo lo vea como un ser blando y adorable, él tiene el honor de un noble guerrero y la fuerza de un monstruo de rango S imparable, ambos serán puestos a prueba mientras lucha por proteger a la hermosa elfa que lo ha tomado como su mascota.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 5.78,
+    "anio": 2025,
+    "generos": ["Acción", "Aventura", "Comedia", "Fantasía", "Ecchi", "Reencarnación", "Seinen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }, { "numero": 12, "video": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sakamoto-days",
+    "titulo": "Sakamoto Days",
+    "malId": 58939,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1026/146459.jpg",
+    "imagenFondo": "",
+    "descripcion": "El nombre de Tarou Sakamoto alguna vez infundió miedo en cada villano. Ningún otro asesino profesional igualaba su destreza, y los compañeros asesinos lo veneraban. Sin embargo, Sakamoto se enamoró. En cinco cortos años, se casó, se convirtió en padre, engordó y cambió sus armas por un delantal para convertirse en el dueño de una humilde tienda de conveniencia. Aunque Sakamoto está decididamente retirado, encuentra que su antigua vida criminal es difícil de sacudir. Su excompañero, Shin Asakura, reaparece y decide quedarse con la familia de Sakamoto bajo su estricta regla de no matar. Para empeorar las cosas, se coloca una gran recompensa sobre la cabeza de Sakamoto. Numerosos asesinos lo persiguen ahora, pero les espera una sorpresa. Sakamoto no ha perdido su ventaja, y no importa qué trucos usen sus enemigos, luchará contra todos ellos para proteger a su querida familia.",
+    "estado": "finalizado",
+    "destacado": false,
+    "finalizado": true,
+    "puntuacion": 7.59,
+    "anio": 2025,
+    "generos": ["Acción", "Comedia", "Adult Cast", "Crimen Organizado", "Shounen"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "" }, { "numero": 2, "video": "" }, { "numero": 3, "video": "" }, { "numero": 4, "video": "" }, { "numero": 5, "video": "" }, { "numero": 6, "video": "" }, { "numero": 7, "video": "" }, { "numero": 8, "video": "" }, { "numero": 9, "video": "" }, { "numero": 10, "video": "" }, { "numero": 11, "video": "" }
+        ]
+      }
+    ]
   }
 ],
   "idsEnEmision": [

@@ -15475,7 +15475,57 @@
           ]
         }
       ]
+    },
+    {
+  "id": "gachiakuta",
+  "titulo": "Gachiakuta",
+  "malId": 59062,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+  "imagenFondo": "",
+  "descripcion": "Los habitantes de una cierta ciudad adinerada no piensan en nada al deshacerse de los objetos. Sin embargo, sus desechos son un tesoro para Rudo, un residente de los barrios marginales de la ciudad. A pesar de las constantes advertencias de su padre adoptivo Regto, Rudo pasa sus días buscando materiales reutilizables que de otro modo serían enviados a la enorme área de desechos conocida como el Pozo. Debido a su inmensidad, el Pozo también sirve como un medio de castigo criminal; aquellos que son arrojados allí nunca regresan. Cuando Regto es asesinado por un misterioso asaltante, Rudo es acusado falsamente del crimen y arrojado al Pozo. Para su sorpresa, despierta en un área llena de basura habitada por enormes monstruos formados por la chatarra. Mientras el aire tóxico y las Bestias de la Basura llevan a Rudo al borde de la muerte, es rescatado por Enjin, uno de los Limpiadores que empuñan armas conocidas como Instrumentos Vitales para luchar contra las monstruosidades. Habiendo obtenido su propio Instrumento Vital, Rudo pronto se une a los Limpiadores con la esperanza de encontrar una manera de escapar del Pozo y vengar a su padre.",
+  "estado": "finalizado",
+  "destacado": false,
+  "finalizado": true,
+  "puntuacion": 8.21,
+  "anio": 2025,
+  "generos": ["Acción", "Fantasía", "Shounen"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "oFs6oaR-V" },
+        { "numero": 2, "video": "vvFasPniD" },
+        { "numero": 3, "video": "SwXqVKfsy" },
+        { "numero": 4, "video": "ClxyrALTq" },
+        { "numero": 5, "video": "JwLrYR4wd" },
+        { "numero": 6, "video": "YoGBhAwzd" },
+        { "numero": 7, "video": "k3cnOSOcI" },
+        { "numero": 8, "video": "wwdjqBaBp" },
+        { "numero": 9, "video": "nxWdjR0fD" },
+        { "numero": 10, "video": "n974hJJ0Z" },
+        { "numero": 11, "video": "mCYibENv1" },
+        { "numero": 12, "video": "iWXuZaNPY" }
+      ]
+    },
+    {
+      "numero": 2,
+      "capitulos": [
+        { "numero": 13, "video": "mu53vVJwi" },
+        { "numero": 14, "video": "tImdvzoHG" },
+        { "numero": 15, "video": "dKBtUmqMv" },
+        { "numero": 16, "video": "xQS2Y5KUq" },
+        { "numero": 17, "video": "XfUEPtCVJ" },
+        { "numero": 18, "video": "t4kfi6JZF" },
+        { "numero": 19, "video": "cvV0AoZt2" },
+        { "numero": 20, "video": "dviACQAkm" },
+        { "numero": 21, "video": "yD5aNxSdT" },
+        { "numero": 22, "video": "2sqRjDZQ4" },
+        { "numero": 23, "video": "xWZbChnDA" },
+        { "numero": 24, "video": "qEkHGNURu" }
+      ]
     }
+  ]
+}
   ],
   "idsEnEmision": [
     "cardfight-vanguard-divinez-genma-seisen-hen",

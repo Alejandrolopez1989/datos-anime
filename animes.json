@@ -187,7 +187,8 @@
             { "numero": 8, "video": "YLY-ivKYn" },
             { "numero": 9, "video": "QoSkGjYwE" },
             { "numero": 10, "video": "c91B_Tiw-" },
-            { "numero": 11, "video": "hvn9kgB8H" }
+            { "numero": 11, "video": "hvn9kgB8H" },
+            { "numero": 12, "video": "Ro5uh2mzgg" }
           ]
         }
       ]
@@ -218,7 +219,8 @@
             { "numero": 7, "video": "ANb1Qifdn" },
             { "numero": 8, "video": "Dbtnq4_Ge" },
             { "numero": 9, "video": "jILn-W74t" },
-            { "numero": 10, "video": "0AaVAI1Tq" }
+            { "numero": 10, "video": "0AaVAI1Tq" },
+            { "numero": 11, "video": "nGpkTkI9a" }
           ]
         }
       ]
@@ -248,7 +250,8 @@
             { "numero": 6, "video": "5cPtQvnQ-" },
             { "numero": 7, "video": "AcUvTwN2y" },
             { "numero": 8, "video": "_F3fKhsNu" },
-            { "numero": 9, "video": "uVmgCUZD6" }
+            { "numero": 9, "video": "uVmgCUZD6" },
+            { "numero": 10, "video": "0g8wfEzUzp" }
           ]
         }
       ]
@@ -281,7 +284,8 @@
             { "numero": 9, "video": "V8YXMCese" },
             { "numero": 10, "video": "ld19aBDo0" },
             { "numero": 11, "video": "F0bfXQI084" },
-            { "numero": 12, "video": "Zi-88nPOC" }
+            { "numero": 12, "video": "Zi-88nPOC" },
+            { "numero": 13, "video": "6nKuWXiGu" }
           ]
         }
       ]
@@ -312,7 +316,8 @@
             { "numero": 7, "video": "OWcBqEI-P" },
             { "numero": 8, "video": "dzuNHbqTY" },
             { "numero": 9, "video": "S2XEPq7XL" },
-            { "numero": 10, "video": "fggz9hkSb" }
+            { "numero": 10, "video": "fggz9hkSb" },
+            { "numero": 11, "video": "djzPGmLdv" }
           ]
         }
       ]
@@ -343,7 +348,8 @@
             { "numero": 7, "video": "2Syeq_uMZ" },
             { "numero": 8, "video": "FwbwlRVe5" },
             { "numero": 9, "video": "e_lnWPlzp" },
-            { "numero": 10, "video": "voPYhOhBw" }
+            { "numero": 10, "video": "voPYhOhBw" },
+            { "numero": 11, "video": "hBEGZqbcT" }
           ]
         }
       ]
@@ -363,7 +369,7 @@
       "generos": ["Comedia", "Parodia"],
       "temporadas": [
         {
-          "numero": 1,
+          "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "yOyhhrVOL" },
             { "numero": 2, "video": "eDstLJ0OL" },
@@ -374,7 +380,8 @@
             { "numero": 7, "video": "8u_hw9kLI" },
             { "numero": 8, "video": "oHeDJI426" },
             { "numero": 9, "video": "ONXyBAcJ5" },
-            { "numero": 10, "video": "04-K4t6al" }
+            { "numero": 10, "video": "04-K4t6al" },
+            { "numero": 11, "video": "up5dSGEyL" }
           ]
         }
       ]
@@ -404,7 +411,8 @@
             { "numero": 6, "video": "rbj1grNk-" },
             { "numero": 7, "video": "QYvr71Lv7" },
             { "numero": 8, "video": "OOQkODk66" },
-            { "numero": 9, "video": "czMr4OrKC" }
+            { "numero": 9, "video": "czMr4OrKC" },
+            { "numero": 10, "video": "vagZrlVyN" }
           ]
         }
       ]
@@ -434,7 +442,8 @@
             { "numero": 6, "video": "x5_CfT5K7" },
             { "numero": 7, "video": "eOMuqvaG_x" },
             { "numero": 8, "video": "TLuKp4rw3" },
-            { "numero": 9, "video": "YWblMNZor3" }
+            { "numero": 9, "video": "YWblMNZor3" },
+            { "numero": 10, "video": "d2Q2Wczlp" }
           ]
         }
       ]
@@ -15715,6 +15724,73 @@
         { "numero": 10, "video": "Vg3E3wC92" },
         { "numero": 11, "video": "JDGHcMKdz" },
         { "numero": 12, "video": "0q_CfUx01x" }
+      ]
+    }
+  ]
+},
+{
+  "id": "rakudai-kenja-no-gakuin-musou",
+  "titulo": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+  "malId": 63508,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1319/158376.jpg",
+  "imagenFondo": "",
+  "descripcion": "El Sabio del Viento, Ephtal, es un humano reencarnado que proviene de la Tierra moderna. Al reencarnar en un nuevo mundo donde la magia es real, decide dedicar toda su vida a la búsqueda de la magia. A pesar de sus esfuerzos, descubre que es absolutamente un inútil para la magia, y exhala su último suspiro en angustia. Pero ¡aún no es el final para él! Reencarna una vez más con el mismo nombre, Ephtal, 400 años después. Habiendo conservado su conocimiento y poder, reúne su determinación y una vez más fija su mirada en la cima de la magia. Sin embargo, en un giro sorprendente, descubre que la magia ha decaído terriblemente. En esta era donde los hechizos poderosos son una rareza, ¡su yo sin talento ahora es completamente inigualable! Desde las profundidades de la impotencia hasta la cima del poder, ¡el viaje del mago sin talento pero sin igual hacia la cima comienza ahora!",
+  "estado": "finalizado",
+  "destacado": false,
+  "finalizado": true,
+  "puntuacion": 6.18,
+  "anio": 2026,
+  "generos": ["Acción", "Aventura", "Fantasía", "Isekai", "Reencarnación"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "ZKohq7qS9" },
+        { "numero": 2, "video": "Upllfghu_" },
+        { "numero": 3, "video": "55T3Lk0t_" },
+        { "numero": 4, "video": "YfbQzN1XI" },
+        { "numero": 5, "video": "ROI3R2Gfbo" },
+        { "numero": 6, "video": "m3whc-lOq" },
+        { "numero": 7, "video": "NqSrmKdI2" },
+        { "numero": 8, "video": "YLY-ivKYn" },
+        { "numero": 9, "video": "QoSkGjYwE" },
+        { "numero": 10, "video": "c91B_Tiw-" },
+        { "numero": 11, "video": "hvn9kgB8H" },
+        { "numero": 12, "video": "Ro5uh2mzgg" }
+      ]
+    }
+  ]
+},
+{
+  "id": "bang-dream-yumemita",
+  "titulo": "BanG Dream! Yume∞Mita",
+  "malId": 62430,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1467/158693.jpg",
+  "imagenFondo": "",
+  "descripcion": "Reunidas de la nada para hacer su debut, cada una de estas miembros tiene una chispa de talento único, pero no están en absoluta forma para ser una banda. ¿Podrán estas chicas, y su banda, realmente sobrevivir a esto? «Incluso cuando el sonido se detiene, contraataca».",
+  "estado": "emision",
+  "destacado": false,
+  "finalizado": false,
+  "puntuacion": 7.54,
+  "anio": 2026,
+  "generos": ["Drama", "Música"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "feQz1BdQm" },
+        { "numero": 2, "video": "X3SMNLyV5" },
+        { "numero": 3, "video": "eGGgUaKmu" },
+        { "numero": 4, "video": "o2I50XDHu" },
+        { "numero": 5, "video": "u7PKt-cTb" },
+        { "numero": 6, "video": "T-uloX6nd" },
+        { "numero": 7, "video": "YRTLuSgrB" },
+        { "numero": 8, "video": "lNkxrATAX" },
+        { "numero": 9, "video": "V8YXMCese" },
+        { "numero": 10, "video": "ld19aBDo0" },
+        { "numero": 11, "video": "F0bfXQI084" },
+        { "numero": 12, "video": "Zi-88nPOC" },
+        { "numero": 13, "video": "6nKuWXiGu" }
       ]
     }
   ]

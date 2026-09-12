@@ -1377,6 +1377,515 @@
         }
       ]
     },
+  {
+    "id": "kuroneko-to-majo-no-kyoushitsu",
+    "titulo": "Kuroneko to Majo no Kyoushitsu",
+    "malId": 62171,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1716/153989.jpg",
+    "imagenFondo": "",
+    "descripcion": "La Real Academia Diana es una escuela prestigiosa que acepta a individuos con habilidades mágicas expertas. Al graduarse, estos estudiantes se encuentran en la cima de su campo o empleados por la familia real. Spica Virgo sueña con estudiar en la academia, con el objetivo de ser una hechicera de primer nivel como su ídolo Claude Sirius. Claude es un hechicero de renombre mundial que se convirtió en el instructor más joven de la institución, pero desapareció misteriosamente poco después. Al carecer de la experiencia y las conexiones necesarias para la admisión, Spica no puede progresar significativamente en su entrenamiento. Un día, sin embargo, conoce a un gato negro parlante con habilidades mágicas. Con la esperanza de cambiar la situación para mejor, le ruega al animal que la tome como aprendiz y le enseñe la magia que necesita para asistir a la academia. El gato acepta el trato con una condición: ella debe encontrar una manera de revertir su maldición felina. A pesar de los arduos desafíos que tiene por delante, Spica está decidida a demostrar que es una estudiante digna de la tutoría del gato.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.44,
+    "anio": 2026,
+    "generos": ["Comedia", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "adxzXpFCs" },
+          { "numero": 2, "video": "Mc6M7w6EF" },
+          { "numero": 3, "video": "EwW5rK9gr" },
+          { "numero": 4, "video": "7hD-4hl8r" },
+          { "numero": 5, "video": "kUH-hl8wv" },
+          { "numero": 6, "video": "6OBI9ygNp" },
+          { "numero": 7, "video": "29Vo2VjAv5" },
+          { "numero": 8, "video": "TVZYPbe0W" },
+          { "numero": 9, "video": "d10or2w8G" },
+          { "numero": 10, "video": "1dde02wCL" },
+          { "numero": 11, "video": "x_2ElCfBi" },
+          { "numero": 12, "video": "3Ht5w1hAX" },
+          { "numero": 13, "video": "fYebtr0SU" },
+          { "numero": 14, "video": "5EDGN44bS" },
+          { "numero": 15, "video": "gsw4D5Y-1" },
+          { "numero": 16, "video": "vwBeuuWmK" },
+          { "numero": 17, "video": "358NCCl3A" },
+          { "numero": 18, "video": "cIXF1T_Kr" },
+          { "numero": 19, "video": "_mlOQ1vdh" },
+          { "numero": 20, "video": "rR-LtnWQ0" },
+          { "numero": 21, "video": "-So-ukKrS" },
+          { "numero": 22, "video": "jnANSeTMM" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "digimon-beatbreak",
+    "titulo": "Digimon Beatbreak",
+    "malId": 61269,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1776/151242.jpg",
+    "imagenFondo": "",
+    "descripcion": "Tomorou Tenma posee un e-Pulse inusualmente fuerte: la energía creada por los pensamientos y emociones humanos que alimenta dispositivos de IA con forma de huevo llamados Sapotama. La vida cotidiana del mundo depende de la asistencia de los Sapotamas, pero la fuerza del e-Pulse de Tomorou a menudo les causa fallos. Una noche, una criatura extraña que se hace llamar Gekkoumon emerge de su dispositivo e insiste en comer el e-Pulse de Tomorou. Gekkoumon es un Digimon, una criatura que se alimenta de e-Pulse y que nació de un error en los Sapotamas. Algunos Digimon drenan por completo la energía de los humanos, dejándolos en un estado comatoso conocido como Corazón Frío. Cuando el hermano mayor de Tomorou, Asuka, se convierte en víctima de este fenómeno, Tomorou jura vengarlo. Tomorou conoce a un grupo de portadores de Digimon llamado Glowing Dawn, que cazan Digimon rebeldes por recompensas. Su líder, Kyou Sawashiro, explica que todavía podría haber esperanza para la recuperación de Asuka. Aunque Tomorou lucha por confiar en estos extraños, decide unirse a ellos, ya que se da cuenta de que salvar a su hermano puede no ser posible por sí solo.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.13,
+    "anio": 2025,
+    "generos": ["Acción", "Fantasía", "Ciencia Ficción"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 26, "video": "UTAjRrtUs" },
+          { "numero": 27, "video": "SlhvJvy8C" },
+          { "numero": 28, "video": "jHj7JoAqP" },
+          { "numero": 29, "video": "rsB5e46lE" },
+          { "numero": 30, "video": "vhOHR11Eg" },
+          { "numero": 31, "video": "XJ5k5oX1P" },
+          { "numero": 32, "video": "Fq2Eia4tp" },
+          { "numero": 33, "video": "xhkvbTXvT" },
+          { "numero": 34, "video": "rxmZ69SOO" },
+          { "numero": 35, "video": "_ZjRSQ5KvC" },
+          { "numero": 36, "video": "b8NAh8p6x" },
+          { "numero": 37, "video": "JNvQxM8MWB" },
+          { "numero": 38, "video": "SrT4Nikns" },
+          { "numero": 39, "video": "1sGbgUMfW" },
+          { "numero": 40, "video": "mpEEd4qEC" },
+          { "numero": 41, "video": "7-bQs1EOz" },
+          { "numero": 42, "video": "SP6gWeNnD" },
+          { "numero": 43, "video": "QfSWNtFDs" },
+          { "numero": 44, "video": "kPXsz9bjV" },
+          { "numero": 45, "video": "zcLpiO0vR" },
+          { "numero": 46, "video": "Jxdqdxk5sy" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "liar-game",
+    "titulo": "Liar Game",
+    "malId": 62331,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1984/158634.jpg",
+    "imagenFondo": "",
+    "descripcion": "Nao Kanzaki es honesta hasta el extremo. Incorrupta y virtuosa, Nao es el blanco perfecto para un esquema a gran escala: el llamado Juego de Mentiras. De repente, posee cien millones de yenes y se espera que robe la misma cantidad a su oponente asignado —su antiguo profesor de secundaria— o se enfrente a una deuda aplastante. Confiando en su profesor sin cuestionarlo, Nao pronto se da cuenta de que está atrapada. Para obtener una ventaja, Nao se pone en contacto con Shinichi Akiyama, un brillante estafador recién salido de prisión. Aunque Akiyama no tiene una razón real para ayudar a la chica ingenua, termina ayudándola a ganar. Sin embargo, impulsada por su inquebrantable sentido de la justicia, Nao decide continuar a la siguiente ronda, y Akiyama, sin querer dejarla fracasar, se une a ella. En el Juego de Mentiras, se espera y se requiere que los participantes engañen, manipulen y traicionen o queden enterrados en deudas de por vida. Sin embargo, Nao, con la ayuda del genio de Akiyama, está decidida a ganar el juego sin abandonar sus principios morales y demostrar que la generosidad y la sinceridad siempre prevalecerán.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.41,
+    "anio": 2026,
+    "generos": ["Drama", "Suspense"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "F89SMj_bh" },
+          { "numero": 2, "video": "z9nBvXvXi" },
+          { "numero": 3, "video": "hrNk0sAdPo" },
+          { "numero": 4, "video": "gAXz4gafO" },
+          { "numero": 5, "video": "Gh0gYMLkq" },
+          { "numero": 6, "video": "xi5zCeOiV" },
+          { "numero": 7, "video": "RIhIG6UGG" },
+          { "numero": 8, "video": "Av842vPIw" },
+          { "numero": 9, "video": "upiLmObEa" },
+          { "numero": 10, "video": "PaggjV4t7" },
+          { "numero": 11, "video": "OJys_ia7-" },
+          { "numero": 12, "video": "wowFxopoB" },
+          { "numero": 13, "video": "HeFxQyz_a" },
+          { "numero": 14, "video": "vNuzihYDTm" },
+          { "numero": 15, "video": "m0OruqrNv" },
+          { "numero": 16, "video": "dLg0JLIVi" },
+          { "numero": 17, "video": "1lKCB2bA0" },
+          { "numero": 18, "video": "-pN1mnHXI" },
+          { "numero": 19, "video": "y8GLBQBvh" },
+          { "numero": 20, "video": "IkX5WXtaU" },
+          { "numero": 21, "video": "P1b9IDKYo" },
+          { "numero": 22, "video": "QwSb5mWwQ" },
+          { "numero": 23, "video": "dqwSoaw_m" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "world-is-dancing",
+    "titulo": "World Is Dancing",
+    "malId": 63347,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1165/158709.jpg",
+    "imagenFondo": "",
+    "descripcion": "Uno no necesita bailar para vivir. En 1374, durante la turbulenta era en que las Cortes del Norte y del Sur estaban en conflicto, el shogun de la Corte del Norte, Ashikaga Yoshimitsu, se estaba convirtiendo en una fuerza cada vez más dominante. Nacido como hijo de Kanami, jefe de la tropa Kanze de artistas de sarugaku, Oniyasha deambula por sus días con una pregunta vaga alojada en su corazón: ¿Por qué baila la gente? Su espíritu permanece nublado, hasta el día en que encuentra un baile que es verdaderamente 'bueno'. Curioso, sensible y llamativamente bello, el chico conoce gente, ríe, llora, se enfrenta a sus propias debilidades y comienza lentamente a dar forma a una nueva forma de danza para un mundo sumido en la impermanencia.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.29,
+    "anio": 2026,
+    "generos": ["Drama", "Histórico", "Artes Escénicas"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "l2rX2E_-Z" },
+          { "numero": 2, "video": "sItujT0wi" },
+          { "numero": 3, "video": "CdTXsWouL" },
+          { "numero": 4, "video": "6bzoMvGST" },
+          { "numero": 5, "video": "VCTzV4NJo" },
+          { "numero": 6, "video": "DzUYOt9-J" },
+          { "numero": 7, "video": "_DHUO5axL" },
+          { "numero": 8, "video": "fvLV96h9T" },
+          { "numero": 9, "video": "NWJjj6sBK" },
+          { "numero": 10, "video": "EVh6ALO6j" },
+          { "numero": 11, "video": "2vTh87RDb" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+    "titulo": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+    "malId": 56736,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1529/158522.jpg",
+    "imagenFondo": "",
+    "descripcion": "El imperio Adrasia en el continente Vogel. Hay una batalla por el trono de tan poderoso imperio que posee un ejército poderoso y un vasto territorio. Con el sucesor aún por decidir, los hijos del emperador compiten por expandir su poder. Sin embargo, había un príncipe del que todos dicen que definitivamente no se convertirá en emperador...",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.30,
+    "anio": 2026,
+    "generos": ["Acción", "Aventura", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "PEnBELzlZt" },
+          { "numero": 2, "video": "znBYpQ5RI" },
+          { "numero": 3, "video": "Cg-JOznEc" },
+          { "numero": 4, "video": "dMD0YoLjp" },
+          { "numero": 5, "video": "eAK-ksy4S" },
+          { "numero": 6, "video": "UW21Sv0SG" },
+          { "numero": 7, "video": "YrhLMGIha" },
+          { "numero": 8, "video": "tKVkfFPb1" },
+          { "numero": 9, "video": "kKULdL3vW" },
+          { "numero": 10, "video": "8baGZw8d0" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "honoo-no-toukyuujo-dodge-danko",
+    "titulo": "Honoo no Toukyuujo: Dodge Danko",
+    "malId": 62031,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1017/158603.jpg",
+    "imagenFondo": "",
+    "descripcion": "El deporte de combate más feroz y legendario de la historia: el Dodgeball. Alguna vez fuente de innumerables relatos heroicos y multitudes apasionadas, el juego ahora comienza un nuevo capítulo. En el corazón de esta historia está Danko Ichigeki, hija del legendario 'Danpei Ichigeki'. Heredando el espíritu fogoso de su padre, Danko está lista para traer esa misma energía explosiva a la era Reiwa.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.34,
+    "anio": 2026,
+    "generos": ["Comedia", "Deportes"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "0mK2PfCjs" },
+          { "numero": 2, "video": "81gmmuhr8" },
+          { "numero": 3, "video": "uIsSzrpmD" },
+          { "numero": 4, "video": "JJv0r41-p" },
+          { "numero": 5, "video": "ZStoE1uhG" },
+          { "numero": 6, "video": "u3lSziPdE" },
+          { "numero": 7, "video": "PpRfplb6B" },
+          { "numero": 8, "video": "dCdzvE_Iy" },
+          { "numero": 9, "video": "DpwRT69rb" },
+          { "numero": 10, "video": "xRwZ-t-LN" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hokuto-no-ken-kenougun-zako-tachi-no-banka",
+    "titulo": "Hokuto no Ken: Kenougun Zako-tachi no Banka",
+    "malId": 62987,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1845/153717.jpg",
+    "imagenFondo": "",
+    "descripcion": "Un joven llamado Nobu, que busca trabajo en el mundo post-apocalíptico, termina siendo engañado para unirse al Ejército de Raoh.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 5.65,
+    "anio": 2026,
+    "generos": ["Acción", "Comedia", "Sobrenatural"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 13, "video": "nhsKuE2Nd" },
+          { "numero": 14, "video": "F9_xJCaCju" },
+          { "numero": 15, "video": "kC6CtISSf" },
+          { "numero": 16, "video": "zeAkC6fcu" },
+          { "numero": 17, "video": "FVVBdwcKh" },
+          { "numero": 18, "video": "Tq7ugB7vr" },
+          { "numero": 19, "video": "wftMO2jgE" },
+          { "numero": 20, "video": "ncKeFnVCt" },
+          { "numero": 21, "video": "vaUt_S3pO" },
+          { "numero": 22, "video": "QgiowMUZw" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "buchigire-reijou-wa-houfuku-wo-chikaimashita",
+    "titulo": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+    "malId": 62289,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1551/157170.jpg",
+    "imagenFondo": "",
+    "descripcion": "Elizabeth Leiston, la hija del poderoso primer ministro de Haldoria, es la imagen de una refinada dama noble y la futura reina perfecta. Pero cuando su prometido la humilla públicamente, cancela su compromiso y comienza a difundir rumores desagradables sobre ella, Elizabeth llega a su punto límite. ¿Por qué su única amiga debería ser su leal doncella, y por qué debería seguir sirviendo a un país que no la respeta? Elizabeth concluye que no lo soportará más y derribará el reino, ¡aunque sea lo último que haga! Como tal, utiliza su ingenio rápido y, más importante aún, sus siete grimorios mágicos para embarcarse en una búsqueda de venganza. Y déjame decirte, ¡habrá un infierno que pagar!",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.75,
+    "anio": 2026,
+    "generos": ["Drama", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "Q5Lks7PU2j" },
+          { "numero": 2, "video": "PY-vbLS6t" },
+          { "numero": 3, "video": "7ICp_IgdO" },
+          { "numero": 4, "video": "9sfDFKtOa" },
+          { "numero": 5, "video": "Xd9arNcTT" },
+          { "numero": 6, "video": "BFHmerXH6" },
+          { "numero": 7, "video": "CHUexZqs9" },
+          { "numero": 8, "video": "coWlshR1M" },
+          { "numero": 9, "video": "L-9pxnt22" },
+          { "numero": 10, "video": "3hyFQMn13" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "suterare-seijo-no-isekai-gohan-tabi",
+    "titulo": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
+    "malId": 63752,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1417/157798.jpg",
+    "imagenFondo": "",
+    "descripcion": "Rin Takanashi, una cuidadora de treinta y tantos años, es invocada a otro mundo junto con otra chica. Mientras que la otra es una santa, Rin es desterrada al bosque por tener habilidades aparentemente inútiles como 'camper truck' y 'appraisal'. Afortunadamente, Rin descubre que puede invocar una autocaravana y comienza un viaje culinario por el mundo de fantasía, conociendo nuevos amigos en el camino.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.43,
+    "anio": 2026,
+    "generos": ["Fantasía", "Gourmet", "Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "rMbpn4iZf" },
+          { "numero": 2, "video": "ciwXyeTeEq" },
+          { "numero": 3, "video": "NrCTF7EhW" },
+          { "numero": 4, "video": "QxbUzH8JC" },
+          { "numero": 5, "video": "0dke3JUHk" },
+          { "numero": 6, "video": "HPmme-LS9" },
+          { "numero": 7, "video": "lKlcz9G8qZ" },
+          { "numero": 8, "video": "s7hUW806s" },
+          { "numero": 9, "video": "70IPwqsgR" },
+          { "numero": 10, "video": "2iKNbKpGI" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toumei-na-yoru-ni-kakeru-kimi-to",
+    "titulo": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+    "malId": 62936,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1145/158339.jpg",
+    "imagenFondo": "",
+    "descripcion": "Una noche de primavera, Kakeru Sorano, un estudiante universitario de primer año, es arrastrado por su compañero de dormitorio Narumi a una fiesta de bienvenida. Allí conoce a Koharu Fuyutsuki, una chica ciega que ríe a menudo y habla de sus sueños; es prácticamente lo opuesto a él. Desde el momento en que recoge su bastón blanco después de clase, la distancia entre ellos comienza a reducirse. 'Quiero ver fuegos artificiales', dice ella un día. Esas palabras llevan una luz que Kakeru mira directamente por primera vez. Una chica que no puede ver y un chico que se ha aislado: esta es una delicada historia de amor tejida por dos personas que buscan la luz.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 8.01,
+    "anio": 2026,
+    "generos": ["Drama", "Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "drT8GxxJx" },
+          { "numero": 2, "video": "QTLV1kEpd" },
+          { "numero": 3, "video": "eQwWT8IWy" },
+          { "numero": 4, "video": "0h3QoRtsmF" },
+          { "numero": 5, "video": "-yLBdWMTM" },
+          { "numero": 6, "video": "PIy4LwF7Y" },
+          { "numero": 7, "video": "9kVk1eYQD" },
+          { "numero": 8, "video": "ORrnNw6zL" },
+          { "numero": 9, "video": "CBZ21X91e" },
+          { "numero": 10, "video": "rL7rN84Pw9" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
+    "titulo": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+    "malId": 62080,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1612/158373.jpg",
+    "imagenFondo": "",
+    "descripcion": "Lady Carolina, la hija ignorada de un poderoso duque, siempre se ha creído la oveja negra entre sus ilustres parientes. Su padre es el distinguido primer ministro; su hermana mayor, una maga prodigiosa destinada a convertirse en la próxima Santa de su nación. En comparación, Carolina se resigna a una existencia tranquila en sus sombras hasta que un decreto real repentino e inesperado altera su destino, empujándola a un matrimonio político con el formidable 'Príncipe Sediento de Sangre' del vecino Imperio de Malcosias. Decidida a demostrar su valía, Carolina da un paso audaz hacia un mundo plagado de peligros tanto políticos como mortales. Mientras las obligaciones reales se entrelazan con indicios de amor verdadero y los albores de su propio poder latente, Carolina se acerca cada vez más a comprender qué significa realmente ser excepcional.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.38,
+    "anio": 2026,
+    "generos": ["Fantasía", "Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "T7m_ksTYk" },
+          { "numero": 2, "video": "w9Unb8M-H" },
+          { "numero": 3, "video": "_bRje8bZl" },
+          { "numero": 4, "video": "kRV9qLzE1" },
+          { "numero": 5, "video": "sG1VJ0fMQ" },
+          { "numero": 6, "video": "qylpqGJT3" },
+          { "numero": 7, "video": "Ttnu89iDq" },
+          { "numero": 8, "video": "b43oVJ7dQ" },
+          { "numero": 9, "video": "Bm7nqbyW0" },
+          { "numero": 10, "video": "1sSlqjeQf" },
+          { "numero": 11, "video": "vemtfSCyV" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai",
+    "titulo": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
+    "malId": 46488,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1343/156268.jpg",
+    "imagenFondo": "",
+    "descripcion": "¡Un intenso juego de lucha jugado en la escuela de chicas! Aya se transfirió a la Academia de Chicas Kuromi hace un mes con el objetivo de convertirse en una dama adecuada. Después de conocer a la impresionante Shirayuri, Aya queda deslumbrada por su elegancia y porte. Imagina su sorpresa cuando encuentra a Shirayuri después de la escuela jugando... ¡¿un juego de lucha?! Y si eso no fuera lo suficientemente desconcertante, ¡es desafiada a un duelo por la poco señorial Shirayuri!",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.51,
+    "anio": 2026,
+    "generos": ["Comedia", "Girls Love"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "X2vGAmkR6" },
+          { "numero": 2, "video": "E0ITN679p" },
+          { "numero": 3, "video": "DKXdNtj0J" },
+          { "numero": 4, "video": "zMSta9Ojz" },
+          { "numero": 5, "video": "Qse6pA_4q" },
+          { "numero": 6, "video": "xWqh6__5Y" },
+          { "numero": 7, "video": "6iroAeUJh" },
+          { "numero": 8, "video": "CrYLscY8X" },
+          { "numero": 9, "video": "sWedO8VVp" },
+          { "numero": 10, "video": "NQIfj5dWM" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ingoku-danchi",
+    "titulo": "Ingoku Danchi",
+    "malId": 63310,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1373/155741.jpg",
+    "imagenFondo": "",
+    "descripcion": "Yoshida es un pequeño y frágil recién graduado de secundaria que se convirtió en el gerente involuntario de un complejo de apartamentos cuando su padre, el antiguo gerente, se lesionó. Sin que él lo sepa, este complejo alberga a varias mujeres con preferencias sexuales muy... inusuales. Esto se convierte en un problema cuando una entidad misteriosa comienza a dar \"Telas de Libido\" a estas mujeres: atuendos diminutos que les otorgan superpoderes y las hacen embarcarse en alborotos lascivos. ¿Podrá Yoshida detenerlas?",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 4.78,
+    "anio": 2026,
+    "generos": ["Comedia", "Sobrenatural", "Erótica"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "M1QtvB7kS" },
+          { "numero": 2, "video": "Ydchax8Cv" },
+          { "numero": 3, "video": "rUSvK55He" },
+          { "numero": 4, "video": "dtnscLren" },
+          { "numero": 5, "video": "U6mhF8Kw2q" },
+          { "numero": 6, "video": "bvt-y_J38" },
+          { "numero": 7, "video": "Q-eskED1S" },
+          { "numero": 8, "video": "WYWkMkLn5" },
+          { "numero": 9, "video": "8R1IsjdA1" },
+          { "numero": 10, "video": "exnWZK1eC" },
+          { "numero": 11, "video": "zKRaC90Xc" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rakudai-kenja-no-gakuin-musou",
+    "titulo": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+    "malId": 63508,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1319/158376.jpg",
+    "imagenFondo": "",
+    "descripcion": "El Sabio del Viento, Ephtal, es un humano reencarnado que proviene de la Tierra moderna. Al reencarnar en un nuevo mundo donde la magia es real, decide dedicar toda su vida a la búsqueda de la magia. A pesar de sus esfuerzos, descubre que es absolutamente un inútil para la magia, y exhala su último suspiro en angustia. Pero ¡aún no es el final para él! Reencarna una vez más con el mismo nombre, Ephtal, 400 años después. Habiendo conservado su conocimiento y poder, reúne su determinación y una vez más fija su mirada en la cima de la magia. Sin embargo, en un giro sorprendente, descubre que la magia ha decaído terriblemente. En esta era donde los hechizos poderosos son una rareza, ¡su yo sin talento ahora es completamente inigualable! Desde las profundidades de la impotencia hasta la cima del poder, ¡el viaje del mago sin talento pero sin igual hacia la cima comienza ahora!",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.18,
+    "anio": 2026,
+    "generos": ["Acción", "Aventura", "Fantasía", "Isekai", "Reencarnación"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "ZKohq7qS9" },
+          { "numero": 2, "video": "Upllfghu_" },
+          { "numero": 3, "video": "55T3Lk0t_" },
+          { "numero": 4, "video": "YfbQzN1XI" },
+          { "numero": 5, "video": "ROI3R2Gfbo" },
+          { "numero": 6, "video": "m3whc-lOq" },
+          { "numero": 7, "video": "NqSrmKdI2" },
+          { "numero": 8, "video": "YLY-ivKYn" },
+          { "numero": 9, "video": "QoSkGjYwE" },
+          { "numero": 10, "video": "c91B_Tiw-" },
+          { "numero": 11, "video": "hvn9kgB8H" },
+          { "numero": 12, "video": "Ro5uh2mzgg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bang-dream-yumemita",
+    "titulo": "BanG Dream! Yume∞Mita",
+    "malId": 62430,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1467/158693.jpg",
+    "imagenFondo": "",
+    "descripcion": "Reunidas de la nada para hacer su debut, cada una de estas miembros tiene una chispa de talento único, pero no están en absoluta forma para ser una banda. ¿Podrán estas chicas, y su banda, realmente sobrevivir a esto? «Incluso cuando el sonido se detiene, contraataca».",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.54,
+    "anio": 2026,
+    "generos": ["Drama", "Música"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "feQz1BdQm" },
+          { "numero": 2, "video": "X3SMNLyV5" },
+          { "numero": 3, "video": "eGGgUaKmu" },
+          { "numero": 4, "video": "o2I50XDHu" },
+          { "numero": 5, "video": "u7PKt-cTb" },
+          { "numero": 6, "video": "T-uloX6nd" },
+          { "numero": 7, "video": "YRTLuSgrB" },
+          { "numero": 8, "video": "lNkxrATAX" },
+          { "numero": 9, "video": "V8YXMCese" },
+          { "numero": 10, "video": "ld19aBDo0" },
+          { "numero": 11, "video": "F0bfXQI084" },
+          { "numero": 12, "video": "Zi-88nPOC" },
+          { "numero": 13, "video": "6nKuWXiGu" }
+        ]
+      }
+    ]
+  },
     {
       "id": "one-piece",
       "titulo": "One Piece",
@@ -1419,8 +1928,901 @@
           ]
         }
       ]
-    }
-  ],
+    },
+  {
+    "id": "kimi-ga-shinu-made-koi-wo-shitai",
+    "titulo": "Kimi ga Shinu made Koi wo Shitai",
+    "malId": 61126,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1096/158712.jpg",
+    "imagenFondo": "",
+    "descripcion": "La muerte de la compañera de cuarto de Sheena Totsuki se anuncia casualmente al comienzo de la clase, y el día continúa como siempre. En un orfanato que cría a los niños como soldados, la muerte no es nada nuevo para los residentes. Con su país de origen envuelto en una guerra que se ha prolongado demasiados años y no muestra signos de detenerse, los niños de la institución son enviados a morir en batalla todos los días. A diferencia de los otros huérfanos, Sheena está profundamente perturbada por el conflicto en curso y desea que termine. La noche de la muerte de su compañera de cuarto, Sheena conoció a una chica cubierta de sangre que permaneció jubilosa a pesar de su condición. Al día siguiente, la chica aparece como una nueva estudiante en la clase de Sheena y se presenta como Mimi Kagari. Inicialmente considerada un mito escolar, se dice que Mimi es el arma secreta del orfanato: una chica que no puede morir. Asignada como la nueva compañera de cuarto de Sheena, Mimi espera llevarse bien con ella y acostumbrarse a la vida escolar. Sin embargo, inquieta por la actitud despreocupada de Mimi hacia la guerra, Sheena lucha por aceptar el mundo en el que viven, todo mientras su amistad inusual florece en medio de la sombría situación.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.74,
+    "anio": 2026,
+    "generos": ["Drama", "Fantasía", "Girls Love"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "VjFf38e9X" },
+          { "numero": 2, "video": "eVlacGiNY" },
+          { "numero": 3, "video": "rwniMG-ms" },
+          { "numero": 4, "video": "3mYQkl7ju" },
+          { "numero": 5, "video": "S_V5YKn6g" },
+          { "numero": 6, "video": "U8zNgJHbY" },
+          { "numero": 7, "video": "RoO6O8a7U" },
+          { "numero": 8, "video": "NxiW2nwI0" },
+          { "numero": 9, "video": "vCntCY0wn" },
+          { "numero": 10, "video": "MyR8-zo2W" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sora-wa-akai-kawa-no-hotori",
+    "titulo": "Sora wa Akai Kawa no Hotori",
+    "malId": 63489,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1158/158138.jpg",
+    "imagenFondo": "",
+    "descripcion": "Yuri, una linda chica japonesa, está eufórica después de aprobar su examen de ingreso a la universidad y dar su primer beso con su amigo de la infancia convertido en novio. Sin embargo, su suerte pronto cambia. Transportada a una aldea antigua en el Medio Oriente, es capturada por tropas armadas y llevada al palacio de la Reina para un sacrificio humano.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 5.77,
+    "anio": 2026,
+    "generos": ["Acción", "Aventura", "Drama", "Romance", "Sobrenatural"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "eb6zWd_UCg" },
+          { "numero": 2, "video": "iMPq_ayNA" },
+          { "numero": 3, "video": "Ez7VCjELjj" },
+          { "numero": 4, "video": "ZsNburoND" },
+          { "numero": 5, "video": "FcqO5uXkP" },
+          { "numero": 6, "video": "IIIfRwc30" },
+          { "numero": 7, "video": "AZutwMwV2" },
+          { "numero": 8, "video": "dBcxHOCrI" },
+          { "numero": 9, "video": "YFObXSznc" },
+          { "numero": 10, "video": "NDtHU0Td_" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yoroi-shin-den-samurai-troopers",
+    "titulo": "Yoroi Shin Den Samurai Troopers",
+    "malId": 61830,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1289/153952.jpg",
+    "imagenFondo": "",
+    "descripcion": "Secuela de Yoroiden Samurai Troopers. Miles de años atrás, el malvado emperador Talpa intentó conquistar la Tierra. Derrotado, fue desterrado al Reino Infernal y su armadura fue dividida en 9 trajes separados. Ahora, con el sello roto y hordas de soldados demoníacos lanzando una invasión, cinco jóvenes guerreros se apresuran al rescate de la humanidad. Fueron llamados los Samurai Troopers, ¡y ahora su batalla comienza de nuevo!",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.17,
+    "anio": 2026,
+    "generos": ["Acción", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 13, "video": "YFmmaEtjt" },
+          { "numero": 14, "video": "iT3X1NBgM" },
+          { "numero": 15, "video": "k-_a7aHjj" },
+          { "numero": 16, "video": "Z7NFUIpFU" },
+          { "numero": 17, "video": "egYG-5Rug" },
+          { "numero": 18, "video": "pi_FhNp8a" },
+          { "numero": 19, "video": "kYp-73CC4" },
+          { "numero": 20, "video": "yYoV_Od-Iw" },
+          { "numero": 21, "video": "ZX-1D6qLA" },
+          { "numero": 22, "video": "7votJhAh8" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "migawari-reijou-wo-sukutta",
+    "titulo": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+    "malId": 63878,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1491/157799.jpg",
+    "imagenFondo": "",
+    "descripcion": "Como hija ilegítima de un conde y su criada, Katrina nació en circunstancias miserables. Y ahora que ha perdido a su madre, el trato de su hermanastra y su madrastra, la condesa, solo ha empeorado. Un día, su hermanastra recibe una orden real de mudarse a las afueras del norte debido a su comportamiento indecoroso en una fiesta reciente. Allí, debe aprender modales adecuados bajo la tutela del príncipe residente, de quien se rumorea que es un hombre cruel. Al no querer someter a su hija a tal castigo, la condesa decide enviar a Katrina en su lugar. Katrina llega al norte temblando de miedo. Pero, contrario a las historias, el príncipe 'despiadado y frío' es más amable de lo que creía. ¿Podría la bondadosa Katrina encontrar el amor en el campo invernal?",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 5.57,
+    "anio": 2026,
+    "generos": ["Fantasía", "Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "aTu9V9oEU" },
+          { "numero": 2, "video": "eA95Dd5bL" },
+          { "numero": 3, "video": "INwEqLOxC" },
+          { "numero": 4, "video": "wI_6bnE8G" },
+          { "numero": 5, "video": "UjmTyuAb_" },
+          { "numero": 6, "video": "he0vMwySf" },
+          { "numero": 7, "video": "vaJ7PVCeE" },
+          { "numero": 8, "video": "ojxN5aKsh" },
+          { "numero": 9, "video": "q7DO1eddJ" },
+          { "numero": 10, "video": "1RFnlcubU" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tefuda-ga-oome-no-victoria",
+    "titulo": "Tefuda ga Oome no Victoria",
+    "malId": 62476,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1098/158743.jpg",
+    "imagenFondo": "",
+    "descripcion": "En una era en la que los espías actúan en las sombras en todas las tierras, Chloe pasa sus días llevando a cabo con éxito incluso las misiones más difíciles gracias a sus incomparables habilidades de disfraz y artes marciales. Sin embargo, tras la traición de su jefe, desaparece repentinamente: Chloe planea rehacer su vida como la ciudadana común Victoria en el reino vecino de Ashberry, esforzándose por llevar una vida 'normal'. No obstante, la vida pacífica de Victoria se ve truncada abruptamente cuando comienza a involucrarse con muchas personas. En esta nueva tierra, sus experiencias y habilidades de sus días como espía resultan mucho más útiles de lo que jamás esperó. Por otro lado, el segundo príncipe y el perseguidor de la organización, entre otros, se interesan por la fuerza de Victoria, ¡y muchas sombras se ciernen sobre la que tiene todas las cartas en la mano...!",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.45,
+    "anio": 2026,
+    "generos": ["Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "xYzYSsdv_" },
+          { "numero": 2, "video": "9WwboK0qMp" },
+          { "numero": 3, "video": "DwvTFeWru" },
+          { "numero": 4, "video": "EUYl6zsTu" },
+          { "numero": 5, "video": "SysDQ4gRW" },
+          { "numero": 6, "video": "Plru7we67" },
+          { "numero": 7, "video": "OrGyHzh7b" },
+          { "numero": 8, "video": "YA76eFEJx" },
+          { "numero": 9, "video": "rhpSRCPYq" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grand-blue",
+    "titulo": "Grand Blue",
+    "malId": 37105,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
+    "imagenFondo": "",
+    "descripcion": "Iori Kitahara se muda a la ciudad costera de Izu para su primer año en la universidad, instalándose encima de Grand Blue, la tienda de buceo de su tío. Iori tiene grandes esperanzas y sueños sobre tener la experiencia universitaria ideal, pero cuando entra en la tienda es absorbido por las actividades alcohólicas de los despreocupados miembros del Club de Buceo que frecuentan el lugar. Persuadido por los estudiantes de último año Shinji Tokita y Ryuujirou Kotobuki, Iori se une a regañadientes a su extraña fiesta. Su prima Chisa Kotegawa llega más tarde y lo sorprende en el acto, ganándose el desdén absoluto de Iori. Basado en el popular manga cómico de Kenji Inoue y Kimitake Yoshioka, Grand Blue sigue las desventuras de Iori con sus excéntricos nuevos amigos mientras se esfuerza por realizar su sueño universitario ideal, mientras también aprende a bucear.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 8.45,
+    "anio": 2026,
+    "generos": ["Comedia"],
+    "temporadas": [
+      {
+        "numero": 3,
+        "capitulos": [
+          { "numero": 1, "video": "ycPiJ-wi3T" },
+          { "numero": 2, "video": "GIKJ56ApZ" },
+          { "numero": 3, "video": "vP3XzDHej" },
+          { "numero": 4, "video": "2E3jyUztj" },
+          { "numero": 5, "video": "Bmx_5uszZ" },
+          { "numero": 6, "video": "eWabix2Ci" },
+          { "numero": 7, "video": "lkd6ukrkA" },
+          { "numero": 8, "video": "ep60wU5G_" },
+          { "numero": 9, "video": "7mUIVg8Yh" },
+          { "numero": 10, "video": "LoJTneD45" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tenkou-saki-no-seiso-karen",
+    "titulo": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+    "malId": 56735,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1352/158564.jpg",
+    "imagenFondo": "",
+    "descripcion": "Me reencontré con mi amiga de la infancia, y se había convertido en una chica hermosa e inocente. 'Ha pasado mucho tiempo, Hayato.' '¿Haruki, eres tú?'. En el pasado, solía jugar en el barro con mi amiga de la infancia en el campo, y cuando la vi de nuevo, no quedaba rastro del joven travieso que pensé que era entonces. Solo frente a Hayato, ella arrojó el abrigo que llevaba y reaccionó de la misma manera grosera que antes. La distancia entre tú y yo no ha cambiado.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.89,
+    "anio": 2026,
+    "generos": ["Comedia", "Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "YmzAGlAN8" },
+          { "numero": 2, "video": "nIA0DAzZs" },
+          { "numero": 3, "video": "pDTw7Uc6j" },
+          { "numero": 4, "video": "r_mNXnzsF" },
+          { "numero": 5, "video": "mRA90UtRm" },
+          { "numero": 6, "video": "5BHycdls6" },
+          { "numero": 7, "video": "l-tb1ukVy" },
+          { "numero": 8, "video": "Es4G3gHrSd" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thunder-3",
+    "titulo": "Thunder 3",
+    "malId": 63418,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1549/159931.jpg",
+    "imagenFondo": "",
+    "descripcion": "Tres colegiales ordinarios entran en posesión de un DVD que supuestamente abre una puerta a un universo paralelo, pero cuando se dan la vuelta, la hermanita de Pyontarou, Futaba, lo atraviesa y es secuestrada por los aliens que han invadido esa versión de la Tierra. Al descubrir que sus cuerpos caricaturescos los convierten en superhombres en el universo paralelo hiperrealista, los chicos se proponen rescatar a Futaba.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 5.90,
+    "anio": 2026,
+    "generos": ["Acción", "Ciencia Ficción"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "LrAw2CCU-" },
+          { "numero": 2, "video": "jen3UBfG5" },
+          { "numero": 3, "video": "AxmUXd3JP" },
+          { "numero": 4, "video": "vbNEevKeA" },
+          { "numero": 5, "video": "tn9phft6kG" },
+          { "numero": 6, "video": "759uQAeKg" },
+          { "numero": 7, "video": "VBJyF59sY" },
+          { "numero": 8, "video": "mDFndAcDj" },
+          { "numero": 9, "video": "F0SMvHfAj" },
+          { "numero": 10, "video": "lR0iGyB-q" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tomb-raider-king",
+    "titulo": "Dogulwang (Tomb Raider King)",
+    "malId": 63316,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1910/158471.jpg",
+    "imagenFondo": "",
+    "descripcion": "En un mundo donde las reliquias antiguas otorgan un poder inmenso, el nuevo plan de Jooheon para atormentar a TKBM implicará derribarlos desde dentro. Robar sus reliquias y causar conflictos internos es solo la punta del iceberg de lo que hará para hacer que el grupo pague por sus pecados. Pero con la aparición de la Torre del Orgullo, las habilidades de Jooheon para provocar la ira se pondrán realmente a prueba, ¡ya que deberá enfrentar a los señores de la guerra más temibles entre sí! ¿Saldrá Jooheon Suh victorioso en la batalla de los más grandes conquistadores de la historia?",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.64,
+    "anio": 2026,
+    "generos": ["Acción", "Aventura", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "oUia2fgkC" },
+          { "numero": 2, "video": "5KDwzss4H" },
+          { "numero": 3, "video": "u0weNMJmJ" },
+          { "numero": 4, "video": "s1GxVg-09" },
+          { "numero": 5, "video": "vbHwCf1OHN" },
+          { "numero": 6, "video": "ExdsFfDDP" },
+          { "numero": 7, "video": "Wj7yogCyFK" },
+          { "numero": 8, "video": "t3yJq6Bar3" },
+          { "numero": 9, "video": "bmnXGAcUM" },
+          { "numero": 10, "video": "4f-ZJAeDW" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu",
+    "titulo": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+    "malId": 50461,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1161/121462.jpg",
+    "imagenFondo": "",
+    "descripcion": "Chantajeado para jugar a un simulador de citas ambientado en un matriarcado, un hombre común debe soportar el insoportable y enrevesado mundo hasta que complete el juego. Tras incontables días de esfuerzo, finalmente logra superarlo, pero su dedicación extrema tiene un precio: privación severa de sueño y hambre. Mientras se dirige a la tienda de conveniencia para resolver uno de estos problemas, el hombre tropieza con las escaleras y queda inconsciente, solo para despertar a la peor realización posible: ha reencarnado en el juego como el personaje mob Leon Fou Bartfort. Ahora atrapado en un mundo que desprecia, Leon debe usar su conocimiento del juego para navegar con seguridad por la trama y sostenerse en una sociedad donde las probabilidades están muy en su contra.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.31,
+    "anio": 2026,
+    "generos": ["Fantasía", "Romance"],
+    "temporadas": [
+      {
+        "numero": 2,
+        "capitulos": [
+          { "numero": 1, "video": "4ftmhwQDI" },
+          { "numero": 2, "video": "u4lwxD_Pd" },
+          { "numero": 3, "video": "s9gsCxztS" },
+          { "numero": 4, "video": "Zd9ObYvP1" },
+          { "numero": 5, "video": "qK4ngpjKI" },
+          { "numero": 6, "video": "8td9HCFRqw" },
+          { "numero": 7, "video": "iSuMzRqQsx" },
+          { "numero": 8, "video": "wcCYBlYu_" },
+          { "numero": 9, "video": "6nL6UETEbE" },
+          { "numero": 10, "video": "CIdZBCrKe" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "katainaka-no-ossan-kensei-ni-naru",
+    "titulo": "Katainaka no Ossan, Kensei ni Naru",
+    "malId": 59452,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1069/148148.jpg",
+    "imagenFondo": "",
+    "descripcion": "Durante 20 años, Beryl Gardenant ha enseñado a diversas personas como maestro del dojo de esgrima de su padre en un pueblo remoto. Muchos se han convertido en notables espadachines, pero Beryl permanece bastante humilde, refiriéndose a sí mismo como un anciano. Sus antiguos discípulos no están de acuerdo, incluida Allucia Citrus, una chica que se graduó del entrenamiento de Beryl hace más de 10 años y actualmente es la comandante de la Orden Real de Caballeros. Deseando revelar la verdadera grandeza de su querido maestro, Allucia recomienda a Beryl a sus superiores, lo que lleva a su nombramiento como instructor especial de la Orden por mandato imperial. Ella misma le da la noticia, aunque Beryl aún no se ha dado cuenta de su motivo más profundo. Presionado por sus padres ancianos, Beryl acepta a regañadientes el trabajo y se muda a la capital. Allí, se encuentra con más de sus antiguos estudiantes, como Surena Lysandra, ahora una aventurera de rango negro, y Ficelle Harbeller, un miembro prominente del Cuerpo de Magos. Antes de mucho, corre la voz: ni siquiera los guerreros más fuertes pueden igualar al 'anciano' del campo.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.95,
+    "anio": 2026,
+    "generos": ["Acción", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 2,
+        "capitulos": [
+          { "numero": 1, "video": "wKuSniAAc" },
+          { "numero": 2, "video": "h6EnlhvV_" },
+          { "numero": 3, "video": "rQkzO4AVP" },
+          { "numero": 4, "video": "HIIoQ4USvi" },
+          { "numero": 5, "video": "AR2YJT2Dh" },
+          { "numero": 6, "video": "KqFEb1HEk" },
+          { "numero": 7, "video": "xxwUpOxm9" },
+          { "numero": 8, "video": "t1w3c5vtvq" },
+          { "numero": 9, "video": "vV9SnZGHB" },
+          { "numero": 10, "video": "wx-bB4k01" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hanazakari-no-kimitachi-e",
+    "titulo": "Hanazakari no Kimitachi e",
+    "malId": 58861,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1506/155355.jpg",
+    "imagenFondo": "",
+    "descripcion": "Para la mayoría de las personas que rodean a Mizuki Ashiya, su repentina decisión de mudarse a Japón desde Estados Unidos es un shock. Su única razón para el traslado es asistir a la misma escuela secundaria que su ídolo Izumi Sano, quien le robó el corazón después de verlo competir en un concurso de salto de altura. Sin embargo, hay un problema: ¡Sano asiste a una escuela solo para chicos! Eso no detiene a Mizuki, ya que está comprometida a acercarse a Sano cambiando su apariencia y comportamiento. Mizuki afortunadamente termina en la misma clase y dormitorio que Sano, pero su plan ideal se hace añicos cuando descubre que él ha dejado el salto de altura. No obstante, Mizuki está decidida a aprender más sobre él y reavivar su amor por el deporte, todo mientras navega su nueva vida en la secundaria y mantiene oculto su verdadero género.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.93,
+    "anio": 2026,
+    "generos": ["Romance"],
+    "temporadas": [
+      {
+        "numero": 2,
+        "capitulos": [
+          { "numero": 1, "video": "UOdfgnXtp" },
+          { "numero": 2, "video": "WJZ1bvBrh" },
+          { "numero": 3, "video": "-gCUzYcT9" },
+          { "numero": 4, "video": "23XPCxQ0r" },
+          { "numero": 5, "video": "IBCNge2YA" },
+          { "numero": 6, "video": "jrliAXMx7" },
+          { "numero": 7, "video": "revzA57R5" },
+          { "numero": 8, "video": "ufvl4zFdg" },
+          { "numero": 9, "video": "KhZSpSAJ6" },
+          { "numero": 10, "video": "YKcbICM4S" },
+          { "numero": 11, "video": "iSq9z5gVe" },
+          { "numero": 12, "video": "w4Q7LykEk" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "perfect-addiction",
+    "titulo": "Perfect Addiction",
+    "malId": 63514,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1809/158105.jpg",
+    "imagenFondo": "",
+    "descripcion": "Akihito es un estudiante universitario obsesionado con la buena apariencia y el placer carnal, pero no soporta al guapo y distante Sae. Las cosas llegan a un punto crítico cuando Akihito es rechazado en una fiesta de solteros por una chica que ha puesto sus miras románticas en Sae. Furioso, sigue a Sae al distrito hotelero donde descubre el secreto de Sae: es gay y tiene problemas para disfrutar en la cama. Romper las barreras mentales de Sae es exactamente el desafío sexy que Akihito necesitaba. Despierta algo en ambos. ¿Podrán alguna vez controlarse de nuevo?",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 5.95,
+    "anio": 2026,
+    "generos": ["Boys Love"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "Becfp9Ggs" },
+          { "numero": 2, "video": "ckdJjArwi" },
+          { "numero": 3, "video": "JWylidwAo" },
+          { "numero": 4, "video": "YYuAjVFx-" },
+          { "numero": 5, "video": "QU6iHeBI5" },
+          { "numero": 6, "video": "5I-5ypyDh" },
+          { "numero": 7, "video": "5vAEJ7cPz" },
+          { "numero": 8, "video": "bJ7C6xZra" },
+          { "numero": 9, "video": "z0j7hsDhR" },
+          { "numero": 10, "video": "6rNOliGcX9" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clevatess",
+    "titulo": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+    "malId": 59205,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1255/150593.jpg",
+    "imagenFondo": "",
+    "descripcion": "Rodeadas por cuatro ejércitos de bestias oscuras, cinco razas humanoides se esfuerzan por superar los límites conocidos del mundo. Desafortunadamente, los 13 héroes enviados a la región sur son aniquilados fácilmente por Clevatess, uno de los Señores de las Bestias Oscuras. Decidido a vengarse de la humanidad, Clevatess irrumpe en la capital del Reino de Hiden, dejando un rastro de muerte y destrucción a su paso. Aunque la situación parece desesperada, la humanidad aún tiene una oportunidad de apaciguar la ira de Clevatess. Alicia Glenfall, una de los 13 héroes, es revivida por Clevatess para ayudarlo a criar a un infante recién nacido, Luna, cuyas elecciones darán forma al destino del mundo humano. Aunque al principio se muestra reacia a ayudar a la bestia oscura, Alicia comprende que Luna es lo único que se interpone entre la humanidad y la aniquilación total. Ocultándose bajo una forma humana, Clevatess parte en busca de una nodriza junto a Alicia y Luna. Con Clevatess sin querer revelar su identidad, recae en Alicia matar a todos los enemigos que se interpongan en su camino. Mientras tanto, los países vecinos se preparan para avanzar sobre el debilitado Hiden, con el objetivo de controlar la única forja capaz de producir las armas de los héroes.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.79,
+    "anio": 2026,
+    "generos": ["Acción", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 2,
+        "capitulos": [
+          { "numero": 1, "video": "fr-ato4Q4" },
+          { "numero": 2, "video": "UQnQOJwGQ" },
+          { "numero": 3, "video": "fX1J7B6aJ" },
+          { "numero": 4, "video": "93i52tbYY" },
+          { "numero": 5, "video": "NKtxOxdHJ" },
+          { "numero": 6, "video": "0u4v5eafD" },
+          { "numero": 7, "video": "bDB4dwPt-" },
+          { "numero": 8, "video": "gt4Cnq8fM" },
+          { "numero": 9, "video": "eQzXDFsVg" },
+          { "numero": 10, "video": "s1lzLx964" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ibitte-konai-gibo-to-gishi",
+    "titulo": "Ibitte Konai Gibo to Gishi",
+    "malId": 62102,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1912/157082.jpg",
+    "imagenFondo": "",
+    "descripcion": "Miya es la hija ilegítima de una familia prominente. Cuando su madre muere, está convencida de lo que le espera en su nuevo hogar: una vida de servidumbre y miseria a manos de su malvada madrastra y hermanastras. Sin embargo, cuando finalmente conoce a las mujeres que espera que la traten como a una sirvienta, ¡resultan ser... dulces?!",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.82,
+    "anio": 2026,
+    "generos": ["Comedia"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "myLj9amMZY" },
+          { "numero": 2, "video": "ty_YgMkxe" },
+          { "numero": 3, "video": "zB3X_H92SN" },
+          { "numero": 4, "video": "aR4T8sRyq" },
+          { "numero": 5, "video": "4kY8kGA6O" },
+          { "numero": 6, "video": "T4NH6aBTv" },
+          { "numero": 7, "video": "iMG_GUtC1" },
+          { "numero": 8, "video": "wdN5IozAwB" },
+          { "numero": 9, "video": "pdJX35QI3" },
+          { "numero": 10, "video": "LniT798wt" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "youjo-senki",
+    "titulo": "Youjo Senki",
+    "malId": 32615,
+    "imagen": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
+    "imagenFondo": "",
+    "descripcion": "Tanya Degurechaff es una joven soldado infame por su crueldad depredadora y su asombrosa aptitud táctica, lo que le valió el apodo de 'Demonio del Rin'. Sin embargo, bajo su apariencia inocua se esconde el alma de un hombre que desafió a Ser X, el autoproclamado Dios, a una batalla de ingenio, lo que resultó en su reencarnación como una niña pequeña en un mundo de guerra mágica. Decidida a desafiar, Tanya resuelve ascender en las filas del ejército de su país mientras este se sumerge lentamente en una guerra mundial, con solo Ser X demostrando ser el obstáculo más fuerte para recrear la vida pacífica que una vez conoció. Pero sus acciones perceptivas e iniciativa de combate tienen un efecto secundario no deseado: impulsar al poderoso Imperio a convertirse en una de las naciones más poderosas de la historia de la humanidad.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.96,
+    "anio": 2026,
+    "generos": ["Acción", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 2,
+        "capitulos": [
+          { "numero": 1, "video": "dU_f6olOM" },
+          { "numero": 2, "video": "zfO9G88Kz" },
+          { "numero": 3, "video": "KAEINq9ga" },
+          { "numero": 4, "video": "KrD5wy3nV" },
+          { "numero": 5, "video": "R1VJ5Fx-N" },
+          { "numero": 6, "video": "hZiyAO45T" },
+          { "numero": 7, "video": "jnhDborU-" },
+          { "numero": 8, "video": "VdavjMHqH" },
+          { "numero": 9, "video": "ogt3DUXAD" },
+          { "numero": 10, "video": "_c3fQhVJB" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kami-no-shizuku",
+    "titulo": "Kami no Shizuku",
+    "malId": 62981,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1045/155698.jpg",
+    "imagenFondo": "",
+    "descripcion": "A lo largo de la historia, gracias a su aroma multifacético, su paleta de colores cálidos y su textura espiritual, el vino se ha convertido en una fuente inagotable de descubrimientos para entusiastas de la comida, conocedores y poetas por igual. En la cima de este mundo, Yutaka Kanzaki se erige como el crítico de vino más refinado de su generación. Tras su fallecimiento, encarga a su distanciado hijo Shizuku competir con su hijo adoptivo Issei Tomine por su legado, instándolos a encontrar 12 botellas de vino esquivas conocidas como las Gotas de Dios. A pesar de seguir un intenso entrenamiento en enología de niño, Shizuku no tiene interés en el vino y siempre se ha negado a probarlo. Intrigado por la competencia inicial para ganar el derecho a vivir en la casa de su padre, un encuentro casual previo con la aprendiz de sumiller Miyabi Shinohara le ayuda a desarrollar un interés por la cata de vinos. A medida que Shizuku descubre su don como enólogo, finalmente decide unirse a la competencia para descubrir el secreto de la pasión de su padre.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 5.83,
+    "anio": 2026,
+    "generos": ["Drama", "Gourmet", "Misterio"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "dhBM5yryf" },
+          { "numero": 2, "video": "tBN_6o5o3" },
+          { "numero": 3, "video": "_bhKgOCUo" },
+          { "numero": 4, "video": "rI0syMZ6m" },
+          { "numero": 5, "video": "XflxMYqwb" },
+          { "numero": 6, "video": "9D0ksx1Tt" },
+          { "numero": 7, "video": "z3J1R0mDD" },
+          { "numero": 8, "video": "_x_yfOs2CH" },
+          { "numero": 9, "video": "gbtVbwpqS" },
+          { "numero": 10, "video": "bQp1dDxLE" },
+          { "numero": 11, "video": "g2_TglzMn" },
+          { "numero": 12, "video": "hz0o270js" },
+          { "numero": 13, "video": "M0QDsm8Z_" },
+          { "numero": 14, "video": "8jH25qV18" },
+          { "numero": 15, "video": "aYs_vk8k_" },
+          { "numero": 16, "video": "TiswgN8VL" },
+          { "numero": 17, "video": "l0Q_XIG0K" },
+          { "numero": 18, "video": "T5ck1uxJW" },
+          { "numero": 19, "video": "q5C3hyzo2" },
+          { "numero": 20, "video": "FeksoKZLU" },
+          { "numero": 21, "video": "UUiHEvaa8" },
+          { "numero": 22, "video": "bZVqDG50om" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ryoumin-0-nin-start",
+    "titulo": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+    "malId": 62078,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1891/158566.jpg",
+    "imagenFondo": "",
+    "descripcion": "Dias finalmente regresa a casa después de décadas de guerra. Es aclamado como un héroe y recompensado de inmediato con su propio dominio... que resulta ser poco más que llanuras vacías. Población: cero. Dias, que solo ha conocido la batalla, se encuentra perdido. ¿Cómo se supone que sobreviva, y mucho menos cultive su territorio hasta convertirlo en un dominio próspero y floreciente cuando no hay nada más que hierba hasta donde alcanza la vista? Afortunadamente para Dias, una chica con cuernos llamada Alna está a punto de mostrarle que las llanuras no son tan simples como parecen.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.76,
+    "anio": 2026,
+    "generos": ["Fantasía"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "sc1mywhHx" },
+          { "numero": 2, "video": "WDYzBIueK" },
+          { "numero": 3, "video": "Ea1m5BqCV" },
+          { "numero": 4, "video": "AcJnrMw6a" },
+          { "numero": 5, "video": "qIkqe-rrw" },
+          { "numero": 6, "video": "ogXPqiRwh" },
+          { "numero": 7, "video": "hy9uN3_Kxx" },
+          { "numero": 8, "video": "PWv6P9ikK" },
+          { "numero": 9, "video": "E3B5LQuPN" },
+          { "numero": 10, "video": "3AAWueq8y" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uchi-no-otouto-domo-ga-sumimasen",
+    "titulo": "Uchi no Otouto-domo ga Sumimasen",
+    "malId": 63061,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1902/156345.jpg",
+    "imagenFondo": "",
+    "descripcion": "Durante las vacaciones de primavera al final de su primer año de secundaria, Ito se entera de que tiene que mudarse porque su madre se va a volver a casar. Lo que no esperaba es ganar de repente cuatro hermanastros menores bajo el mismo techo. Decidida a llevarse bien con su nueva familia, Ito hace todo lo posible por adaptarse, pero el hermano mayor, Gen, es distante y difícil de leer. Sin embargo, a medida que pasan más tiempo juntos, ella comienza a vislumbrar destellos de amabilidad detrás de su frío exterior.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.03,
+    "anio": 2026,
+    "generos": ["Comedia", "Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "EA3-tFq2i" },
+          { "numero": 2, "video": "WJyIFUOFP" },
+          { "numero": 3, "video": "I0iX1ywKb" },
+          { "numero": 4, "video": "1FMGKjLWh" },
+          { "numero": 5, "video": "6meNI1-6k" },
+          { "numero": 6, "video": "Dv-QZrH8S" },
+          { "numero": 7, "video": "tOeT3pF3P" },
+          { "numero": 8, "video": "MMTglMtcN" },
+          { "numero": 9, "video": "5t6A6-urO" },
+          { "numero": 10, "video": "VDNDKBKtm" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kore-kaite-shine",
+    "titulo": "Kore Kaite Shine",
+    "malId": 61280,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1649/154997.jpg",
+    "imagenFondo": "",
+    "descripcion": "Ai Yasumi, una estudiante de primer año de secundaria que vive en Izu-Oshima, ama el manga más que nada. Cuando se entera de que su admirada y largamente inactiva artista de manga favorita, Hoshi no Rei, exhibirá en COMITIA, emprende un viaje a Tokio. Lo que no espera, sin embargo, es que un encuentro fortuito en el evento cambiará su vida para siempre. '¿Cómo se llega a ser mangaka?' Ai entra en el mundo de la creación de manga, un camino que pensaba entender, pero del que sabe muy poco. Esta es la historia de una chica dando sus primeros pasos en el camino para convertirse en mangaka.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.70,
+    "anio": 2026,
+    "generos": ["Comedia"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "meFM_0fpY" },
+          { "numero": 2, "video": "Q7McJaCXR" },
+          { "numero": 3, "video": "F4uUrV1M8k" },
+          { "numero": 4, "video": "7GOLqfTAVf" },
+          { "numero": 5, "video": "ItUy5Oypm" },
+          { "numero": 6, "video": "QIwed72UD" },
+          { "numero": 7, "video": "ZCtmgeT40" },
+          { "numero": 8, "video": "5PhJAJK9T" },
+          { "numero": 9, "video": "DDAaTm2l4" },
+          { "numero": 10, "video": "onSq2MOsW" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hell-mode",
+    "titulo": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
+    "malId": 60460,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1151/152479.jpg",
+    "imagenFondo": "",
+    "descripcion": "Kenichi Yamada ha pasado la mayor parte de su vida adulta persiguiendo el siguiente desafío en los juegos en línea, solo para encontrar el panorama moderno dominado por mecánicas indulgentes. Como si el destino estuviera escuchando su deseo, Kenichi recibe una invitación repentina y misteriosa a un juego sin título que promete un nivel de dificultad inconcebible. Encantado, selecciona su configuración más despiadada sin dudarlo: Modo Infierno. Sin embargo, en lugar de sumergirse en otro juego virtual, Kenichi renace en otro mundo como un campesino llamado Allen, obligado a lidiar con un sistema cruelmente complejo donde incluso lo básico de la progresión exige un esfuerzo implacable. En consecuencia, Allen debe construir su fuerza desde cero y aprender a dominar la clase de invocador. Con su resistencia puesta a prueba en cada momento, Allen emprende un viaje inexplorado que podría resultar más candente que el infierno mismo.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.20,
+    "anio": 2026,
+    "generos": ["Acción", "Aventura", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 2,
+        "capitulos": [
+          { "numero": 1, "video": "h8eHh3sL7" },
+          { "numero": 2, "video": "kcfbqVvDs" },
+          { "numero": 3, "video": "oq3jrwfn9" },
+          { "numero": 4, "video": "KGI6ZI4hM" },
+          { "numero": 5, "video": "GjOfapCY7" },
+          { "numero": 6, "video": "IlQIgDiTk" },
+          { "numero": 7, "video": "zSNRiW2wF" },
+          { "numero": 8, "video": "4631AXnBC" },
+          { "numero": 9, "video": "zXaGis3Gf" },
+          { "numero": 10, "video": "DCq_edhrs" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ushiro-no-shoumen-kamui-san",
+    "titulo": "Ushiro no Shoumen Kamui-san",
+    "malId": 63468,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1071/158366.jpg",
+    "imagenFondo": "",
+    "descripcion": "Shizuka es una estudiante de secundaria normal con la habilidad de ver fantasmas. Debido a su peculiar tendencia a atraer fantasmas, trabaja como asistente de Kamui, un famoso psíquico. Kamui se enorgullece de sus habilidades psíquicas de primer nivel, pero la forma en que exorciza fantasmas es bastante inusual.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.19,
+    "anio": 2026,
+    "generos": ["Comedia", "Sobrenatural", "Ecchi"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "kKukSq-55" },
+          { "numero": 2, "video": "AVeFWTVmE" },
+          { "numero": 3, "video": "_C4Mr8ovy" },
+          { "numero": 4, "video": "xtK0S5RN3" },
+          { "numero": 5, "video": "WsgToCcaV" },
+          { "numero": 6, "video": "mk65wVoOHB" },
+          { "numero": 7, "video": "8iXSss5tS" },
+          { "numero": 8, "video": "nM99KDM1u" },
+          { "numero": 9, "video": "_2IXl_dkJ" },
+          { "numero": 10, "video": "s-ZlmCEfHh" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "koko-wa-ore-ni-makasete-saki-ni-ike",
+    "titulo": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+    "malId": 62617,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1371/154308.jpg",
+    "imagenFondo": "",
+    "descripcion": "El hechicero Luck cree que este es el final. Asediado por poderosos demonios, hace el noble sacrificio de contener su embate mientras sus amigos escapan. Sin dormir ni descansar, Luck soporta el choque de espadas, la lluvia de sangre y el flujo interminable de enemigos. Contra todo pronóstico, aniquila al comandante y emerge victorioso, solo para descubrir que han pasado 10 años enteros mientras tanto. Además, su cuerpo ha retrocedido en edad hasta el punto de parecer un simple adolescente. Tras su triunfo, Luck pronto se reúne con sus amigos, el héroe Eric Imgard Mendirival y el guerrero Goran Morton. Como creían que Luck estaba muerto, la pareja se aseguró de que pasara a la historia como un héroe y se preparó para sofocar el surgimiento de los demonios, sin saber de la hazaña de Luck. Con todo esto en mente, Luck solo quiere una vida relajada, por lo que se inscribe como aventurero novato bajo el nombre de Lock y emprende un viaje junto a nuevos compañeros.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 6.30,
+    "anio": 2026,
+    "generos": ["Acción", "Aventura", "Fantasía"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "HF0DL3CjX" },
+          { "numero": 2, "video": "U2Veb6rFK" },
+          { "numero": 3, "video": "znEC295j9" },
+          { "numero": 4, "video": "YqsF-B0cB" },
+          { "numero": 5, "video": "rjnhv0NLDD" },
+          { "numero": 6, "video": "OVmnkwxGhF" },
+          { "numero": 7, "video": "fN87obp_u" },
+          { "numero": 8, "video": "rmcmjO60B" },
+          { "numero": 9, "video": "HAxB55Xbz" },
+          { "numero": 10, "video": "S2vMecJQs" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yamato-yo-towa-ni-rebel-3199",
+    "titulo": "Yamato yo, Towa ni: Rebel 3199",
+    "malId": 50855,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1856/143246.jpg",
+    "imagenFondo": "",
+    "descripcion": "Secuela de Uchuu Senkan Yamato 2205: Aratanaru Tabidachi.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.57,
+    "anio": 2026,
+    "generos": ["Acción", "Drama", "Ciencia Ficción"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 15, "video": "unjnn2F7R" },
+          { "numero": 16, "video": "IOUeCsP6-" },
+          { "numero": 17, "video": "jkLnV_Xvv" },
+          { "numero": 18, "video": "lzYuPMmtx" },
+          { "numero": 19, "video": "tQIsRWQkc" },
+          { "numero": 20, "video": "qNR5SidSi" },
+          { "numero": 21, "video": "YsQxKklxj" },
+          { "numero": 22, "video": "0HVEFjr7E" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "iya-na-kao-sare-nagara-opantsu-misete-moraitai-returns",
+    "titulo": "Iya na Kao sare nagara Opantsu Misete Moraitai Returns",
+    "malId": 62155,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1667/154598.jpg",
+    "imagenFondo": "",
+    "descripcion": "Nuevo anime de Iya na Kao sare nagara Opantsu Misete Moraitai.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 5.85,
+    "anio": 2026,
+    "generos": ["Ecchi"],
+    "temporadas": [
+      {
+        "numero": 3,
+        "capitulos": [
+          { "numero": 1, "video": "vtaPBk5SW" },
+          { "numero": 2, "video": "322tR96fe" },
+          { "numero": 3, "video": "WKg-vs6Kc" },
+          { "numero": 4, "video": "tl-HUvCRQ" },
+          { "numero": 5, "video": "OkHoDaiWM" },
+          { "numero": 6, "video": "VEKUBQV9M" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "futsutsuka-na-akujo-dewa-gozaimasu-ga",
+    "titulo": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+    "malId": 61240,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1958/158341.jpg",
+    "imagenFondo": "",
+    "descripcion": "Dentro de la opulenta corte interior del Reino de Ei se encuentra la floreciente Corte de las Doncellas, donde la emperatriz y las cuatro consortes imperiales son elegidas de cinco clanes prominentes. Entre ellas, una consorte en entrenamiento, Reirin Kou, destaca como la candidata perfecta para la futura emperatriz. Su virtud y elegancia son inigualables, y es impecable, salvo por su constitución extremadamente enfermiza. Comparada con la gentil mariposa de la corte, la rústica Keigetsu Shu es como una rata de alcantarilla. Siempre mirando a Reirin con amarga envidia, Keigetsu es una desgracia para la Corte de las Doncellas. Durante la noche de un raro avistamiento de cometa, los celos de Keigetsu alcanzan su punto máximo, e intenta asesinar a Reirin empujándola desde un balcón. Reirin es rápidamente salvada de la muerte, y Keigetsu es encarcelada para esperar su ejecución. Sin que nadie lo sepa, Keigetsu ha lanzado un hechizo para intercambiar cuerpos con Reirin y robar todo lo que le pertenece. Pero mientras Keigetsu se ve obstaculizada por el frágil cuerpo de Reirin, Reirin abraza plenamente la libertad y la fuerza física por primera vez en su vida.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 8.20,
+    "anio": 2026,
+    "generos": ["Fantasía", "Romance"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "_XbKcCwjZ" },
+          { "numero": 2, "video": "mbcQaMAIZ5" },
+          { "numero": 3, "video": "VOMNATv5S" },
+          { "numero": 4, "video": "veDWrllmQ" },
+          { "numero": 5, "video": "l-PGUjyzd" },
+          { "numero": 6, "video": "VL78FLWr-" },
+          { "numero": 7, "video": "eqj_4Dl0M" },
+          { "numero": 8, "video": "NkwULRlkr" },
+          { "numero": 9, "video": "UJMJD__PS" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nige-jouzu-no-wakagimi",
+    "titulo": "Nige Jouzu no Wakagimi",
+    "malId": 54724,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1386/140401.jpg",
+    "imagenFondo": "",
+    "descripcion": "Tokiyuki Houjou, un despreocupado noble de ocho años, se contenta con la serena vida en Kamakura y muestra poco respeto por las serias responsabilidades que conlleva su eventual sucesión a su padre como el próximo shogun. En lugar de dedicarse a un riguroso entrenamiento en esgrima o tiro con arco, Tokiyuki sobresale en el arte de la evasión, esquivando hábilmente a sus consejeros y descubriendo escondites perfectos. Sin embargo, su existencia pacífica se hace añicos cuando un repentino golpe de estado aniquila brutalmente a su clan. Abrumado por la culpa de ser el único superviviente, Tokiyuki contempla unirse a su familia en la muerte. Sin embargo, su destino da un giro abrupto cuando el enigmático sacerdote Yorishige Suwa lo empuja repentinamente a un campo de batalla. Yorishige, que profetiza que Tokiyuki algún día se convertirá en un gran héroe, deja al chico sin otra opción que abrirse camino libre de soldados enemigos. Mientras Tokiyuki lucha por sobrevivir contra estos adversarios, encuentra una nueva emoción al aumentar las apuestas de sus habituales juegos de escondite. Con un renovado sentido del propósito y la promesa de poderosos aliados de Yorishige, Tokiyuki jura vengar a su familia, no a través de su capacidad de lucha, sino a través de su extraordinario talento para huir.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 7.78,
+    "anio": 2026,
+    "generos": ["Aventura", "Comedia"],
+    "temporadas": [
+      {
+        "numero": 2,
+        "capitulos": [
+          { "numero": 1, "video": "w1-_oASs8" },
+          { "numero": 2, "video": "GsfZsxpdP" },
+          { "numero": 3, "video": "yhY_jmcwd" },
+          { "numero": 4, "video": "dvxbXRokH" },
+          { "numero": 5, "video": "7DS2UVdO0" },
+          { "numero": 6, "video": "F10Hp2TCY" },
+          { "numero": 19, "video": "nNe66ytwp" },
+          { "numero": 20, "video": "BA45W1SLaF" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bleach",
+    "titulo": "Bleach",
+    "malId": 269,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+    "imagenFondo": "",
+    "descripcion": "Ichigo Kurosaki es un estudiante de secundaria ordinario hasta que su familia es atacada por un Hollow, un espíritu corrupto que busca devorar almas humanas. Es entonces cuando conoce a una Soul Reaper llamada Rukia Kuchiki, quien resulta herida mientras protege a la familia de Ichigo del atacante. Para salvar a su familia, Ichigo acepta el poder de Rukia y se convierte en un Soul Reaper sustituto. Ahora, debe proteger a los humanos de los Hollows y guiar a las almas perdidas al más allá, mientras se enfrenta a enemigos cada vez más poderosos.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 8.00,
+    "anio": 2026,
+    "generos": ["Acción", "Aventura", "Sobrenatural"],
+    "temporadas": [
+      {
+        "numero": 4,
+        "capitulos": [
+          { "numero": 1, "video": "1J0Is5PK8" },
+          { "numero": 2, "video": "rUqixBUCi" },
+          { "numero": 3, "video": "UdQKYZR2V" },
+          { "numero": 4, "video": "tS0Vn44NY" },
+          { "numero": 5, "video": "V9yMJp5Go" },
+          { "numero": 6, "video": "fW8LkdEd6" },
+          { "numero": 7, "video": "yv2dHYYswK" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rezero-kara-hajimeru-isekai-seikatsu",
+    "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "malId": 31240,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
+    "imagenFondo": "",
+    "descripcion": "Cuando Subaru Natsuki sale de la tienda de conveniencia, lo último que espera es ser arrancado de su vida cotidiana y arrojado a un mundo de fantasía. Las cosas no pintan bien para el aturdido adolescente; sin embargo, poco después de su llegada, es atacado por unos matones. Armado solo con una bolsa de víveres y un teléfono celular ahora inútil, es rápidamente reducido a golpes. Afortunadamente, una misteriosa belleza llamada Satella, que persigue al que robó su insignia, se topa con Subaru y lo salva. Para agradecer a la honesta y bondadosa chica, Subaru se ofrece a ayudar en su búsqueda, y más tarde esa noche, incluso encuentra el paradero de lo que ella busca. Pero sin que ellos lo sepan, una fuerza mucho más oscura acecha a la pareja desde las sombras, y solo minutos después de localizar la insignia, Subaru y Satella son brutalmente asesinados. Sin embargo, Subaru despierta inmediatamente a una escena familiar, confrontado por el mismo grupo de matones, encontrándose con Satella de nuevo; el enigma se profundiza mientras la historia se repite inexplicablemente.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 8.25,
+    "anio": 2026,
+    "generos": ["Drama", "Fantasía", "Suspense"],
+    "temporadas": [
+      {
+        "numero": 4,
+        "capitulos": [
+          { "numero": 12, "video": "KR6tQ5J9q" },
+          { "numero": 13, "video": "2jjcslUgQ" },
+          { "numero": 14, "video": "6pJjzDlbJ" },
+          { "numero": 15, "video": "lyG-8PTVba" },
+          { "numero": 16, "video": "R95vsEh3O" }
+        ]
+      }
+    ]
+  }
+],
 
 
 

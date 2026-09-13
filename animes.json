@@ -711,39 +711,6 @@
       ]
     },
     {
-      "id": "neko-to-ryuu",
-      "titulo": "Neko to Ryuu",
-      "malId": 61048,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1878/157796.jpg",
-      "imagenFondo": "",
-      "descripcion": "Huérfano desde que nació, un dragón solitario llamado \"Tío Alas\" es acogido por una familia de gatos que usan magia y criado como uno de los suyos. A medida que el Tío Alas crece, se convierte en el protector de los gatos, decidido a mantenerlos a salvo de los humanos. Pero mientras observa a los gatos conectarse con los humanos usando su magia, el Tío Alas comienza lentamente a sentir cariño por los humanos en esta conmovedora y agridulce historia. (Fuente: Crunchyroll)",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.73,
-      "anio": 2026,
-      "generos": ["Fantasía", "Recuentos de la vida"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "CYJbI7t4P" },
-            { "numero": 2, "video": "AQT3KMnXp" },
-            { "numero": 3, "video": "kCjSRxYci" },
-            { "numero": 4, "video": "q_MJ_qNUE" },
-            { "numero": 5, "video": "LQr2kaclEk" },
-            { "numero": 6, "video": "Q-gp34tRv" },
-            { "numero": 7, "video": "kOp2CXklU" },
-            { "numero": 8, "video": "rIOgJabac" },
-            { "numero": 9, "video": "Qs5luaAE5" },
-            { "numero": 10, "video": "K5mD4fA_D" },
-            { "numero": 11, "video": "IpJ4GtYHH" },
-            { "numero": 12, "video": "vIMfXdKAi" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "mushoku-tensei-iii",
       "titulo": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "malId": 59193,
@@ -771,39 +738,6 @@
             { "numero": 9, "video": "ygs2-3ubXx" },
             { "numero": 10, "video": "NefHL3Aif" },
             { "numero": 11, "video": "U6EwV91Wa" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tenmaku-no-jaadugar",
-      "titulo": "Tenmaku no Jaadugar",
-      "malId": 61483,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1098/158891.jpg",
-      "imagenFondo": "",
-      "descripcion": "En el harén del Khan, la sabiduría es belleza. La época: el siglo XIII. El lugar: Yeke Mongol Ulus, el imperio más grande que el mundo haya conocido. La mujer: Fatima, oriunda de Persia, donde la técnica médica y el conocimiento científico han sido perfeccionados sin precedentes. El deseo de Fatima de tener un escenario donde poner en práctica sus conocimientos la ha llevado al palacio de los mongoles, donde cae bajo la protección de Töregene, la sexta esposa de Ögedei, el segundo Gran Khan, una mujer poderosa con sentimientos encontrados sobre la dirección del imperio. Estas dos mujeres son el eje sobre el que girarán la política del palacio, y pronto la política mundial. (Fuente: Yen Press)",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 8.45,
-      "anio": 2026,
-      "generos": ["Drama", "Histórico", "Romance"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "KT8HGsiT9" },
-            { "numero": 2, "video": "YBaPP1njH" },
-            { "numero": 3, "video": "H3dcwQOLq" },
-            { "numero": 4, "video": "T2skiNAgc" },
-            { "numero": 5, "video": "QBE1JwAMs" },
-            { "numero": 6, "video": "Oq6ByaBLk" },
-            { "numero": 7, "video": "wUhq-VBPk" },
-            { "numero": 8, "video": "UzOQDEf2p" },
-            { "numero": 9, "video": "gFclgARrM" },
-            { "numero": 10, "video": "S_Xtna_UD" },
-            { "numero": 11, "video": "Gv5i467gm" },
-            { "numero": 12, "video": "HYPWviDGE" }
           ]
         }
       ]
@@ -17177,7 +17111,73 @@
       ]
     }
   ]
-}
+},
+{
+      "id": "tenmaku-no-jaadugar",
+      "titulo": "Tenmaku no Jaadugar",
+      "malId": 61483,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1098/158891.jpg",
+      "imagenFondo": "",
+      "descripcion": "En el harén del Khan, la sabiduría es belleza. La época: el siglo XIII. El lugar: Yeke Mongol Ulus, el imperio más grande que el mundo haya conocido. La mujer: Fatima, oriunda de Persia, donde la técnica médica y el conocimiento científico han sido perfeccionados sin precedentes. El deseo de Fatima de tener un escenario donde poner en práctica sus conocimientos la ha llevado al palacio de los mongoles, donde cae bajo la protección de Töregene, la sexta esposa de Ögedei, el segundo Gran Khan, una mujer poderosa con sentimientos encontrados sobre la dirección del imperio. Estas dos mujeres son el eje sobre el que girarán la política del palacio, y pronto la política mundial. (Fuente: Yen Press)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 8.45,
+      "anio": 2026,
+      "generos": ["Drama", "Histórico", "Romance"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "KT8HGsiT9" },
+            { "numero": 2, "video": "YBaPP1njH" },
+            { "numero": 3, "video": "H3dcwQOLq" },
+            { "numero": 4, "video": "T2skiNAgc" },
+            { "numero": 5, "video": "QBE1JwAMs" },
+            { "numero": 6, "video": "Oq6ByaBLk" },
+            { "numero": 7, "video": "wUhq-VBPk" },
+            { "numero": 8, "video": "UzOQDEf2p" },
+            { "numero": 9, "video": "gFclgARrM" },
+            { "numero": 10, "video": "S_Xtna_UD" },
+            { "numero": 11, "video": "Gv5i467gm" },
+            { "numero": 12, "video": "HYPWviDGE" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neko-to-ryuu",
+      "titulo": "Neko to Ryuu",
+      "malId": 61048,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1878/157796.jpg",
+      "imagenFondo": "",
+      "descripcion": "Huérfano desde que nació, un dragón solitario llamado \"Tío Alas\" es acogido por una familia de gatos que usan magia y criado como uno de los suyos. A medida que el Tío Alas crece, se convierte en el protector de los gatos, decidido a mantenerlos a salvo de los humanos. Pero mientras observa a los gatos conectarse con los humanos usando su magia, el Tío Alas comienza lentamente a sentir cariño por los humanos en esta conmovedora y agridulce historia. (Fuente: Crunchyroll)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.73,
+      "anio": 2026,
+      "generos": ["Fantasía", "Recuentos de la vida"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "CYJbI7t4P" },
+            { "numero": 2, "video": "AQT3KMnXp" },
+            { "numero": 3, "video": "kCjSRxYci" },
+            { "numero": 4, "video": "q_MJ_qNUE" },
+            { "numero": 5, "video": "LQr2kaclEk" },
+            { "numero": 6, "video": "Q-gp34tRv" },
+            { "numero": 7, "video": "kOp2CXklU" },
+            { "numero": 8, "video": "rIOgJabac" },
+            { "numero": 9, "video": "Qs5luaAE5" },
+            { "numero": 10, "video": "K5mD4fA_D" },
+            { "numero": 11, "video": "IpJ4GtYHH" },
+            { "numero": 12, "video": "vIMfXdKAi" }
+          ]
+        }
+      ]
+    }
   ],
   "idsEnEmision": [
     "cardfight-vanguard-divinez-genma-seisen-hen",

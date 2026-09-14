@@ -32,37 +32,6 @@
       ]
     },
     {
-      "id": "marika-chan-no-koukando-wa-bukkowarete-iru",
-      "titulo": "Marika-chan no Koukando wa Bukkowarete Iru",
-      "malId": 62983,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1818/155506.jpg",
-      "imagenFondo": "",
-      "descripcion": "Confesarle mis sentimientos a Marika, mi amiga de la infancia, era imposible para alguien tan impopular como yo. Así que hice lo que cualquier chico desesperado haría: ¡pedí un deseo a una estrella fugaz! Cuando desperté, ¡¿ese sueño se había hecho realidad?! Podía ver un medidor de amor para la gente, como en un juego de simulación de amor. En cuanto me di cuenta de que era real y no un sueño, fui directamente a ver a Marika. ¡Su medidor de amor estaba tan bajo que se había roto y prácticamente se había caído al infierno! Si me odiaba tanto, ¿por qué era tan amable? ¿De verdad sentía eso o...?",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 5.07,
-      "anio": 2026,
-      "generos": ["Comedia", "Romance", "Escuela"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "bYIRs8OFL" },
-            { "numero": 2, "video": "CZzVek5k-" },
-            { "numero": 3, "video": "t_xDT91kp" },
-            { "numero": 4, "video": "ADJ_Ilb0z" },
-            { "numero": 5, "video": "hIQ1jUWbi" },
-            { "numero": 6, "video": "zVXjIrmU9" },
-            { "numero": 7, "video": "0ccgg5qPv" },
-            { "numero": 8, "video": "Nt2KUglhq" },
-            { "numero": 9, "video": "1czjGLlpbF" },
-            { "numero": 10, "video": "6pvVYHfAo" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "omae-wa-mada-gunma-wo-shiranai-reiwa-ban",
       "titulo": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
       "malId": 62864,
@@ -897,7 +866,8 @@
             { "numero": 7, "video": "zn3-FhQbpa" },
             { "numero": 8, "video": "xDWbtohbc" },
             { "numero": 9, "video": "tgyN6xFhJ" },
-            { "numero": 10, "video": "xN1sWISfq2" }
+            { "numero": 10, "video": "xN1sWISfq2" },
+            { "numero": 11, "video": "JEhufWlKD" }
           ]
         }
       ]
@@ -1508,7 +1478,8 @@
             { "numero": 20, "video": "IkX5WXtaU" },
             { "numero": 21, "video": "P1b9IDKYo" },
             { "numero": 22, "video": "QwSb5mWwQ" },
-            { "numero": 23, "video": "dqwSoaw_m" }
+            { "numero": 23, "video": "dqwSoaw_m" },
+            { "numero": 24, "video": "9JulWsvug" }
           ]
         }
       ]
@@ -1540,7 +1511,8 @@
             { "numero": 8, "video": "fvLV96h9T" },
             { "numero": 9, "video": "NWJjj6sBK" },
             { "numero": 10, "video": "EVh6ALO6j" },
-            { "numero": 11, "video": "2vTh87RDb" }
+            { "numero": 11, "video": "2vTh87RDb" },
+            { "numero": 12, "video": "4if_N2gX5" }
           ]
         }
       ]
@@ -1571,7 +1543,8 @@
             { "numero": 7, "video": "YrhLMGIha" },
             { "numero": 8, "video": "tKVkfFPb1" },
             { "numero": 9, "video": "kKULdL3vW" },
-            { "numero": 10, "video": "8baGZw8d0" }
+            { "numero": 10, "video": "8baGZw8d0" },
+            { "numero": 11, "video": "BwNYWQV-D" }
           ]
         }
       ]
@@ -1602,7 +1575,8 @@
             { "numero": 7, "video": "PpRfplb6B" },
             { "numero": 8, "video": "dCdzvE_Iy" },
             { "numero": 9, "video": "DpwRT69rb" },
-            { "numero": 10, "video": "xRwZ-t-LN" }
+            { "numero": 10, "video": "xRwZ-t-LN" },
+            { "numero": 11, "video": "ViP5JM1AM" }
           ]
         }
       ]
@@ -1633,7 +1607,8 @@
             { "numero": 19, "video": "wftMO2jgE" },
             { "numero": 20, "video": "ncKeFnVCt" },
             { "numero": 21, "video": "vaUt_S3pO" },
-            { "numero": 22, "video": "QgiowMUZw" }
+            { "numero": 22, "video": "QgiowMUZw" },
+            { "numero": 23, "video": "9y4fY63_b" }
           ]
         }
       ]
@@ -1664,7 +1639,8 @@
             { "numero": 7, "video": "CHUexZqs9" },
             { "numero": 8, "video": "coWlshR1M" },
             { "numero": 9, "video": "L-9pxnt22" },
-            { "numero": 10, "video": "3hyFQMn13" }
+            { "numero": 10, "video": "3hyFQMn13" },
+            { "numero": 11, "video": "CVoPyi97dM" }
           ]
         }
       ]
@@ -1695,7 +1671,8 @@
             { "numero": 7, "video": "lKlcz9G8qZ" },
             { "numero": 8, "video": "s7hUW806s" },
             { "numero": 9, "video": "70IPwqsgR" },
-            { "numero": 10, "video": "2iKNbKpGI" }
+            { "numero": 10, "video": "2iKNbKpGI" },
+            { "numero": 11, "video": "8DlPj1OLS" }
           ]
         }
       ]
@@ -1726,7 +1703,8 @@
             { "numero": 7, "video": "9kVk1eYQD" },
             { "numero": 8, "video": "ORrnNw6zL" },
             { "numero": 9, "video": "CBZ21X91e" },
-            { "numero": 10, "video": "rL7rN84Pw9" }
+            { "numero": 10, "video": "rL7rN84Pw9" },
+            { "numero": 11, "video": "tZixScMYs" }
           ]
         }
       ]
@@ -2006,7 +1984,8 @@
             { "numero": 7, "video": "lkd6ukrkA" },
             { "numero": 8, "video": "ep60wU5G_" },
             { "numero": 9, "video": "7mUIVg8Yh" },
-            { "numero": 10, "video": "LoJTneD45" }
+            { "numero": 10, "video": "LoJTneD45" },
+            { "numero": 11, "video": "U_XVXfQY7" }
           ]
         }
       ]
@@ -2035,7 +2014,10 @@
             { "numero": 5, "video": "mRA90UtRm" },
             { "numero": 6, "video": "5BHycdls6" },
             { "numero": 7, "video": "l-tb1ukVy" },
-            { "numero": 8, "video": "Es4G3gHrSd" }
+            { "numero": 8, "video": "Es4G3gHrSd" },
+            { "numero": 9, "video": "1czjGLlpbF" },
+            { "numero": 10, "video": "6pvVYHfAo" },
+            { "numero": 11, "video": "KN_jQ2GEI" }
           ]
         }
       ]
@@ -2751,6 +2733,40 @@
       ]
     }
   ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -17187,6 +17203,35 @@
             { "numero": 10, "video": "K5mD4fA_D" },
             { "numero": 11, "video": "IpJ4GtYHH" },
             { "numero": 12, "video": "vIMfXdKAi" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marika-chan-no-koukando-wa-bukkowarete-iru",
+      "titulo": "Marika-chan no Koukando wa Bukkowarete Iru",
+      "malId": 62983,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1818/155506.jpg",
+      "imagenFondo": "",
+      "descripcion": "Confesarle mis sentimientos a Marika, mi amiga de la infancia, era imposible para alguien tan impopular como yo. Así que hice lo que cualquier chico desesperado haría: ¡pedí un deseo a una estrella fugaz! Cuando desperté, ¡¿ese sueño se había hecho realidad?! Podía ver un medidor de amor para la gente, como en un juego de simulación de amor. En cuanto me di cuenta de que era real y no un sueño, fui directamente a ver a Marika. ¡Su medidor de amor estaba tan bajo que se había roto y prácticamente se había caído al infierno! Si me odiaba tanto, ¿por qué era tan amable? ¿De verdad sentía eso o...?",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 5.07,
+      "anio": 2026,
+      "generos": ["Comedia", "Romance", "Escuela"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "bYIRs8OFL" },
+            { "numero": 2, "video": "CZzVek5k-" },
+            { "numero": 3, "video": "t_xDT91kp" },
+            { "numero": 4, "video": "ADJ_Ilb0z" },
+            { "numero": 5, "video": "hIQ1jUWbi" },
+            { "numero": 6, "video": "zVXjIrmU9" },
+            { "numero": 7, "video": "0ccgg5qPv" },
+            { "numero": 8, "video": "Nt2KUglhq" }
           ]
         }
       ]

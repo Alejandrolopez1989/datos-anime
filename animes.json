@@ -1710,39 +1710,6 @@
       ]
     },
     {
-      "id": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
-      "titulo": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-      "malId": 62080,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1612/158373.jpg",
-      "imagenFondo": "",
-      "descripcion": "Lady Carolina, la hija ignorada de un poderoso duque, siempre se ha creído la oveja negra entre sus ilustres parientes. Su padre es el distinguido primer ministro; su hermana mayor, una maga prodigiosa destinada a convertirse en la próxima Santa de su nación. En comparación, Carolina se resigna a una existencia tranquila en sus sombras hasta que un decreto real repentino e inesperado altera su destino, empujándola a un matrimonio político con el formidable 'Príncipe Sediento de Sangre' del vecino Imperio de Malcosias. Decidida a demostrar su valía, Carolina da un paso audaz hacia un mundo plagado de peligros tanto políticos como mortales. Mientras las obligaciones reales se entrelazan con indicios de amor verdadero y los albores de su propio poder latente, Carolina se acerca cada vez más a comprender qué significa realmente ser excepcional.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.38,
-      "anio": 2026,
-      "generos": ["Fantasía", "Romance"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "T7m_ksTYk" },
-            { "numero": 2, "video": "w9Unb8M-H" },
-            { "numero": 3, "video": "_bRje8bZl" },
-            { "numero": 4, "video": "kRV9qLzE1" },
-            { "numero": 5, "video": "sG1VJ0fMQ" },
-            { "numero": 6, "video": "qylpqGJT3" },
-            { "numero": 7, "video": "Ttnu89iDq" },
-            { "numero": 8, "video": "b43oVJ7dQ" },
-            { "numero": 9, "video": "Bm7nqbyW0" },
-            { "numero": 10, "video": "1sSlqjeQf" },
-            { "numero": 11, "video": "vemtfSCyV" },
-            { "numero": 12, "video": "pyiMFPyyt" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai",
       "titulo": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
       "malId": 46488,
@@ -17222,7 +17189,7 @@
       "descripcion": "Confesarle mis sentimientos a Marika, mi amiga de la infancia, era imposible para alguien tan impopular como yo. Así que hice lo que cualquier chico desesperado haría: ¡pedí un deseo a una estrella fugaz! Cuando desperté, ¡¿ese sueño se había hecho realidad?! Podía ver un medidor de amor para la gente, como en un juego de simulación de amor. En cuanto me di cuenta de que era real y no un sueño, fui directamente a ver a Marika. ¡Su medidor de amor estaba tan bajo que se había roto y prácticamente se había caído al infierno! Si me odiaba tanto, ¿por qué era tan amable? ¿De verdad sentía eso o...?",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 5.07,
       "anio": 2026,
       "generos": ["Comedia", "Romance", "Escuela"],
@@ -17238,6 +17205,39 @@
             { "numero": 6, "video": "zVXjIrmU9" },
             { "numero": 7, "video": "0ccgg5qPv" },
             { "numero": 8, "video": "Nt2KUglhq" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
+      "titulo": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+      "malId": 62080,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1612/158373.jpg",
+      "imagenFondo": "",
+      "descripcion": "Lady Carolina, la hija ignorada de un poderoso duque, siempre se ha creído la oveja negra entre sus ilustres parientes. Su padre es el distinguido primer ministro; su hermana mayor, una maga prodigiosa destinada a convertirse en la próxima Santa de su nación. En comparación, Carolina se resigna a una existencia tranquila en sus sombras hasta que un decreto real repentino e inesperado altera su destino, empujándola a un matrimonio político con el formidable 'Príncipe Sediento de Sangre' del vecino Imperio de Malcosias. Decidida a demostrar su valía, Carolina da un paso audaz hacia un mundo plagado de peligros tanto políticos como mortales. Mientras las obligaciones reales se entrelazan con indicios de amor verdadero y los albores de su propio poder latente, Carolina se acerca cada vez más a comprender qué significa realmente ser excepcional.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.38,
+      "anio": 2026,
+      "generos": ["Fantasía", "Romance"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "T7m_ksTYk" },
+            { "numero": 2, "video": "w9Unb8M-H" },
+            { "numero": 3, "video": "_bRje8bZl" },
+            { "numero": 4, "video": "kRV9qLzE1" },
+            { "numero": 5, "video": "sG1VJ0fMQ" },
+            { "numero": 6, "video": "qylpqGJT3" },
+            { "numero": 7, "video": "Ttnu89iDq" },
+            { "numero": 8, "video": "b43oVJ7dQ" },
+            { "numero": 9, "video": "Bm7nqbyW0" },
+            { "numero": 10, "video": "1sSlqjeQf" },
+            { "numero": 11, "video": "vemtfSCyV" },
+            { "numero": 12, "video": "pyiMFPyyt" }
           ]
         }
       ]

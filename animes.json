@@ -189,7 +189,8 @@
             { "numero": 8, "video": "Dbtnq4_Ge" },
             { "numero": 9, "video": "jILn-W74t" },
             { "numero": 10, "video": "0AaVAI1Tq" },
-            { "numero": 11, "video": "nGpkTkI9a" }
+            { "numero": 11, "video": "nGpkTkI9a" },
+            { "numero": 12, "video": "585yEGvj2" }
           ]
         }
       ]
@@ -220,7 +221,8 @@
             { "numero": 7, "video": "AcUvTwN2y" },
             { "numero": 8, "video": "_F3fKhsNu" },
             { "numero": 9, "video": "uVmgCUZD6" },
-            { "numero": 10, "video": "0g8wfEzUzp" }
+            { "numero": 10, "video": "0g8wfEzUzp" },
+            { "numero": 11, "video": "11JGC84As" }
           ]
         }
       ]
@@ -286,71 +288,8 @@
             { "numero": 8, "video": "dzuNHbqTY" },
             { "numero": 9, "video": "S2XEPq7XL" },
             { "numero": 10, "video": "fggz9hkSb" },
-            { "numero": 11, "video": "djzPGmLdv" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "otome-kaijuu-carameliser",
-      "titulo": "Otome Kaijuu Caraméliser",
-      "malId": 63150,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1981/156340.jpg",
-      "imagenFondo": "",
-      "descripcion": "Kuroe Akaishi es una estudiante de secundaria introvertida, tranquila y aparentemente normal. Sus monótonos días comienzan a cambiar cuando conoce a Arata Minami, un chico brillante y guapo de su clase. A pesar de su popularidad, es lo suficientemente amable como para acercarse a una marginada como ella; pronto, el corazón de Kuroe comienza a latir con fuerza por él. Late tan fuerte que Kuroe se transforma en un monstruoso kaijuu. Tiene una extraña aflicción: a medida que crece su vergüenza, también lo hacen sus apéndices monstruosos; y cuando alcanza su punto máximo, desata todo el poder de su transformación. ¿Podrá Minami aceptar sus sentimientos o también se asustará con su forma colosal?",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.54,
-      "anio": 2026,
-      "generos": ["Comedia", "Romance", "Escuela", "Sobrenatural"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "I2btqtoPM" },
-            { "numero": 2, "video": "DQFjpoK3n" },
-            { "numero": 3, "video": "J7pbgeENL" },
-            { "numero": 4, "video": "b6Gr4b-H9" },
-            { "numero": 5, "video": "eCVc4C-Rj" },
-            { "numero": 6, "video": "iW_lPjJBm" },
-            { "numero": 7, "video": "2Syeq_uMZ" },
-            { "numero": 8, "video": "FwbwlRVe5" },
-            { "numero": 9, "video": "e_lnWPlzp" },
-            { "numero": 10, "video": "voPYhOhBw" },
-            { "numero": 11, "video": "hBEGZqbcT" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bungou-stray-dogs-wan-2",
-      "titulo": "Bungou Stray Dogs Wan! 2",
-      "malId": 62883,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1591/157071.jpg",
-      "imagenFondo": "",
-      "descripcion": "Segunda temporada de Bungou Stray Dogs Wan!.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.3,
-      "anio": 2026,
-      "generos": ["Comedia", "Parodia"],
-      "temporadas": [
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "yOyhhrVOL" },
-            { "numero": 2, "video": "eDstLJ0OL" },
-            { "numero": 3, "video": "Y7agaYlLxk" },
-            { "numero": 4, "video": "O0TFM7XYF" },
-            { "numero": 5, "video": "GhIE2pzqO" },
-            { "numero": 6, "video": "z5Pq-_opv" },
-            { "numero": 7, "video": "8u_hw9kLI" },
-            { "numero": 8, "video": "oHeDJI426" },
-            { "numero": 9, "video": "ONXyBAcJ5" },
-            { "numero": 10, "video": "04-K4t6al" },
-            { "numero": 11, "video": "up5dSGEyL" }
+            { "numero": 11, "video": "djzPGmLdv" },
+            { "numero": 12, "video": "y8C46hslk" }
           ]
         }
       ]
@@ -381,7 +320,8 @@
             { "numero": 7, "video": "QYvr71Lv7" },
             { "numero": 8, "video": "OOQkODk66" },
             { "numero": 9, "video": "czMr4OrKC" },
-            { "numero": 10, "video": "vagZrlVyN" }
+            { "numero": 10, "video": "vagZrlVyN" },
+            { "numero": 11, "video": "smgrSVDEk" }
           ]
         }
       ]
@@ -412,7 +352,8 @@
             { "numero": 7, "video": "eOMuqvaG_x" },
             { "numero": 8, "video": "TLuKp4rw3" },
             { "numero": 9, "video": "YWblMNZor3" },
-            { "numero": 10, "video": "d2Q2Wczlp" }
+            { "numero": 10, "video": "d2Q2Wczlp" },
+            { "numero": 11, "video": "ut6E5OcgQ" }
           ]
         }
       ]
@@ -2119,40 +2060,6 @@
             { "numero": 9, "video": "vV9SnZGHB" },
             { "numero": 10, "video": "wx-bB4k01" },
             { "numero": 11, "video": "ZH3bOf3cK" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "hanazakari-no-kimitachi-e",
-      "titulo": "Hanazakari no Kimitachi e",
-      "malId": 58861,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1506/155355.jpg",
-      "imagenFondo": "",
-      "descripcion": "Para la mayoría de las personas que rodean a Mizuki Ashiya, su repentina decisión de mudarse a Japón desde Estados Unidos es un shock. Su única razón para el traslado es asistir a la misma escuela secundaria que su ídolo Izumi Sano, quien le robó el corazón después de verlo competir en un concurso de salto de altura. Sin embargo, hay un problema: ¡Sano asiste a una escuela solo para chicos! Eso no detiene a Mizuki, ya que está comprometida a acercarse a Sano cambiando su apariencia y comportamiento. Mizuki afortunadamente termina en la misma clase y dormitorio que Sano, pero su plan ideal se hace añicos cuando descubre que él ha dejado el salto de altura. No obstante, Mizuki está decidida a aprender más sobre él y reavivar su amor por el deporte, todo mientras navega su nueva vida en la secundaria y mantiene oculto su verdadero género.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.93,
-      "anio": 2026,
-      "generos": ["Romance"],
-      "temporadas": [
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "UOdfgnXtp" },
-            { "numero": 2, "video": "WJZ1bvBrh" },
-            { "numero": 3, "video": "-gCUzYcT9" },
-            { "numero": 4, "video": "23XPCxQ0r" },
-            { "numero": 5, "video": "IBCNge2YA" },
-            { "numero": 6, "video": "jrliAXMx7" },
-            { "numero": 7, "video": "revzA57R5" },
-            { "numero": 8, "video": "ufvl4zFdg" },
-            { "numero": 9, "video": "KhZSpSAJ6" },
-            { "numero": 10, "video": "YKcbICM4S" },
-            { "numero": 11, "video": "iSq9z5gVe" },
-            { "numero": 12, "video": "w4Q7LykEk" },
-            { "numero": 13, "video": "kPT0SuL4I" }
           ]
         }
       ]
@@ -11321,7 +11228,7 @@
             { "numero": 2, "video": "3AtI3XJyu" },
             { "numero": 3, "video": "4LBNduCmy" },
             { "numero": 4, "video": "IfGj1MLi_" },
-            { "numero": 5, "video": "" },
+            { "numero": 5, "video": "8el9DUBFk" },
             { "numero": 6, "video": "QEgthws8I" },
             { "numero": 7, "video": "d2CiSqva1" },
             { "numero": 8, "video": "PalWpc1wD" },
@@ -11329,6 +11236,24 @@
             { "numero": 10, "video": "Q9wifizxT" },
             { "numero": 11, "video": "l5OS1B90w" },
             { "numero": 12, "video": "UD5PP7Wm6" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "UOdfgnXtp" },
+            { "numero": 2, "video": "WJZ1bvBrh" },
+            { "numero": 3, "video": "-gCUzYcT9" },
+            { "numero": 4, "video": "23XPCxQ0r" },
+            { "numero": 5, "video": "IBCNge2YA" },
+            { "numero": 6, "video": "jrliAXMx7" },
+            { "numero": 7, "video": "revzA57R5" },
+            { "numero": 8, "video": "ufvl4zFdg" },
+            { "numero": 9, "video": "KhZSpSAJ6" },
+            { "numero": 10, "video": "YKcbICM4S" },
+            { "numero": 11, "video": "iSq9z5gVe" },
+            { "numero": 12, "video": "w4Q7LykEk" },
+            { "numero": 13, "video": "kPT0SuL4I" }
           ]
         }
       ]
@@ -17248,6 +17173,89 @@
             { "numero": 10, "video": "1sSlqjeQf" },
             { "numero": 11, "video": "vemtfSCyV" },
             { "numero": 12, "video": "pyiMFPyyt" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bungou-stray-dogs-wan-2",
+      "titulo": "Bungou Stray Dogs Wan! 2",
+      "malId": 62883,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1591/157071.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda temporada de Bungou Stray Dogs Wan!.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.3,
+      "anio": 2026,
+      "generos": ["Comedia", "Parodia"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "A9RWw2mEf" },
+            { "numero": 2, "video": "BswAJnJL7M" },
+            { "numero": 3, "video": "j5B_JCRtL" },
+            { "numero": 4, "video": "6YKAWKR57" },
+            { "numero": 5, "video": "JwaxChpnJ" },
+            { "numero": 6, "video": "vb2n7I8YW" },
+            { "numero": 7, "video": "abvOTdv02" },
+            { "numero": 8, "video": "O7MZp9SM_" },
+            { "numero": 9, "video": "_t0rO0oKK" },
+            { "numero": 10, "video": "aT2LBHcCw" },
+            { "numero": 11, "video": "3L_BTKCrp" },
+            { "numero": 12, "video": "Uy61jvzJw" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "yOyhhrVOL" },
+            { "numero": 2, "video": "eDstLJ0OL" },
+            { "numero": 3, "video": "Y7agaYlLxk" },
+            { "numero": 4, "video": "O0TFM7XYF" },
+            { "numero": 5, "video": "GhIE2pzqO" },
+            { "numero": 6, "video": "z5Pq-_opv" },
+            { "numero": 7, "video": "8u_hw9kLI" },
+            { "numero": 8, "video": "oHeDJI426" },
+            { "numero": 9, "video": "ONXyBAcJ5" },
+            { "numero": 10, "video": "04-K4t6al" },
+            { "numero": 11, "video": "up5dSGEyL" },
+            { "numero": 12, "video": "5p7LJcB8N" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "otome-kaijuu-carameliser",
+      "titulo": "Otome Kaijuu Caraméliser",
+      "malId": 63150,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1981/156340.jpg",
+      "imagenFondo": "",
+      "descripcion": "Kuroe Akaishi es una estudiante de secundaria introvertida, tranquila y aparentemente normal. Sus monótonos días comienzan a cambiar cuando conoce a Arata Minami, un chico brillante y guapo de su clase. A pesar de su popularidad, es lo suficientemente amable como para acercarse a una marginada como ella; pronto, el corazón de Kuroe comienza a latir con fuerza por él. Late tan fuerte que Kuroe se transforma en un monstruoso kaijuu. Tiene una extraña aflicción: a medida que crece su vergüenza, también lo hacen sus apéndices monstruosos; y cuando alcanza su punto máximo, desata todo el poder de su transformación. ¿Podrá Minami aceptar sus sentimientos o también se asustará con su forma colosal?",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.54,
+      "anio": 2026,
+      "generos": ["Comedia", "Romance", "Escuela", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "I2btqtoPM" },
+            { "numero": 2, "video": "DQFjpoK3n" },
+            { "numero": 3, "video": "J7pbgeENL" },
+            { "numero": 4, "video": "b6Gr4b-H9" },
+            { "numero": 5, "video": "eCVc4C-Rj" },
+            { "numero": 6, "video": "iW_lPjJBm" },
+            { "numero": 7, "video": "2Syeq_uMZ" },
+            { "numero": 8, "video": "FwbwlRVe5" },
+            { "numero": 9, "video": "e_lnWPlzp" },
+            { "numero": 10, "video": "voPYhOhBw" },
+            { "numero": 11, "video": "hBEGZqbcT" },
+            { "numero": 12, "video": "ecv3p__1h" }
           ]
         }
       ]

@@ -403,50 +403,6 @@
       ]
     },
     {
-      "id": "yomi-no-tsugai",
-      "titulo": "Yomi no Tsugai",
-      "malId": 62001,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1171/156397.jpg",
-      "imagenFondo": "",
-      "descripcion": "En una aldea aislada, nacieron dos gemelos, separados por el día y la noche. Pasan los años, y mientras el hermano mayor Yuru se ha convertido en cazador de animales, su hermana Asa ha sido encerrada en una jaula, obligada a realizar un deber especial que le prohíbe encontrarse con más de unas pocas personas selectas. En un día que de otro modo sería insignificante, un grupo de hombres armados que llegan en helicópteros, a los que los ciudadanos llaman \"dragones\", asalta la aldea en busca de Yuru, matando a todos los adultos a la vista. Cuando Yuru intenta reunirse con Asa y huir, encuentra un cadáver en su lugar; además, la persona que la mató afirma ser la verdadera hermana gemela de Yuru. Antes de que la mujer pueda capturarlo, Yuru es rescatado por un hombre llamado Ryuu \"Dera\" Tadera, un forastero que visita con frecuencia la aldea. Sin embargo, no pasa mucho tiempo antes de que los dos estén acorralados. En un último esfuerzo, Dera hace que Yuru ofrezca un regalo a la deidad de la aldea, invocando a un par de demonios cuya existencia está destinada a revelar la verdad detrás de estos caóticos eventos. [Escrito por MAL Rewrite]",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.84,
-      "anio": 2026,
-      "generos": ["Acción", "Fantasía", "Sobrenatural"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "k9FSJx1hS" },
-            { "numero": 2, "video": "96n66fDNe" },
-            { "numero": 3, "video": "X4UPTFT87" },
-            { "numero": 4, "video": "WdVUXiCKM" },
-            { "numero": 5, "video": "-ym-yhuhZ" },
-            { "numero": 6, "video": "hkLTiHOke" },
-            { "numero": 7, "video": "G0-VVUD2E" },
-            { "numero": 8, "video": "bHrBARzMK" },
-            { "numero": 9, "video": "K4TlUMFyv" },
-            { "numero": 10, "video": "ezoxHoxUY" },
-            { "numero": 11, "video": "8TsU9rjlT" },
-            { "numero": 12, "video": "K0pjlvozF" },
-            { "numero": 13, "video": "EJVlerc8-" },
-            { "numero": 14, "video": "onPmXBOFO" },
-            { "numero": 15, "video": "on-cEYtI0" },
-            { "numero": 16, "video": "9-cI-cS5k" },
-            { "numero": 17, "video": "a1ZS1g3en" },
-            { "numero": 18, "video": "sT-1s3pMN" },
-            { "numero": 19, "video": "SuNmGQHSk" },
-            { "numero": 20, "video": "Yz1qeu8Xi" },
-            { "numero": 21, "video": "rdJguROhF" },
-            { "numero": 22, "video": "ArFar6e9E" },
-            { "numero": 23, "video": "58mMEeEXV" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "honzuki-no-gekokujou-ryoushu-no-youjo",
       "titulo": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
       "malId": 57466,
@@ -483,7 +439,8 @@
             { "numero": 18, "video": "LJw2w5mAr" },
             { "numero": 19, "video": "LCJLWXMrP" },
             { "numero": 20, "video": "ZiQVV2Yog" },
-            { "numero": 21, "video": "-QuTaWcAL" }
+            { "numero": 21, "video": "-QuTaWcAL" },
+            { "numero": 22, "video": "5EP89EQeZ" }
           ]
         }
       ]
@@ -526,7 +483,8 @@
             { "numero": 19, "video": "5mmw6auAF" },
             { "numero": 20, "video": "CWXZxjc-c" },
             { "numero": 21, "video": "JLVYh1cNL" },
-            { "numero": 22, "video": "4_HkCCTSl" }
+            { "numero": 22, "video": "4_HkCCTSl" },
+            { "numero": 23, "video": "NGbr-0p91" }
           ]
         }
       ]
@@ -571,7 +529,8 @@
             { "numero": 21, "video": "BYb10n75V" },
             { "numero": 22, "video": "TWa-GafNK" },
             { "numero": 23, "video": "DobZpgoyj" },
-            { "numero": 24, "video": "5G1zW6IOi" }
+            { "numero": 24, "video": "5G1zW6IOi" },
+            { "numero": 25, "video": "avNaUk3nR" }
           ]
         }
       ]
@@ -616,7 +575,8 @@
             { "numero": 21, "video": "lZ88hdf6l" },
             { "numero": 22, "video": "dC5iw_ylA" },
             { "numero": 23, "video": "6SaDCX5AM" },
-            { "numero": 24, "video": "7-VXPhD3W" }
+            { "numero": 24, "video": "7-VXPhD3W" },
+            { "numero": 25, "video": "xmDrZ2KpM" }
           ]
         }
       ]
@@ -655,102 +615,6 @@
       ]
     },
     {
-      "id": "oni-no-hanayome",
-      "titulo": "Oni no Hanayome",
-      "malId": 61814,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1082/158708.jpg",
-      "imagenFondo": "",
-      "descripcion": "\"Eres la novia que he estado buscando todo este tiempo.\" ¡Una historia de Cenicienta de estilo japonés sobre ayakashi! Los ayakashi y los humanos conviven en armonía. Los ayakashi, que poseen habilidades superiores y apariencias hermosas, a veces encuentran a su pareja entre las mujeres humanas, convirtiéndolas en su \"novia\". La novia, a cambio de recibir prosperidad, recibe el amor absoluto del ayakashi. Yuzu es constantemente comparada con su hermana, una novia de un zorro demonio, y su familia la desprecia cada día. Un día, cuando Yuzu ya no podía soportarlo más, un hombre apareció ante ella en un puente. ¡Este hombre es el más hermoso que Yuzu haya visto... y la llama su esposa?! \"Solo calla y déjame abrazarte\". El ayakashi más poderoso y de \"corazón frío\" está entregando su corazón a Yuzu. (Fuente: MangaPlaza, editado)",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.89,
-      "anio": 2026,
-      "generos": ["Romance", "Fantasía", "Sobrenatural"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "2vOKzPFdD" },
-            { "numero": 2, "video": "Lu5LMUjU_" },
-            { "numero": 3, "video": "nBYwGwQT-" },
-            { "numero": 4, "video": "TNpKlJ5Cp" },
-            { "numero": 5, "video": "8b0Uc4dxV" },
-            { "numero": 6, "video": "8deYJg5J1" },
-            { "numero": 7, "video": "3J5g8M5CV" },
-            { "numero": 8, "video": "6TCqn9wCf" },
-            { "numero": 9, "video": "SM7zZQUQh" },
-            { "numero": 10, "video": "93zkgT2qB" },
-            { "numero": 11, "video": "8aphxmGZV" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "kimi-wo-aisuru-ki-wa-nai",
-      "titulo": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
-      "malId": 63537,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1217/158710.jpg",
-      "imagenFondo": "",
-      "descripcion": "Un matrimonio arreglado. Dos completos desconocidos. ¡Un romance adorable! Cuando la alegre noble Elsa se casa repentinamente con el reservado duque Julius, ninguno de los dos espera que su matrimonio político despierte algo más. A medida que los malentendidos torpes, los gestos dulces y los sentimientos crecientes se acumulan, estos recién casados descubren que enamorarse podría ser la parte más fácil, y más difícil, de la vida matrimonial. (Fuente: Crunchyroll)",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.78,
-      "anio": 2026,
-      "generos": ["Romance", "Comedia", "Escuela"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "k7bRORA1D" },
-            { "numero": 2, "video": "-otN3NrRf" },
-            { "numero": 3, "video": "2cqGbrxUN" },
-            { "numero": 4, "video": "N5Sdlr0OS" },
-            { "numero": 5, "video": "CT6rA8yYi" },
-            { "numero": 6, "video": "pfFXnYuOc" },
-            { "numero": 7, "video": "H-IrfY672" },
-            { "numero": 8, "video": "dr3-NYtZt" },
-            { "numero": 9, "video": "K7ZC_M41p" },
-            { "numero": 10, "video": "FIG6ci7xc" },
-            { "numero": 11, "video": "e6jFUpTv7" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
-      "titulo": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
-      "malId": 60637,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1685/158611.jpg",
-      "imagenFondo": "",
-      "descripcion": "Hace treinta años, la repentina aparición de formas de vida alienígenas invasoras desconocidas casi provocó el fin del mundo. Desde entonces, la humanidad y estas criaturas, conocidas como Especies Invasoras, han seguido luchando por el territorio. Aunque la seguridad humana se mantiene a duras penas, el mundo sigue al borde del colapso. Mientras la amenaza de muerte y destrucción persiste, la gente vive su vida cotidiana ignorando el peligro constante que los rodea. En respuesta, las Naciones Unidas establecen EXCEEDS, una organización encargada de investigar y combatir las amenazas causadas por las Especies Invasoras. La historia comienza en la nación insular del Lejano Oriente de Mizuho, donde Shiina Kuze, una joven cazadora que extermina especies invasoras, vive en una isla remota. Deseando nada más que una vida tranquila con su única familia (su hermana menor, Setsuna), la rutina de Shiina se ve interrumpida cuando ocurre un incidente inesperado, atrayéndola a un conflicto mucho mayor. (Fuente: MAL News)",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.10,
-      "anio": 2026,
-      "generos": ["Acción", "Ciencia Ficción", "Magia"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "zv1L9q-ia" },
-            { "numero": 2, "video": "EWvxmRBbK" },
-            { "numero": 3, "video": "dcSNhY7TZ" },
-            { "numero": 4, "video": "y7-yHPJgz" },
-            { "numero": 5, "video": "Oi50Kjdrr" },
-            { "numero": 6, "video": "l-69PhlAU3" },
-            { "numero": 7, "video": "vGk_5rmJf" },
-            { "numero": 8, "video": "_mUmotwFn" },
-            { "numero": 9, "video": "3MFb4gs2F1" },
-            { "numero": 10, "video": "pofrUx7iS" },
-            { "numero": 11, "video": "MoUnXFcdl" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "grow-up-show-himawari-no-circus-dan",
       "titulo": "Grow Up Show: Himawari no Circus-dan",
       "malId": 62051,
@@ -777,7 +641,8 @@
             { "numero": 8, "video": "NsZp-gLJ2" },
             { "numero": 9, "video": "N0apQbsikc" },
             { "numero": 10, "video": "evv1kOndF" },
-            { "numero": 11, "video": "QYfdCL1v5" }
+            { "numero": 11, "video": "QYfdCL1v5" },
+            { "numero": 12, "video": "baxZV1GZj" }
           ]
         }
       ]
@@ -815,102 +680,6 @@
       ]
     },
     {
-      "id": "black-torch",
-      "titulo": "Black Torch",
-      "malId": 61169,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1965/158363.jpg",
-      "imagenFondo": "",
-      "descripcion": "Jirou Azuma, de diecisiete años, vive una vida tranquila con su abuelo, utilizando su habilidad sobrenatural para hablar con los animales y protegerlos. Tanto Jirou como su abuelo son descendientes de un antiguo clan shinobi, entrenándose en combate para mantener vivo el arte de la batalla en su familia. La vida de Jirou se ve trastocada después de rescatar a un gato negro aparentemente normal, Ragou, solo para descubrir que el gato es en realidad un mononoke, un espíritu demoníaco que ha estado en guerra con la humanidad durante mucho tiempo. Cuando un mononoke hostil viene en busca de Ragou, Jirou usa su entrenamiento shinobi para defender al gato, pero sufre una herida mortal de inmediato. Ante la decisión de devorar la energía menguante de Jirou y recuperar su poder, Ragou elige en cambio dar su energía restante a Jirou. Reviviendo al chico, la transferencia también le otorga grandes poderes sobrenaturales que complementan su propio estilo de lucha shinobi. Este acto es presenciado por Ryousuke Shiba, un oficial de la Oficina de Espionaje cuyo trabajo consiste en eliminar mononoke agresivos. Shiba le ofrece a Jirou y a su abuelo una oferta: unirse al nuevo escuadrón de la Oficina, Black Torch, y ayudarles a combatir poderosos mononoke que buscan devorar a personas inocentes. [Escrito por MAL Rewrite]",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.00,
-      "anio": 2026,
-      "generos": ["Acción", "Sobrenatural", "Shounen"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "tpnbiUD-g" },
-            { "numero": 2, "video": "rLNThuE5i" },
-            { "numero": 3, "video": "iumKW5xam" },
-            { "numero": 4, "video": "PWIc8EaSg" },
-            { "numero": 5, "video": "ceowy_IJG" },
-            { "numero": 6, "video": "HpXwwYB8v" },
-            { "numero": 7, "video": "tbGdZajhu" },
-            { "numero": 8, "video": "4w-b3D9tz" },
-            { "numero": 9, "video": "rKEa4cv3E" },
-            { "numero": 10, "video": "oxq2JaZV_" },
-            { "numero": 11, "video": "9X8f2TWLN" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "iwamoto-senpai-no-suisen",
-      "titulo": "Iwamoto-senpai no Suisen",
-      "malId": 63324,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1112/158450.jpg",
-      "imagenFondo": "",
-      "descripcion": "Década de 1910. Iwamoto Kodou, un estudiante de la Escuela Secundaria Suho bajo el mando directo del ejército, investiga fenómenos paranormales en todo el país siguiendo instrucciones militares. En una aldea donde se rumorea que hay \"nieve negra\", conoce a un niño con poderes especiales que cree que son una enfermedad; gracias al apoyo de Iwamoto, el niño se da cuenta de que podrían tener algo en común y recibe una recomendación para la escuela. Misterios esperan a Iwamoto en cada lugar que visita: ¡una historia romántica de esta época comienza a desarrollarse! (Fuente: MAL News)",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 5.73,
-      "anio": 2026,
-      "generos": ["Misterio", "Sobrenatural", "Histórico"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "Vv3bdFo8e" },
-            { "numero": 2, "video": "NPxQo3qby" },
-            { "numero": 3, "video": "pJZSAu3sIv" },
-            { "numero": 4, "video": "1iCHj7wCi" },
-            { "numero": 5, "video": "VJMBicyWy" },
-            { "numero": 6, "video": "-Oj6QKn6Z" },
-            { "numero": 7, "video": "O9jXpr64P" },
-            { "numero": 8, "video": "NHkV0_L8fe" },
-            { "numero": 9, "video": "hMPnJ6BRI-" },
-            { "numero": 10, "video": "6CC-wKEOr" },
-            { "numero": 11, "video": "hEUW3sfKLf" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama",
-      "titulo": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-      "malId": 62876,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1116/157083.jpg",
-      "imagenFondo": "",
-      "descripcion": "Hinako Konohana es la joven perfecta: elegante, refinada y sin defectos... o eso piensan todos. A puerta cerrada, ¡es un desastre total que no puede hacer las tareas básicas! Cuando el estudiante común Itsuki Tomonari se convierte en su cuidador, se ve envuelto en un control de daños 24/7, manteniendo su imagen \"perfecta\". Es un caos incómodo y sin fin, pero comienza a suavizarse hasta convertirse en algo que se siente como amor... (Fuente: Crunchyroll)",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.20,
-      "anio": 2026,
-      "generos": ["Comedia", "Romance", "Escuela"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "U4Jkem4EL" },
-            { "numero": 2, "video": "NESIaSGN_" },
-            { "numero": 3, "video": "jUXd_z3nh" },
-            { "numero": 4, "video": "fhA6XXBIK" },
-            { "numero": 5, "video": "TZwI7j_jO" },
-            { "numero": 6, "video": "m-9l5SFx7" },
-            { "numero": 7, "video": "0O_TFxYZn" },
-            { "numero": 8, "video": "21Pwc2lVu" },
-            { "numero": 9, "video": "IXRBNHD6F" },
-            { "numero": 10, "video": "n0zv2qym9" },
-            { "numero": 11, "video": "8xqrLJJ8L" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "kabushikigaisha-magi-lumiere-2nd-season",
       "titulo": "Kabushikigaisha Magi-Lumière 2nd Season",
       "malId": 60552,
@@ -936,7 +705,8 @@
             { "numero": 7, "video": "gfRSDcBhj" },
             { "numero": 8, "video": "RgJAwgOu7" },
             { "numero": 9, "video": "TgMeVIHuP" },
-            { "numero": 10, "video": "xbzykhRRF" }
+            { "numero": 10, "video": "xbzykhRRF" },
+            { "numero": 11, "video": "pJ9NNyUrY" }
           ]
         }
       ]
@@ -989,7 +759,8 @@
             { "numero": 7, "video": "oN5M5lysV" },
             { "numero": 8, "video": "5mfzAfc2x" },
             { "numero": 9, "video": "qHQHMxiSa" },
-            { "numero": 10, "video": "UbvMakCb-s" }
+            { "numero": 10, "video": "UbvMakCb-s" },
+            { "numero": 11, "video": "pd5mlmdVF" }
           ]
         }
       ]
@@ -17140,7 +16911,7 @@
       "descripcion": "Dias finalmente regresa a casa después de décadas de guerra. Es aclamado como un héroe y recompensado de inmediato con su propio dominio... que resulta ser poco más que llanuras vacías. Población: cero. Dias, que solo ha conocido la batalla, se encuentra perdido. ¿Cómo se supone que sobreviva, y mucho menos cultive su territorio hasta convertirlo en un dominio próspero y floreciente cuando no hay nada más que hierba hasta donde alcanza la vista? Afortunadamente para Dias, una chica con cuernos llamada Alna está a punto de mostrarle que las llanuras no son tan simples como parecen.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 6.76,
       "anio": 2026,
       "generos": ["Fantasía"],
@@ -17173,7 +16944,7 @@
       "descripcion": "El hechicero Luck cree que este es el final. Asediado por poderosos demonios, hace el noble sacrificio de contener su embate mientras sus amigos escapan. Sin dormir ni descansar, Luck soporta el choque de espadas, la lluvia de sangre y el flujo interminable de enemigos. Contra todo pronóstico, aniquila al comandante y emerge victorioso, solo para descubrir que han pasado 10 años enteros mientras tanto. Además, su cuerpo ha retrocedido en edad hasta el punto de parecer un simple adolescente. Tras su triunfo, Luck pronto se reúne con sus amigos, el héroe Eric Imgard Mendirival y el guerrero Goran Morton. Como creían que Luck estaba muerto, la pareja se aseguró de que pasara a la historia como un héroe y se preparó para sofocar el surgimiento de los demonios, sin saber de la hazaña de Luck. Con todo esto en mente, Luck solo quiere una vida relajada, por lo que se inscribe como aventurero novato bajo el nombre de Lock y emprende un viaje junto a nuevos compañeros.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 6.30,
       "anio": 2026,
       "generos": ["Acción", "Aventura", "Fantasía"],
@@ -17206,7 +16977,7 @@
       "descripcion": "A lo largo de la historia, gracias a su aroma multifacético, su paleta de colores cálidos y su textura espiritual, el vino se ha convertido en una fuente inagotable de descubrimientos para entusiastas de la comida, conocedores y poetas por igual. En la cima de este mundo, Yutaka Kanzaki se erige como el crítico de vino más refinado de su generación. Tras su fallecimiento, encarga a su distanciado hijo Shizuku competir con su hijo adoptivo Issei Tomine por su legado, instándolos a encontrar 12 botellas de vino esquivas conocidas como las Gotas de Dios. A pesar de seguir un intenso entrenamiento en enología de niño, Shizuku no tiene interés en el vino y siempre se ha negado a probarlo. Intrigado por la competencia inicial para ganar el derecho a vivir en la casa de su padre, un encuentro casual previo con la aprendiz de sumiller Miyabi Shinohara le ayuda a desarrollar un interés por la cata de vinos. A medida que Shizuku descubre su don como enólogo, finalmente decide unirse a la competencia para descubrir el secreto de la pasión de su padre.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 5.83,
       "anio": 2026,
       "generos": ["Drama", "Gourmet", "Misterio"],
@@ -17251,7 +17022,7 @@
       "descripcion": "Shizuka es una estudiante de secundaria normal con la habilidad de ver fantasmas. Debido a su peculiar tendencia a atraer fantasmas, trabaja como asistente de Kamui, un famoso psíquico. Kamui se enorgullece de sus habilidades psíquicas de primer nivel, pero la forma en que exorciza fantasmas es bastante inusual.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 6.19,
       "anio": 2026,
       "generos": ["Comedia", "Sobrenatural", "Ecchi"],
@@ -17271,6 +17042,282 @@
             { "numero": 10, "video": "s-ZlmCEfHh" },
             { "numero": 11, "video": "cvbZmG7Dv" },
             { "numero": 12, "video": "-WVEcJvhZ" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama",
+      "titulo": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+      "malId": 62876,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1116/157083.jpg",
+      "imagenFondo": "",
+      "descripcion": "Hinako Konohana es la joven perfecta: elegante, refinada y sin defectos... o eso piensan todos. A puerta cerrada, ¡es un desastre total que no puede hacer las tareas básicas! Cuando el estudiante común Itsuki Tomonari se convierte en su cuidador, se ve envuelto en un control de daños 24/7, manteniendo su imagen \"perfecta\". Es un caos incómodo y sin fin, pero comienza a suavizarse hasta convertirse en algo que se siente como amor... (Fuente: Crunchyroll)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.20,
+      "anio": 2026,
+      "generos": ["Comedia", "Romance", "Escuela"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "U4Jkem4EL" },
+            { "numero": 2, "video": "NESIaSGN_" },
+            { "numero": 3, "video": "jUXd_z3nh" },
+            { "numero": 4, "video": "fhA6XXBIK" },
+            { "numero": 5, "video": "TZwI7j_jO" },
+            { "numero": 6, "video": "m-9l5SFx7" },
+            { "numero": 7, "video": "0O_TFxYZn" },
+            { "numero": 8, "video": "21Pwc2lVu" },
+            { "numero": 9, "video": "IXRBNHD6F" },
+            { "numero": 10, "video": "n0zv2qym9" },
+            { "numero": 11, "video": "8xqrLJJ8L" },
+            { "numero": 12, "video": "Z9llZP-N5" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oni-no-hanayome",
+      "titulo": "Oni no Hanayome",
+      "malId": 61814,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1082/158708.jpg",
+      "imagenFondo": "",
+      "descripcion": "\"Eres la novia que he estado buscando todo este tiempo.\" ¡Una historia de Cenicienta de estilo japonés sobre ayakashi! Los ayakashi y los humanos conviven en armonía. Los ayakashi, que poseen habilidades superiores y apariencias hermosas, a veces encuentran a su pareja entre las mujeres humanas, convirtiéndolas en su \"novia\". La novia, a cambio de recibir prosperidad, recibe el amor absoluto del ayakashi. Yuzu es constantemente comparada con su hermana, una novia de un zorro demonio, y su familia la desprecia cada día. Un día, cuando Yuzu ya no podía soportarlo más, un hombre apareció ante ella en un puente. ¡Este hombre es el más hermoso que Yuzu haya visto... y la llama su esposa?! \"Solo calla y déjame abrazarte\". El ayakashi más poderoso y de \"corazón frío\" está entregando su corazón a Yuzu. (Fuente: MangaPlaza, editado)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.89,
+      "anio": 2026,
+      "generos": ["Romance", "Fantasía", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "2vOKzPFdD" },
+            { "numero": 2, "video": "Lu5LMUjU_" },
+            { "numero": 3, "video": "nBYwGwQT-" },
+            { "numero": 4, "video": "TNpKlJ5Cp" },
+            { "numero": 5, "video": "8b0Uc4dxV" },
+            { "numero": 6, "video": "8deYJg5J1" },
+            { "numero": 7, "video": "3J5g8M5CV" },
+            { "numero": 8, "video": "6TCqn9wCf" },
+            { "numero": 9, "video": "SM7zZQUQh" },
+            { "numero": 10, "video": "93zkgT2qB" },
+            { "numero": 11, "video": "8aphxmGZV" },
+            { "numero": 12, "video": "RwdWgNczW" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kimi-wo-aisuru-ki-wa-nai",
+      "titulo": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
+      "malId": 63537,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1217/158710.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un matrimonio arreglado. Dos completos desconocidos. ¡Un romance adorable! Cuando la alegre noble Elsa se casa repentinamente con el reservado duque Julius, ninguno de los dos espera que su matrimonio político despierte algo más. A medida que los malentendidos torpes, los gestos dulces y los sentimientos crecientes se acumulan, estos recién casados descubren que enamorarse podría ser la parte más fácil, y más difícil, de la vida matrimonial. (Fuente: Crunchyroll)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.78,
+      "anio": 2026,
+      "generos": ["Romance", "Comedia", "Escuela"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "k7bRORA1D" },
+            { "numero": 2, "video": "-otN3NrRf" },
+            { "numero": 3, "video": "2cqGbrxUN" },
+            { "numero": 4, "video": "N5Sdlr0OS" },
+            { "numero": 5, "video": "CT6rA8yYi" },
+            { "numero": 6, "video": "pfFXnYuOc" },
+            { "numero": 7, "video": "H-IrfY672" },
+            { "numero": 8, "video": "dr3-NYtZt" },
+            { "numero": 9, "video": "K7ZC_M41p" },
+            { "numero": 10, "video": "FIG6ci7xc" },
+            { "numero": 11, "video": "e6jFUpTv7" },
+            { "numero": 12, "video": "Mc5NG9mIp" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
+      "titulo": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+      "malId": 60637,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1685/158611.jpg",
+      "imagenFondo": "",
+      "descripcion": "Hace treinta años, la repentina aparición de formas de vida alienígenas invasoras desconocidas casi provocó el fin del mundo. Desde entonces, la humanidad y estas criaturas, conocidas como Especies Invasoras, han seguido luchando por el territorio. Aunque la seguridad humana se mantiene a duras penas, el mundo sigue al borde del colapso. Mientras la amenaza de muerte y destrucción persiste, la gente vive su vida cotidiana ignorando el peligro constante que los rodea. En respuesta, las Naciones Unidas establecen EXCEEDS, una organización encargada de investigar y combatir las amenazas causadas por las Especies Invasoras. La historia comienza en la nación insular del Lejano Oriente de Mizuho, donde Shiina Kuze, una joven cazadora que extermina especies invasoras, vive en una isla remota. Deseando nada más que una vida tranquila con su única familia (su hermana menor, Setsuna), la rutina de Shiina se ve interrumpida cuando ocurre un incidente inesperado, atrayéndola a un conflicto mucho mayor. (Fuente: MAL News)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.10,
+      "anio": 2026,
+      "generos": ["Acción", "Ciencia Ficción", "Magia"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "zv1L9q-ia" },
+            { "numero": 2, "video": "EWvxmRBbK" },
+            { "numero": 3, "video": "dcSNhY7TZ" },
+            { "numero": 4, "video": "y7-yHPJgz" },
+            { "numero": 5, "video": "Oi50Kjdrr" },
+            { "numero": 6, "video": "l-69PhlAU3" },
+            { "numero": 7, "video": "vGk_5rmJf" },
+            { "numero": 8, "video": "_mUmotwFn" },
+            { "numero": 9, "video": "3MFb4gs2F1" },
+            { "numero": 10, "video": "pofrUx7iS" },
+            { "numero": 11, "video": "MoUnXFcdl" },
+            { "numero": 12, "video": "K3j14OdM8" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yomi-no-tsugai",
+      "titulo": "Yomi no Tsugai",
+      "malId": 62001,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1171/156397.jpg",
+      "imagenFondo": "",
+      "descripcion": "En una aldea aislada, nacieron dos gemelos, separados por el día y la noche. Pasan los años, y mientras el hermano mayor Yuru se ha convertido en cazador de animales, su hermana Asa ha sido encerrada en una jaula, obligada a realizar un deber especial que le prohíbe encontrarse con más de unas pocas personas selectas. En un día que de otro modo sería insignificante, un grupo de hombres armados que llegan en helicópteros, a los que los ciudadanos llaman \"dragones\", asalta la aldea en busca de Yuru, matando a todos los adultos a la vista. Cuando Yuru intenta reunirse con Asa y huir, encuentra un cadáver en su lugar; además, la persona que la mató afirma ser la verdadera hermana gemela de Yuru. Antes de que la mujer pueda capturarlo, Yuru es rescatado por un hombre llamado Ryuu \"Dera\" Tadera, un forastero que visita con frecuencia la aldea. Sin embargo, no pasa mucho tiempo antes de que los dos estén acorralados. En un último esfuerzo, Dera hace que Yuru ofrezca un regalo a la deidad de la aldea, invocando a un par de demonios cuya existencia está destinada a revelar la verdad detrás de estos caóticos eventos. [Escrito por MAL Rewrite]",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.84,
+      "anio": 2026,
+      "generos": ["Acción", "Fantasía", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "k9FSJx1hS" },
+            { "numero": 2, "video": "96n66fDNe" },
+            { "numero": 3, "video": "X4UPTFT87" },
+            { "numero": 4, "video": "WdVUXiCKM" },
+            { "numero": 5, "video": "-ym-yhuhZ" },
+            { "numero": 6, "video": "hkLTiHOke" },
+            { "numero": 7, "video": "G0-VVUD2E" },
+            { "numero": 8, "video": "bHrBARzMK" },
+            { "numero": 9, "video": "K4TlUMFyv" },
+            { "numero": 10, "video": "ezoxHoxUY" },
+            { "numero": 11, "video": "8TsU9rjlT" },
+            { "numero": 12, "video": "K0pjlvozF" },
+            { "numero": 13, "video": "EJVlerc8-" },
+            { "numero": 14, "video": "onPmXBOFO" },
+            { "numero": 15, "video": "on-cEYtI0" },
+            { "numero": 16, "video": "9-cI-cS5k" },
+            { "numero": 17, "video": "a1ZS1g3en" },
+            { "numero": 18, "video": "sT-1s3pMN" },
+            { "numero": 19, "video": "SuNmGQHSk" },
+            { "numero": 20, "video": "Yz1qeu8Xi" },
+            { "numero": 21, "video": "rdJguROhF" },
+            { "numero": 22, "video": "ArFar6e9E" },
+            { "numero": 23, "video": "58mMEeEXV" },
+            { "numero": 24, "video": "ClquUpmNNC" }
+          ]
+        }
+      ]
+    },
+    {
+  "id": "grow-up-show-himawari-no-circus-dan",
+  "titulo": "Grow Up Show: Himawari no Circus-dan",
+  "malId": 62051,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1329/158716.jpg",
+  "imagenFondo": "",
+  "descripcion": "En el Japón del auge económico de mediados de los años 50, el circo era una forma de entretenimiento que se convirtió en una parte central de la vida de muchas personas. Las mejores compañías tienen permitido participar en el festival de renombre mundial \"Circus Collection\", y muchas vienen de todo Japón para competir a diario. La historia se centra en la compañía en apuros \"Sunflower Circus\", liderada por la maestra de ceremonias Maria, y una nueva prodigio que se une a sus filas por razones desconocidas: Mizuka Tsurumaki. ¿Es su encuentro con los miembros tan individuales de la compañía Sunflower Circus una coincidencia o el destino? ¡Comienza este espectáculo circense único en su tipo que retrata a jóvenes chicas persiguiendo sus sueños!",
+  "estado": "emision",
+  "destacado": false,
+  "finalizado": true,
+  "puntuacion": 7.18,
+  "anio": 2026,
+  "generos": ["Recuentos de la vida", "Histórico", "Artes Escénicas"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "3tEh_ekIg" },
+        { "numero": 2, "video": "x9JgaEUR0" },
+        { "numero": 3, "video": "D_2zYQy5r" },
+        { "numero": 4, "video": "4AKhfzTBO" },
+        { "numero": 5, "video": "15LiBXVQc" },
+        { "numero": 6, "video": "647VYf9nZ" },
+        { "numero": 7, "video": "qOmO0qxa6" },
+        { "numero": 8, "video": "NsZp-gLJ2" },
+        { "numero": 9, "video": "N0apQbsikc" },
+        { "numero": 10, "video": "evv1kOndF" },
+        { "numero": 11, "video": "QYfdCL1v5" },
+        { "numero": 12, "video": "baxZV1GZj" }
+      ]
+    }
+  ]
+},
+{
+      "id": "iwamoto-senpai-no-suisen",
+      "titulo": "Iwamoto-senpai no Suisen",
+      "malId": 63324,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1112/158450.jpg",
+      "imagenFondo": "",
+      "descripcion": "Década de 1910. Iwamoto Kodou, un estudiante de la Escuela Secundaria Suho bajo el mando directo del ejército, investiga fenómenos paranormales en todo el país siguiendo instrucciones militares. En una aldea donde se rumorea que hay \"nieve negra\", conoce a un niño con poderes especiales que cree que son una enfermedad; gracias al apoyo de Iwamoto, el niño se da cuenta de que podrían tener algo en común y recibe una recomendación para la escuela. Misterios esperan a Iwamoto en cada lugar que visita: ¡una historia romántica de esta época comienza a desarrollarse! (Fuente: MAL News)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 5.73,
+      "anio": 2026,
+      "generos": ["Misterio", "Sobrenatural", "Histórico"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "Vv3bdFo8e" },
+            { "numero": 2, "video": "NPxQo3qby" },
+            { "numero": 3, "video": "pJZSAu3sIv" },
+            { "numero": 4, "video": "1iCHj7wCi" },
+            { "numero": 5, "video": "VJMBicyWy" },
+            { "numero": 6, "video": "-Oj6QKn6Z" },
+            { "numero": 7, "video": "O9jXpr64P" },
+            { "numero": 8, "video": "NHkV0_L8fe" },
+            { "numero": 9, "video": "hMPnJ6BRI-" },
+            { "numero": 10, "video": "6CC-wKEOr" },
+            { "numero": 11, "video": "hEUW3sfKLf" },
+            { "numero": 12, "video": "gNvpTgDvU" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "black-torch",
+      "titulo": "Black Torch",
+      "malId": 61169,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1965/158363.jpg",
+      "imagenFondo": "",
+      "descripcion": "Jirou Azuma, de diecisiete años, vive una vida tranquila con su abuelo, utilizando su habilidad sobrenatural para hablar con los animales y protegerlos. Tanto Jirou como su abuelo son descendientes de un antiguo clan shinobi, entrenándose en combate para mantener vivo el arte de la batalla en su familia. La vida de Jirou se ve trastocada después de rescatar a un gato negro aparentemente normal, Ragou, solo para descubrir que el gato es en realidad un mononoke, un espíritu demoníaco que ha estado en guerra con la humanidad durante mucho tiempo. Cuando un mononoke hostil viene en busca de Ragou, Jirou usa su entrenamiento shinobi para defender al gato, pero sufre una herida mortal de inmediato. Ante la decisión de devorar la energía menguante de Jirou y recuperar su poder, Ragou elige en cambio dar su energía restante a Jirou. Reviviendo al chico, la transferencia también le otorga grandes poderes sobrenaturales que complementan su propio estilo de lucha shinobi. Este acto es presenciado por Ryousuke Shiba, un oficial de la Oficina de Espionaje cuyo trabajo consiste en eliminar mononoke agresivos. Shiba le ofrece a Jirou y a su abuelo una oferta: unirse al nuevo escuadrón de la Oficina, Black Torch, y ayudarles a combatir poderosos mononoke que buscan devorar a personas inocentes. [Escrito por MAL Rewrite]",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.00,
+      "anio": 2026,
+      "generos": ["Acción", "Sobrenatural", "Shounen"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "tpnbiUD-g" },
+            { "numero": 2, "video": "rLNThuE5i" },
+            { "numero": 3, "video": "iumKW5xam" },
+            { "numero": 4, "video": "PWIc8EaSg" },
+            { "numero": 5, "video": "ceowy_IJG" },
+            { "numero": 6, "video": "HpXwwYB8v" },
+            { "numero": 7, "video": "tbGdZajhu" },
+            { "numero": 8, "video": "4w-b3D9tz" },
+            { "numero": 9, "video": "rKEa4cv3E" },
+            { "numero": 10, "video": "oxq2JaZV_" },
+            { "numero": 11, "video": "9X8f2TWLN" },
+            { "numero": 12, "video": "MYPdWjN-6" }
           ]
         }
       ]

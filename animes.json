@@ -609,7 +609,8 @@
             { "numero": 9, "video": "ygs2-3ubXx" },
             { "numero": 10, "video": "NefHL3Aif" },
             { "numero": 11, "video": "U6EwV91Wa" },
-            { "numero": 12, "video": "LuNqmJj11" }
+            { "numero": 12, "video": "LuNqmJj11" },
+            { "numero": 13, "video": "t_G04LdLL" }
           ]
         }
       ]
@@ -798,38 +799,6 @@
       ]
     },
     {
-      "id": "tetsunabe-no-jan",
-      "titulo": "Tetsunabe no Jan!",
-      "malId": 63100,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1452/159112.jpg",
-      "imagenFondo": "",
-      "descripcion": "El manga original de Iron Wok Jan! se centra en un brillante joven chef llamado Jan Akiyama, que trabaja en un restaurante de primera clase donde desafía constantemente a Kiriko Gobanchou, la nieta del dueño del restaurante y una gran chef por derecho propio. Mientras Kiriko cree que la comida debe hacerse pensando en el cliente, Jan cree que cocinar es un campo de batalla donde solo los más fuertes sobreviven.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.24,
-      "anio": 2026,
-      "generos": ["Comedia", "Drama", "Shounen", "Cocina"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "VQgwxh1nM" },
-            { "numero": 2, "video": "_cNsuYHdC" },
-            { "numero": 3, "video": "dwjqFCNL0M" },
-            { "numero": 4, "video": "Ir6-_zPoy" },
-            { "numero": 5, "video": "CBRfZQk5k" },
-            { "numero": 6, "video": "Ae0NCuHbx" },
-            { "numero": 7, "video": "DICObrd_e" },
-            { "numero": 8, "video": "yQXbAssfx" },
-            { "numero": 9, "video": "e8IlTvz7v" },
-            { "numero": 10, "video": "1VA4NQaFq" },
-            { "numero": 11, "video": "iZQeoXIsE" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "lets-go-kaiki-gumi",
       "titulo": "Let's Go Kaiki-gumi",
       "malId": 62683,
@@ -888,135 +857,8 @@
             { "numero": 8, "video": "DaVqLnBJE" },
             { "numero": 9, "video": "1PYxhTdkm" },
             { "numero": 10, "video": "qPcHp1UUE" },
-            { "numero": 11, "video": "TEq1829qU" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "100-nin-no-kanojo-3rd-season",
-      "titulo": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
-      "malId": 62811,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1106/157174l.jpg",
-      "imagenFondo": "",
-      "descripcion": "Tercera temporada de Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.86,
-      "anio": 2026,
-      "generos": ["Comedia", "Romance", "Harem", "Escuela"],
-      "temporadas": [
-        {
-          "numero": 3,
-          "capitulos": [
-            { "numero": 1, "video": "wpGF06FYM" },
-            { "numero": 2, "video": "TuBwIM4Ahc" },
-            { "numero": 3, "video": "eQmu03m8K" },
-            { "numero": 4, "video": "6N0dVBUQvX" },
-            { "numero": 5, "video": "MB7WTKmeU" },
-            { "numero": 6, "video": "6zv2feILr" },
-            { "numero": 7, "video": "D02n5962D" },
-            { "numero": 8, "video": "2meOCQ_74" },
-            { "numero": 9, "video": "A2riv-3Zd" },
-            { "numero": 10, "video": "eVIxvi1UB" },
-            { "numero": 11, "video": "WIqQpGiIu" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sekai-saikyou-no-kouei",
-      "titulo": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-      "malId": 62435,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1380/157378l.jpg",
-      "imagenFondo": "",
-      "descripcion": "La muerte del empleado corporativo Arihito Atobe en un accidente de autobús marca el comienzo de su nueva vida como un tipo de aventurero llamado Buscador. Renacido en un mundo de fantasía, se establece en una clase de trabajo previamente desconocida llamada 'retaguardia', capaz de proporcionar a su grupo (totalmente femenino) un apoyo crítico de ataque, defensa y recuperación.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.50,
-      "anio": 2026,
-      "generos": ["Acción", "Fantasía", "Isekai"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "p60zVe2fH" },
-            { "numero": 2, "video": "48-2LS-DVu" },
-            { "numero": 3, "video": "X8knKNpNH" },
-            { "numero": 4, "video": "OVoW1ptt0" },
-            { "numero": 5, "video": "b5sBmEXt9" },
-            { "numero": 6, "video": "gMZXBRZOx" },
-            { "numero": 7, "video": "smFrrKLU5" },
-            { "numero": 8, "video": "ukAXcLf_r" },
-            { "numero": 9, "video": "35ABts2Nt" },
-            { "numero": 10, "video": "JflWLo4dx" },
-            { "numero": 11, "video": "_jUUPjViw" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sayonara-lara",
-      "titulo": "Sayonara Lara",
-      "malId": 58878,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1411/156343l.jpg",
-      "imagenFondo": "",
-      "descripcion": "Hace mucho, mucho tiempo, vivía una princesa sirena llamada Lara. Fue criada con amor por su padre, el rey del mar, y sus hermanas. Un día, Lara se enamoró de un príncipe humano que vivía en la tierra. Era un amor prohibido, que no estaba permitido en el mundo de las sirenas. Doscientos años después, Lara despierta de nuevo, en el Lago Biwa, para buscar finalmente a su verdadero amor.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.00,
-      "anio": 2026,
-      "generos": ["Drama", "Fantasía", "Romance"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "Z6iZLq1HJ" },
-            { "numero": 2, "video": "9RZv5NFwJ" },
-            { "numero": 3, "video": "xgl9NKDCQ" },
-            { "numero": 4, "video": "rWgy0eUoq" },
-            { "numero": 5, "video": "SOKNQhhez" },
-            { "numero": 6, "video": "_cyaunRuE" },
-            { "numero": 7, "video": "gYV2Onsff" },
-            { "numero": 8, "video": "ojDn00WtC" },
-            { "numero": 9, "video": "mNvhdXIoe" },
-            { "numero": 10, "video": "6NT7HHBdy" },
-            { "numero": 11, "video": "uQn3NMNr7" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "azur-lane-bisoku-zenshin-ni",
-      "titulo": "Azur Lane: Bisoku Zenshin! Ni!!",
-      "malId": 56613,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1380/158715l.jpg",
-      "imagenFondo": "",
-      "descripcion": "Segunda temporada de Azur Lane: Bisoku Zenshin!.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.80,
-      "anio": 2026,
-      "generos": ["Comedia", "Recuentos de la vida", "Ciencia Ficción"],
-      "temporadas": [
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "nCAn42o9YO" },
-            { "numero": 2, "video": "ipWc_UbCl" },
-            { "numero": 3, "video": "YSth0FjOq" },
-            { "numero": 4, "video": "up3QxPRs4" },
-            { "numero": 5, "video": "3zs63DId3" },
-            { "numero": 6, "video": "bAHiFRORf" },
-            { "numero": 7, "video": "_xkfDjf9vT" },
-            { "numero": 8, "video": "-i9rQwv6r" },
-            { "numero": 9, "video": "7TwdMUPkj" },
-            { "numero": 10, "video": "e20QL2nI2" },
-            { "numero": 11, "video": "dRiGjZkAX" }
+            { "numero": 11, "video": "TEq1829qU" },
+            { "numero": 12, "video": "mUU8fdEON" }
           ]
         }
       ]
@@ -1060,51 +902,8 @@
             { "numero": 1175, "video": "nfZnQUu2D" },
             { "numero": 1176, "video": "aSgMjJSQ1" },
             { "numero": 1177, "video": "_4xgVJk1a" },
-            { "numero": 1178, "video": "1H5IzAYK3" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "kuroneko-to-majo-no-kyoushitsu",
-      "titulo": "Kuroneko to Majo no Kyoushitsu",
-      "malId": 62171,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1716/153989.jpg",
-      "imagenFondo": "",
-      "descripcion": "La Real Academia Diana es una escuela prestigiosa que acepta a individuos con habilidades mágicas expertas. Al graduarse, estos estudiantes se encuentran en la cima de su campo o empleados por la familia real. Spica Virgo sueña con estudiar en la academia, con el objetivo de ser una hechicera de primer nivel como su ídolo Claude Sirius. Claude es un hechicero de renombre mundial que se convirtió en el instructor más joven de la institución, pero desapareció misteriosamente poco después. Al carecer de la experiencia y las conexiones necesarias para la admisión, Spica no puede progresar significativamente en su entrenamiento. Un día, sin embargo, conoce a un gato negro parlante con habilidades mágicas. Con la esperanza de cambiar la situación para mejor, le ruega al animal que la tome como aprendiz y le enseñe la magia que necesita para asistir a la academia. El gato acepta el trato con una condición: ella debe encontrar una manera de revertir su maldición felina. A pesar de los arduos desafíos que tiene por delante, Spica está decidida a demostrar que es una estudiante digna de la tutoría del gato.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.44,
-      "anio": 2026,
-      "generos": ["Comedia", "Fantasía"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "adxzXpFCs" },
-            { "numero": 2, "video": "Mc6M7w6EF" },
-            { "numero": 3, "video": "EwW5rK9gr" },
-            { "numero": 4, "video": "7hD-4hl8r" },
-            { "numero": 5, "video": "kUH-hl8wv" },
-            { "numero": 6, "video": "6OBI9ygNp" },
-            { "numero": 7, "video": "29Vo2VjAv5" },
-            { "numero": 8, "video": "TVZYPbe0W" },
-            { "numero": 9, "video": "d10or2w8G" },
-            { "numero": 10, "video": "1dde02wCL" },
-            { "numero": 11, "video": "x_2ElCfBi" },
-            { "numero": 12, "video": "3Ht5w1hAX" },
-            { "numero": 13, "video": "fYebtr0SU" },
-            { "numero": 14, "video": "5EDGN44bS" },
-            { "numero": 15, "video": "gsw4D5Y-1" },
-            { "numero": 16, "video": "vwBeuuWmK" },
-            { "numero": 17, "video": "358NCCl3A" },
-            { "numero": 18, "video": "cIXF1T_Kr" },
-            { "numero": 19, "video": "_mlOQ1vdh" },
-            { "numero": 20, "video": "rR-LtnWQ0" },
-            { "numero": 21, "video": "-So-ukKrS" },
-            { "numero": 22, "video": "jnANSeTMM" },
-            { "numero": 23, "video": "-kQyk26zn" }
+            { "numero": 1178, "video": "1H5IzAYK3" },
+            { "numero": 1179, "video": "xJdNO7E_K" }
           ]
         }
       ]
@@ -1147,7 +946,8 @@
             { "numero": 44, "video": "kPXsz9bjV" },
             { "numero": 45, "video": "zcLpiO0vR" },
             { "numero": 46, "video": "Jxdqdxk5sy" },
-            { "numero": 47, "video": "wBh0EdlHU" }
+            { "numero": 47, "video": "wBh0EdlHU" },
+            { "numero": 48, "video": "rVuDncK1r" }
           ]
         }
       ]
@@ -2114,37 +1914,6 @@
             { "numero": 4, "video": "tl-HUvCRQ" },
             { "numero": 5, "video": "OkHoDaiWM" },
             { "numero": 6, "video": "VEKUBQV9M" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "futsutsuka-na-akujo-dewa-gozaimasu-ga",
-      "titulo": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
-      "malId": 61240,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1958/158341.jpg",
-      "imagenFondo": "",
-      "descripcion": "Dentro de la opulenta corte interior del Reino de Ei se encuentra la floreciente Corte de las Doncellas, donde la emperatriz y las cuatro consortes imperiales son elegidas de cinco clanes prominentes. Entre ellas, una consorte en entrenamiento, Reirin Kou, destaca como la candidata perfecta para la futura emperatriz. Su virtud y elegancia son inigualables, y es impecable, salvo por su constitución extremadamente enfermiza. Comparada con la gentil mariposa de la corte, la rústica Keigetsu Shu es como una rata de alcantarilla. Siempre mirando a Reirin con amarga envidia, Keigetsu es una desgracia para la Corte de las Doncellas. Durante la noche de un raro avistamiento de cometa, los celos de Keigetsu alcanzan su punto máximo, e intenta asesinar a Reirin empujándola desde un balcón. Reirin es rápidamente salvada de la muerte, y Keigetsu es encarcelada para esperar su ejecución. Sin que nadie lo sepa, Keigetsu ha lanzado un hechizo para intercambiar cuerpos con Reirin y robar todo lo que le pertenece. Pero mientras Keigetsu se ve obstaculizada por el frágil cuerpo de Reirin, Reirin abraza plenamente la libertad y la fuerza física por primera vez en su vida.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 8.20,
-      "anio": 2026,
-      "generos": ["Fantasía", "Romance"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "_XbKcCwjZ" },
-            { "numero": 2, "video": "mbcQaMAIZ5" },
-            { "numero": 3, "video": "VOMNATv5S" },
-            { "numero": 4, "video": "veDWrllmQ" },
-            { "numero": 5, "video": "l-PGUjyzd" },
-            { "numero": 6, "video": "VL78FLWr-" },
-            { "numero": 7, "video": "eqj_4Dl0M" },
-            { "numero": 8, "video": "NkwULRlkr" },
-            { "numero": 9, "video": "UJMJD__PS" },
-            { "numero": 10, "video": "ZAsMVHceF" }
           ]
         }
       ]
@@ -17265,7 +17034,7 @@
       "descripcion": "Década de 1910. Iwamoto Kodou, un estudiante de la Escuela Secundaria Suho bajo el mando directo del ejército, investiga fenómenos paranormales en todo el país siguiendo instrucciones militares. En una aldea donde se rumorea que hay \"nieve negra\", conoce a un niño con poderes especiales que cree que son una enfermedad; gracias al apoyo de Iwamoto, el niño se da cuenta de que podrían tener algo en común y recibe una recomendación para la escuela. Misterios esperan a Iwamoto en cada lugar que visita: ¡una historia romántica de esta época comienza a desarrollarse! (Fuente: MAL News)",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 5.73,
       "anio": 2026,
       "generos": ["Misterio", "Sobrenatural", "Histórico"],
@@ -17298,7 +17067,7 @@
       "descripcion": "Jirou Azuma, de diecisiete años, vive una vida tranquila con su abuelo, utilizando su habilidad sobrenatural para hablar con los animales y protegerlos. Tanto Jirou como su abuelo son descendientes de un antiguo clan shinobi, entrenándose en combate para mantener vivo el arte de la batalla en su familia. La vida de Jirou se ve trastocada después de rescatar a un gato negro aparentemente normal, Ragou, solo para descubrir que el gato es en realidad un mononoke, un espíritu demoníaco que ha estado en guerra con la humanidad durante mucho tiempo. Cuando un mononoke hostil viene en busca de Ragou, Jirou usa su entrenamiento shinobi para defender al gato, pero sufre una herida mortal de inmediato. Ante la decisión de devorar la energía menguante de Jirou y recuperar su poder, Ragou elige en cambio dar su energía restante a Jirou. Reviviendo al chico, la transferencia también le otorga grandes poderes sobrenaturales que complementan su propio estilo de lucha shinobi. Este acto es presenciado por Ryousuke Shiba, un oficial de la Oficina de Espionaje cuyo trabajo consiste en eliminar mononoke agresivos. Shiba le ofrece a Jirou y a su abuelo una oferta: unirse al nuevo escuadrón de la Oficina, Black Torch, y ayudarles a combatir poderosos mononoke que buscan devorar a personas inocentes. [Escrito por MAL Rewrite]",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 7.00,
       "anio": 2026,
       "generos": ["Acción", "Sobrenatural", "Shounen"],
@@ -17318,6 +17087,299 @@
             { "numero": 10, "video": "oxq2JaZV_" },
             { "numero": 11, "video": "9X8f2TWLN" },
             { "numero": 12, "video": "MYPdWjN-6" }
+          ]
+        }
+      ]
+    },
+    {
+  "id": "azur-lane-bisoku-zenshin-ni",
+  "titulo": "Azur Lane: Bisoku Zenshin! Ni!!",
+  "malId": 56613,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1380/158715l.jpg",
+  "imagenFondo": "",
+  "descripcion": "En un tiempo aparentemente pacífico, sin las amenazas inminentes de las Sirenas o la guerra, las chicas barco de diferentes naciones viven juntas en armonía. Algunas chicas, como los destructores Ayanami, Javelin, Laffey y Z23, asisten a la escuela. Otras se sumergen en diversas actividades, como deportes, recolección, entrenamiento, ir a fiestas formales o incluso competir por la atención del comandante. Pero una cosa es segura: ¡las chicas seguirán profundizando su amistad en el agradable puerto de Azur Lane!",
+  "estado": "emision",
+  "destacado": false,
+  "finalizado": true,
+  "puntuacion": 6.80,
+  "anio": 2021,
+  "generos": ["Comedia", "Recuentos de la vida", "Ciencia Ficción"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "wh2CU7YEX" },
+        { "numero": 2, "video": "_MZ8rLQ3F" },
+        { "numero": 3, "video": "WoHESgEe6" },
+        { "numero": 4, "video": "gTw3lFjLQ" },
+        { "numero": 5, "video": "GOYxkDuF8" },
+        { "numero": 6, "video": "jxS723fw2" },
+        { "numero": 7, "video": "w10sfBTU0" },
+        { "numero": 8, "video": "dWaevA3Tr" },
+        { "numero": 9, "video": "HyKJSCweZ" },
+        { "numero": 10, "video": "wdsw5Wqoo" },
+        { "numero": 11, "video": "AnXThObz-" },
+        { "numero": 12, "video": "0kq8-ncEZ" }
+      ]
+    },
+    {
+      "numero": 2,
+      "capitulos": [
+        { "numero": 1, "video": "nCAn42o9YO" },
+        { "numero": 2, "video": "ipWc_UbCl" },
+        { "numero": 3, "video": "YSth0FjOq" },
+        { "numero": 4, "video": "up3QxPRs4" },
+        { "numero": 5, "video": "3zs63DId3" },
+        { "numero": 6, "video": "bAHiFRORf" },
+        { "numero": 7, "video": "_xkfDjf9vT" },
+        { "numero": 8, "video": "-i9rQwv6r" },
+        { "numero": 9, "video": "7TwdMUPkj" },
+        { "numero": 10, "video": "e20QL2nI2" },
+        { "numero": 11, "video": "dRiGjZkAX" },
+        { "numero": 12, "video": "N1AxemTi8" }
+      ]
+    }
+  ]
+},
+{
+      "id": "kuroneko-to-majo-no-kyoushitsu",
+      "titulo": "Kuroneko to Majo no Kyoushitsu",
+      "malId": 62171,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1716/153989.jpg",
+      "imagenFondo": "",
+      "descripcion": "La Real Academia Diana es una escuela prestigiosa que acepta a individuos con habilidades mágicas expertas. Al graduarse, estos estudiantes se encuentran en la cima de su campo o empleados por la familia real. Spica Virgo sueña con estudiar en la academia, con el objetivo de ser una hechicera de primer nivel como su ídolo Claude Sirius. Claude es un hechicero de renombre mundial que se convirtió en el instructor más joven de la institución, pero desapareció misteriosamente poco después. Al carecer de la experiencia y las conexiones necesarias para la admisión, Spica no puede progresar significativamente en su entrenamiento. Un día, sin embargo, conoce a un gato negro parlante con habilidades mágicas. Con la esperanza de cambiar la situación para mejor, le ruega al animal que la tome como aprendiz y le enseñe la magia que necesita para asistir a la academia. El gato acepta el trato con una condición: ella debe encontrar una manera de revertir su maldición felina. A pesar de los arduos desafíos que tiene por delante, Spica está decidida a demostrar que es una estudiante digna de la tutoría del gato.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.44,
+      "anio": 2026,
+      "generos": ["Comedia", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "adxzXpFCs" },
+            { "numero": 2, "video": "Mc6M7w6EF" },
+            { "numero": 3, "video": "EwW5rK9gr" },
+            { "numero": 4, "video": "7hD-4hl8r" },
+            { "numero": 5, "video": "kUH-hl8wv" },
+            { "numero": 6, "video": "6OBI9ygNp" },
+            { "numero": 7, "video": "29Vo2VjAv5" },
+            { "numero": 8, "video": "TVZYPbe0W" },
+            { "numero": 9, "video": "d10or2w8G" },
+            { "numero": 10, "video": "1dde02wCL" },
+            { "numero": 11, "video": "x_2ElCfBi" },
+            { "numero": 12, "video": "3Ht5w1hAX" },
+            { "numero": 13, "video": "fYebtr0SU" },
+            { "numero": 14, "video": "5EDGN44bS" },
+            { "numero": 15, "video": "gsw4D5Y-1" },
+            { "numero": 16, "video": "vwBeuuWmK" },
+            { "numero": 17, "video": "358NCCl3A" },
+            { "numero": 18, "video": "cIXF1T_Kr" },
+            { "numero": 19, "video": "_mlOQ1vdh" },
+            { "numero": 20, "video": "rR-LtnWQ0" },
+            { "numero": 21, "video": "-So-ukKrS" },
+            { "numero": 22, "video": "jnANSeTMM" },
+            { "numero": 23, "video": "-kQyk26zn" },
+            { "numero": 24, "video": "bnT4l538R" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sayonara-lara",
+      "titulo": "Sayonara Lara",
+      "malId": 58878,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1411/156343l.jpg",
+      "imagenFondo": "",
+      "descripcion": "Hace mucho, mucho tiempo, vivía una princesa sirena llamada Lara. Fue criada con amor por su padre, el rey del mar, y sus hermanas. Un día, Lara se enamoró de un príncipe humano que vivía en la tierra. Era un amor prohibido, que no estaba permitido en el mundo de las sirenas. Doscientos años después, Lara despierta de nuevo, en el Lago Biwa, para buscar finalmente a su verdadero amor.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.00,
+      "anio": 2026,
+      "generos": ["Drama", "Fantasía", "Romance"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "Z6iZLq1HJ" },
+            { "numero": 2, "video": "9RZv5NFwJ" },
+            { "numero": 3, "video": "xgl9NKDCQ" },
+            { "numero": 4, "video": "rWgy0eUoq" },
+            { "numero": 5, "video": "SOKNQhhez" },
+            { "numero": 6, "video": "_cyaunRuE" },
+            { "numero": 7, "video": "gYV2Onsff" },
+            { "numero": 8, "video": "ojDn00WtC" },
+            { "numero": 9, "video": "mNvhdXIoe" },
+            { "numero": 10, "video": "6NT7HHBdy" },
+            { "numero": 11, "video": "uQn3NMNr7" },
+            { "numero": 12, "video": "RL4IKm_fT" }
+          ]
+        }
+      ]
+    },
+    {
+  "id": "100-nin-no-kanojo",
+  "titulo": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+  "malId": 62811,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1106/157174l.jpg",
+  "imagenFondo": "",
+  "descripcion": "Rentarou Aijou ha sido rechazado 100 veces en su vida, pero en su confesión número 100 por fin consigue novia. Sin embargo, descubre que, por un capricho del destino, está destinado a tener 100 novias, y si no logra hacer felices a todas ellas, morirán. Ahora Rentarou deberá esforzarse al máximo para enamorar y cuidar a cada una de las chicas que irán apareciendo en su vida.",
+  "estado": "emision",
+  "destacado": false,
+  "finalizado": true,
+  "puntuacion": 7.86,
+  "anio": 2023,
+  "generos": ["Comedia", "Romance", "Harem", "Escuela"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "EHXkuknGI" },
+        { "numero": 2, "video": "chNwfqN9w" },
+        { "numero": 3, "video": "2_H1IsvXWh" },
+        { "numero": 4, "video": "q7lrrK70N" },
+        { "numero": 5, "video": "zQ1P5TDvwK" },
+        { "numero": 6, "video": "6uRPmzl9A" },
+        { "numero": 7, "video": "VzKjDJqVJ" },
+        { "numero": 8, "video": "sYO3NUsiE" },
+        { "numero": 9, "video": "7L4CMd2fZ" },
+        { "numero": 10, "video": "QdNHdJkx4" },
+        { "numero": 11, "video": "hylL-3qs3" },
+        { "numero": 12, "video": "unpQCsnDV" }
+      ]
+    },
+    {
+      "numero": 2,
+      "capitulos": [
+        { "numero": 1, "video": "Sd-aTXW6t" },
+        { "numero": 2, "video": "th88PPfF6" },
+        { "numero": 3, "video": "7bkBRwi8G" },
+        { "numero": 4, "video": "Eud1xQt33" },
+        { "numero": 5, "video": "7pvPJkiOv" },
+        { "numero": 6, "video": "66UAcuNbL" },
+        { "numero": 7, "video": "xK4QRwS6o" },
+        { "numero": 8, "video": "XlCDbm_Xt" },
+        { "numero": 9, "video": "wgtIqfLmu" },
+        { "numero": 10, "video": "vOUeIqS3r" },
+        { "numero": 11, "video": "1eeIal4D1" },
+        { "numero": 12, "video": "sRD-pgFDu" }
+      ]
+    },
+    {
+      "numero": 3,
+      "capitulos": [
+        { "numero": 1, "video": "wpGF06FYM" },
+        { "numero": 2, "video": "TuBwIM4Ahc" },
+        { "numero": 3, "video": "eQmu03m8K" },
+        { "numero": 4, "video": "6N0dVBUQvX" },
+        { "numero": 5, "video": "MB7WTKmeU" },
+        { "numero": 6, "video": "6zv2feILr" },
+        { "numero": 7, "video": "D02n5962D" },
+        { "numero": 8, "video": "2meOCQ_74" },
+        { "numero": 9, "video": "A2riv-3Zd" },
+        { "numero": 10, "video": "eVIxvi1UB" },
+        { "numero": 11, "video": "WIqQpGiIu" },
+        { "numero": 12, "video": "DU1f_CU2j" }
+      ]
+    }
+  ]
+},
+{
+      "id": "sekai-saikyou-no-kouei",
+      "titulo": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+      "malId": 62435,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1380/157378l.jpg",
+      "imagenFondo": "",
+      "descripcion": "La muerte del empleado corporativo Arihito Atobe en un accidente de autobús marca el comienzo de su nueva vida como un tipo de aventurero llamado Buscador. Renacido en un mundo de fantasía, se establece en una clase de trabajo previamente desconocida llamada 'retaguardia', capaz de proporcionar a su grupo (totalmente femenino) un apoyo crítico de ataque, defensa y recuperación.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.50,
+      "anio": 2026,
+      "generos": ["Acción", "Fantasía", "Isekai"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "p60zVe2fH" },
+            { "numero": 2, "video": "48-2LS-DVu" },
+            { "numero": 3, "video": "X8knKNpNH" },
+            { "numero": 4, "video": "OVoW1ptt0" },
+            { "numero": 5, "video": "b5sBmEXt9" },
+            { "numero": 6, "video": "gMZXBRZOx" },
+            { "numero": 7, "video": "smFrrKLU5" },
+            { "numero": 8, "video": "ukAXcLf_r" },
+            { "numero": 9, "video": "35ABts2Nt" },
+            { "numero": 10, "video": "JflWLo4dx" },
+            { "numero": 11, "video": "_jUUPjViw" },
+            { "numero": 12, "video": "h2-UWw6LI" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tetsunabe-no-jan",
+      "titulo": "Tetsunabe no Jan!",
+      "malId": 63100,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1452/159112.jpg",
+      "imagenFondo": "",
+      "descripcion": "El manga original de Iron Wok Jan! se centra en un brillante joven chef llamado Jan Akiyama, que trabaja en un restaurante de primera clase donde desafía constantemente a Kiriko Gobanchou, la nieta del dueño del restaurante y una gran chef por derecho propio. Mientras Kiriko cree que la comida debe hacerse pensando en el cliente, Jan cree que cocinar es un campo de batalla donde solo los más fuertes sobreviven.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.24,
+      "anio": 2026,
+      "generos": ["Comedia", "Drama", "Shounen", "Cocina"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "VQgwxh1nM" },
+            { "numero": 2, "video": "_cNsuYHdC" },
+            { "numero": 3, "video": "dwjqFCNL0M" },
+            { "numero": 4, "video": "Ir6-_zPoy" },
+            { "numero": 5, "video": "CBRfZQk5k" },
+            { "numero": 6, "video": "Ae0NCuHbx" },
+            { "numero": 7, "video": "DICObrd_e" },
+            { "numero": 8, "video": "yQXbAssfx" },
+            { "numero": 9, "video": "e8IlTvz7v" },
+            { "numero": 10, "video": "1VA4NQaFq" },
+            { "numero": 11, "video": "iZQeoXIsE" },
+            { "numero": 12, "video": "6pgHK4lzRr" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "futsutsuka-na-akujo-dewa-gozaimasu-ga",
+      "titulo": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+      "malId": 61240,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1958/158341.jpg",
+      "imagenFondo": "",
+      "descripcion": "Dentro de la opulenta corte interior del Reino de Ei se encuentra la floreciente Corte de las Doncellas, donde la emperatriz y las cuatro consortes imperiales son elegidas de cinco clanes prominentes. Entre ellas, una consorte en entrenamiento, Reirin Kou, destaca como la candidata perfecta para la futura emperatriz. Su virtud y elegancia son inigualables, y es impecable, salvo por su constitución extremadamente enfermiza. Comparada con la gentil mariposa de la corte, la rústica Keigetsu Shu es como una rata de alcantarilla. Siempre mirando a Reirin con amarga envidia, Keigetsu es una desgracia para la Corte de las Doncellas. Durante la noche de un raro avistamiento de cometa, los celos de Keigetsu alcanzan su punto máximo, e intenta asesinar a Reirin empujándola desde un balcón. Reirin es rápidamente salvada de la muerte, y Keigetsu es encarcelada para esperar su ejecución. Sin que nadie lo sepa, Keigetsu ha lanzado un hechizo para intercambiar cuerpos con Reirin y robar todo lo que le pertenece. Pero mientras Keigetsu se ve obstaculizada por el frágil cuerpo de Reirin, Reirin abraza plenamente la libertad y la fuerza física por primera vez en su vida.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 8.20,
+      "anio": 2026,
+      "generos": ["Fantasía", "Romance"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "_XbKcCwjZ" },
+            { "numero": 2, "video": "mbcQaMAIZ5" },
+            { "numero": 3, "video": "VOMNATv5S" },
+            { "numero": 4, "video": "veDWrllmQ" },
+            { "numero": 5, "video": "l-PGUjyzd" },
+            { "numero": 6, "video": "VL78FLWr-" },
+            { "numero": 7, "video": "eqj_4Dl0M" },
+            { "numero": 8, "video": "NkwULRlkr" },
+            { "numero": 9, "video": "UJMJD__PS" },
+            { "numero": 10, "video": "ZAsMVHceF" },
+            { "numero": 11, "video": "vyoLv8cJ1" }
           ]
         }
       ]

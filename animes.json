@@ -649,38 +649,6 @@
       ]
     },
     {
-      "id": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
-      "titulo": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-      "malId": 60522,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1544/157046.jpg",
-      "imagenFondo": "",
-      "descripcion": "Segunda temporada de Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.78,
-      "anio": 2026,
-      "generos": ["Acción", "Fantasía", "Magia", "Isekai"],
-      "temporadas": [
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "xdkY40PX1" },
-            { "numero": 2, "video": "nU2oV8O2X" },
-            { "numero": 3, "video": "IbrRJIFcx" },
-            { "numero": 4, "video": "dNW3orB_s" },
-            { "numero": 5, "video": "CfYkKWDTL" },
-            { "numero": 6, "video": "zhf_uqkN1" },
-            { "numero": 7, "video": "zn3-FhQbpa" },
-            { "numero": 8, "video": "xDWbtohbc" },
-            { "numero": 9, "video": "tgyN6xFhJ" },
-            { "numero": 10, "video": "xN1sWISfq2" },
-            { "numero": 11, "video": "JEhufWlKD" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "kabushikigaisha-magi-lumiere-2nd-season",
       "titulo": "Kabushikigaisha Magi-Lumière 2nd Season",
       "malId": 60552,
@@ -992,200 +960,8 @@
             { "numero": 21, "video": "P1b9IDKYo" },
             { "numero": 22, "video": "QwSb5mWwQ" },
             { "numero": 23, "video": "dqwSoaw_m" },
-            { "numero": 24, "video": "9JulWsvug" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "world-is-dancing",
-      "titulo": "World Is Dancing",
-      "malId": 63347,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1165/158709.jpg",
-      "imagenFondo": "",
-      "descripcion": "Uno no necesita bailar para vivir. En 1374, durante la turbulenta era en que las Cortes del Norte y del Sur estaban en conflicto, el shogun de la Corte del Norte, Ashikaga Yoshimitsu, se estaba convirtiendo en una fuerza cada vez más dominante. Nacido como hijo de Kanami, jefe de la tropa Kanze de artistas de sarugaku, Oniyasha deambula por sus días con una pregunta vaga alojada en su corazón: ¿Por qué baila la gente? Su espíritu permanece nublado, hasta el día en que encuentra un baile que es verdaderamente 'bueno'. Curioso, sensible y llamativamente bello, el chico conoce gente, ríe, llora, se enfrenta a sus propias debilidades y comienza lentamente a dar forma a una nueva forma de danza para un mundo sumido en la impermanencia.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.29,
-      "anio": 2026,
-      "generos": ["Drama", "Histórico", "Artes Escénicas"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "l2rX2E_-Z" },
-            { "numero": 2, "video": "sItujT0wi" },
-            { "numero": 3, "video": "CdTXsWouL" },
-            { "numero": 4, "video": "6bzoMvGST" },
-            { "numero": 5, "video": "VCTzV4NJo" },
-            { "numero": 6, "video": "DzUYOt9-J" },
-            { "numero": 7, "video": "_DHUO5axL" },
-            { "numero": 8, "video": "fvLV96h9T" },
-            { "numero": 9, "video": "NWJjj6sBK" },
-            { "numero": 10, "video": "EVh6ALO6j" },
-            { "numero": 11, "video": "2vTh87RDb" },
-            { "numero": 12, "video": "4if_N2gX5" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
-      "titulo": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-      "malId": 56736,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1529/158522.jpg",
-      "imagenFondo": "",
-      "descripcion": "El imperio Adrasia en el continente Vogel. Hay una batalla por el trono de tan poderoso imperio que posee un ejército poderoso y un vasto territorio. Con el sucesor aún por decidir, los hijos del emperador compiten por expandir su poder. Sin embargo, había un príncipe del que todos dicen que definitivamente no se convertirá en emperador...",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.30,
-      "anio": 2026,
-      "generos": ["Acción", "Aventura", "Fantasía"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "PEnBELzlZt" },
-            { "numero": 2, "video": "znBYpQ5RI" },
-            { "numero": 3, "video": "Cg-JOznEc" },
-            { "numero": 4, "video": "dMD0YoLjp" },
-            { "numero": 5, "video": "eAK-ksy4S" },
-            { "numero": 6, "video": "UW21Sv0SG" },
-            { "numero": 7, "video": "YrhLMGIha" },
-            { "numero": 8, "video": "tKVkfFPb1" },
-            { "numero": 9, "video": "kKULdL3vW" },
-            { "numero": 10, "video": "8baGZw8d0" },
-            { "numero": 11, "video": "BwNYWQV-D" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "honoo-no-toukyuujo-dodge-danko",
-      "titulo": "Honoo no Toukyuujo: Dodge Danko",
-      "malId": 62031,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1017/158603.jpg",
-      "imagenFondo": "",
-      "descripcion": "El deporte de combate más feroz y legendario de la historia: el Dodgeball. Alguna vez fuente de innumerables relatos heroicos y multitudes apasionadas, el juego ahora comienza un nuevo capítulo. En el corazón de esta historia está Danko Ichigeki, hija del legendario 'Danpei Ichigeki'. Heredando el espíritu fogoso de su padre, Danko está lista para traer esa misma energía explosiva a la era Reiwa.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.34,
-      "anio": 2026,
-      "generos": ["Comedia", "Deportes"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "0mK2PfCjs" },
-            { "numero": 2, "video": "81gmmuhr8" },
-            { "numero": 3, "video": "uIsSzrpmD" },
-            { "numero": 4, "video": "JJv0r41-p" },
-            { "numero": 5, "video": "ZStoE1uhG" },
-            { "numero": 6, "video": "u3lSziPdE" },
-            { "numero": 7, "video": "PpRfplb6B" },
-            { "numero": 8, "video": "dCdzvE_Iy" },
-            { "numero": 9, "video": "DpwRT69rb" },
-            { "numero": 10, "video": "xRwZ-t-LN" },
-            { "numero": 11, "video": "ViP5JM1AM" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "hokuto-no-ken-kenougun-zako-tachi-no-banka",
-      "titulo": "Hokuto no Ken: Kenougun Zako-tachi no Banka",
-      "malId": 62987,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1845/153717.jpg",
-      "imagenFondo": "",
-      "descripcion": "Un joven llamado Nobu, que busca trabajo en el mundo post-apocalíptico, termina siendo engañado para unirse al Ejército de Raoh.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 5.65,
-      "anio": 2026,
-      "generos": ["Acción", "Comedia", "Sobrenatural"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 13, "video": "nhsKuE2Nd" },
-            { "numero": 14, "video": "F9_xJCaCju" },
-            { "numero": 15, "video": "kC6CtISSf" },
-            { "numero": 16, "video": "zeAkC6fcu" },
-            { "numero": 17, "video": "FVVBdwcKh" },
-            { "numero": 18, "video": "Tq7ugB7vr" },
-            { "numero": 19, "video": "wftMO2jgE" },
-            { "numero": 20, "video": "ncKeFnVCt" },
-            { "numero": 21, "video": "vaUt_S3pO" },
-            { "numero": 22, "video": "QgiowMUZw" },
-            { "numero": 23, "video": "9y4fY63_b" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "buchigire-reijou-wa-houfuku-wo-chikaimashita",
-      "titulo": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
-      "malId": 62289,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1551/157170.jpg",
-      "imagenFondo": "",
-      "descripcion": "Elizabeth Leiston, la hija del poderoso primer ministro de Haldoria, es la imagen de una refinada dama noble y la futura reina perfecta. Pero cuando su prometido la humilla públicamente, cancela su compromiso y comienza a difundir rumores desagradables sobre ella, Elizabeth llega a su punto límite. ¿Por qué su única amiga debería ser su leal doncella, y por qué debería seguir sirviendo a un país que no la respeta? Elizabeth concluye que no lo soportará más y derribará el reino, ¡aunque sea lo último que haga! Como tal, utiliza su ingenio rápido y, más importante aún, sus siete grimorios mágicos para embarcarse en una búsqueda de venganza. Y déjame decirte, ¡habrá un infierno que pagar!",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.75,
-      "anio": 2026,
-      "generos": ["Drama", "Fantasía"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "Q5Lks7PU2j" },
-            { "numero": 2, "video": "PY-vbLS6t" },
-            { "numero": 3, "video": "7ICp_IgdO" },
-            { "numero": 4, "video": "9sfDFKtOa" },
-            { "numero": 5, "video": "Xd9arNcTT" },
-            { "numero": 6, "video": "BFHmerXH6" },
-            { "numero": 7, "video": "CHUexZqs9" },
-            { "numero": 8, "video": "coWlshR1M" },
-            { "numero": 9, "video": "L-9pxnt22" },
-            { "numero": 10, "video": "3hyFQMn13" },
-            { "numero": 11, "video": "CVoPyi97dM" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "suterare-seijo-no-isekai-gohan-tabi",
-      "titulo": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
-      "malId": 63752,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1417/157798.jpg",
-      "imagenFondo": "",
-      "descripcion": "Rin Takanashi, una cuidadora de treinta y tantos años, es invocada a otro mundo junto con otra chica. Mientras que la otra es una santa, Rin es desterrada al bosque por tener habilidades aparentemente inútiles como 'camper truck' y 'appraisal'. Afortunadamente, Rin descubre que puede invocar una autocaravana y comienza un viaje culinario por el mundo de fantasía, conociendo nuevos amigos en el camino.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.43,
-      "anio": 2026,
-      "generos": ["Fantasía", "Gourmet", "Romance"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "rMbpn4iZf" },
-            { "numero": 2, "video": "ciwXyeTeEq" },
-            { "numero": 3, "video": "NrCTF7EhW" },
-            { "numero": 4, "video": "QxbUzH8JC" },
-            { "numero": 5, "video": "0dke3JUHk" },
-            { "numero": 6, "video": "HPmme-LS9" },
-            { "numero": 7, "video": "lKlcz9G8qZ" },
-            { "numero": 8, "video": "s7hUW806s" },
-            { "numero": 9, "video": "70IPwqsgR" },
-            { "numero": 10, "video": "2iKNbKpGI" },
-            { "numero": 11, "video": "8DlPj1OLS" }
+            { "numero": 24, "video": "9JulWsvug" },
+            { "numero": 25, "video": "g813hHS1p" }
           ]
         }
       ]
@@ -1217,7 +993,8 @@
             { "numero": 8, "video": "ORrnNw6zL" },
             { "numero": 9, "video": "CBZ21X91e" },
             { "numero": 10, "video": "rL7rN84Pw9" },
-            { "numero": 11, "video": "tZixScMYs" }
+            { "numero": 11, "video": "tZixScMYs" },
+            { "numero": 12, "video": "VLoOK32b8" }
           ]
         }
       ]
@@ -1445,38 +1222,6 @@
       ]
     },
     {
-      "id": "grand-blue",
-      "titulo": "Grand Blue",
-      "malId": 37105,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
-      "imagenFondo": "",
-      "descripcion": "Iori Kitahara se muda a la ciudad costera de Izu para su primer año en la universidad, instalándose encima de Grand Blue, la tienda de buceo de su tío. Iori tiene grandes esperanzas y sueños sobre tener la experiencia universitaria ideal, pero cuando entra en la tienda es absorbido por las actividades alcohólicas de los despreocupados miembros del Club de Buceo que frecuentan el lugar. Persuadido por los estudiantes de último año Shinji Tokita y Ryuujirou Kotobuki, Iori se une a regañadientes a su extraña fiesta. Su prima Chisa Kotegawa llega más tarde y lo sorprende en el acto, ganándose el desdén absoluto de Iori. Basado en el popular manga cómico de Kenji Inoue y Kimitake Yoshioka, Grand Blue sigue las desventuras de Iori con sus excéntricos nuevos amigos mientras se esfuerza por realizar su sueño universitario ideal, mientras también aprende a bucear.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 8.45,
-      "anio": 2026,
-      "generos": ["Comedia"],
-      "temporadas": [
-        {
-          "numero": 3,
-          "capitulos": [
-            { "numero": 1, "video": "ycPiJ-wi3T" },
-            { "numero": 2, "video": "GIKJ56ApZ" },
-            { "numero": 3, "video": "vP3XzDHej" },
-            { "numero": 4, "video": "2E3jyUztj" },
-            { "numero": 5, "video": "Bmx_5uszZ" },
-            { "numero": 6, "video": "eWabix2Ci" },
-            { "numero": 7, "video": "lkd6ukrkA" },
-            { "numero": 8, "video": "ep60wU5G_" },
-            { "numero": 9, "video": "7mUIVg8Yh" },
-            { "numero": 10, "video": "LoJTneD45" },
-            { "numero": 11, "video": "U_XVXfQY7" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "tenkou-saki-no-seiso-karen",
       "titulo": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
       "malId": 56735,
@@ -1503,7 +1248,8 @@
             { "numero": 8, "video": "Es4G3gHrSd" },
             { "numero": 9, "video": "1czjGLlpbF" },
             { "numero": 10, "video": "6pvVYHfAo" },
-            { "numero": 11, "video": "KN_jQ2GEI" }
+            { "numero": 11, "video": "KN_jQ2GEI" },
+            { "numero": 12, "video": "12MOXt1p2" }
           ]
         }
       ]
@@ -17383,7 +17129,335 @@
           ]
         }
       ]
+    },
+    {
+  "id": "grand-blue",
+  "titulo": "Grand Blue",
+  "malId": 37105,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
+  "imagenFondo": "",
+  "descripcion": "Iori Kitahara se muda a la ciudad costera de Izu para su primer año en la universidad, instalándose encima de Grand Blue, la tienda de buceo de su tío. Iori tiene grandes esperanzas y sueños sobre tener la experiencia universitaria ideal, pero cuando entra en la tienda es absorbido por las actividades alcohólicas de los despreocupados miembros del Club de Buceo que frecuentan el lugar. Persuadido por los estudiantes de último año Shinji Tokita y Ryuujirou Kotobuki, Iori se une a regañadientes a su extraña fiesta. Su prima Chisa Kotegawa llega más tarde y lo sorprende en el acto, ganándose el desdén absoluto de Iori. Basado en el popular manga cómico de Kenji Inoue y Kimitake Yoshioka, Grand Blue sigue las desventuras de Iori con sus excéntricos nuevos amigos mientras se esfuerza por realizar su sueño universitario ideal, mientras también aprende a bucear.",
+  "estado": "emision",
+  "destacado": false,
+  "finalizado": false,
+  "puntuacion": 8.45,
+  "anio": 2026,
+  "generos": ["Comedia"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "https://short.icu/8gSJqN52B" },
+        { "numero": 2, "video": "https://short.icu/3c1CxqvUv" },
+        { "numero": 3, "video": "https://short.icu/_fvq7S9dw" },
+        { "numero": 4, "video": "https://short.icu/GAVCzWJI8" },
+        { "numero": 5, "video": "https://short.icu/G53e6vmPD" },
+        { "numero": 6, "video": "https://short.icu/Oz0O4bW17" },
+        { "numero": 7, "video": "https://short.icu/gsJHJIDis" },
+        { "numero": 8, "video": "https://short.icu/8vW5bpofp" },
+        { "numero": 9, "video": "https://short.icu/J2cOhFJZO" },
+        { "numero": 10, "video": "https://short.icu/6msje_4EQg" },
+        { "numero": 11, "video": "https://short.icu/UZo8Pt8JW" },
+        { "numero": 12, "video": "https://short.icu/9sAiipDkC" }
+      ]
+    },
+    {
+      "numero": 2,
+      "capitulos": [
+        { "numero": 1, "video": "https://short.icu/_QdcYGLYK" },
+        { "numero": 2, "video": "https://short.icu/aMl9ibZco" },
+        { "numero": 3, "video": "https://short.icu/-ii5f3JHR" },
+        { "numero": 4, "video": "https://short.icu/Abq2P8CHV" },
+        { "numero": 5, "video": "https://short.icu/toU6mzWk0" },
+        { "numero": 6, "video": "https://short.icu/tZB3kwD9K" },
+        { "numero": 7, "video": "https://short.icu/a1n4El_8-" },
+        { "numero": 8, "video": "https://short.icu/8RlKjFbzi" },
+        { "numero": 9, "video": "https://short.icu/vVoLA8f8F" },
+        { "numero": 10, "video": "https://short.icu/NoZYQ3Ho9" },
+        { "numero": 11, "video": "https://short.icu/a039RY93id" },
+        { "numero": 12, "video": "https://short.icu/2lZ3YI-Mq" }
+      ]
+    },
+    {
+      "numero": 3,
+      "capitulos": [
+        { "numero": 1, "video": "ycPiJ-wi3T" },
+        { "numero": 2, "video": "GIKJ56ApZ" },
+        { "numero": 3, "video": "vP3XzDHej" },
+        { "numero": 4, "video": "2E3jyUztj" },
+        { "numero": 5, "video": "Bmx_5uszZ" },
+        { "numero": 6, "video": "eWabix2Ci" },
+        { "numero": 7, "video": "lkd6ukrkA" },
+        { "numero": 8, "video": "ep60wU5G_" },
+        { "numero": 9, "video": "7mUIVg8Yh" },
+        { "numero": 10, "video": "LoJTneD45" },
+        { "numero": 11, "video": "U_XVXfQY7" },
+        { "numero": 12, "video": "ynwg68jgZ" }
+      ]
     }
+  ]
+},
+{
+      "id": "honoo-no-toukyuujo-dodge-danko",
+      "titulo": "Honoo no Toukyuujo: Dodge Danko",
+      "malId": 62031,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1017/158603.jpg",
+      "imagenFondo": "",
+      "descripcion": "El deporte de combate más feroz y legendario de la historia: el Dodgeball. Alguna vez fuente de innumerables relatos heroicos y multitudes apasionadas, el juego ahora comienza un nuevo capítulo. En el corazón de esta historia está Danko Ichigeki, hija del legendario 'Danpei Ichigeki'. Heredando el espíritu fogoso de su padre, Danko está lista para traer esa misma energía explosiva a la era Reiwa.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.34,
+      "anio": 2026,
+      "generos": ["Comedia", "Deportes"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "0mK2PfCjs" },
+            { "numero": 2, "video": "81gmmuhr8" },
+            { "numero": 3, "video": "uIsSzrpmD" },
+            { "numero": 4, "video": "JJv0r41-p" },
+            { "numero": 5, "video": "ZStoE1uhG" },
+            { "numero": 6, "video": "u3lSziPdE" },
+            { "numero": 7, "video": "PpRfplb6B" },
+            { "numero": 8, "video": "dCdzvE_Iy" },
+            { "numero": 9, "video": "DpwRT69rb" },
+            { "numero": 10, "video": "xRwZ-t-LN" },
+            { "numero": 11, "video": "ViP5JM1AM" },
+            { "numero": 12, "video": "N-l9H6jKd" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suterare-seijo-no-isekai-gohan-tabi",
+      "titulo": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
+      "malId": 63752,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1417/157798.jpg",
+      "imagenFondo": "",
+      "descripcion": "Rin Takanashi, una cuidadora de treinta y tantos años, es invocada a otro mundo junto con otra chica. Mientras que la otra es una santa, Rin es desterrada al bosque por tener habilidades aparentemente inútiles como 'camper truck' y 'appraisal'. Afortunadamente, Rin descubre que puede invocar una autocaravana y comienza un viaje culinario por el mundo de fantasía, conociendo nuevos amigos en el camino.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.43,
+      "anio": 2026,
+      "generos": ["Fantasía", "Gourmet", "Romance"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "rMbpn4iZf" },
+            { "numero": 2, "video": "ciwXyeTeEq" },
+            { "numero": 3, "video": "NrCTF7EhW" },
+            { "numero": 4, "video": "QxbUzH8JC" },
+            { "numero": 5, "video": "0dke3JUHk" },
+            { "numero": 6, "video": "HPmme-LS9" },
+            { "numero": 7, "video": "lKlcz9G8qZ" },
+            { "numero": 8, "video": "s7hUW806s" },
+            { "numero": 9, "video": "70IPwqsgR" },
+            { "numero": 10, "video": "2iKNbKpGI" },
+            { "numero": 11, "video": "8DlPj1OLS" },
+            { "numero": 12, "video": "BlJVH_-ff" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buchigire-reijou-wa-houfuku-wo-chikaimashita",
+      "titulo": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+      "malId": 62289,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1551/157170.jpg",
+      "imagenFondo": "",
+      "descripcion": "Elizabeth Leiston, la hija del poderoso primer ministro de Haldoria, es la imagen de una refinada dama noble y la futura reina perfecta. Pero cuando su prometido la humilla públicamente, cancela su compromiso y comienza a difundir rumores desagradables sobre ella, Elizabeth llega a su punto límite. ¿Por qué su única amiga debería ser su leal doncella, y por qué debería seguir sirviendo a un país que no la respeta? Elizabeth concluye que no lo soportará más y derribará el reino, ¡aunque sea lo último que haga! Como tal, utiliza su ingenio rápido y, más importante aún, sus siete grimorios mágicos para embarcarse en una búsqueda de venganza. Y déjame decirte, ¡habrá un infierno que pagar!",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.75,
+      "anio": 2026,
+      "generos": ["Drama", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "Q5Lks7PU2j" },
+            { "numero": 2, "video": "PY-vbLS6t" },
+            { "numero": 3, "video": "7ICp_IgdO" },
+            { "numero": 4, "video": "9sfDFKtOa" },
+            { "numero": 5, "video": "Xd9arNcTT" },
+            { "numero": 6, "video": "BFHmerXH6" },
+            { "numero": 7, "video": "CHUexZqs9" },
+            { "numero": 8, "video": "coWlshR1M" },
+            { "numero": 9, "video": "L-9pxnt22" },
+            { "numero": 10, "video": "3hyFQMn13" },
+            { "numero": 11, "video": "CVoPyi97dM" },
+            { "numero": 12, "video": "XKHZqGpSw" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "world-is-dancing",
+      "titulo": "World Is Dancing",
+      "malId": 63347,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1165/158709.jpg",
+      "imagenFondo": "",
+      "descripcion": "Uno no necesita bailar para vivir. En 1374, durante la turbulenta era en que las Cortes del Norte y del Sur estaban en conflicto, el shogun de la Corte del Norte, Ashikaga Yoshimitsu, se estaba convirtiendo en una fuerza cada vez más dominante. Nacido como hijo de Kanami, jefe de la tropa Kanze de artistas de sarugaku, Oniyasha deambula por sus días con una pregunta vaga alojada en su corazón: ¿Por qué baila la gente? Su espíritu permanece nublado, hasta el día en que encuentra un baile que es verdaderamente 'bueno'. Curioso, sensible y llamativamente bello, el chico conoce gente, ríe, llora, se enfrenta a sus propias debilidades y comienza lentamente a dar forma a una nueva forma de danza para un mundo sumido en la impermanencia.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.29,
+      "anio": 2026,
+      "generos": ["Drama", "Histórico", "Artes Escénicas"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "l2rX2E_-Z" },
+            { "numero": 2, "video": "sItujT0wi" },
+            { "numero": 3, "video": "CdTXsWouL" },
+            { "numero": 4, "video": "6bzoMvGST" },
+            { "numero": 5, "video": "VCTzV4NJo" },
+            { "numero": 6, "video": "DzUYOt9-J" },
+            { "numero": 7, "video": "_DHUO5axL" },
+            { "numero": 8, "video": "fvLV96h9T" },
+            { "numero": 9, "video": "NWJjj6sBK" },
+            { "numero": 10, "video": "EVh6ALO6j" },
+            { "numero": 11, "video": "2vTh87RDb" },
+            { "numero": 12, "video": "4if_N2gX5" },
+            { "numero": 13, "video": "Xm4EpdKgJ" }
+          ]
+        }
+      ]
+    },
+    {
+  "id": "hokuto-no-ken-kenougun-zako-tachi-no-banka",
+  "titulo": "Hokuto no Ken: Kenougun Zako-tachi no Banka",
+  "malId": 62987,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1845/153717.jpg",
+  "imagenFondo": "",
+  "descripcion": "Un joven llamado Nobu, que busca trabajo en el mundo post-apocalíptico, termina siendo engañado para unirse al Ejército de Raoh.",
+  "estado": "emision",
+  "destacado": false,
+  "finalizado": false,
+  "puntuacion": 5.65,
+  "anio": 2026,
+  "generos": ["Acción", "Comedia", "Sobrenatural"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "https://short.icu/iK89u01nP" },
+        { "numero": 2, "video": "https://short.icu/zD8nM8egl" },
+        { "numero": 3, "video": "https://short.icu/oINx3oGEq" },
+        { "numero": 4, "video": "https://short.icu/oINx3oGEq" },
+        { "numero": 5, "video": "https://short.icu/KTvQWpMTe" },
+        { "numero": 6, "video": "https://short.icu/lzkdUpihC" },
+        { "numero": 7, "video": "https://short.icu/Hqo6H6yoi" },
+        { "numero": 8, "video": "https://short.icu/hAmY533hn" },
+        { "numero": 9, "video": "https://short.icu/16AB-7K5AU" },
+        { "numero": 10, "video": "https://short.icu/-MmbGA97I" },
+        { "numero": 11, "video": "https://short.icu/MTwDmKLIP" },
+        { "numero": 12, "video": "https://short.icu/azc_5WYEf" },
+        { "numero": 13, "video": "https://short.icu/uNfzrwOvk" },
+        { "numero": 14, "video": "https://short.icu/xHSvezb8B" },
+        { "numero": 15, "video": "https://short.icu/kC6CtISSf" },
+        { "numero": 16, "video": "https://short.icu/zeAkC6fcu" },
+        { "numero": 17, "video": "https://short.icu/FVVBdwcKh" },
+        { "numero": 18, "video": "https://short.icu/Tq7ugB7vr" },
+        { "numero": 19, "video": "https://short.icu/wftMO2jgE" },
+        { "numero": 20, "video": "https://short.icu/ncKeFnVCt" },
+        { "numero": 21, "video": "https://short.icu/vaUt_S3pO" },
+        { "numero": 22, "video": "https://short.icu/QgiowMUZw" },
+        { "numero": 23, "video": "https://short.icu/9y4fY63_b" },
+        { "numero": 24, "video": "https://short.icu/bTBeGkLkN" }
+      ]
+    }
+  ]
+},
+{
+      "id": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+      "titulo": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+      "malId": 56736,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1529/158522.jpg",
+      "imagenFondo": "",
+      "descripcion": "El imperio Adrasia en el continente Vogel. Hay una batalla por el trono de tan poderoso imperio que posee un ejército poderoso y un vasto territorio. Con el sucesor aún por decidir, los hijos del emperador compiten por expandir su poder. Sin embargo, había un príncipe del que todos dicen que definitivamente no se convertirá en emperador...",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.30,
+      "anio": 2026,
+      "generos": ["Acción", "Aventura", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "PEnBELzlZt" },
+            { "numero": 2, "video": "znBYpQ5RI" },
+            { "numero": 3, "video": "Cg-JOznEc" },
+            { "numero": 4, "video": "dMD0YoLjp" },
+            { "numero": 5, "video": "eAK-ksy4S" },
+            { "numero": 6, "video": "UW21Sv0SG" },
+            { "numero": 7, "video": "YrhLMGIha" },
+            { "numero": 8, "video": "tKVkfFPb1" },
+            { "numero": 9, "video": "kKULdL3vW" },
+            { "numero": 10, "video": "8baGZw8d0" },
+            { "numero": 11, "video": "BwNYWQV-D" },
+            { "numero": 12, "video": "ZCMEDFkfC" }
+          ]
+        }
+      ]
+    },
+    {
+  "id": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+  "titulo": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+  "malId": 60522,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1544/157046.jpg",
+  "imagenFondo": "",
+  "descripcion": "Segunda temporada de Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
+  "estado": "emision",
+  "destacado": false,
+  "finalizado": false,
+  "puntuacion": 6.78,
+  "anio": 2026,
+  "generos": ["Acción", "Fantasía", "Magia", "Isekai"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "https://short.icu/GqbLsuYEU" },
+        { "numero": 2, "video": "https://short.icu/9SC__CmRn" },
+        { "numero": 3, "video": "https://short.icu/Vixo2uO6n" },
+        { "numero": 4, "video": "https://short.icu/3aaNbhrbt" },
+        { "numero": 5, "video": "https://short.icu/nvrBHj8Ake" },
+        { "numero": 6, "video": "https://short.icu/GHhvXHgC6" },
+        { "numero": 7, "video": "https://short.icu/CmU6gaKn1" },
+        { "numero": 8, "video": "https://short.icu/G_WR74oS0" },
+        { "numero": 9, "video": "https://short.icu/VK7-M4-yN" },
+        { "numero": 10, "video": "https://short.icu/gS2WxB_Tq" },
+        { "numero": 11, "video": "https://short.icu/7BLfbSI5O" },
+        { "numero": 12, "video": "https://short.icu/XSNdJI1vG" }
+      ]
+    },
+    {
+      "numero": 2,
+      "capitulos": [
+        { "numero": 1, "video": "xdkY40PX1" },
+        { "numero": 2, "video": "nU2oV8O2X" },
+        { "numero": 3, "video": "IbrRJIFcx" },
+        { "numero": 4, "video": "dNW3orB_s" },
+        { "numero": 5, "video": "CfYkKWDTL" },
+        { "numero": 6, "video": "zhf_uqkN1" },
+        { "numero": 7, "video": "zn3-FhQbpa" },
+        { "numero": 8, "video": "xDWbtohbc" },
+        { "numero": 9, "video": "tgyN6xFhJ" },
+        { "numero": 10, "video": "xN1sWISfq2" },
+        { "numero": 11, "video": "JEhufWlKD" },
+        { "numero": 12, "video": "EvSluSVTh" }
+      ]
+    }
+  ]
+}
   ],
   "idsEnEmision": [
     "cardfight-vanguard-divinez-genma-seisen-hen",

@@ -1000,38 +1000,6 @@
       ]
     },
     {
-      "id": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai",
-      "titulo": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
-      "malId": 46488,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1343/156268.jpg",
-      "imagenFondo": "",
-      "descripcion": "¡Un intenso juego de lucha jugado en la escuela de chicas! Aya se transfirió a la Academia de Chicas Kuromi hace un mes con el objetivo de convertirse en una dama adecuada. Después de conocer a la impresionante Shirayuri, Aya queda deslumbrada por su elegancia y porte. Imagina su sorpresa cuando encuentra a Shirayuri después de la escuela jugando... ¡¿un juego de lucha?! Y si eso no fuera lo suficientemente desconcertante, ¡es desafiada a un duelo por la poco señorial Shirayuri!",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.51,
-      "anio": 2026,
-      "generos": ["Comedia", "Girls Love"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "X2vGAmkR6" },
-            { "numero": 2, "video": "E0ITN679p" },
-            { "numero": 3, "video": "DKXdNtj0J" },
-            { "numero": 4, "video": "zMSta9Ojz" },
-            { "numero": 5, "video": "Qse6pA_4q" },
-            { "numero": 6, "video": "xWqh6__5Y" },
-            { "numero": 7, "video": "6iroAeUJh" },
-            { "numero": 8, "video": "CrYLscY8X" },
-            { "numero": 9, "video": "sWedO8VVp" },
-            { "numero": 10, "video": "NQIfj5dWM" },
-            { "numero": 11, "video": "RXDpjjf81" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ingoku-danchi",
       "titulo": "Ingoku Danchi",
       "malId": 63310,
@@ -1090,7 +1058,8 @@
             { "numero": 8, "video": "NxiW2nwI0" },
             { "numero": 9, "video": "vCntCY0wn" },
             { "numero": 10, "video": "MyR8-zo2W" },
-            { "numero": 11, "video": "jPoThI2tL" }
+            { "numero": 11, "video": "jPoThI2tL" },
+            { "numero": 12, "video": "QDqyn2iHn" }
           ]
         }
       ]
@@ -1122,71 +1091,8 @@
             { "numero": 8, "video": "dBcxHOCrI" },
             { "numero": 9, "video": "YFObXSznc" },
             { "numero": 10, "video": "NDtHU0Td_" },
-            { "numero": 11, "video": "wi4bSpIgA" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "yoroi-shin-den-samurai-troopers",
-      "titulo": "Yoroi Shin Den Samurai Troopers",
-      "malId": 61830,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1289/153952.jpg",
-      "imagenFondo": "",
-      "descripcion": "Secuela de Yoroiden Samurai Troopers. Miles de años atrás, el malvado emperador Talpa intentó conquistar la Tierra. Derrotado, fue desterrado al Reino Infernal y su armadura fue dividida en 9 trajes separados. Ahora, con el sello roto y hordas de soldados demoníacos lanzando una invasión, cinco jóvenes guerreros se apresuran al rescate de la humanidad. Fueron llamados los Samurai Troopers, ¡y ahora su batalla comienza de nuevo!",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.17,
-      "anio": 2026,
-      "generos": ["Acción", "Fantasía"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 13, "video": "YFmmaEtjt" },
-            { "numero": 14, "video": "iT3X1NBgM" },
-            { "numero": 15, "video": "k-_a7aHjj" },
-            { "numero": 16, "video": "Z7NFUIpFU" },
-            { "numero": 17, "video": "egYG-5Rug" },
-            { "numero": 18, "video": "pi_FhNp8a" },
-            { "numero": 19, "video": "kYp-73CC4" },
-            { "numero": 20, "video": "yYoV_Od-Iw" },
-            { "numero": 21, "video": "ZX-1D6qLA" },
-            { "numero": 22, "video": "7votJhAh8" },
-            { "numero": 23, "video": "36bFtwveR" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "migawari-reijou-wo-sukutta",
-      "titulo": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
-      "malId": 63878,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1491/157799.jpg",
-      "imagenFondo": "",
-      "descripcion": "Como hija ilegítima de un conde y su criada, Katrina nació en circunstancias miserables. Y ahora que ha perdido a su madre, el trato de su hermanastra y su madrastra, la condesa, solo ha empeorado. Un día, su hermanastra recibe una orden real de mudarse a las afueras del norte debido a su comportamiento indecoroso en una fiesta reciente. Allí, debe aprender modales adecuados bajo la tutela del príncipe residente, de quien se rumorea que es un hombre cruel. Al no querer someter a su hija a tal castigo, la condesa decide enviar a Katrina en su lugar. Katrina llega al norte temblando de miedo. Pero, contrario a las historias, el príncipe 'despiadado y frío' es más amable de lo que creía. ¿Podría la bondadosa Katrina encontrar el amor en el campo invernal?",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 5.57,
-      "anio": 2026,
-      "generos": ["Fantasía", "Romance"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "aTu9V9oEU" },
-            { "numero": 2, "video": "eA95Dd5bL" },
-            { "numero": 3, "video": "INwEqLOxC" },
-            { "numero": 4, "video": "wI_6bnE8G" },
-            { "numero": 5, "video": "UjmTyuAb_" },
-            { "numero": 6, "video": "he0vMwySf" },
-            { "numero": 7, "video": "vaJ7PVCeE" },
-            { "numero": 8, "video": "ojxN5aKsh" },
-            { "numero": 9, "video": "q7DO1eddJ" },
-            { "numero": 10, "video": "1RFnlcubU" },
-            { "numero": 11, "video": "RFiep4E_Q" }
+            { "numero": 11, "video": "wi4bSpIgA" },
+            { "numero": 12, "video": "9TLIG4RDh" }
           ]
         }
       ]
@@ -8772,7 +8678,19 @@
             { "numero": 9, "video": "IJbYJO19c" },
             { "numero": 10, "video": "63BNwtfLK" },
             { "numero": 11, "video": "sF4bVoJjb" },
-            { "numero": 12, "video": "CmKxPO0KA" }
+            { "numero": 12, "video": "CmKxPO0KA" },
+            { "numero": 13, "video": "YFmmaEtjt" },
+            { "numero": 14, "video": "iT3X1NBgM" },
+            { "numero": 15, "video": "k-_a7aHjj" },
+            { "numero": 16, "video": "Z7NFUIpFU" },
+            { "numero": 17, "video": "egYG-5Rug" },
+            { "numero": 18, "video": "pi_FhNp8a" },
+            { "numero": 19, "video": "kYp-73CC4" },
+            { "numero": 20, "video": "yYoV_Od-Iw" },
+            { "numero": 21, "video": "ZX-1D6qLA" },
+            { "numero": 22, "video": "7votJhAh8" },
+            { "numero": 23, "video": "36bFtwveR" },
+            { "numero": 24, "video": "ZCJLBUi0i" }
           ]
         }
       ]
@@ -17457,7 +17375,73 @@
       ]
     }
   ]
-}
+},
+{
+      "id": "migawari-reijou-wo-sukutta",
+      "titulo": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+      "malId": 63878,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1491/157799.jpg",
+      "imagenFondo": "",
+      "descripcion": "Como hija ilegítima de un conde y su criada, Katrina nació en circunstancias miserables. Y ahora que ha perdido a su madre, el trato de su hermanastra y su madrastra, la condesa, solo ha empeorado. Un día, su hermanastra recibe una orden real de mudarse a las afueras del norte debido a su comportamiento indecoroso en una fiesta reciente. Allí, debe aprender modales adecuados bajo la tutela del príncipe residente, de quien se rumorea que es un hombre cruel. Al no querer someter a su hija a tal castigo, la condesa decide enviar a Katrina en su lugar. Katrina llega al norte temblando de miedo. Pero, contrario a las historias, el príncipe 'despiadado y frío' es más amable de lo que creía. ¿Podría la bondadosa Katrina encontrar el amor en el campo invernal?",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 5.57,
+      "anio": 2026,
+      "generos": ["Fantasía", "Romance"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "aTu9V9oEU" },
+            { "numero": 2, "video": "eA95Dd5bL" },
+            { "numero": 3, "video": "INwEqLOxC" },
+            { "numero": 4, "video": "wI_6bnE8G" },
+            { "numero": 5, "video": "UjmTyuAb_" },
+            { "numero": 6, "video": "he0vMwySf" },
+            { "numero": 7, "video": "vaJ7PVCeE" },
+            { "numero": 8, "video": "ojxN5aKsh" },
+            { "numero": 9, "video": "q7DO1eddJ" },
+            { "numero": 10, "video": "1RFnlcubU" },
+            { "numero": 11, "video": "RFiep4E_Q" },
+            { "numero": 12, "video": "DzrpWgvnx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai",
+      "titulo": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
+      "malId": 46488,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1343/156268.jpg",
+      "imagenFondo": "",
+      "descripcion": "¡Un intenso juego de lucha jugado en la escuela de chicas! Aya se transfirió a la Academia de Chicas Kuromi hace un mes con el objetivo de convertirse en una dama adecuada. Después de conocer a la impresionante Shirayuri, Aya queda deslumbrada por su elegancia y porte. Imagina su sorpresa cuando encuentra a Shirayuri después de la escuela jugando... ¡¿un juego de lucha?! Y si eso no fuera lo suficientemente desconcertante, ¡es desafiada a un duelo por la poco señorial Shirayuri!",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.51,
+      "anio": 2026,
+      "generos": ["Comedia", "Girls Love"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "X2vGAmkR6" },
+            { "numero": 2, "video": "E0ITN679p" },
+            { "numero": 3, "video": "DKXdNtj0J" },
+            { "numero": 4, "video": "zMSta9Ojz" },
+            { "numero": 5, "video": "Qse6pA_4q" },
+            { "numero": 6, "video": "xWqh6__5Y" },
+            { "numero": 7, "video": "6iroAeUJh" },
+            { "numero": 8, "video": "CrYLscY8X" },
+            { "numero": 9, "video": "sWedO8VVp" },
+            { "numero": 10, "video": "NQIfj5dWM" },
+            { "numero": 11, "video": "RXDpjjf81" },
+            { "numero": 12, "video": "SpDIWrUwA" }
+          ]
+        }
+      ]
+    }
   ],
   "idsEnEmision": [
     "cardfight-vanguard-divinez-genma-seisen-hen",

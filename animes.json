@@ -163,39 +163,6 @@
       ]
     },
     {
-      "id": "reiwa-no-dara-san",
-      "titulo": "Reiwa no Dara-san",
-      "malId": 63082,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1170/155761.jpg",
-      "imagenFondo": "",
-      "descripcion": "El cielo se oscurece y la lluvia convierte el bosque en un laberinto traicionero... Dos jóvenes hermanos se adentran en un mundo oscuro donde no pertenecen, y una larga y horrible sombra se alza para recibirlos. Así es como conocieron a Dara-san. Puede que parezca aterradora, pero espera a conocerla. \"¡Oye, soy una diosa de la desgracia! ¿No van a asustarse por mi grotesco aspecto?\"",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.90,
-      "anio": 2026,
-      "generos": ["Comedia", "Sobrenatural", "Recuentos de la vida"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "rImbXhC8PL" },
-            { "numero": 2, "video": "jIu6MF7FP" },
-            { "numero": 3, "video": "edbHL20mq" },
-            { "numero": 4, "video": "1wyxd7ngV" },
-            { "numero": 5, "video": "Zvx3Q2uPZ" },
-            { "numero": 6, "video": "KXMTtvcDw" },
-            { "numero": 7, "video": "ANb1Qifdn" },
-            { "numero": 8, "video": "Dbtnq4_Ge" },
-            { "numero": 9, "video": "jILn-W74t" },
-            { "numero": 10, "video": "0AaVAI1Tq" },
-            { "numero": 11, "video": "nGpkTkI9a" },
-            { "numero": 12, "video": "585yEGvj2" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "yani-neko",
       "titulo": "Yani Neko",
       "malId": 63403,
@@ -289,71 +256,8 @@
             { "numero": 9, "video": "S2XEPq7XL" },
             { "numero": 10, "video": "fggz9hkSb" },
             { "numero": 11, "video": "djzPGmLdv" },
-            { "numero": 12, "video": "y8C46hslk" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "super-no-ura-de-yani-suu-futari",
-      "titulo": "Super no Ura de Yani Suu Futari",
-      "malId": 62076,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1768/156339.jpg",
-      "imagenFondo": "",
-      "descripcion": "Lo único que ayuda al Sasaki de mediana edad a sobrellevar su agotador trabajo es la sonrisa alegre de Yamada, la joven que trabaja en el supermercado 24 horas que frecuenta. Después de cada agotador día recibiendo regaños de su jefe, Sasaki pasa por la tienda para que su espíritu sea sanado por su cajera favorita. Tras un día particularmente duro, Sasaki llega al supermercado, solo para descubrir que el turno de Yamada ya ha terminado. Decepcionado, busca un lugar para fumar cuando una mujer desde detrás de la tienda lo llama para que se una a ella. La audaz y peligrosamente juguetona Tayama no tarda en señalar la extraña costumbre de Sasaki de buscar siempre a su compañera, llegando incluso a contarle a Yamada sobre el interés que Sasaki tiene en ella. Ahora, además de ver a su adorada cajera Yamada, Sasaki también visita la tienda para ver si su nueva compañera de fumada, Tayama, está cerca. Pero hay más en la picardía de Tayama de lo que aparenta. Con cada cigarrillo, nace una amistad improbable.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 8.3,
-      "anio": 2026,
-      "generos": ["Comedia", "Recuentos de la vida"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "FU-j3M4qQ" },
-            { "numero": 2, "video": "qxo6Evt0to" },
-            { "numero": 3, "video": "8MN43SiN0" },
-            { "numero": 4, "video": "3M2vhU4H9" },
-            { "numero": 5, "video": "YNs3vojl6" },
-            { "numero": 6, "video": "rbj1grNk-" },
-            { "numero": 7, "video": "QYvr71Lv7" },
-            { "numero": 8, "video": "OOQkODk66" },
-            { "numero": 9, "video": "czMr4OrKC" },
-            { "numero": 10, "video": "vagZrlVyN" },
-            { "numero": 11, "video": "smgrSVDEk" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "mebius-dust",
-      "titulo": "Mebius Dust",
-      "malId": 63802,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1891/158352.jpg",
-      "imagenFondo": "",
-      "descripcion": "10 años después de que un misterioso meteorito se estrelle contra la Tierra, las personas llamadas \"Portadores de Rams\" desarrollan habilidades sobrehumanas llamadas \"Rams\". Sin embargo, aquellos que desarrollan estas habilidades especiales solo pueden sobrevivir en presencia del \"Polvo Mebius\" liberado por un gigante cristal, por lo que tienen prohibido salir de la ciudad de Shinkatsushika. Dentro de Shinkatsushika, los niños Portadores de Rams usan sus Rams para jugar un juego de conquista de territorio para aliviar su aburrimiento por no poder salir de la ciudad. El estudiante de secundaria Araki, junto con su hermana menor, Stella, y su amiga de la infancia, Olga, forman un equipo llamado \"Polis Hopper\" y se lanzan al juego. Sus destinos comienzan a cambiar cuando el profesor Yuda, un investigador que estudia a los Rams, les pide que participen en un cierto experimento...",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 5.3,
-      "anio": 2026,
-      "generos": ["Ciencia Ficción", "Acción", "Sobrenatural"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "nvqo5-low" },
-            { "numero": 2, "video": "RbomKRAkr" },
-            { "numero": 3, "video": "u-aFjNRKT" },
-            { "numero": 4, "video": "nn0yhLmTv" },
-            { "numero": 5, "video": "_iUhlxeg1" },
-            { "numero": 6, "video": "x5_CfT5K7" },
-            { "numero": 7, "video": "eOMuqvaG_x" },
-            { "numero": 8, "video": "TLuKp4rw3" },
-            { "numero": 9, "video": "YWblMNZor3" },
-            { "numero": 10, "video": "d2Q2Wczlp" },
-            { "numero": 11, "video": "ut6E5OcgQ" }
+            { "numero": 12, "video": "y8C46hslk" },
+            { "numero": 13, "video": "mdTCcdOAB" }
           ]
         }
       ]
@@ -1188,38 +1092,6 @@
             { "numero": 9, "video": "F0SMvHfAj" },
             { "numero": 10, "video": "lR0iGyB-q" },
             { "numero": 11, "video": "9m2_BxY6p" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tomb-raider-king",
-      "titulo": "Dogulwang (Tomb Raider King)",
-      "malId": 63316,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1910/158471.jpg",
-      "imagenFondo": "",
-      "descripcion": "En un mundo donde las reliquias antiguas otorgan un poder inmenso, el nuevo plan de Jooheon para atormentar a TKBM implicará derribarlos desde dentro. Robar sus reliquias y causar conflictos internos es solo la punta del iceberg de lo que hará para hacer que el grupo pague por sus pecados. Pero con la aparición de la Torre del Orgullo, las habilidades de Jooheon para provocar la ira se pondrán realmente a prueba, ¡ya que deberá enfrentar a los señores de la guerra más temibles entre sí! ¿Saldrá Jooheon Suh victorioso en la batalla de los más grandes conquistadores de la historia?",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.64,
-      "anio": 2026,
-      "generos": ["Acción", "Aventura", "Fantasía"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "oUia2fgkC" },
-            { "numero": 2, "video": "5KDwzss4H" },
-            { "numero": 3, "video": "u0weNMJmJ" },
-            { "numero": 4, "video": "s1GxVg-09" },
-            { "numero": 5, "video": "vbHwCf1OHN" },
-            { "numero": 6, "video": "ExdsFfDDP" },
-            { "numero": 7, "video": "Wj7yogCyFK" },
-            { "numero": 8, "video": "t3yJq6Bar3" },
-            { "numero": 9, "video": "bmnXGAcUM" },
-            { "numero": 10, "video": "4f-ZJAeDW" },
-            { "numero": 11, "video": "Dqo7LurOd" }
           ]
         }
       ]
@@ -17465,7 +17337,140 @@
       ]
     }
   ]
-}
+},
+{
+      "id": "super-no-ura-de-yani-suu-futari",
+      "titulo": "Super no Ura de Yani Suu Futari",
+      "malId": 62076,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1768/156339.jpg",
+      "imagenFondo": "",
+      "descripcion": "Lo único que ayuda al Sasaki de mediana edad a sobrellevar su agotador trabajo es la sonrisa alegre de Yamada, la joven que trabaja en el supermercado 24 horas que frecuenta. Después de cada agotador día recibiendo regaños de su jefe, Sasaki pasa por la tienda para que su espíritu sea sanado por su cajera favorita. Tras un día particularmente duro, Sasaki llega al supermercado, solo para descubrir que el turno de Yamada ya ha terminado. Decepcionado, busca un lugar para fumar cuando una mujer desde detrás de la tienda lo llama para que se una a ella. La audaz y peligrosamente juguetona Tayama no tarda en señalar la extraña costumbre de Sasaki de buscar siempre a su compañera, llegando incluso a contarle a Yamada sobre el interés que Sasaki tiene en ella. Ahora, además de ver a su adorada cajera Yamada, Sasaki también visita la tienda para ver si su nueva compañera de fumada, Tayama, está cerca. Pero hay más en la picardía de Tayama de lo que aparenta. Con cada cigarrillo, nace una amistad improbable.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 8.3,
+      "anio": 2026,
+      "generos": ["Comedia", "Recuentos de la vida"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "FU-j3M4qQ" },
+            { "numero": 2, "video": "qxo6Evt0to" },
+            { "numero": 3, "video": "8MN43SiN0" },
+            { "numero": 4, "video": "3M2vhU4H9" },
+            { "numero": 5, "video": "YNs3vojl6" },
+            { "numero": 6, "video": "rbj1grNk-" },
+            { "numero": 7, "video": "QYvr71Lv7" },
+            { "numero": 8, "video": "OOQkODk66" },
+            { "numero": 9, "video": "czMr4OrKC" },
+            { "numero": 10, "video": "vagZrlVyN" },
+            { "numero": 11, "video": "smgrSVDEk" },
+            { "numero": 12, "video": "2gP7DAprF" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mebius-dust",
+      "titulo": "Mebius Dust",
+      "malId": 63802,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1891/158352.jpg",
+      "imagenFondo": "",
+      "descripcion": "10 años después de que un misterioso meteorito se estrelle contra la Tierra, las personas llamadas \"Portadores de Rams\" desarrollan habilidades sobrehumanas llamadas \"Rams\". Sin embargo, aquellos que desarrollan estas habilidades especiales solo pueden sobrevivir en presencia del \"Polvo Mebius\" liberado por un gigante cristal, por lo que tienen prohibido salir de la ciudad de Shinkatsushika. Dentro de Shinkatsushika, los niños Portadores de Rams usan sus Rams para jugar un juego de conquista de territorio para aliviar su aburrimiento por no poder salir de la ciudad. El estudiante de secundaria Araki, junto con su hermana menor, Stella, y su amiga de la infancia, Olga, forman un equipo llamado \"Polis Hopper\" y se lanzan al juego. Sus destinos comienzan a cambiar cuando el profesor Yuda, un investigador que estudia a los Rams, les pide que participen en un cierto experimento...",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 5.3,
+      "anio": 2026,
+      "generos": ["Ciencia Ficción", "Acción", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "nvqo5-low" },
+            { "numero": 2, "video": "RbomKRAkr" },
+            { "numero": 3, "video": "u-aFjNRKT" },
+            { "numero": 4, "video": "nn0yhLmTv" },
+            { "numero": 5, "video": "_iUhlxeg1" },
+            { "numero": 6, "video": "x5_CfT5K7" },
+            { "numero": 7, "video": "eOMuqvaG_x" },
+            { "numero": 8, "video": "TLuKp4rw3" },
+            { "numero": 9, "video": "YWblMNZor3" },
+            { "numero": 10, "video": "d2Q2Wczlp" },
+            { "numero": 11, "video": "ut6E5OcgQ" },
+            { "numero": 12, "video": "BiispEMIpv" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tomb-raider-king",
+      "titulo": "Dogulwang (Tomb Raider King)",
+      "malId": 63316,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1910/158471.jpg",
+      "imagenFondo": "",
+      "descripcion": "En un mundo donde las reliquias antiguas otorgan un poder inmenso, el nuevo plan de Jooheon para atormentar a TKBM implicará derribarlos desde dentro. Robar sus reliquias y causar conflictos internos es solo la punta del iceberg de lo que hará para hacer que el grupo pague por sus pecados. Pero con la aparición de la Torre del Orgullo, las habilidades de Jooheon para provocar la ira se pondrán realmente a prueba, ¡ya que deberá enfrentar a los señores de la guerra más temibles entre sí! ¿Saldrá Jooheon Suh victorioso en la batalla de los más grandes conquistadores de la historia?",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.64,
+      "anio": 2026,
+      "generos": ["Acción", "Aventura", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "oUia2fgkC" },
+            { "numero": 2, "video": "5KDwzss4H" },
+            { "numero": 3, "video": "u0weNMJmJ" },
+            { "numero": 4, "video": "s1GxVg-09" },
+            { "numero": 5, "video": "vbHwCf1OHN" },
+            { "numero": 6, "video": "ExdsFfDDP" },
+            { "numero": 7, "video": "Wj7yogCyFK" },
+            { "numero": 8, "video": "t3yJq6Bar3" },
+            { "numero": 9, "video": "bmnXGAcUM" },
+            { "numero": 10, "video": "4f-ZJAeDW" },
+            { "numero": 11, "video": "Dqo7LurOd" },
+            { "numero": 12, "video": "jzV8JFoIpl" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reiwa-no-dara-san",
+      "titulo": "Reiwa no Dara-san",
+      "malId": 63082,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1170/155761.jpg",
+      "imagenFondo": "",
+      "descripcion": "El cielo se oscurece y la lluvia convierte el bosque en un laberinto traicionero... Dos jóvenes hermanos se adentran en un mundo oscuro donde no pertenecen, y una larga y horrible sombra se alza para recibirlos. Así es como conocieron a Dara-san. Puede que parezca aterradora, pero espera a conocerla. \"¡Oye, soy una diosa de la desgracia! ¿No van a asustarse por mi grotesco aspecto?\"",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.90,
+      "anio": 2026,
+      "generos": ["Comedia", "Sobrenatural", "Recuentos de la vida"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "rImbXhC8PL" },
+            { "numero": 2, "video": "jIu6MF7FP" },
+            { "numero": 3, "video": "edbHL20mq" },
+            { "numero": 4, "video": "1wyxd7ngV" },
+            { "numero": 5, "video": "Zvx3Q2uPZ" },
+            { "numero": 6, "video": "KXMTtvcDw" },
+            { "numero": 7, "video": "ANb1Qifdn" },
+            { "numero": 8, "video": "Dbtnq4_Ge" },
+            { "numero": 9, "video": "jILn-W74t" },
+            { "numero": 10, "video": "0AaVAI1Tq" },
+            { "numero": 11, "video": "nGpkTkI9a" },
+            { "numero": 12, "video": "585yEGvj2" },
+            { "numero": 13, "video": "F-qj_LZqB" }
+          ]
+        }
+      ]
+    }
   ],
   "idsEnEmision": [
     "cardfight-vanguard-divinez-genma-seisen-hen",

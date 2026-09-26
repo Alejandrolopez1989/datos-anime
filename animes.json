@@ -124,7 +124,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "FerO76Kr2" }
+            { "numero": 1, "video": "FerO76Kr2" },
+            { "numero": 2, "video": "DWo3SGL5o" }
           ]
         }
       ]
@@ -158,38 +159,6 @@
             { "numero": 10, "video": "c91B_Tiw-" },
             { "numero": 11, "video": "hvn9kgB8H" },
             { "numero": 12, "video": "Ro5uh2mzgg" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "yani-neko",
-      "titulo": "Yani Neko",
-      "malId": 63403,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg",
-      "imagenFondo": "",
-      "descripcion": "Yani es una chica gato con un grave problema de adicción al tabaco. Fuma tanto que su apartamento huele a ceniza y está lleno de colillas y basura. Cada vez que intenta dejarlo, se vuelve débil ante los antojos y cede casi de inmediato. ¿Podrá alguna vez arreglar su vida o está condenada a vivir como una fumadora empedernida para siempre?",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.05,
-      "anio": 2026,
-      "generos": ["Comedia", "Recuentos de la vida"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "Wrt62gr_z" },
-            { "numero": 2, "video": "3Edk7DVGz" },
-            { "numero": 3, "video": "oyaYPiasn" },
-            { "numero": 4, "video": "LBPf3GhfK" },
-            { "numero": 5, "video": "j15xRy1_Tb" },
-            { "numero": 6, "video": "5cPtQvnQ-" },
-            { "numero": 7, "video": "AcUvTwN2y" },
-            { "numero": 8, "video": "_F3fKhsNu" },
-            { "numero": 9, "video": "uVmgCUZD6" },
-            { "numero": 10, "video": "0g8wfEzUzp" },
-            { "numero": 11, "video": "11JGC84As" }
           ]
         }
       ]
@@ -258,50 +227,6 @@
             { "numero": 11, "video": "djzPGmLdv" },
             { "numero": 12, "video": "y8C46hslk" },
             { "numero": 13, "video": "mdTCcdOAB" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tensei-shitara-slime-datta-ken-4th-season",
-      "titulo": "Tensei shitara Slime Datta Ken 4th Season",
-      "malId": 59970,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1695/156389.jpg",
-      "imagenFondo": "",
-      "descripcion": "El sueño del Señor Demonio Rimuru de crear una alianza entre humanos y monstruos está un paso más cerca de hacerse realidad. Mientras Tempest continúa prosperando, Granville Rozzo y su nieta, Maribel Rozzo, chocan con el Señor Demonio Rimuru por su plan de proteger a la humanidad gobernándolos. Mientras tanto, en El Dorado, el Señor Demonio Leon trabaja en sus propios objetivos. ¡El despertar de un nuevo Héroe se acerca! (Fuente: Crunchyroll)",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 8.15,
-      "anio": 2026,
-      "generos": ["Acción", "Aventura", "Fantasía", "Magia", "Reencarnación", "Isekai"],
-      "temporadas": [
-        {
-          "numero": 4,
-          "capitulos": [
-            { "numero": 1, "video": "8x0PD9cnH" },
-            { "numero": 2, "video": "TeN2SP087" },
-            { "numero": 3, "video": "0UI3tCEH6" },
-            { "numero": 4, "video": "sZIlIGlVz" },
-            { "numero": 5, "video": "rNSPw7ntO" },
-            { "numero": 6, "video": "w4sbqd73R" },
-            { "numero": 7, "video": "lb6U_Nw8N" },
-            { "numero": 8, "video": "ENobkfeWB" },
-            { "numero": 9, "video": "08mHCrFi3" },
-            { "numero": 10, "video": "cQwDxmbGA" },
-            { "numero": 11, "video": "TFTuv7nBz" },
-            { "numero": 12, "video": "je4ZzLZUR" },
-            { "numero": 13, "video": "fXiwgsDI8" },
-            { "numero": 14, "video": "YjjcYEcNW" },
-            { "numero": 15, "video": "uKSzIimlE" },
-            { "numero": 16, "video": "o5Ce7w9lh" },
-            { "numero": 17, "video": "RmpK5MC4b" },
-            { "numero": 18, "video": "7k1YyZFMa" },
-            { "numero": 19, "video": "7Dk2BsNUF" },
-            { "numero": 20, "video": "zooKVgQyC" },
-            { "numero": 21, "video": "XY-fCnFq5" },
-            { "numero": 22, "video": "KwC6Od-BL" },
-            { "numero": 23, "video": "IkkmHA1Li" }
           ]
         }
       ]
@@ -1130,38 +1055,6 @@
       ]
     },
     {
-      "id": "ibitte-konai-gibo-to-gishi",
-      "titulo": "Ibitte Konai Gibo to Gishi",
-      "malId": 62102,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1912/157082.jpg",
-      "imagenFondo": "",
-      "descripcion": "Miya es la hija ilegítima de una familia prominente. Cuando su madre muere, está convencida de lo que le espera en su nuevo hogar: una vida de servidumbre y miseria a manos de su malvada madrastra y hermanastras. Sin embargo, cuando finalmente conoce a las mujeres que espera que la traten como a una sirvienta, ¡resultan ser... dulces?!",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.82,
-      "anio": 2026,
-      "generos": ["Comedia"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "myLj9amMZY" },
-            { "numero": 2, "video": "ty_YgMkxe" },
-            { "numero": 3, "video": "zB3X_H92SN" },
-            { "numero": 4, "video": "aR4T8sRyq" },
-            { "numero": 5, "video": "4kY8kGA6O" },
-            { "numero": 6, "video": "T4NH6aBTv" },
-            { "numero": 7, "video": "iMG_GUtC1" },
-            { "numero": 8, "video": "wdN5IozAwB" },
-            { "numero": 9, "video": "pdJX35QI3" },
-            { "numero": 10, "video": "LniT798wt" },
-            { "numero": 11, "video": "YmzA-XjNQ" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "uchi-no-otouto-domo-ga-sumimasen",
       "titulo": "Uchi no Otouto-domo ga Sumimasen",
       "malId": 63061,
@@ -1190,71 +1083,6 @@
             { "numero": 10, "video": "VDNDKBKtm" },
             { "numero": 11, "video": "blWQUsINY" },
             { "numero": 12, "video": "djuk4jy1A" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "kore-kaite-shine",
-      "titulo": "Kore Kaite Shine",
-      "malId": 61280,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1649/154997.jpg",
-      "imagenFondo": "",
-      "descripcion": "Ai Yasumi, una estudiante de primer año de secundaria que vive en Izu-Oshima, ama el manga más que nada. Cuando se entera de que su admirada y largamente inactiva artista de manga favorita, Hoshi no Rei, exhibirá en COMITIA, emprende un viaje a Tokio. Lo que no espera, sin embargo, es que un encuentro fortuito en el evento cambiará su vida para siempre. '¿Cómo se llega a ser mangaka?' Ai entra en el mundo de la creación de manga, un camino que pensaba entender, pero del que sabe muy poco. Esta es la historia de una chica dando sus primeros pasos en el camino para convertirse en mangaka.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.70,
-      "anio": 2026,
-      "generos": ["Comedia"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "meFM_0fpY" },
-            { "numero": 2, "video": "Q7McJaCXR" },
-            { "numero": 3, "video": "F4uUrV1M8k" },
-            { "numero": 4, "video": "7GOLqfTAVf" },
-            { "numero": 5, "video": "ItUy5Oypm" },
-            { "numero": 6, "video": "QIwed72UD" },
-            { "numero": 7, "video": "ZCtmgeT40" },
-            { "numero": 8, "video": "5PhJAJK9T" },
-            { "numero": 9, "video": "DDAaTm2l4" },
-            { "numero": 10, "video": "onSq2MOsW" },
-            { "numero": 11, "video": "-peHWlxmt" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "hell-mode",
-      "titulo": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
-      "malId": 60460,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1151/152479.jpg",
-      "imagenFondo": "",
-      "descripcion": "Kenichi Yamada ha pasado la mayor parte de su vida adulta persiguiendo el siguiente desafío en los juegos en línea, solo para encontrar el panorama moderno dominado por mecánicas indulgentes. Como si el destino estuviera escuchando su deseo, Kenichi recibe una invitación repentina y misteriosa a un juego sin título que promete un nivel de dificultad inconcebible. Encantado, selecciona su configuración más despiadada sin dudarlo: Modo Infierno. Sin embargo, en lugar de sumergirse en otro juego virtual, Kenichi renace en otro mundo como un campesino llamado Allen, obligado a lidiar con un sistema cruelmente complejo donde incluso lo básico de la progresión exige un esfuerzo implacable. En consecuencia, Allen debe construir su fuerza desde cero y aprender a dominar la clase de invocador. Con su resistencia puesta a prueba en cada momento, Allen emprende un viaje inexplorado que podría resultar más candente que el infierno mismo.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.20,
-      "anio": 2026,
-      "generos": ["Acción", "Aventura", "Fantasía"],
-      "temporadas": [
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "h8eHh3sL7" },
-            { "numero": 2, "video": "kcfbqVvDs" },
-            { "numero": 3, "video": "oq3jrwfn9" },
-            { "numero": 4, "video": "KGI6ZI4hM" },
-            { "numero": 5, "video": "GjOfapCY7" },
-            { "numero": 6, "video": "IlQIgDiTk" },
-            { "numero": 7, "video": "zSNRiW2wF" },
-            { "numero": 8, "video": "4631AXnBC" },
-            { "numero": 9, "video": "zXaGis3Gf" },
-            { "numero": 10, "video": "DCq_edhrs" },
-            { "numero": 11, "video": "1NRtpr12O" },
-            { "numero": 12, "video": "UGl5Mly2Y" }
           ]
         }
       ]
@@ -1338,10 +1166,11 @@
             { "numero": 4, "video": "dvxbXRokH" },
             { "numero": 5, "video": "7DS2UVdO0" },
             { "numero": 6, "video": "F10Hp2TCY" },
-            { "numero": 19, "video": "nNe66ytwp" },
-            { "numero": 20, "video": "BA45W1SLaF" },
-            { "numero": 21, "video": "QWvuETAuA" },
-            { "numero": 22, "video": "bvsts36A7" }
+            { "numero": 7, "video": "nNe66ytwp" },
+            { "numero": 8, "video": "BA45W1SLaF" },
+            { "numero": 9, "video": "QWvuETAuA" },
+            { "numero": 10, "video": "bvsts36A7" },
+            { "numero": 11, "video": "KpTTeuTtS" }
           ]
         }
       ]
@@ -1426,7 +1255,8 @@
             { "numero": 4, "video": "FmRkRu3qy" },
             { "numero": 5, "video": "OkXX6Cq9T" },
             { "numero": 6, "video": "jgO6KsIlr" },
-            { "numero": 7, "video": "POOqBPcOi" }
+            { "numero": 7, "video": "POOqBPcOi" },
+            { "numero": 8, "video": "tWrQ37gl8" }
           ]
         }
       ]
@@ -8918,6 +8748,24 @@
       "anio": 2026,
       "generos": ["Acción", "Aventura", "Fantasía", "Isekai"],
       "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "h8eHh3sL7" },
+            { "numero": 2, "video": "kcfbqVvDs" },
+            { "numero": 3, "video": "oq3jrwfn9" },
+            { "numero": 4, "video": "KGI6ZI4hM" },
+            { "numero": 5, "video": "GjOfapCY7" },
+            { "numero": 6, "video": "IlQIgDiTk" },
+            { "numero": 7, "video": "zSNRiW2wF" },
+            { "numero": 8, "video": "4631AXnBC" },
+            { "numero": 9, "video": "zXaGis3Gf" },
+            { "numero": 10, "video": "DCq_edhrs" },
+            { "numero": 11, "video": "1NRtpr12O" },
+            { "numero": 12, "video": "UGl5Mly2Y" },
+            { "numero": 13, "video": "cWzZdeeCJ" }
+          ]
+        },
         {
           "numero": 1,
           "capitulos": [
@@ -17467,6 +17315,237 @@
             { "numero": 11, "video": "nGpkTkI9a" },
             { "numero": 12, "video": "585yEGvj2" },
             { "numero": 13, "video": "F-qj_LZqB" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yani-neko",
+      "titulo": "Yani Neko",
+      "malId": 63403,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg",
+      "imagenFondo": "",
+      "descripcion": "Yani es una chica gato con un grave problema de adicción al tabaco. Fuma tanto que su apartamento huele a ceniza y está lleno de colillas y basura. Cada vez que intenta dejarlo, se vuelve débil ante los antojos y cede casi de inmediato. ¿Podrá alguna vez arreglar su vida o está condenada a vivir como una fumadora empedernida para siempre?",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.05,
+      "anio": 2026,
+      "generos": ["Comedia", "Recuentos de la vida"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "Wrt62gr_z" },
+            { "numero": 2, "video": "3Edk7DVGz" },
+            { "numero": 3, "video": "oyaYPiasn" },
+            { "numero": 4, "video": "LBPf3GhfK" },
+            { "numero": 5, "video": "j15xRy1_Tb" },
+            { "numero": 6, "video": "5cPtQvnQ-" },
+            { "numero": 7, "video": "AcUvTwN2y" },
+            { "numero": 8, "video": "_F3fKhsNu" },
+            { "numero": 9, "video": "uVmgCUZD6" },
+            { "numero": 10, "video": "0g8wfEzUzp" },
+            { "numero": 11, "video": "11JGC84As" },
+            { "numero": 12, "video": "MuPR5jfYl" }
+          ]
+        }
+      ]
+    },
+    {
+  "id": "tensei-shitara-slime-datta-ken",
+  "titulo": "Tensei shitara Slime Datta Ken",
+  "malId": 37430,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1069/123309.jpg",
+  "imagenFondo": "",
+  "descripcion": "Satoru Mikami, un oficinista de 37 años, lleva una vida monótona en Tokio y no le va mal, salvo por el hecho de que nunca ha conseguido novia. Durante un encuentro casual con un colega, es apuñalado por un asaltante al azar en la calle. Mientras sucumbe a sus heridas, una voz peculiar resuena en su mente y recita una serie de comandos que el moribundo no logra entender. Cuando Satoru recupera la conciencia, descubre que ha reencarnado como una masa de limo en un reino desconocido. Al hacerlo, adquiere nuevas habilidades, en particular, el poder de devorar cualquier cosa y imitar su apariencia y habilidades. Entonces se topa con el monstruo sellado de nivel Catástrofe, el \"Dragón de la Tormenta\" Veldora, que había sido encerrado durante los últimos 300 años por reducir una ciudad a cenizas. Compadecido de su situación, Satoru se hace amigo de él y le promete ayudarlo a destruir el sello. A cambio, Veldora le otorga el nombre de Rimuru Tempest para concederle protección divina. Ahora, liberado de las trivialidades de su vida pasada, Rimuru emprende un nuevo viaje con un objetivo distinto en mente. A medida que se acostumbra a su nueva fisonomía, sus pegajosas travesuras se extienden por todo el mundo, alterando gradualmente su destino.",
+  "estado": "emision",
+  "destacado": false,
+  "finalizado": false,
+  "puntuacion": 8.15,
+  "anio": 2018,
+  "generos": ["Acción", "Aventura", "Fantasía", "Magia", "Reencarnación", "Isekai"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "ADH_4Zsbp" },
+        { "numero": 2, "video": "_A0noNnBO" },
+        { "numero": 3, "video": "EeUFNO3b7" },
+        { "numero": 4, "video": "mFaKtINNO" },
+        { "numero": 5, "video": "T6sGoKGRD" },
+        { "numero": 6, "video": "a_RT-sUNL" },
+        { "numero": 7, "video": "eBtZwrHIC" },
+        { "numero": 8, "video": "qlX8yOWV4" },
+        { "numero": 9, "video": "VCw5OU08g" },
+        { "numero": 10, "video": "rjxIgT4fd" },
+        { "numero": 11, "video": "hylWXVQ-L" },
+        { "numero": 12, "video": "cbRgNEZRk" },
+        { "numero": 13, "video": "MUna5fhZ2" },
+        { "numero": 14, "video": "TYqCRGsgQ" },
+        { "numero": 15, "video": "ED_76KOWa" },
+        { "numero": 16, "video": "PG8uTaAaF" },
+        { "numero": 17, "video": "GH0rIw7MM" },
+        { "numero": 18, "video": "sCHk7r3rB" },
+        { "numero": 19, "video": "2SP3x5XNO" },
+        { "numero": 20, "video": "WDmV5PtOd" },
+        { "numero": 21, "video": "kI68nushx" },
+        { "numero": 22, "video": "y0usjRqCh" },
+        { "numero": 23, "video": "9swPff0mP" },
+        { "numero": 24, "video": "PHOEBSvoy" }
+      ]
+    },
+    {
+      "numero": 2,
+      "capitulos": [
+        { "numero": 1, "video": "dB4-t2e9E" },
+        { "numero": 2, "video": "RgNiZ_wq3" },
+        { "numero": 3, "video": "VycUNYG3m" },
+        { "numero": 4, "video": "65iqMFbEt9" },
+        { "numero": 5, "video": "TlxwxiZYw" },
+        { "numero": 6, "video": "Vt9ATR4UV" },
+        { "numero": 7, "video": "r2Xs0JS60" },
+        { "numero": 8, "video": "r3YAg5fG9" },
+        { "numero": 9, "video": "If78i4IqJ" },
+        { "numero": 10, "video": "9SrAYZIhW" },
+        { "numero": 11, "video": "p1vAXUzMQ" },
+        { "numero": 12, "video": "r_9wcxb_i" },
+        { "numero": 13, "video": "V4tQfpGJb" },
+        { "numero": 14, "video": "6nzv0ZoVB" },
+        { "numero": 15, "video": "Divgc-gHp" },
+        { "numero": 16, "video": "oWxPF3WyE" },
+        { "numero": 17, "video": "aq7GnEYbdS" },
+        { "numero": 18, "video": "IzbqlhOT9" },
+        { "numero": 19, "video": "MpTWLj6era" },
+        { "numero": 20, "video": "fN5N6n1a7" },
+        { "numero": 21, "video": "2c-xRsq9b" },
+        { "numero": 22, "video": "hVEEoZ500" },
+        { "numero": 23, "video": "A7NkBPvOU" },
+        { "numero": 24, "video": "ydj-TI34i" }
+      ]
+    },
+    {
+      "numero": 3,
+      "capitulos": [
+        { "numero": 1, "video": "k1VxlEVKj" },
+        { "numero": 2, "video": "jBjc3ewcA" },
+        { "numero": 3, "video": "OQOZ_-rbe" },
+        { "numero": 4, "video": "jZMOTtrDz" },
+        { "numero": 5, "video": "ishKKrmRw" },
+        { "numero": 6, "video": "45rtabtiW" },
+        { "numero": 7, "video": "8Whv_kjsj" },
+        { "numero": 8, "video": "P2a1eVY9Y" },
+        { "numero": 9, "video": "6RQVcjzHU" },
+        { "numero": 10, "video": "MW4IEVi0S" },
+        { "numero": 11, "video": "kBdYk7tNP" },
+        { "numero": 12, "video": "qvh_gCyXY" },
+        { "numero": 13, "video": "xYtMTgR-C" },
+        { "numero": 14, "video": "YmS2dowjd" },
+        { "numero": 15, "video": "cvTRBhLq1" },
+        { "numero": 16, "video": "OIzZBvlbGT" },
+        { "numero": 17, "video": "MFgcsWx4Q" },
+        { "numero": 18, "video": "RLyw_R5bC" },
+        { "numero": 19, "video": "2sbZeDnxz" },
+        { "numero": 20, "video": "0K6lQXxDc" },
+        { "numero": 21, "video": "lxd482ZhI" },
+        { "numero": 22, "video": "MFNZ5ZxZL" },
+        { "numero": 23, "video": "Nq1PviCJ3" },
+        { "numero": 24, "video": "hC_LhATkA" }
+      ]
+    },
+    {
+      "numero": 4,
+      "capitulos": [
+        { "numero": 1, "video": "8x0PD9cnH" },
+        { "numero": 2, "video": "TeN2SP087" },
+        { "numero": 3, "video": "0UI3tCEH6" },
+        { "numero": 4, "video": "sZIlIGlVz" },
+        { "numero": 5, "video": "rNSPw7ntO" },
+        { "numero": 6, "video": "w4sbqd73R" },
+        { "numero": 7, "video": "lb6U_Nw8N" },
+        { "numero": 8, "video": "ENobkfeWB" },
+        { "numero": 9, "video": "08mHCrFi3" },
+        { "numero": 10, "video": "cQwDxmbGA" },
+        { "numero": 11, "video": "TFTuv7nBz" },
+        { "numero": 12, "video": "je4ZzLZUR" },
+        { "numero": 13, "video": "fXiwgsDI8" },
+        { "numero": 14, "video": "YjjcYEcNW" },
+        { "numero": 15, "video": "uKSzIimlE" },
+        { "numero": 16, "video": "o5Ce7w9lh" },
+        { "numero": 17, "video": "RmpK5MC4b" },
+        { "numero": 18, "video": "7k1YyZFMa" },
+        { "numero": 19, "video": "7Dk2BsNUF" },
+        { "numero": 20, "video": "zooKVgQyC" },
+        { "numero": 21, "video": "XY-fCnFq5" },
+        { "numero": 22, "video": "KwC6Od-BL" },
+        { "numero": 23, "video": "IkkmHA1Li" },
+        { "numero": 24, "video": "lWLHhuoKF" }
+      ]
+    }
+  ]
+},
+{
+      "id": "kore-kaite-shine",
+      "titulo": "Kore Kaite Shine",
+      "malId": 61280,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1649/154997.jpg",
+      "imagenFondo": "",
+      "descripcion": "Ai Yasumi, una estudiante de primer año de secundaria que vive en Izu-Oshima, ama el manga más que nada. Cuando se entera de que su admirada y largamente inactiva artista de manga favorita, Hoshi no Rei, exhibirá en COMITIA, emprende un viaje a Tokio. Lo que no espera, sin embargo, es que un encuentro fortuito en el evento cambiará su vida para siempre. '¿Cómo se llega a ser mangaka?' Ai entra en el mundo de la creación de manga, un camino que pensaba entender, pero del que sabe muy poco. Esta es la historia de una chica dando sus primeros pasos en el camino para convertirse en mangaka.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.70,
+      "anio": 2026,
+      "generos": ["Comedia"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "meFM_0fpY" },
+            { "numero": 2, "video": "Q7McJaCXR" },
+            { "numero": 3, "video": "F4uUrV1M8k" },
+            { "numero": 4, "video": "7GOLqfTAVf" },
+            { "numero": 5, "video": "ItUy5Oypm" },
+            { "numero": 6, "video": "QIwed72UD" },
+            { "numero": 7, "video": "ZCtmgeT40" },
+            { "numero": 8, "video": "5PhJAJK9T" },
+            { "numero": 9, "video": "DDAaTm2l4" },
+            { "numero": 10, "video": "onSq2MOsW" },
+            { "numero": 11, "video": "-peHWlxmt" },
+            { "numero": 12, "video": "2favD-_Sx" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ibitte-konai-gibo-to-gishi",
+      "titulo": "Ibitte Konai Gibo to Gishi",
+      "malId": 62102,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1912/157082.jpg",
+      "imagenFondo": "",
+      "descripcion": "Miya es la hija ilegítima de una familia prominente. Cuando su madre muere, está convencida de lo que le espera en su nuevo hogar: una vida de servidumbre y miseria a manos de su malvada madrastra y hermanastras. Sin embargo, cuando finalmente conoce a las mujeres que espera que la traten como a una sirvienta, ¡resultan ser... dulces?!",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.82,
+      "anio": 2026,
+      "generos": ["Comedia"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "myLj9amMZY" },
+            { "numero": 2, "video": "ty_YgMkxe" },
+            { "numero": 3, "video": "zB3X_H92SN" },
+            { "numero": 4, "video": "aR4T8sRyq" },
+            { "numero": 5, "video": "4kY8kGA6O" },
+            { "numero": 6, "video": "T4NH6aBTv" },
+            { "numero": 7, "video": "iMG_GUtC1" },
+            { "numero": 8, "video": "wdN5IozAwB" },
+            { "numero": 9, "video": "pdJX35QI3" },
+            { "numero": 10, "video": "LniT798wt" },
+            { "numero": 11, "video": "YmzA-XjNQ" },
+            { "numero": 12, "video": "6E2Q29eHh" }
           ]
         }
       ]

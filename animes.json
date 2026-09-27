@@ -269,51 +269,8 @@
             { "numero": 19, "video": "LCJLWXMrP" },
             { "numero": 20, "video": "ZiQVV2Yog" },
             { "numero": 21, "video": "-QuTaWcAL" },
-            { "numero": 22, "video": "5EP89EQeZ" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "mairimashita-iruma-kun-4th-season",
-      "titulo": "Mairimashita! Iruma-kun 4th Season",
-      "malId": 60310,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1434/154048.jpg",
-      "imagenFondo": "",
-      "descripcion": "Cuarta temporada de Mairimashita! Iruma-kun.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 8.10,
-      "anio": 2026,
-      "generos": ["Comedia", "Fantasía", "Sobrenatural", "Escuela"],
-      "temporadas": [
-        {
-          "numero": 4,
-          "capitulos": [
-            { "numero": 1, "video": "1htDh_F0v" },
-            { "numero": 2, "video": "jyoDpCUQN" },
-            { "numero": 3, "video": "resmhOl6j" },
-            { "numero": 4, "video": "S0AJeIYob" },
-            { "numero": 5, "video": "6Ih8NblCI" },
-            { "numero": 6, "video": "JMlsXkvPn" },
-            { "numero": 7, "video": "VafrzGnVp" },
-            { "numero": 8, "video": "ARc7ZJd_A" },
-            { "numero": 9, "video": "2m3ocZbyj" },
-            { "numero": 10, "video": "4EHwElheC" },
-            { "numero": 11, "video": "Tee9FARY4" },
-            { "numero": 12, "video": "FVWKwznBc" },
-            { "numero": 13, "video": "PtPEMHXLq" },
-            { "numero": 14, "video": "uG6xvY7b9" },
-            { "numero": 15, "video": "oyW4p8tof" },
-            { "numero": 16, "video": "-ZdSFP54U" },
-            { "numero": 17, "video": "dntHcw9vK" },
-            { "numero": 18, "video": "p2yooTjyR" },
-            { "numero": 19, "video": "5mmw6auAF" },
-            { "numero": 20, "video": "CWXZxjc-c" },
-            { "numero": 21, "video": "JLVYh1cNL" },
-            { "numero": 22, "video": "4_HkCCTSl" },
-            { "numero": 23, "video": "NGbr-0p91" }
+            { "numero": 22, "video": "5EP89EQeZ" },
+            { "numero": 23, "video": "RJHNheYHB" }
           ]
         }
       ]
@@ -365,52 +322,6 @@
       ]
     },
     {
-      "id": "mao",
-      "titulo": "Mao",
-      "malId": 62048,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1738/156386.jpg",
-      "imagenFondo": "",
-      "descripcion": "Nanoka atraviesa un portal hacia la era Taisho, donde el exorcista Mao la rescata a regañadientes de las fauces de un grotesco yokai. Cuando Nanoka regresa al presente, descubre que tiene nuevas e increíbles habilidades. Vuelve al pasado en busca de respuestas, solo para verse envuelta en la investigación de Mao sobre una serie de brutales asesinatos. Mientras sus preguntas sobre sí misma se multiplican, Nanoka descubre que Mao está maldito por un demonio gato llamado Byoki, al igual que su espada. Si alguien más que Mao intenta empuñarla, está condenado. Pero cuando la vida de Mao corre peligro, Nanoka toma su espada y la blande. (Fuente: VIZ Media)",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.95,
-      "anio": 2026,
-      "generos": ["Acción", "Romance", "Fantasía", "Sobrenatural"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "Zx6CR3daPq" },
-            { "numero": 2, "video": "IGNOoIa3N" },
-            { "numero": 3, "video": "17HPzmpjH" },
-            { "numero": 4, "video": "po7TTU5v3" },
-            { "numero": 5, "video": "Fd86VTvyH" },
-            { "numero": 6, "video": "uW8aLLA8O" },
-            { "numero": 7, "video": "M2zZLLMaX" },
-            { "numero": 8, "video": "GyYpsx8ys" },
-            { "numero": 9, "video": "Ppen-CGqw" },
-            { "numero": 10, "video": "qqMwN2wqR" },
-            { "numero": 11, "video": "W6wWNh-fb" },
-            { "numero": 12, "video": "F_1lqpZot" },
-            { "numero": 13, "video": "mH7-oSX3MV" },
-            { "numero": 14, "video": "F52r4AYzF" },
-            { "numero": 15, "video": "DyoXKwGzf" },
-            { "numero": 16, "video": "Jb8Le3ZlY" },
-            { "numero": 17, "video": "kV_LXZ6JQ" },
-            { "numero": 18, "video": "FUcKq0NM7H" },
-            { "numero": 19, "video": "fQVzS9tZ2" },
-            { "numero": 20, "video": "BZPruHYXf" },
-            { "numero": 21, "video": "lZ88hdf6l" },
-            { "numero": 22, "video": "dC5iw_ylA" },
-            { "numero": 23, "video": "6SaDCX5AM" },
-            { "numero": 24, "video": "7-VXPhD3W" },
-            { "numero": 25, "video": "xmDrZ2KpM" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "mushoku-tensei-iii",
       "titulo": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "malId": 59193,
@@ -445,71 +356,6 @@
       ]
     },
     {
-      "id": "grow-up-show-himawari-no-circus-dan",
-      "titulo": "Grow Up Show: Himawari no Circus-dan",
-      "malId": 62051,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1329/158716.jpg",
-      "imagenFondo": "",
-      "descripcion": "En el Japón de mediados de la década de 1950, durante el apogeo de su auge económico, el circo era una forma de entretenimiento que se convirtió en una parte central de la vida de muchas personas. Las mejores compañías pueden participar en el festival \"Colección de Circos\", de renombre mundial, y muchas vienen de todo Japón para competir a diario. La historia se centra en la compañía del \"Circo Girasol\", que lucha por sobrevivir, dirigida por la directora Maria, y una nueva prodigio que se une a sus filas por razones desconocidas: Mizuka Tsurumaki. ¿Es su encuentro con los miembros tan originales de la compañía del Circo Girasol una coincidencia o el destino? ¡Este circo único que muestra a jóvenes persiguiendo sus sueños comienza! (Fuente: Sitio oficial, traducido)",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.17,
-      "anio": 2026,
-      "generos": ["Drama", "Música", "Recuentos de la vida"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "3tEh_ekIg" },
-            { "numero": 2, "video": "x9JgaEUR0" },
-            { "numero": 3, "video": "D_2zYQy5r" },
-            { "numero": 4, "video": "4AKhfzTBO" },
-            { "numero": 5, "video": "15LiBXVQc" },
-            { "numero": 6, "video": "647VYf9nZ" },
-            { "numero": 7, "video": "qOmO0qxa6" },
-            { "numero": 8, "video": "NsZp-gLJ2" },
-            { "numero": 9, "video": "N0apQbsikc" },
-            { "numero": 10, "video": "evv1kOndF" },
-            { "numero": 11, "video": "QYfdCL1v5" },
-            { "numero": 12, "video": "baxZV1GZj" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "kabushikigaisha-magi-lumiere-2nd-season",
-      "titulo": "Kabushikigaisha Magi-Lumière 2nd Season",
-      "malId": 60552,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1917/156186.jpg",
-      "imagenFondo": "",
-      "descripcion": "Segunda temporada de Kabushikigaisha Magi-Lumière.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.16,
-      "anio": 2026,
-      "generos": ["Acción", "Comedia", "Fantasía", "Magia"],
-      "temporadas": [
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "kkaPpFf-3" },
-            { "numero": 2, "video": "ksYLCtGF4" },
-            { "numero": 3, "video": "KA3aUUHrs" },
-            { "numero": 4, "video": "bO-iM4aCF" },
-            { "numero": 5, "video": "y_5IkK5EO" },
-            { "numero": 6, "video": "idVj2Rf0K" },
-            { "numero": 7, "video": "gfRSDcBhj" },
-            { "numero": 8, "video": "RgJAwgOu7" },
-            { "numero": 9, "video": "TgMeVIHuP" },
-            { "numero": 10, "video": "xbzykhRRF" },
-            { "numero": 11, "video": "pJ9NNyUrY" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "oneechan-gokko",
       "titulo": "Oneechan Gokko",
       "malId": 63396,
@@ -527,38 +373,6 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "ssyD-kR-n" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
-      "titulo": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-      "malId": 62535,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1350/159514.jpg",
-      "imagenFondo": "",
-      "descripcion": "Narukami Ryusei es un típico NEET. Pasa sus días encerrado en su habitación jugando videojuegos sin preocuparse por el mundo, viviendo una vida perezosa. Pero la verdad es que Ryusei solía ser un poderoso rey demonio en otro mundo. Entonces, ¿por qué no pasar esta nueva vida haciendo lo que quiera? Excepto que no fue el único que reencarnó en este mundo. ¡El héroe que lo derribó también está aquí, y resulta ser una linda chica de secundaria! ¿Podrá Ryusei sobrevivir al reencuentro con su enemigo en un nuevo mundo, o se verá peleando incluso en esta vida? (Fuente: Seven Seas Entertainment)",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.04,
-      "anio": 2026,
-      "generos": ["Acción", "Comedia", "Fantasía", "Romance"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "X1okg11LX" },
-            { "numero": 2, "video": "LVYDn1c7c" },
-            { "numero": 3, "video": "RPNyvnJ0b" },
-            { "numero": 4, "video": "SVWhMfu8t" },
-            { "numero": 5, "video": "d6RvN7pEm" },
-            { "numero": 6, "video": "C3uhRmO1w" },
-            { "numero": 7, "video": "oN5M5lysV" },
-            { "numero": 8, "video": "5mfzAfc2x" },
-            { "numero": 9, "video": "qHQHMxiSa" },
-            { "numero": 10, "video": "UbvMakCb-s" },
-            { "numero": 11, "video": "pd5mlmdVF" }
           ]
         }
       ]
@@ -1257,6 +1071,28 @@
             { "numero": 6, "video": "jgO6KsIlr" },
             { "numero": 7, "video": "POOqBPcOi" },
             { "numero": 8, "video": "tWrQ37gl8" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yasei-no-last-boss-ga-arawarta-2nd-season",
+      "titulo": "Yasei no Last Boss ga Arawareta! 2nd Season",
+      "malId": 63140,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1689/160128.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda temporada de Yasei no Last Boss ga Arawareta!.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.54,
+      "anio": 2026,
+      "generos": ["Acción", "Aventura", "Fantasía", "Isekai"],
+      "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "mJJg66qYP" }
           ]
         }
       ]
@@ -16268,38 +16104,39 @@
       ]
     },
     {
-  "id": "grow-up-show-himawari-no-circus-dan",
-  "titulo": "Grow Up Show: Himawari no Circus-dan",
-  "malId": 62051,
-  "imagen": "https://cdn.myanimelist.net/images/anime/1329/158716.jpg",
-  "imagenFondo": "",
-  "descripcion": "En el Japón del auge económico de mediados de los años 50, el circo era una forma de entretenimiento que se convirtió en una parte central de la vida de muchas personas. Las mejores compañías tienen permitido participar en el festival de renombre mundial \"Circus Collection\", y muchas vienen de todo Japón para competir a diario. La historia se centra en la compañía en apuros \"Sunflower Circus\", liderada por la maestra de ceremonias Maria, y una nueva prodigio que se une a sus filas por razones desconocidas: Mizuka Tsurumaki. ¿Es su encuentro con los miembros tan individuales de la compañía Sunflower Circus una coincidencia o el destino? ¡Comienza este espectáculo circense único en su tipo que retrata a jóvenes chicas persiguiendo sus sueños!",
-  "estado": "emision",
-  "destacado": false,
-  "finalizado": true,
-  "puntuacion": 7.18,
-  "anio": 2026,
-  "generos": ["Recuentos de la vida", "Histórico", "Artes Escénicas"],
-  "temporadas": [
-    {
-      "numero": 1,
-      "capitulos": [
-        { "numero": 1, "video": "3tEh_ekIg" },
-        { "numero": 2, "video": "x9JgaEUR0" },
-        { "numero": 3, "video": "D_2zYQy5r" },
-        { "numero": 4, "video": "4AKhfzTBO" },
-        { "numero": 5, "video": "15LiBXVQc" },
-        { "numero": 6, "video": "647VYf9nZ" },
-        { "numero": 7, "video": "qOmO0qxa6" },
-        { "numero": 8, "video": "NsZp-gLJ2" },
-        { "numero": 9, "video": "N0apQbsikc" },
-        { "numero": 10, "video": "evv1kOndF" },
-        { "numero": 11, "video": "QYfdCL1v5" },
-        { "numero": 12, "video": "baxZV1GZj" }
+      "id": "grow-up-show-himawari-no-circus-dan",
+      "titulo": "Grow Up Show: Himawari no Circus-dan",
+      "malId": 62051,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1329/158716.jpg",
+      "imagenFondo": "",
+      "descripcion": "En el Japón de mediados de la década de 1950, durante el apogeo de su auge económico, el circo era una forma de entretenimiento que se convirtió en una parte central de la vida de muchas personas. Las mejores compañías pueden participar en el festival \"Colección de Circos\", de renombre mundial, y muchas vienen de todo Japón para competir a diario. La historia se centra en la compañía del \"Circo Girasol\", que lucha por sobrevivir, dirigida por la directora Maria, y una nueva prodigio que se une a sus filas por razones desconocidas: Mizuka Tsurumaki. ¿Es su encuentro con los miembros tan originales de la compañía del Circo Girasol una coincidencia o el destino? ¡Este circo único que muestra a jóvenes persiguiendo sus sueños comienza! (Fuente: Sitio oficial, traducido)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.17,
+      "anio": 2026,
+      "generos": ["Drama", "Música", "Recuentos de la vida"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "3tEh_ekIg" },
+            { "numero": 2, "video": "x9JgaEUR0" },
+            { "numero": 3, "video": "D_2zYQy5r" },
+            { "numero": 4, "video": "4AKhfzTBO" },
+            { "numero": 5, "video": "15LiBXVQc" },
+            { "numero": 6, "video": "647VYf9nZ" },
+            { "numero": 7, "video": "qOmO0qxa6" },
+            { "numero": 8, "video": "NsZp-gLJ2" },
+            { "numero": 9, "video": "N0apQbsikc" },
+            { "numero": 10, "video": "evv1kOndF" },
+            { "numero": 11, "video": "QYfdCL1v5" },
+            { "numero": 12, "video": "baxZV1GZj" },
+            { "numero": 13, "video": "QI3pdyhU5" }
+          ]
+        }
       ]
-    }
-  ]
-},
+    },
 {
       "id": "iwamoto-senpai-no-suisen",
       "titulo": "Iwamoto-senpai no Suisen",
@@ -17361,7 +17198,7 @@
   "descripcion": "Satoru Mikami, un oficinista de 37 años, lleva una vida monótona en Tokio y no le va mal, salvo por el hecho de que nunca ha conseguido novia. Durante un encuentro casual con un colega, es apuñalado por un asaltante al azar en la calle. Mientras sucumbe a sus heridas, una voz peculiar resuena en su mente y recita una serie de comandos que el moribundo no logra entender. Cuando Satoru recupera la conciencia, descubre que ha reencarnado como una masa de limo en un reino desconocido. Al hacerlo, adquiere nuevas habilidades, en particular, el poder de devorar cualquier cosa y imitar su apariencia y habilidades. Entonces se topa con el monstruo sellado de nivel Catástrofe, el \"Dragón de la Tormenta\" Veldora, que había sido encerrado durante los últimos 300 años por reducir una ciudad a cenizas. Compadecido de su situación, Satoru se hace amigo de él y le promete ayudarlo a destruir el sello. A cambio, Veldora le otorga el nombre de Rimuru Tempest para concederle protección divina. Ahora, liberado de las trivialidades de su vida pasada, Rimuru emprende un nuevo viaje con un objetivo distinto en mente. A medida que se acostumbra a su nueva fisonomía, sus pegajosas travesuras se extienden por todo el mundo, alterando gradualmente su destino.",
   "estado": "emision",
   "destacado": false,
-  "finalizado": false,
+  "finalizado": true,
   "puntuacion": 8.15,
   "anio": 2018,
   "generos": ["Acción", "Aventura", "Fantasía", "Magia", "Reencarnación", "Isekai"],
@@ -17493,7 +17330,7 @@
       "descripcion": "Ai Yasumi, una estudiante de primer año de secundaria que vive en Izu-Oshima, ama el manga más que nada. Cuando se entera de que su admirada y largamente inactiva artista de manga favorita, Hoshi no Rei, exhibirá en COMITIA, emprende un viaje a Tokio. Lo que no espera, sin embargo, es que un encuentro fortuito en el evento cambiará su vida para siempre. '¿Cómo se llega a ser mangaka?' Ai entra en el mundo de la creación de manga, un camino que pensaba entender, pero del que sabe muy poco. Esta es la historia de una chica dando sus primeros pasos en el camino para convertirse en mangaka.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 7.70,
       "anio": 2026,
       "generos": ["Comedia"],
@@ -17526,7 +17363,7 @@
       "descripcion": "Miya es la hija ilegítima de una familia prominente. Cuando su madre muere, está convencida de lo que le espera en su nuevo hogar: una vida de servidumbre y miseria a manos de su malvada madrastra y hermanastras. Sin embargo, cuando finalmente conoce a las mujeres que espera que la traten como a una sirvienta, ¡resultan ser... dulces?!",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 6.82,
       "anio": 2026,
       "generos": ["Comedia"],
@@ -17549,7 +17386,262 @@
           ]
         }
       ]
+    },
+    {
+  "id": "mairimashita-iruma-kun",
+  "titulo": "Mairimashita! Iruma-kun",
+  "malId": 39196,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1009/103187.jpg",
+  "imagenFondo": "",
+  "descripcion": "Iruma Suzuki, de catorce años, ha tenido una vida desafortunada, teniendo que trabajar para ganar dinero para sus irresponsables padres a pesar de ser menor de edad. Un día, descubre que sus padres lo vendieron al demonio Sullivan. Sin embargo, las preocupaciones de Iruma sobre lo que será de él pronto se disipan, ya que Sullivan solo quiere un nieto, lo consiente y lo hace asistir a la escuela de demonios Babyls. Al principio, Iruma intenta mantener un perfil bajo por miedo a que sus compañeros descubran que es humano. Desafortunadamente, esto termina siendo más difícil de lo que esperaba. Resulta que el propio Sullivan es el director de la escuela, ¡y todos esperan que él se convierta en el próximo Rey Demonio! Iruma se encuentra inmediatamente en una situación escandalosa cuando tiene que cantar un hechizo prohibido frente a toda la escuela. Con esto, Iruma se gana instantáneamente una reputación que no quiere. Aun así, está destinado a verse envuelto en circunstancias más extrañas.",
+  "estado": "emision",
+  "destacado": false,
+  "finalizado": true,
+  "puntuacion": 7.74,
+  "anio": 2019,
+  "generos": ["Comedia", "Fantasía", "Escuela", "Shounen"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "gIXb67iYP" },
+        { "numero": 2, "video": "Ynn5t6QQ5" },
+        { "numero": 3, "video": "FxcmMuTL_" },
+        { "numero": 4, "video": "cemIMkMin" },
+        { "numero": 5, "video": "G5kuDtuJN" },
+        { "numero": 6, "video": "bORfnaD8l" },
+        { "numero": 7, "video": "nUtgBtYa5" },
+        { "numero": 8, "video": "Gk15NQBmj" },
+        { "numero": 9, "video": "V2kau_SuG" },
+        { "numero": 10, "video": "lU0BwUWXZS" },
+        { "numero": 11, "video": "LZvo0uckF0" },
+        { "numero": 12, "video": "vsiCj4IoQ" },
+        { "numero": 13, "video": "fBM66CEYr" },
+        { "numero": 14, "video": "MUI-TW-zo" },
+        { "numero": 15, "video": "B6KVxEjc2H" },
+        { "numero": 16, "video": "8xv4m4zfc" },
+        { "numero": 17, "video": "9MH7oYiwQ" },
+        { "numero": 18, "video": "rZ26g5iqg" },
+        { "numero": 19, "video": "eYNpFCRoi" },
+        { "numero": 20, "video": "vsBk2dEUR" },
+        { "numero": 21, "video": "S3jdvFd3w" },
+        { "numero": 22, "video": "3vQM7qJCL" },
+        { "numero": 23, "video": "APsyxh7Nq" }
+      ]
+    },
+    {
+      "numero": 2,
+      "capitulos": [
+        { "numero": 1, "video": "aRxz24-Mh" },
+        { "numero": 2, "video": "Sagc1-ojp" },
+        { "numero": 3, "video": "RAQz3roFo" },
+        { "numero": 4, "video": "6w4tK3-fd" },
+        { "numero": 5, "video": "PZWlziBrZ" },
+        { "numero": 6, "video": "sbMF59Xyk" },
+        { "numero": 7, "video": "ZwhH7jnSU" },
+        { "numero": 8, "video": "kipYH9rCD" },
+        { "numero": 9, "video": "FMxntftdQ" },
+        { "numero": 10, "video": "XdQNOI-Jq" },
+        { "numero": 11, "video": "Tp8YB_jYg" },
+        { "numero": 12, "video": "rh-sUEQu3" },
+        { "numero": 13, "video": "c1PZ1RjON" },
+        { "numero": 14, "video": "_A085CxWU" },
+        { "numero": 15, "video": "E6FJazyqi" },
+        { "numero": 16, "video": "HvuOn4PKn" },
+        { "numero": 17, "video": "T7I7OuC8m" },
+        { "numero": 18, "video": "olbODeaf1" },
+        { "numero": 19, "video": "fFaj7b_zx" },
+        { "numero": 20, "video": "pIA4wKwvL" },
+        { "numero": 21, "video": "-1cHBKapH" }
+      ]
+    },
+    {
+      "numero": 3,
+      "capitulos": [
+        { "numero": 1, "video": "Yp0y_5tNm" },
+        { "numero": 2, "video": "saBGP_W_y" },
+        { "numero": 3, "video": "8OG-KG4FX" },
+        { "numero": 4, "video": "AmSsY00N9" },
+        { "numero": 5, "video": "QNUY0DcKb" },
+        { "numero": 6, "video": "8Lm13nahH" },
+        { "numero": 7, "video": "8bSSxgulx" },
+        { "numero": 8, "video": "nWjY-sGPU" },
+        { "numero": 9, "video": "eXqlki0bha" },
+        { "numero": 10, "video": "AXFhWPcCr" },
+        { "numero": 11, "video": "TZXfn3dJM" },
+        { "numero": 12, "video": "v24hv0aNa" },
+        { "numero": 13, "video": "3xeG8cL09" },
+        { "numero": 14, "video": "jS-lMFmR4" },
+        { "numero": 15, "video": "EB6V9D2Kg" },
+        { "numero": 16, "video": "TWsnKxytjX" },
+        { "numero": 17, "video": "-rpi6Y3_n" },
+        { "numero": 18, "video": "cFuoOU3x7" },
+        { "numero": 19, "video": "SM1ZUjrix" },
+        { "numero": 20, "video": "uiEnFuPTF" },
+        { "numero": 21, "video": "kt8QyMrvk" }
+      ]
+    },
+    {
+      "numero": 4,
+      "capitulos": [
+        { "numero": 1, "video": "1htDh_F0v" },
+        { "numero": 2, "video": "jyoDpCUQN" },
+        { "numero": 3, "video": "resmhOl6j" },
+        { "numero": 4, "video": "S0AJeIYob" },
+        { "numero": 5, "video": "6Ih8NblCI" },
+        { "numero": 6, "video": "JMlsXkvPn" },
+        { "numero": 7, "video": "VafrzGnVp" },
+        { "numero": 8, "video": "ARc7ZJd_A" },
+        { "numero": 9, "video": "2m3ocZbyj" },
+        { "numero": 10, "video": "4EHwElheC" },
+        { "numero": 11, "video": "Tee9FARY4" },
+        { "numero": 12, "video": "FVWKwznBc" },
+        { "numero": 13, "video": "PtPEMHXLq" },
+        { "numero": 14, "video": "uG6xvY7b9" },
+        { "numero": 15, "video": "oyW4p8tof" },
+        { "numero": 16, "video": "-ZdSFP54U" },
+        { "numero": 17, "video": "dntHcw9vK" },
+        { "numero": 18, "video": "p2yooTjyR" },
+        { "numero": 19, "video": "5mmw6auAF" },
+        { "numero": 20, "video": "CWXZxjc-c" },
+        { "numero": 21, "video": "JLVYh1cNL" },
+        { "numero": 22, "video": "4_HkCCTSl" },
+        { "numero": 23, "video": "NGbr-0p91" },
+        { "numero": 24, "video": "uazBsQhvg" }
+      ]
     }
+  ]
+},
+{
+      "id": "mao",
+      "titulo": "Mao",
+      "malId": 62048,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1738/156386.jpg",
+      "imagenFondo": "",
+      "descripcion": "Nanoka atraviesa un portal hacia la era Taisho, donde el exorcista Mao la rescata a regañadientes de las fauces de un grotesco yokai. Cuando Nanoka regresa al presente, descubre que tiene nuevas e increíbles habilidades. Vuelve al pasado en busca de respuestas, solo para verse envuelta en la investigación de Mao sobre una serie de brutales asesinatos. Mientras sus preguntas sobre sí misma se multiplican, Nanoka descubre que Mao está maldito por un demonio gato llamado Byoki, al igual que su espada. Si alguien más que Mao intenta empuñarla, está condenado. Pero cuando la vida de Mao corre peligro, Nanoka toma su espada y la blande. (Fuente: VIZ Media)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.95,
+      "anio": 2026,
+      "generos": ["Acción", "Romance", "Fantasía", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "Zx6CR3daPq" },
+            { "numero": 2, "video": "IGNOoIa3N" },
+            { "numero": 3, "video": "17HPzmpjH" },
+            { "numero": 4, "video": "po7TTU5v3" },
+            { "numero": 5, "video": "Fd86VTvyH" },
+            { "numero": 6, "video": "uW8aLLA8O" },
+            { "numero": 7, "video": "M2zZLLMaX" },
+            { "numero": 8, "video": "GyYpsx8ys" },
+            { "numero": 9, "video": "Ppen-CGqw" },
+            { "numero": 10, "video": "qqMwN2wqR" },
+            { "numero": 11, "video": "W6wWNh-fb" },
+            { "numero": 12, "video": "F_1lqpZot" },
+            { "numero": 13, "video": "mH7-oSX3MV" },
+            { "numero": 14, "video": "F52r4AYzF" },
+            { "numero": 15, "video": "DyoXKwGzf" },
+            { "numero": 16, "video": "Jb8Le3ZlY" },
+            { "numero": 17, "video": "kV_LXZ6JQ" },
+            { "numero": 18, "video": "FUcKq0NM7H" },
+            { "numero": 19, "video": "fQVzS9tZ2" },
+            { "numero": 20, "video": "BZPruHYXf" },
+            { "numero": 21, "video": "lZ88hdf6l" },
+            { "numero": 22, "video": "dC5iw_ylA" },
+            { "numero": 23, "video": "6SaDCX5AM" },
+            { "numero": 24, "video": "7-VXPhD3W" },
+            { "numero": 25, "video": "xmDrZ2KpM" },
+            { "numero": 26, "video": "dlpcq33Of" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai",
+      "titulo": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
+      "malId": 62535,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1350/159514.jpg",
+      "imagenFondo": "",
+      "descripcion": "Narukami Ryusei es un típico NEET. Pasa sus días encerrado en su habitación jugando videojuegos sin preocuparse por el mundo, viviendo una vida perezosa. Pero la verdad es que Ryusei solía ser un poderoso rey demonio en otro mundo. Entonces, ¿por qué no pasar esta nueva vida haciendo lo que quiera? Excepto que no fue el único que reencarnó en este mundo. ¡El héroe que lo derribó también está aquí, y resulta ser una linda chica de secundaria! ¿Podrá Ryusei sobrevivir al reencuentro con su enemigo en un nuevo mundo, o se verá peleando incluso en esta vida? (Fuente: Seven Seas Entertainment)",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.04,
+      "anio": 2026,
+      "generos": ["Acción", "Comedia", "Fantasía", "Romance"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "X1okg11LX" },
+            { "numero": 2, "video": "LVYDn1c7c" },
+            { "numero": 3, "video": "RPNyvnJ0b" },
+            { "numero": 4, "video": "SVWhMfu8t" },
+            { "numero": 5, "video": "d6RvN7pEm" },
+            { "numero": 6, "video": "C3uhRmO1w" },
+            { "numero": 7, "video": "oN5M5lysV" },
+            { "numero": 8, "video": "5mfzAfc2x" },
+            { "numero": 9, "video": "qHQHMxiSa" },
+            { "numero": 10, "video": "UbvMakCb-s" },
+            { "numero": 11, "video": "pd5mlmdVF" },
+            { "numero": 12, "video": "-2Xmxc2qS" }
+          ]
+        }
+      ]
+    },
+    {
+  "id": "kabushikigaisha-magi-lumiere",
+  "titulo": "Kabushikigaisha Magi-Lumière",
+  "malId": 57360,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1926/145102.jpg",
+  "imagenFondo": "",
+  "descripcion": "En los últimos años, criaturas conocidas como Kaii han atacado frecuentemente las ciudades causando destrucción. Exterminar a estos monstruos se convirtió rápidamente en una profesión popular y respetada, llevada a cabo por chicas mágicas. Más de quinientas compañías de chicas mágicas, desde pequeñas empresas hasta grandes corporaciones, ofrecen su ayuda a quienes la necesitan. Kana Sakuragi es una estudiante universitaria aplicada que lucha por encontrar trabajo a pesar de asistir a numerosas entrevistas. Pero cuando un Kaii ataca durante su última entrevista, se encuentra asistiendo a la chica mágica que responde a la crisis. Aunque carece de experiencia en combate, Kana confía en su excepcional memoria y conocimiento para ayudar a someter al monstruo. Hitomi Koshigaya, la testaruda chica mágica que enfrentó al Kaii, reconoce el potencial de Kana y la invita a unirse a Magilumiere Magical Girls Inc.—la startup donde trabaja Hitomi. Deseando marcar la diferencia, Kana acepta la oferta de convertirse ella misma en chica mágica. Aunque Kana puede no estar hecha para el mundo corporativo, pronto queda claro que su verdadera vocación es ascender como una de las chicas mágicas más talentosas que existen. [Escrito por MAL Rewrite]",
+  "estado": "emision",
+  "destacado": false,
+  "finalizado": true,
+  "puntuacion": 6.98,
+  "anio": 2024,
+  "generos": ["Acción", "Shounen"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "jm5p6UlfL" },
+        { "numero": 2, "video": "_cTR27Wx3" },
+        { "numero": 3, "video": "2eQ5VKtk7" },
+        { "numero": 4, "video": "BueDh4mW6" },
+        { "numero": 5, "video": "w9UziYmBi" },
+        { "numero": 6, "video": "JcUlwcqhz" },
+        { "numero": 7, "video": "nzUvNy5NH" },
+        { "numero": 8, "video": "NViDEX-st" },
+        { "numero": 9, "video": "4pOiHn2Nx" },
+        { "numero": 10, "video": "tWVxNDboU" },
+        { "numero": 11, "video": "0oSKguJ_V" },
+        { "numero": 12, "video": "QJajgeTx6" }
+      ]
+    },
+    {
+      "numero": 2,
+      "capitulos": [
+        { "numero": 1, "video": "kkaPpFf-3" },
+        { "numero": 2, "video": "ksYLCtGF4" },
+        { "numero": 3, "video": "KA3aUUHrs" },
+        { "numero": 4, "video": "bO-iM4aCF" },
+        { "numero": 5, "video": "y_5IkK5EO" },
+        { "numero": 6, "video": "idVj2Rf0K" },
+        { "numero": 7, "video": "gfRSDcBhj" },
+        { "numero": 8, "video": "RgJAwgOu7" },
+        { "numero": 9, "video": "TgMeVIHuP" },
+        { "numero": 10, "video": "xbzykhRRF" },
+        { "numero": 11, "video": "pJ9NNyUrY" },
+        { "numero": 12, "video": "-cVNRd0_a" }
+      ]
+    }
+  ]
+}
   ],
   "idsEnEmision": [
     "cardfight-vanguard-divinez-genma-seisen-hen",

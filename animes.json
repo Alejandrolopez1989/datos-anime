@@ -545,52 +545,6 @@
       ]
     },
     {
-      "id": "liar-game",
-      "titulo": "Liar Game",
-      "malId": 62331,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1984/158634.jpg",
-      "imagenFondo": "",
-      "descripcion": "Nao Kanzaki es honesta hasta el extremo. Incorrupta y virtuosa, Nao es el blanco perfecto para un esquema a gran escala: el llamado Juego de Mentiras. De repente, posee cien millones de yenes y se espera que robe la misma cantidad a su oponente asignado —su antiguo profesor de secundaria— o se enfrente a una deuda aplastante. Confiando en su profesor sin cuestionarlo, Nao pronto se da cuenta de que está atrapada. Para obtener una ventaja, Nao se pone en contacto con Shinichi Akiyama, un brillante estafador recién salido de prisión. Aunque Akiyama no tiene una razón real para ayudar a la chica ingenua, termina ayudándola a ganar. Sin embargo, impulsada por su inquebrantable sentido de la justicia, Nao decide continuar a la siguiente ronda, y Akiyama, sin querer dejarla fracasar, se une a ella. En el Juego de Mentiras, se espera y se requiere que los participantes engañen, manipulen y traicionen o queden enterrados en deudas de por vida. Sin embargo, Nao, con la ayuda del genio de Akiyama, está decidida a ganar el juego sin abandonar sus principios morales y demostrar que la generosidad y la sinceridad siempre prevalecerán.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 6.41,
-      "anio": 2026,
-      "generos": ["Drama", "Suspense"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "F89SMj_bh" },
-            { "numero": 2, "video": "z9nBvXvXi" },
-            { "numero": 3, "video": "hrNk0sAdPo" },
-            { "numero": 4, "video": "gAXz4gafO" },
-            { "numero": 5, "video": "Gh0gYMLkq" },
-            { "numero": 6, "video": "xi5zCeOiV" },
-            { "numero": 7, "video": "RIhIG6UGG" },
-            { "numero": 8, "video": "Av842vPIw" },
-            { "numero": 9, "video": "upiLmObEa" },
-            { "numero": 10, "video": "PaggjV4t7" },
-            { "numero": 11, "video": "OJys_ia7-" },
-            { "numero": 12, "video": "wowFxopoB" },
-            { "numero": 13, "video": "HeFxQyz_a" },
-            { "numero": 14, "video": "vNuzihYDTm" },
-            { "numero": 15, "video": "m0OruqrNv" },
-            { "numero": 16, "video": "dLg0JLIVi" },
-            { "numero": 17, "video": "1lKCB2bA0" },
-            { "numero": 18, "video": "-pN1mnHXI" },
-            { "numero": 19, "video": "y8GLBQBvh" },
-            { "numero": 20, "video": "IkX5WXtaU" },
-            { "numero": 21, "video": "P1b9IDKYo" },
-            { "numero": 22, "video": "QwSb5mWwQ" },
-            { "numero": 23, "video": "dqwSoaw_m" },
-            { "numero": 24, "video": "9JulWsvug" },
-            { "numero": 25, "video": "g813hHS1p" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "toumei-na-yoru-ni-kakeru-kimi-to",
       "titulo": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "malId": 62936,
@@ -17584,6 +17538,53 @@
             { "numero": 10, "video": "SDQ-EcFdV" },
             { "numero": 11, "video": "_7BbHwOb3" },
             { "numero": 12, "video": "rktTc8hRX" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liar-game",
+      "titulo": "Liar Game",
+      "malId": 62331,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1984/158634.jpg",
+      "imagenFondo": "",
+      "descripcion": "Nao Kanzaki es honesta hasta el extremo. Incorrupta y virtuosa, Nao es el blanco perfecto para un esquema a gran escala: el llamado Juego de Mentiras. De repente, posee cien millones de yenes y se espera que robe la misma cantidad a su oponente asignado —su antiguo profesor de secundaria— o se enfrente a una deuda aplastante. Confiando en su profesor sin cuestionarlo, Nao pronto se da cuenta de que está atrapada. Para obtener una ventaja, Nao se pone en contacto con Shinichi Akiyama, un brillante estafador recién salido de prisión. Aunque Akiyama no tiene una razón real para ayudar a la chica ingenua, termina ayudándola a ganar. Sin embargo, impulsada por su inquebrantable sentido de la justicia, Nao decide continuar a la siguiente ronda, y Akiyama, sin querer dejarla fracasar, se une a ella. En el Juego de Mentiras, se espera y se requiere que los participantes engañen, manipulen y traicionen o queden enterrados en deudas de por vida. Sin embargo, Nao, con la ayuda del genio de Akiyama, está decidida a ganar el juego sin abandonar sus principios morales y demostrar que la generosidad y la sinceridad siempre prevalecerán.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 6.41,
+      "anio": 2026,
+      "generos": ["Drama", "Suspense"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "F89SMj_bh" },
+            { "numero": 2, "video": "z9nBvXvXi" },
+            { "numero": 3, "video": "hrNk0sAdPo" },
+            { "numero": 4, "video": "gAXz4gafO" },
+            { "numero": 5, "video": "Gh0gYMLkq" },
+            { "numero": 6, "video": "xi5zCeOiV" },
+            { "numero": 7, "video": "RIhIG6UGG" },
+            { "numero": 8, "video": "Av842vPIw" },
+            { "numero": 9, "video": "upiLmObEa" },
+            { "numero": 10, "video": "PaggjV4t7" },
+            { "numero": 11, "video": "OJys_ia7-" },
+            { "numero": 12, "video": "wowFxopoB" },
+            { "numero": 13, "video": "HeFxQyz_a" },
+            { "numero": 14, "video": "vNuzihYDTm" },
+            { "numero": 15, "video": "m0OruqrNv" },
+            { "numero": 16, "video": "dLg0JLIVi" },
+            { "numero": 17, "video": "1lKCB2bA0" },
+            { "numero": 18, "video": "-pN1mnHXI" },
+            { "numero": 19, "video": "y8GLBQBvh" },
+            { "numero": 20, "video": "IkX5WXtaU" },
+            { "numero": 21, "video": "P1b9IDKYo" },
+            { "numero": 22, "video": "QwSb5mWwQ" },
+            { "numero": 23, "video": "dqwSoaw_m" },
+            { "numero": 24, "video": "9JulWsvug" },
+            { "numero": 25, "video": "g813hHS1p" },
+            { "numero": 26, "video": "quBEBGG5fn" }
           ]
         }
       ]

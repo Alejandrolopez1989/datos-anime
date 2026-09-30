@@ -610,39 +610,6 @@
       ]
     },
     {
-      "id": "kimi-ga-shinu-made-koi-wo-shitai",
-      "titulo": "Kimi ga Shinu made Koi wo Shitai",
-      "malId": 61126,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1096/158712.jpg",
-      "imagenFondo": "",
-      "descripcion": "La muerte de la compañera de cuarto de Sheena Totsuki se anuncia casualmente al comienzo de la clase, y el día continúa como siempre. En un orfanato que cría a los niños como soldados, la muerte no es nada nuevo para los residentes. Con su país de origen envuelto en una guerra que se ha prolongado demasiados años y no muestra signos de detenerse, los niños de la institución son enviados a morir en batalla todos los días. A diferencia de los otros huérfanos, Sheena está profundamente perturbada por el conflicto en curso y desea que termine. La noche de la muerte de su compañera de cuarto, Sheena conoció a una chica cubierta de sangre que permaneció jubilosa a pesar de su condición. Al día siguiente, la chica aparece como una nueva estudiante en la clase de Sheena y se presenta como Mimi Kagari. Inicialmente considerada un mito escolar, se dice que Mimi es el arma secreta del orfanato: una chica que no puede morir. Asignada como la nueva compañera de cuarto de Sheena, Mimi espera llevarse bien con ella y acostumbrarse a la vida escolar. Sin embargo, inquieta por la actitud despreocupada de Mimi hacia la guerra, Sheena lucha por aceptar el mundo en el que viven, todo mientras su amistad inusual florece en medio de la sombría situación.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.74,
-      "anio": 2026,
-      "generos": ["Drama", "Fantasía", "Girls Love"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "VjFf38e9X" },
-            { "numero": 2, "video": "eVlacGiNY" },
-            { "numero": 3, "video": "rwniMG-ms" },
-            { "numero": 4, "video": "3mYQkl7ju" },
-            { "numero": 5, "video": "S_V5YKn6g" },
-            { "numero": 6, "video": "U8zNgJHbY" },
-            { "numero": 7, "video": "RoO6O8a7U" },
-            { "numero": 8, "video": "NxiW2nwI0" },
-            { "numero": 9, "video": "vCntCY0wn" },
-            { "numero": 10, "video": "MyR8-zo2W" },
-            { "numero": 11, "video": "jPoThI2tL" },
-            { "numero": 12, "video": "QDqyn2iHn" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "sora-wa-akai-kawa-no-hotori",
       "titulo": "Sora wa Akai Kawa no Hotori",
       "malId": 63489,
@@ -670,7 +637,8 @@
             { "numero": 9, "video": "YFObXSznc" },
             { "numero": 10, "video": "NDtHU0Td_" },
             { "numero": 11, "video": "wi4bSpIgA" },
-            { "numero": 12, "video": "9TLIG4RDh" }
+            { "numero": 12, "video": "9TLIG4RDh" },
+            { "numero": 13, "video": "i26O0De91" }
           ]
         }
       ]
@@ -17585,6 +17553,40 @@
             { "numero": 24, "video": "9JulWsvug" },
             { "numero": 25, "video": "g813hHS1p" },
             { "numero": 26, "video": "quBEBGG5fn" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kimi-ga-shinu-made-koi-wo-shitai",
+      "titulo": "Kimi ga Shinu made Koi wo Shitai",
+      "malId": 61126,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1096/158712.jpg",
+      "imagenFondo": "",
+      "descripcion": "La muerte de la compañera de cuarto de Sheena Totsuki se anuncia casualmente al comienzo de la clase, y el día continúa como siempre. En un orfanato que cría a los niños como soldados, la muerte no es nada nuevo para los residentes. Con su país de origen envuelto en una guerra que se ha prolongado demasiados años y no muestra signos de detenerse, los niños de la institución son enviados a morir en batalla todos los días. A diferencia de los otros huérfanos, Sheena está profundamente perturbada por el conflicto en curso y desea que termine. La noche de la muerte de su compañera de cuarto, Sheena conoció a una chica cubierta de sangre que permaneció jubilosa a pesar de su condición. Al día siguiente, la chica aparece como una nueva estudiante en la clase de Sheena y se presenta como Mimi Kagari. Inicialmente considerada un mito escolar, se dice que Mimi es el arma secreta del orfanato: una chica que no puede morir. Asignada como la nueva compañera de cuarto de Sheena, Mimi espera llevarse bien con ella y acostumbrarse a la vida escolar. Sin embargo, inquieta por la actitud despreocupada de Mimi hacia la guerra, Sheena lucha por aceptar el mundo en el que viven, todo mientras su amistad inusual florece en medio de la sombría situación.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 7.74,
+      "anio": 2026,
+      "generos": ["Drama", "Fantasía", "Girls Love"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "VjFf38e9X" },
+            { "numero": 2, "video": "eVlacGiNY" },
+            { "numero": 3, "video": "rwniMG-ms" },
+            { "numero": 4, "video": "3mYQkl7ju" },
+            { "numero": 5, "video": "S_V5YKn6g" },
+            { "numero": 6, "video": "U8zNgJHbY" },
+            { "numero": 7, "video": "RoO6O8a7U" },
+            { "numero": 8, "video": "NxiW2nwI0" },
+            { "numero": 9, "video": "vCntCY0wn" },
+            { "numero": 10, "video": "MyR8-zo2W" },
+            { "numero": 11, "video": "jPoThI2tL" },
+            { "numero": 12, "video": "QDqyn2iHn" },
+            { "numero": 13, "video": "ZG1op_Ei5" }
           ]
         }
       ]

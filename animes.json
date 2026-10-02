@@ -192,7 +192,8 @@
             { "numero": 10, "video": "fggz9hkSb" },
             { "numero": 11, "video": "djzPGmLdv" },
             { "numero": 12, "video": "y8C46hslk" },
-            { "numero": 13, "video": "mdTCcdOAB" }
+            { "numero": 13, "video": "mdTCcdOAB" },
+            { "numero": 14, "video": "aQjsSU9aS" }
           ]
         }
       ]
@@ -955,6 +956,50 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "fUIejHRdE" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kizudarake-seijo-2",
+      "titulo": "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+      "malId": 64180,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1782/158664.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda temporada de Kizu darake Seijo yori Houfuku wo Komete.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": null,
+      "anio": 2026,
+      "generos": ["Fantasía", "Romance"],
+      "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "jZBTvHUF7" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "koori-no-jouheki-2",
+      "titulo": "Koori no Jouheki 2nd Season",
+      "malId": 64534,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1963/159754.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda temporada de Koori no Jouheki. La historia continúa explorando la relación entre Koyuki Hikawa, una estudiante introvertida que prefiere mantener las distancias y pasar tiempo a solas, y Minato Amamiya, un chico que insiste en acortar la distancia entre ellos. A medida que su vínculo se profundiza, los sentimientos de ambos comienzan a evolucionar más allá de la amistad, mientras sus amigos Miki y Yota también enfrentan sus propios conflictos emocionales.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 8.26,
+      "anio": 2026,
+      "generos": ["Drama", "Romance"],
+      "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "_i5trHzuJ" }
           ]
         }
       ]

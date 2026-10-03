@@ -125,7 +125,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "FerO76Kr2" },
-            { "numero": 2, "video": "DWo3SGL5o" }
+            { "numero": 2, "video": "DWo3SGL5o" },
+            { "numero": 3, "video": "WUCTtj3_w" }
           ]
         }
       ]
@@ -735,7 +736,8 @@
             { "numero": 9, "video": "5t6A6-urO" },
             { "numero": 10, "video": "VDNDKBKtm" },
             { "numero": 11, "video": "blWQUsINY" },
-            { "numero": 12, "video": "djuk4jy1A" }
+            { "numero": 12, "video": "djuk4jy1A" },
+            { "numero": 13, "video": "vWeVllTPz" }
           ]
         }
       ]
@@ -768,38 +770,6 @@
       ]
     },
     {
-      "id": "nige-jouzu-no-wakagimi",
-      "titulo": "Nige Jouzu no Wakagimi",
-      "malId": 54724,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1386/140401.jpg",
-      "imagenFondo": "",
-      "descripcion": "Tokiyuki Houjou, un despreocupado noble de ocho años, se contenta con la serena vida en Kamakura y muestra poco respeto por las serias responsabilidades que conlleva su eventual sucesión a su padre como el próximo shogun. En lugar de dedicarse a un riguroso entrenamiento en esgrima o tiro con arco, Tokiyuki sobresale en el arte de la evasión, esquivando hábilmente a sus consejeros y descubriendo escondites perfectos. Sin embargo, su existencia pacífica se hace añicos cuando un repentino golpe de estado aniquila brutalmente a su clan. Abrumado por la culpa de ser el único superviviente, Tokiyuki contempla unirse a su familia en la muerte. Sin embargo, su destino da un giro abrupto cuando el enigmático sacerdote Yorishige Suwa lo empuja repentinamente a un campo de batalla. Yorishige, que profetiza que Tokiyuki algún día se convertirá en un gran héroe, deja al chico sin otra opción que abrirse camino libre de soldados enemigos. Mientras Tokiyuki lucha por sobrevivir contra estos adversarios, encuentra una nueva emoción al aumentar las apuestas de sus habituales juegos de escondite. Con un renovado sentido del propósito y la promesa de poderosos aliados de Yorishige, Tokiyuki jura vengar a su familia, no a través de su capacidad de lucha, sino a través de su extraordinario talento para huir.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.78,
-      "anio": 2026,
-      "generos": ["Aventura", "Comedia"],
-      "temporadas": [
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "w1-_oASs8" },
-            { "numero": 2, "video": "GsfZsxpdP" },
-            { "numero": 3, "video": "yhY_jmcwd" },
-            { "numero": 4, "video": "dvxbXRokH" },
-            { "numero": 5, "video": "7DS2UVdO0" },
-            { "numero": 6, "video": "F10Hp2TCY" },
-            { "numero": 7, "video": "nNe66ytwp" },
-            { "numero": 8, "video": "BA45W1SLaF" },
-            { "numero": 9, "video": "QWvuETAuA" },
-            { "numero": 10, "video": "bvsts36A7" },
-            { "numero": 11, "video": "KpTTeuTtS" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "shiguang-dailiren",
       "titulo": "Shiguang Dailiren (Link Click)",
       "malId": 44074,
@@ -823,7 +793,8 @@
             { "numero": 5, "video": "OkXX6Cq9T" },
             { "numero": 6, "video": "jgO6KsIlr" },
             { "numero": 7, "video": "POOqBPcOi" },
-            { "numero": 8, "video": "tWrQ37gl8" }
+            { "numero": 8, "video": "tWrQ37gl8" },
+            { "numero": 9, "video": "ZpGaqYc0X" }
           ]
         }
       ]
@@ -969,7 +940,7 @@
       "descripcion": "Segunda temporada de Kizu darake Seijo yori Houfuku wo Komete.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": true,
+      "finalizado": false,
       "puntuacion": null,
       "anio": 2026,
       "generos": ["Fantasía", "Romance"],
@@ -991,7 +962,7 @@
       "descripcion": "Segunda temporada de Koori no Jouheki. La historia continúa explorando la relación entre Koyuki Hikawa, una estudiante introvertida que prefiere mantener las distancias y pasar tiempo a solas, y Minato Amamiya, un chico que insiste en acortar la distancia entre ellos. A medida que su vínculo se profundiza, los sentimientos de ambos comienzan a evolucionar más allá de la amistad, mientras sus amigos Miki y Yota también enfrentan sus propios conflictos emocionales.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": true,
+      "finalizado": false,
       "puntuacion": 8.26,
       "anio": 2026,
       "generos": ["Drama", "Romance"],
@@ -1000,6 +971,94 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "_i5trHzuJ" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "keroro-gunsou",
+      "titulo": "Keroro Gunsou☆",
+      "malId": 63157,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1827/160110.jpg",
+      "imagenFondo": "",
+      "descripcion": "El sargento Keroro, un alienígena con forma de rana proveniente del planeta Keron, tiene la misión de invadir la Tierra. Sin embargo, sus planes de conquista se ven frustrados una y otra vez por la familia Hinata, especialmente por Natsumi y Fuyuki, quienes lo capturan y lo obligan a realizar las tareas del hogar. Junto a su pelotón, compuesto por los peculiares Giroro, Tamama, Kururu y Dororo, Keroro vive divertidas aventuras intentando (sin mucho éxito) llevar a cabo su invasión, mientras se adapta a la vida cotidiana en la Tierra.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 0,
+      "anio": 2026,
+      "generos": ["Comedia", "Ciencia Ficción"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "Z92lL8BvP" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-3rd-season",
+      "titulo": "Kusuriya no Hitorigoto 3rd Season",
+      "malId": 61987,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1028/160277.jpg",
+      "imagenFondo": "",
+      "descripcion": "Tercera temporada de Kusuriya no Hitorigoto.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 8.66,
+      "anio": 2026,
+      "generos": ["Drama", "Misterio"],
+      "temporadas": [
+        {
+          "numero": 3,
+          "capitulos": [
+            { "numero": 49, "video": "E7LLcbj52" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tougen-anki-nikko-kegon-no-taki-hen",
+      "titulo": "Tougen Anki: Nikko Kegon no Taki-hen",
+      "malId": 63181,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1332/160147.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda temporada de Tougen Anki.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.99,
+      "anio": 2026,
+      "generos": ["Acción", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "vTVT-U8Hy" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tokyo-revengers-santen-sensou-hen",
+      "titulo": "Tokyo Revengers: Santen Sensou-hen",
+      "malId": 59088,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1321/159720.jpg",
+      "imagenFondo": "",
+      "descripcion": "Secuela de Tokyo Revengers: Tenjiku-hen. El conflicto entre la Tokyo Manji Gang y Tenjiku llegó a un final sangriento. Mientras cada uno carga con su dolor y sigue su propio camino, Takemichi Hanagaki se queda asombrado ante el fallecido Tetta Kisaki. Tras conocer la verdad sobre los saltos en el tiempo, Manjiro Sano toma una decisión crucial. Habiendo dejado atrás el pasado, Takemichi finalmente alcanza el futuro definitivo, donde su amada Hinata sigue viva. Sin embargo... en la era de los \"Tres Titanes\", en la que tres bandas se disputan el dominio, comienza la venganza final.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.68,
+      "anio": 2026,
+      "generos": ["Acción", "Drama", "Shounen", "Viaje en el Tiempo"],
+      "temporadas": [
+        {
+          "numero": 4,
+          "capitulos": [
+            { "numero": 1, "video": "xKOQShyaHQ" }
           ]
         }
       ]
@@ -4847,38 +4906,55 @@
       ]
     },
     {
-      "id": "nige-jouzu-no-wakagimi",
-      "titulo": "Nige Jouzu no Wakagimi",
-      "malId": 54724,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1386/140401.jpg",
-      "imagenFondo": "",
-      "descripcion": "Tokiyuki Houjou, un noble despreocupado de ocho años, disfruta de la apacible vida en Kamakura y muestra poca preocupación por las serias responsabilidades que conlleva suceder a su padre como el próximo shogun. En lugar de dedicarse a un entrenamiento riguroso en esgrima o arquería, Tokiyuki sobresale en el arte de la evasión, esquivando hábilmente a sus consejeros y descubriendo escondites perfectos. Sin embargo, su pacífica existencia se ve truncada cuando un repentino golpe de estado aniquila brutalmente a su clan. Abrumado por la culpa de ser el único superviviente, Tokiyuki contempla la idea de unirse a su familia en la muerte. Sin embargo, su destino da un giro inesperado cuando el enigmático sacerdote Yorishige Suwa lo empuja repentinamente a un campo de batalla. Yorishige, quien profetiza que Tokiyuki se convertirá algún día en un gran héroe, no le deja otra opción que abrirse camino a través de los soldados enemigos. Mientras Tokiyuki lucha por sobrevivir contra estos enemigos, descubre una nueva emoción al aumentar la apuesta en sus habituales juegos de escondite. Con un renovado sentido de propósito y la promesa de poderosos aliados de Yorishige, Tokiyuki jura vengar a su familia, no mediante su capacidad de combate, sino mediante su extraordinario talento para escapar.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 7.62,
-      "anio": 2024,
-      "generos": ["Acción", "Histórico", "Comedia", "Shounen"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "1QDJVm0QVw" },
-            { "numero": 2, "video": "q69xydowM" },
-            { "numero": 3, "video": "WM9ecBMPKs" },
-            { "numero": 4, "video": "2AvRO76mp" },
-            { "numero": 5, "video": "y3I_XKckrR" },
-            { "numero": 6, "video": "5vrpj0jFav" },
-            { "numero": 7, "video": "U761DwS7XJv" },
-            { "numero": 8, "video": "5_2Is88YM" },
-            { "numero": 9, "video": "KPBpHMRDabP" },
-            { "numero": 10, "video": "sblYXp0tP" },
-            { "numero": 11, "video": "DdcFpYIFgs" },
-            { "numero": 12, "video": "mbLpUrhNa" }
-          ]
-        }
+  "id": "nige-jouzu-no-wakagimi",
+  "titulo": "Nige Jouzu no Wakagimi",
+  "malId": 54724,
+  "imagen": "https://cdn.myanimelist.net/images/anime/1386/140401.jpg",
+  "imagenFondo": "",
+  "descripcion": "Tokiyuki Houjou, un noble despreocupado de ocho años, disfruta de la apacible vida en Kamakura y muestra poca preocupación por las serias responsabilidades que conlleva suceder a su padre como el próximo shogun. En lugar de dedicarse a un entrenamiento riguroso en esgrima o arquería, Tokiyuki sobresale en el arte de la evasión, esquivando hábilmente a sus consejeros y descubriendo escondites perfectos. Sin embargo, su pacífica existencia se ve truncada cuando un repentino golpe de estado aniquila brutalmente a su clan. Abrumado por la culpa de ser el único superviviente, Tokiyuki contempla la idea de unirse a su familia en la muerte. Sin embargo, su destino da un giro inesperado cuando el enigmático sacerdote Yorishige Suwa lo empuja repentinamente a un campo de batalla. Yorishige, quien profetiza que Tokiyuki se convertirá algún día en un gran héroe, no le deja otra opción que abrirse camino a través de los soldados enemigos. Mientras Tokiyuki lucha por sobrevivir contra estos enemigos, descubre una nueva emoción al aumentar la apuesta en sus habituales juegos de escondite. Con un renovado sentido de propósito y la promesa de poderosos aliados de Yorishige, Tokiyuki jura vengar a su familia, no mediante su capacidad de combate, sino mediante su extraordinario talento para escapar.",
+  "estado": "finalizado",
+  "destacado": false,
+  "finalizado": true,
+  "puntuacion": 7.62,
+  "anio": 2024,
+  "generos": ["Acción", "Histórico", "Comedia", "Shounen"],
+  "temporadas": [
+    {
+      "numero": 1,
+      "capitulos": [
+        { "numero": 1, "video": "1QDJVm0QVw" },
+        { "numero": 2, "video": "q69xydowM" },
+        { "numero": 3, "video": "WM9ecBMPKs" },
+        { "numero": 4, "video": "2AvRO76mp" },
+        { "numero": 5, "video": "y3I_XKckrR" },
+        { "numero": 6, "video": "5vrpj0jFav" },
+        { "numero": 7, "video": "U761DwS7XJv" },
+        { "numero": 8, "video": "5_2Is88YM" },
+        { "numero": 9, "video": "KPBpHMRDabP" },
+        { "numero": 10, "video": "sblYXp0tP" },
+        { "numero": 11, "video": "DdcFpYIFgs" },
+        { "numero": 12, "video": "mbLpUrhNa" }
       ]
     },
+    {
+      "numero": 2,
+      "capitulos": [
+        { "numero": 1, "video": "w1-_oASs8" },
+        { "numero": 2, "video": "GsfZsxpdP" },
+        { "numero": 3, "video": "yhY_jmcwd" },
+        { "numero": 4, "video": "dvxbXRokH" },
+        { "numero": 5, "video": "7DS2UVdO0" },
+        { "numero": 6, "video": "F10Hp2TCY" },
+        { "numero": 7, "video": "nNe66ytwp" },
+        { "numero": 8, "video": "BA45W1SLaF" },
+        { "numero": 9, "video": "QWvuETAuA" },
+        { "numero": 10, "video": "bvsts36A7" },
+        { "numero": 11, "video": "KpTTeuTtS" },
+        { "numero": 12, "video": "9V7zX4RIy" }
+      ]
+    }
+  ]
+},
     {
       "id": "tensui-no-sakuna-hime",
       "titulo": "Tensui no Sakuna-hime",

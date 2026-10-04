@@ -238,7 +238,8 @@
             { "numero": 20, "video": "ZiQVV2Yog" },
             { "numero": 21, "video": "-QuTaWcAL" },
             { "numero": 22, "video": "5EP89EQeZ" },
-            { "numero": 23, "video": "RJHNheYHB" }
+            { "numero": 23, "video": "RJHNheYHB" },
+            { "numero": 24, "video": "P1wzxtjr_6" }
           ]
         }
       ]
@@ -284,7 +285,8 @@
             { "numero": 22, "video": "TWa-GafNK" },
             { "numero": 23, "video": "DobZpgoyj" },
             { "numero": 24, "video": "5G1zW6IOi" },
-            { "numero": 25, "video": "avNaUk3nR" }
+            { "numero": 25, "video": "avNaUk3nR" },
+            { "numero": 26, "video": "RsfT24D_Z" }
           ]
         }
       ]
@@ -816,7 +818,8 @@
         {
           "numero": 2,
           "capitulos": [
-            { "numero": 1, "video": "mJJg66qYP" }
+            { "numero": 1, "video": "mJJg66qYP" },
+            { "numero": 2, "video": "FQz-8j_JJ" }
           ]
         }
       ]
@@ -1059,6 +1062,250 @@
           "numero": 4,
           "capitulos": [
             { "numero": 1, "video": "xKOQShyaHQ" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seitokai-ni-mo-ana-wa-aru",
+      "titulo": "Seitokai ni mo Ana wa Aru!",
+      "malId": 61578,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1877/160134.jpg",
+      "imagenFondo": "",
+      "descripcion": "Ume Mizunoe, un estudiante de primer año en la prestigiosa Academia Fujinari, sobresale en literatura japonesa pero tiene tantos problemas en ciencias que sus posibilidades de avanzar están en riesgo. Con la esperanza de mejorar su expediente académico, se une al consejo estudiantil, solo para encontrarse rodeado de un elenco de personajes excéntricos: una presidenta carismática pero secretamente tímida, una tesorera amable pero intimidante, un chico adorablemente descarado y una pequeña secretaria parecida a un gato callejero. Sumergido en un torbellino de caótica vida diaria, los días escolares de Ume están a punto de volverse mucho más impredecibles... ¡y mucho más animados!",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": null,
+      "anio": 2026,
+      "generos": ["Comedia", "Escolar", "Shounen"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "tBI9aI1Eu" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kashita-maryoku-revo-barai",
+      "titulo": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
+      "malId": 62922,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1498/159735.jpg",
+      "imagenFondo": "",
+      "descripcion": "Lent forma parte del prometedor grupo conocido como los \"Skypiercers\", y gracias a su Don único, puede prestar grandes cantidades de magia a otros. ¿Sin MP? ¡No hay problema con Lent cerca! Excepto que, ahora que sus compañeros se han convertido en héroes formidables (gracias a su habilidad), su utilidad es cuestionada. Expulsado del grupo, Lent está furioso... hasta que descubre un poder oculto en su Don. Ahora, con su adorable y traviesa compañera hada, recuperará hasta el último fragmento de magia de su antiguo grupo... ¡con intereses!",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.11,
+      "anio": 2026,
+      "generos": ["Acción", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "TM795BFSHT" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ranma-2024-3",
+      "titulo": "Ranma ½ (2024) 3rd Season",
+      "malId": 63801,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1939/159199.jpg",
+      "imagenFondo": "",
+      "descripcion": "Tercera temporada de Ranma ½ (2024). Ranma Saotome, un artista marcial que se transforma en chica al mojarse con agua fría y recupera su forma masculina con agua caliente, continúa enfrentando nuevos desafíos, rivales y enredos amorosos. Junto a Akane Tendo y los excéntricos personajes que lo rodean, Ranma deberá lidiar con combates, malentendidos y situaciones caóticas mientras su relación con Akane sigue complicándose.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.70,
+      "anio": 2026,
+      "generos": ["Acción", "Comedia", "Romance", "Ecchi"],
+      "temporadas": [
+        {
+          "numero": 3,
+          "capitulos": [
+            { "numero": 1, "video": "Op4b_ykZJ" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "magical-explorer",
+      "titulo": "Magical★Explorer",
+      "malId": 56733,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1666/160106.jpg",
+      "imagenFondo": "",
+      "descripcion": "Un joven es transportado a un mundo de fantasía similar a un videojuego, donde deberá explorar mazmorras, aprender magia y enfrentarse a todo tipo de enemigos. Acompañado por un variado grupo de personajes, vivirá situaciones cómicas y llenas de acción mientras intenta sobrevivir y descubrir los secretos de este nuevo mundo.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.67,
+      "anio": 2026,
+      "generos": ["Aventura", "Comedia", "Ecchi"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "J35Pzy0FV" },
+            { "numero": 2, "video": "nxQZQE4mk" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vertex-force",
+      "titulo": "Vertex Force",
+      "malId": 63764,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1026/160012.jpg",
+      "imagenFondo": "",
+      "descripcion": "El estudiante de secundaria Akira Todo vive una vida tranquila en Okinawa junto a su hermana Haruka y su madre. Sin embargo, Haruka posee un poder especial llamado \"Engine\", heredado de su padre, mientras que Akira no. Sintiéndose inferior, Akira lucha con el hecho de ser siempre protegido por su hermana. Un día, misteriosos enemigos aparecen por todo el mundo, poniendo en peligro a Akira y a sus seres queridos. Una nueva batalla comienza mientras chicos y chicas luchan por proteger el destino del universo.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.01,
+      "anio": 2026,
+      "generos": ["Acción", "Ciencia Ficción"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "XPr1dANX9" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marronnier-oukoku-no-shichinin-no-kishi",
+      "titulo": "Marronnier Oukoku no Shichinin no Kishi",
+      "malId": 64326,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1678/160198.jpg",
+      "imagenFondo": "",
+      "descripcion": "En el centro de un continente formado por ocho reinos se encuentra el Reino de Marronnier. Lo lidera la general Baribara, quien tiene siete hijos, cada uno con una personalidad muy distinta: el dormilón, el benevolente, el sensible al calor, el sensible al frío, el dotado para los animales, el orgulloso de su esgrima y el eternamente hambriento. Los hermanos poseen cualidades muy diferentes, pero están unidos por un mismo objetivo: \"¡Algún día, rescataremos a una princesa de forma genial!\". Antes de lo que esperan, los hermanos parten hacia los siete reinos vecinos como embajadores. ¿Qué encuentros, pruebas y destinos les aguardan en esas tierras desconocidas? Ambientada en un mundo de fantasía de inspiración medieval, esta historia de romance y aventura comienza.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.22,
+      "anio": 2026,
+      "generos": ["Comedia", "Histórico", "Josei"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "QmisaPi-w" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zombie-sagashitemasu",
+      "titulo": "#Zombie Sagashitemasu",
+      "malId": 62524,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1151/160025.jpg",
+      "imagenFondo": "",
+      "descripcion": "Ambientada en un mundo donde el 90% de la humanidad ha contraído y muerto a causa de una enfermedad mortal y altamente virulenta, solo para resucitar después como zombis que atacan a las personas, han pasado trece años desde el \"Día Rojo\" del colapso social. Los humanos supervivientes ahora viven lejos de las grandes ciudades, con la esperanza de recuperarlas algún día. Una generación completamente nueva, ajena al mundo anterior al Día Rojo, está tomando forma. La historia comienza cuando Aki, quien no tiene recuerdos del mundo antes de su caída, escapa de su aldea junto a sus amigas cercanas Haru y Natsuki para buscar a su padre desaparecido. Mientras se aventuran en el mundo exterior, se encuentran rodeados de zombis por todas partes. En el camino, rescatan a Yuu y Sakura y se refugian en una tienda de mejoras para el hogar. Se reagrupan, y ahora comienza el contraataque.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": null,
+      "anio": 2026,
+      "generos": ["Aventura", "Comedia", "Sobrenatural", "Shounen"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "ntuXzi5Sw" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "black-clover-2",
+      "titulo": "Black Clover 2nd Season",
+      "malId": 61967,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1857/160133.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda temporada de Black Clover.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 8.80,
+      "anio": 2026,
+      "generos": ["Acción", "Fantasía", "Shounen"],
+      "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "Y9RGw9oi0F" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "genso-suikoden",
+      "titulo": "Gensou Suikoden",
+      "malId": 61140,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1579/160352.jpg",
+      "imagenFondo": "",
+      "descripcion": "El héroe de nuestra historia y su amigo Jowy son miembros de la Brigada Juvenil del Unicornio, que participó en una prolongada disputa fronteriza entre el Reino de Highland y las Ciudades-Estado de Jowstown. Unos meses antes, se firmó un acuerdo de tregua entre ambas fuerzas, que se mostraron satisfechas de poner fin a los combates. Sin embargo, bajo la paz momentánea, los fuegos de una nueva guerra seguían latentes...",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.57,
+      "anio": 2026,
+      "generos": ["Acción", "Aventura", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "eQ2Bp9zd5" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "romelia-senki",
+      "titulo": "Romelia Senki",
+      "malId": 59787,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1208/160008.jpg",
+      "imagenFondo": "",
+      "descripcion": "Tras acompañar a su prometido en su misión de derrotar al Rey Demonio, Romelia es de repente considerada inútil y enviada de vuelta a casa, con su compromiso anulado. Mientras el príncipe y su grupo regresan como héroes celebrados, Romelia vuelve a casa como una desgracia. Pero ya no es la misma chica que dejó su provincia. Mientras seguía a los aventureros, Romelia era la única sin magia ni fuerza, pero encontró sus propias habilidades en el comercio, la negociación, las finanzas y la recopilación de información. Y ahora, planea usar estas habilidades no solo para ayudar a la provincia de su familia, sino también para ayudar al reino que aún lucha. El Rey Demonio puede estar derrotado, pero sus aliados y demonios continúan merodeando.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.09,
+      "anio": 2026,
+      "generos": ["Acción", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "Ci7uPoUnc" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tensei-shita-daiseijo",
+      "titulo": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+      "malId": 61153,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1454/156338.jpg",
+      "imagenFondo": "",
+      "descripcion": "Fia nació en una familia de caballeros y sueña con convertirse en uno de ellos algún día. Aunque demuestra menos talento que todos los demás miembros de su familia, Fia no pierde las esperanzas y entrena todos los días con todas sus fuerzas para alcanzar su objetivo. Cuando finalmente llega el momento de demostrar su valía derrotando a un pequeño demonio, ¡acaba enfrentándose a un dragón en su lugar!",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.78,
+      "anio": 2026,
+      "generos": ["Acción", "Aventura", "Fantasía", "Magia"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "EXxcsQCSH" },
+            { "numero": 2, "video": "q8-jKw4u5" }
           ]
         }
       ]

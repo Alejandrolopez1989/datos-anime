@@ -1,4 +1,4 @@
-{
+{  
   "emision": [
     {
       "id": "cardfight-vanguard-divinez-genma-seisen-hen",
@@ -309,39 +309,6 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "ssyD-kR-n" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "seihantai-na-kimi-to-boku-2nd-season",
-      "titulo": "Seihantai na Kimi to Boku 2nd Season",
-      "malId": 63832,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1143/158409.jpg",
-      "imagenFondo": "",
-      "descripcion": "Han pasado seis meses desde que los compañeros de clase polos opuestos Miyu Suzuki y Yuusuke Tani empezaron a salir. Al pasar tiempo juntos, junto con sus amigos del colegio, los dos han sido más felices que nunca. A medida que el año llega a su fin, la nueva pareja planea celebrar la Navidad y el Año Nuevo juntos, creando recuerdos para los años venideros. Mientras tanto, los amigos de Miyu y Yuusuke, Shuuji Taira y Kentarou Yamada, están desconcertados por sus propias situaciones. Debido a sus malas experiencias en la escuela secundaria, Taira sigue sobrepensando todo a su alrededor, especialmente después de que su compañera de clase Shino Azuma comenzó a prestarle más atención. Simultáneamente, el enérgico y extrovertido Yamada encuentra difícil encontrar el momento perfecto para confesar sus sentimientos a su tímida compañera Natsumi Nishi. A pesar de las diferencias de todos, continúan disfrutando de su adolescencia y encuentran sus propias maneras de convertir las vacaciones de invierno en un recuerdo preciado. [Escrito por MAL Rewrite]",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 8.39,
-      "anio": 2026,
-      "generos": ["Comedia", "Romance", "Escuela"],
-      "temporadas": [
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "G5pUxcSeZ" },
-            { "numero": 2, "video": "JoDeNg1-A" },
-            { "numero": 3, "video": "h5-XPw3Vw" },
-            { "numero": 4, "video": "Cylm9CENA" },
-            { "numero": 5, "video": "3BU14QzjG" },
-            { "numero": 6, "video": "YlSVAJFTV" },
-            { "numero": 7, "video": "IE9gwlBZy" },
-            { "numero": 8, "video": "wfooZdfaV" },
-            { "numero": 9, "video": "kDDY0Yky2" },
-            { "numero": 10, "video": "hCzWG5OuD8" },
-            { "numero": 11, "video": "BEmU5aV7G" },
-            { "numero": 12, "video": "Pm_aiELYe" }
           ]
         }
       ]
@@ -677,7 +644,7 @@
         }
       ]
     },
-    {
+        {
       "id": "tenkou-saki-no-seiso-karen",
       "titulo": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
       "malId": 56735,
@@ -781,7 +748,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 8.70,
+      "puntuacion": 8.7,
       "anio": 2026,
       "generos": ["Drama", "Misterio", "Suspense"],
       "temporadas": [
@@ -841,7 +808,8 @@
         {
           "numero": 3,
           "capitulos": [
-            { "numero": 1, "video": "I1iFJlcOl" }
+            { "numero": 1, "video": "I1iFJlcOl" },
+            { "numero": 2, "video": "l_Mj7uHUo" }
           ]
         }
       ]
@@ -856,14 +824,15 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 7.20,
+      "puntuacion": 7.2,
       "anio": 2026,
       "generos": ["Acción", "Fantasía"],
       "temporadas": [
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "_f92x6SsN" }
+            { "numero": 1, "video": "_f92x6SsN" },
+            { "numero": 2, "video": "GXs-jLrmE" }
           ]
         }
       ]
@@ -878,7 +847,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 0,
+      "puntuacion": null,
       "anio": 2026,
       "generos": ["Elenco Adulto", "Psicológico", "Seinen"],
       "temporadas": [
@@ -900,7 +869,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 0,
+      "puntuacion": null,
       "anio": 2026,
       "generos": ["Deportes", "Escuela", "Shounen"],
       "temporadas": [
@@ -922,7 +891,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 7.50,
+      "puntuacion": 7.5,
       "anio": 2026,
       "generos": ["Acción", "Aventura", "Fantasía"],
       "temporadas": [
@@ -988,7 +957,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 0,
+      "puntuacion": null,
       "anio": 2026,
       "generos": ["Comedia", "Ciencia Ficción"],
       "temporadas": [
@@ -1120,7 +1089,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 7.70,
+      "puntuacion": 7.7,
       "anio": 2026,
       "generos": ["Acción", "Comedia", "Romance", "Ecchi"],
       "temporadas": [
@@ -1231,7 +1200,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 8.80,
+      "puntuacion": 8.8,
       "anio": 2026,
       "generos": ["Acción", "Fantasía", "Shounen"],
       "temporadas": [
@@ -1308,6 +1277,210 @@
             { "numero": 2, "video": "q8-jKw4u5" }
           ]
         }
+      ]
+    },
+    {
+      "id": "mouse-cursor-genjitsu",
+      "titulo": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
+      "malId": 63381,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1498/159767.jpg",
+      "imagenFondo": "",
+      "descripcion": "¿Y si pudieras usar un cursor de ratón en la vida real? Takumi, el marginado otaku, alberga sentimientos no correspondidos por su primer amor, Mone, quien lo trata con desdén. Durante la clase de informática, Takumi descubre que el cursor de su ratón se extiende más allá de la pantalla y llega al mundo físico... Con este nuevo poder visible solo para él, Takumi ve una oportunidad para hacer travesuras. Usa el cursor para vengarse de Mone, haciendo clic en zonas sensibles y regodeándose en sus reacciones. Pero cuando aparece inesperadamente un botón de \"Intercourse\", Takumi es empujado a una realidad que nunca imaginó posible... ¿\"Intercourse\"? ¿Podría esto ser realmente...?",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": null,
+      "anio": 2026,
+      "generos": ["Erótica"],
+      "temporadas": [
+        { "numero": 1, "capitulos": [ { "numero": 1, "video": "https://short.icu/lKuz82H5N" } ] }
+      ]
+    },
+    {
+      "id": "dark-summoner-to-dekiteiru",
+      "titulo": "Dark Summoner to Dekiteiru",
+      "malId": 63509,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1357/159860.jpg",
+      "imagenFondo": "",
+      "descripcion": "Amona, una invocadora oscura y semihumana que utiliza poderes demoníacos, es la nueva incorporación al grupo del rígido sacerdote Roni. Todos esperaban que ambos se desagradaran y no tuvieran nada que ver el uno con el otro. Pero para su sorpresa, en su primer día juntos como grupo de aventureros, tuvieron una aventura de una noche...!",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.83,
+      "anio": 2026,
+      "generos": ["Comedia", "Fantasía", "Erótica"],
+      "temporadas": [
+        { "numero": 1, "capitulos": [ { "numero": 1, "video": "https://short.icu/3mvzCLPj7" } ] }
+      ]
+    },
+    {
+      "id": "kanojo-no-tomodachi",
+      "titulo": "Kanojo no Tomodachi",
+      "malId": 64131,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1413/159862.jpg",
+      "imagenFondo": "",
+      "descripcion": "La historia se centra en Takeru Hidaka, un estudiante de secundaria que comienza a salir con Kaori Koga, su primera novia. Sin embargo, la mejor amiga de Kaori, Tomoko Yoshioka, quien posee un cuerpo más dotado, comienza a seducir a Takeru, poniendo a prueba la confianza y la amistad entre los tres.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": null,
+      "anio": 2026,
+      "generos": ["Drama", "Erótica"],
+      "temporadas": [
+        { "numero": 1, "capitulos": [ { "numero": 1, "video": "https://short.icu/RpzmSfmRp" } ] }
+      ]
+    },
+    {
+      "id": "kanata-kara",
+      "titulo": "Kanata kara",
+      "malId": 63753,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1238/159816.jpg",
+      "imagenFondo": "",
+      "descripcion": "Noriko Tachiki ha soñado durante algún tiempo con una hermosa tierra de fantasía, aunque sus amigos piensan que solo es producto de su imaginación. Un día, de camino a casa, Noriko tropieza con una bomba disfrazada de bolsa de papel que explota justo frente a ella. Sin embargo, en lugar de morir, es transportada a un misterioso bosque lleno de plantas y criaturas extrañas. Mientras comienza a adentrarse en el bosque, Noriko es atacada de repente por un monstruo gigante similar a un gusano. Por fortuna, es salvada por Izark Kia Tarj, un espadachín que no habla su idioma. Al carecer de la fuerza para sobrevivir por su cuenta, Noriko decide seguir a su estoico salvador, aprovechando la oportunidad para aprender el idioma de esa tierra extranjera y ser más útil para Izark. Sin saberlo, Noriko es una pieza crucial de una antigua profecía. Ella es \"El Despertar\", un ser destinado a liberar al mayor mal conocido como el \"Demonio del Cielo\". Con personas influyentes conspirando para capturar a Noriko por sus supuestos poderes, tanto ella como Izark deberán valerse por sí mismos y superar un futuro plagado de caos.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.31,
+      "anio": 2026,
+      "generos": ["Aventura", "Fantasía", "Romance"],
+      "temporadas": [
+        { "numero": 1, "capitulos": [ { "numero": 1, "video": "https://short.icu/jMGDWP0VV" } ] }
+      ]
+    },
+    {
+      "id": "hotel-inhumans-2",
+      "titulo": "Hotel Inhumans 2nd Season",
+      "malId": 62590,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1903/159928.jpg",
+      "imagenFondo": "",
+      "descripcion": "Los hoteles más exquisitos del mundo tienen ciertos estándares: la mejor comida, el confort más sublime, un entretenimiento cautivador, las armas más modernas, una fabricación de identidades fiable y una eliminación de cadáveres imposible de rastrear. El nombre de este lugar al que acuden las personas que han «olvidado su humanidad» es «Hotel Inhumans». Los huéspedes sicarios son recibidos por los conserjes que nunca dicen «no». En esta segunda temporada, la historia profundiza en el pasado de Ikuro Hoshi mientras nuevos huéspedes y un nuevo conserje, Shiba Kirihara, traen consigo encargos aún más peligrosos.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.77,
+      "anio": 2026,
+      "generos": ["Acción", "Drama", "Suspenso"],
+      "temporadas": [
+        { "numero": 2, "capitulos": [ { "numero": 1, "video": "https://short.icu/hvAP1Gq78" } ] }
+      ]
+    },
+    {
+      "id": "tank-chair",
+      "titulo": "Tank Chair",
+      "malId": 63751,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1800/159472.jpg",
+      "imagenFondo": "",
+      "descripcion": "Shizuka acepta los trabajos de asesina más peligrosos, pero ella no es quien mata. Es su hermano, Nagi, un fuerte asesino que recibió un disparo para proteger a su hermana, dejándolo en estado de coma y teniendo que usar una silla de ruedas. Sin embargo, Shizuka ha descubierto la clave para despertar a su hermano: ¡debe enfrentarse a la intención de matar! Así comienza un violento viaje de recuperación, luchando contra los enemigos más peligrosos.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.44,
+      "anio": 2026,
+      "generos": ["Acción", "Gore", "Superpoderes"],
+      "temporadas": [
+        { "numero": 1, "capitulos": [ { "numero": 1, "video": "https://short.icu/o-5RTz1qZ" } ] }
+      ]
+    },
+    {
+      "id": "yowaki-max-reijou",
+      "titulo": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "malId": 62753,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1732/159886.jpg",
+      "imagenFondo": "",
+      "descripcion": "Fui reencarnada como la hija villana en un juego otome de harén inverso. Después de enfermar con fiebre alta a los 10 años, Pia Rockwell recordó de repente su vida pasada como estudiante universitaria en Japón. Pero lejos de seguir la ruta de villana, todo lo que esta chica súper tímida quiere es finalmente usar su conocimiento de cuando era estudiante de posgrado obteniendo su doctorado en paleontología. Su objetivo final es convertirse en plebeya, excavar fósiles, construir un museo y luego convertirse en curadora. Así que, para escapar de la ruta de villana y evitar ser desterrada por su prometido durante el baile de graduación, Pia decide evitar el dolor y la angustia venideros y pide romper su compromiso con Rufus, el hijo del Primer Ministro. Pero, ¿dejará su astuto prometido que se vaya tan fácilmente?",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.86,
+      "anio": 2026,
+      "generos": ["Romance", "Isekai", "Villana", "Shoujo"],
+      "temporadas": [
+        { "numero": 1, "capitulos": [ { "numero": 1, "video": "https://short.icu/N3lkR4X8X" } ] }
+      ]
+    },
+    {
+      "id": "mezametara-saikyou-soubi",
+      "titulo": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+      "malId": 60948,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1889/160053.jpg",
+      "imagenFondo": "",
+      "descripcion": "Sato Takahiro era un oficinista común y un gamer aficionado hasta el día en que despertó en una nave espacial, una que extrañamente se parecía a una nave de su juego de disparos espaciales favorito. Con una nave equipada, una tripulación llena de bellezas y un universo fantástico por explorar, aprovechará al máximo su buena suerte y creará la vida que siempre soñó. Pronto se ve envuelto en batallas espaciales, colonias interestelares y los peligros que acechan en la vastedad del espacio exterior.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.9,
+      "anio": 2026,
+      "generos": ["Acción", "Ciencia Ficción", "Isekai", "Espacial"],
+      "temporadas": [
+        { "numero": 1, "capitulos": [ { "numero": 1, "video": "https://short.icu/I9hsX-sq3" } ] }
+      ]
+    },
+    {
+      "id": "ao-ashi-2",
+      "titulo": "Ao Ashi Season 2",
+      "malId": 61603,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1295/158726.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda temporada de Ao Ashi. La historia continúa siguiendo a Ashito Aoi, un joven talentoso del fútbol que sueña con convertirse en profesional. Después de unirse al equipo juvenil del Tokyo Esperion, Ashito enfrenta nuevos desafíos tanto dentro como fuera del campo, mientras lucha por mejorar sus habilidades, ganarse un lugar en el equipo y lidiar con la dura competencia y las expectativas.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 8.0,
+      "anio": 2026,
+      "generos": ["Deportes", "Drama", "Shounen"],
+      "temporadas": [
+        { "numero": 2, "capitulos": [ { "numero": 1, "video": "https://short.icu/t1RU_658v" } ] }
+      ]
+    },
+    {
+      "id": "ojisan-wa-kawaii-mono-ga-osuki",
+      "titulo": "Ojisan wa Kawaii Mono ga Osuki.",
+      "malId": 62907,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1322/159256.jpg",
+      "imagenFondo": "",
+      "descripcion": "Mitsutaka Oji es un apuesto oficinista de 40 años admirado por sus colegas. Sin embargo, guarda un secreto que intenta ocultar a todos: le encantan las cosas tiernas. Pero cuando su sobrino se muda a su apartamento, el secreto de Mitsutaka corre peligro.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.47,
+      "anio": 2026,
+      "generos": ["Comedia", "Adultos"],
+      "temporadas": [
+        { "numero": 1, "capitulos": [ { "numero": 1, "video": "https://short.icu/35N7bNsvc" } ] }
+      ]
+    },
+    {
+      "id": "ao-no-hako-2",
+      "titulo": "Ao no Hako Season 2",
+      "malId": 61323,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1990/160267.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda temporada de Ao no Hako.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 8.2,
+      "anio": 2026,
+      "generos": ["Romance", "Deportes"],
+      "temporadas": [
+        { "numero": 2, "capitulos": [ { "numero": 1, "video": "https://short.icu/6adFYt480" } ] }
+      ]
+    },
+    {
+      "id": "aoki-denshou-welsh-shedar",
+      "titulo": "Aoki Denshou Welsh & Shedar",
+      "malId": 65009,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1360/160091.jpg",
+      "imagenFondo": "",
+      "descripcion": "La historia de Aoki Denshou Welsh & Shedar sigue a Welsh, un adolescente de campo al que le encanta cocinar, y a Shedar, un joven príncipe destinado a convertirse en rey algún día. Cuando estos dos jóvenes de vidas muy diferentes son unidos por un encuentro fortuito, sus caminos comienzan a entrelazarse, dando inicio a una aventura que cambiará sus destinos para siempre.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": null,
+      "anio": 2026,
+      "generos": ["Fantasía"],
+      "temporadas": [
+        { "numero": 1, "capitulos": [ { "numero": 1, "video": "https://short.icu/zbPThZWNg" } ] }
       ]
     }
   ],
@@ -18015,127 +18188,180 @@
     }
   ]
 },
-{
-  "id": "rezero",
-  "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu",
-  "malId": 31240,
-  "imagen": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
-  "imagenFondo": "",
-  "descripcion": "Cuando Subaru Natsuki sale de la tienda de conveniencia, lo último que espera es ser arrancado de su vida cotidiana y arrojado a un mundo de fantasía. Las cosas no pintan bien para el desconcertado adolescente; sin embargo, poco después de su llegada, es atacado por unos matones. Es entonces rescatado por una chica de cabello plateado y su espíritu felino, quienes se presentan como Satella y Puck. Para agradecerles, decide ayudarlos a encontrar una insignia robada. Sin embargo, mientras trabajan juntos, son atacados y asesinados por un misterioso agresor. Justo cuando Subaru está a punto de morir, de repente se encuentra de vuelta en el momento en que llegó por primera vez a este mundo. Al darse cuenta de que tiene el poder de 'Regresar por Muerte', decide usarlo para salvar a Satella y a los demás.",
-  "estado": "emision",
-  "destacado": false,
-  "finalizado": false,
-  "puntuacion": 8.25,
-  "anio": 2016,
-  "generos": ["Drama", "Fantasía", "Suspenso"],
-  "temporadas": [
-    {
-      "numero": 1,
-      "capitulos": [
-        { "numero": 1, "video": "https://short.icu/T9v8kLpnx" },
-        { "numero": 2, "video": "https://short.icu/xklpk54cy" },
-        { "numero": 3, "video": "https://short.icu/_g5qGlhy9" },
-        { "numero": 4, "video": "https://short.icu/q8Iyv9Qsh" },
-        { "numero": 5, "video": "https://short.icu/CMowFQIN-" },
-        { "numero": 6, "video": "https://short.icu/vuASDYkK7" },
-        { "numero": 7, "video": "https://short.icu/dBH6mml1r" },
-        { "numero": 8, "video": "https://short.icu/fqL0-ureW" },
-        { "numero": 9, "video": "https://short.icu/iW6KYjKdZ" },
-        { "numero": 10, "video": "https://short.icu/pqqZW26ih" },
-        { "numero": 11, "video": "https://short.icu/T2H4c651H" },
-        { "numero": 12, "video": "https://short.icu/WytXK8zf5" },
-        { "numero": 13, "video": "https://short.icu/EXNoGq5mE" },
-        { "numero": 14, "video": "https://short.icu/Ty5Ma3xxs" },
-        { "numero": 15, "video": "https://short.icu/hTXkdgiFh" },
-        { "numero": 16, "video": "https://short.icu/dzPfmfAifL" },
-        { "numero": 17, "video": "https://short.icu/Cj2Nc9sCI" },
-        { "numero": 18, "video": "https://short.icu/8dS0IrMUKY" },
-        { "numero": 19, "video": "https://short.icu/aHQd_VNRA" },
-        { "numero": 20, "video": "https://short.icu/8z_ReM8Tr" },
-        { "numero": 21, "video": "https://short.icu/tWAinVZ-F" },
-        { "numero": 22, "video": "https://short.icu/_hb7aD0-K" },
-        { "numero": 23, "video": "https://short.icu/LCIdMePny" },
-        { "numero": 24, "video": "https://short.icu/f7Dk90_Vj" },
-        { "numero": 25, "video": "https://short.icu/KtKWuEseZ" }
-      ]
-    },
-    {
-      "numero": 2,
-      "capitulos": [
-        { "numero": 1, "video": "https://short.icu/2VFADopwl" },
-        { "numero": 2, "video": "https://short.icu/WRfD9PrIU" },
-        { "numero": 3, "video": "https://short.icu/33o9bqp3c" },
-        { "numero": 4, "video": "https://short.icu/KVkgIyDPk" },
-        { "numero": 5, "video": "https://short.icu/DxMTgKp_x" },
-        { "numero": 6, "video": "https://short.icu/XnZlR0jGz" },
-        { "numero": 7, "video": "https://short.icu/aeVnGTHbK" },
-        { "numero": 8, "video": "https://short.icu/408hwAdqD9" },
-        { "numero": 9, "video": "https://short.icu/Qv_jaNry8" },
-        { "numero": 10, "video": "https://short.icu/KznTGmw_-" },
-        { "numero": 11, "video": "https://short.icu/vf-WR3RLf" },
-        { "numero": 12, "video": "https://short.icu/YfZCAnWTx" },
-        { "numero": 13, "video": "https://short.icu/BfiHPGS8T" },
-        { "numero": 14, "video": "https://short.icu/zeo0fmJN1" },
-        { "numero": 15, "video": "https://short.icu/WIvFB-6rt" },
-        { "numero": 16, "video": "https://short.icu/Ouzn4CiXf" },
-        { "numero": 17, "video": "https://short.icu/1-n1akCBh" },
-        { "numero": 18, "video": "https://short.icu/VEdGYTg2R" },
-        { "numero": 19, "video": "https://short.icu/4xobzxmXf" },
-        { "numero": 20, "video": "https://short.icu/wnhYKcEJX" },
-        { "numero": 21, "video": "https://short.icu/pMpfzzRS5" },
-        { "numero": 22, "video": "https://short.icu/sBzUdMlPp" },
-        { "numero": 23, "video": "https://short.icu/YlNCYxAHb" },
-        { "numero": 24, "video": "https://short.icu/i9jYVgMyb" },
-        { "numero": 25, "video": "https://short.icu/HOnrOkFfZ" }
-      ]
-    },
-    {
-      "numero": 3,
-      "capitulos": [
-        { "numero": 1, "video": "https://short.icu/noCnhefou" },
-        { "numero": 2, "video": "https://short.icu/FL-Dojy3r" },
-        { "numero": 3, "video": "https://short.icu/aiA9CMZXO" },
-        { "numero": 4, "video": "https://short.icu/sUZurv-ma" },
-        { "numero": 5, "video": "https://short.icu/VnLjpuQjX" },
-        { "numero": 6, "video": "https://short.icu/Y4Fha1IWB" },
-        { "numero": 7, "video": "https://short.icu/I7BM5faST" },
-        { "numero": 8, "video": "https://short.icu/jCv98jKzB" },
-        { "numero": 9, "video": "https://short.icu/779Z5Pcitj" },
-        { "numero": 10, "video": "https://short.icu/nomWr-mCP" },
-        { "numero": 11, "video": "https://short.icu/WegVBQdZS" },
-        { "numero": 12, "video": "https://short.icu/i9c9fdP9-" },
-        { "numero": 13, "video": "https://short.icu/4jFo_9kfX" },
-        { "numero": 14, "video": "https://short.icu/aBsmKzvun" },
-        { "numero": 15, "video": "https://short.icu/U7N1aAGU-" },
-        { "numero": 16, "video": "https://short.icu/B1hPngUtq" }
-      ]
-    },
-    {
-      "numero": 4,
-      "capitulos": [
-        { "numero": 1, "video": "https://short.icu/OFklZGglJ" },
-        { "numero": 2, "video": "https://short.icu/A0J-wE8BW" },
-        { "numero": 3, "video": "https://short.icu/JbCjsRqzM" },
-        { "numero": 4, "video": "https://short.icu/B484goAMp7" },
-        { "numero": 5, "video": "https://short.icu/agD-2ArxH" },
-        { "numero": 6, "video": "https://short.icu/nqB2SpEON" },
-        { "numero": 7, "video": "https://short.icu/WEfxrbb8s" },
-        { "numero": 8, "video": "https://short.icu/yKLYSb0wh" },
-        { "numero": 9, "video": "https://short.icu/AxhFiRjPJ" },
-        { "numero": 10, "video": "https://short.icu/Ew51yKSwD" },
-        { "numero": 11, "video": "https://short.icu/gLe7Kv7ld" },
-        { "numero": 12, "video": "https://short.icu/KR6tQ5J9q" },
-        { "numero": 13, "video": "https://short.icu/2jjcslUgQ" },
-        { "numero": 14, "video": "https://short.icu/6pJjzDlbJ" },
-        { "numero": 15, "video": "https://short.icu/lyG-8PTVba" },
-        { "numero": 16, "video": "https://short.icu/R95vsEh3O" },
-        { "numero": 17, "video": "https://short.icu/f0pAlPpDz" },
-        { "numero": 18, "video": "https://short.icu/IoN9AQb3Y" },
-        { "numero": 19, "video": "https://short.icu/EcqvCDBAu" }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "rezero",
+    "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "malId": 31240,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
+    "imagenFondo": "",
+    "descripcion": "Cuando Subaru Natsuki sale de la tienda de conveniencia, lo último que espera es ser arrancado de su vida cotidiana y arrojado a un mundo de fantasía. Las cosas no pintan bien para el desconcertado adolescente; sin embargo, poco después de su llegada, es atacado por unos matones. Es entonces rescatado por una chica de cabello plateado y su espíritu felino, quienes se presentan como Satella y Puck. Para agradecerles, decide ayudarlos a encontrar una insignia robada. Sin embargo, mientras trabajan juntos, son atacados y asesinados por un misterioso agresor. Justo cuando Subaru está a punto de morir, de repente se encuentra de vuelta en el momento en que llegó por primera vez a este mundo. Al darse cuenta de que tiene el poder de 'Regresar por Muerte', decide usarlo para salvar a Satella y a los demás.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 8.25,
+    "anio": 2016,
+    "generos": ["Drama", "Fantasía", "Suspenso"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "T9v8kLpnx" },
+          { "numero": 2, "video": "xklpk54cy" },
+          { "numero": 3, "video": "_g5qGlhy9" },
+          { "numero": 4, "video": "q8Iyv9Qsh" },
+          { "numero": 5, "video": "CMowFQIN-" },
+          { "numero": 6, "video": "vuASDYkK7" },
+          { "numero": 7, "video": "dBH6mml1r" },
+          { "numero": 8, "video": "fqL0-ureW" },
+          { "numero": 9, "video": "iW6KYjKdZ" },
+          { "numero": 10, "video": "pqqZW26ih" },
+          { "numero": 11, "video": "T2H4c651H" },
+          { "numero": 12, "video": "WytXK8zf5" },
+          { "numero": 13, "video": "EXNoGq5mE" },
+          { "numero": 14, "video": "Ty5Ma3xxs" },
+          { "numero": 15, "video": "hTXkdgiFh" },
+          { "numero": 16, "video": "dzPfmfAifL" },
+          { "numero": 17, "video": "Cj2Nc9sCI" },
+          { "numero": 18, "video": "8dS0IrMUKY" },
+          { "numero": 19, "video": "aHQd_VNRA" },
+          { "numero": 20, "video": "8z_ReM8Tr" },
+          { "numero": 21, "video": "tWAinVZ-F" },
+          { "numero": 22, "video": "_hb7aD0-K" },
+          { "numero": 23, "video": "LCIdMePny" },
+          { "numero": 24, "video": "f7Dk90_Vj" },
+          { "numero": 25, "video": "KtKWuEseZ" }
+        ]
+      },
+      {
+        "numero": 2,
+        "capitulos": [
+          { "numero": 1, "video": "2VFADopwl" },
+          { "numero": 2, "video": "WRfD9PrIU" },
+          { "numero": 3, "video": "33o9bqp3c" },
+          { "numero": 4, "video": "KVkgIyDPk" },
+          { "numero": 5, "video": "DxMTgKp_x" },
+          { "numero": 6, "video": "XnZlR0jGz" },
+          { "numero": 7, "video": "aeVnGTHbK" },
+          { "numero": 8, "video": "408hwAdqD9" },
+          { "numero": 9, "video": "Qv_jaNry8" },
+          { "numero": 10, "video": "KznTGmw_-" },
+          { "numero": 11, "video": "vf-WR3RLf" },
+          { "numero": 12, "video": "YfZCAnWTx" },
+          { "numero": 13, "video": "BfiHPGS8T" },
+          { "numero": 14, "video": "zeo0fmJN1" },
+          { "numero": 15, "video": "WIvFB-6rt" },
+          { "numero": 16, "video": "Ouzn4CiXf" },
+          { "numero": 17, "video": "1-n1akCBh" },
+          { "numero": 18, "video": "VEdGYTg2R" },
+          { "numero": 19, "video": "4xobzxmXf" },
+          { "numero": 20, "video": "wnhYKcEJX" },
+          { "numero": 21, "video": "pMpfzzRS5" },
+          { "numero": 22, "video": "sBzUdMlPp" },
+          { "numero": 23, "video": "YlNCYxAHb" },
+          { "numero": 24, "video": "i9jYVgMyb" },
+          { "numero": 25, "video": "HOnrOkFfZ" }
+        ]
+      },
+      {
+        "numero": 3,
+        "capitulos": [
+          { "numero": 1, "video": "noCnhefou" },
+          { "numero": 2, "video": "FL-Dojy3r" },
+          { "numero": 3, "video": "aiA9CMZXO" },
+          { "numero": 4, "video": "sUZurv-ma" },
+          { "numero": 5, "video": "VnLjpuQjX" },
+          { "numero": 6, "video": "Y4Fha1IWB" },
+          { "numero": 7, "video": "I7BM5faST" },
+          { "numero": 8, "video": "jCv98jKzB" },
+          { "numero": 9, "video": "779Z5Pcitj" },
+          { "numero": 10, "video": "nomWr-mCP" },
+          { "numero": 11, "video": "WegVBQdZS" },
+          { "numero": 12, "video": "i9c9fdP9-" },
+          { "numero": 13, "video": "4jFo_9kfX" },
+          { "numero": 14, "video": "aBsmKzvun" },
+          { "numero": 15, "video": "U7N1aAGU-" },
+          { "numero": 16, "video": "B1hPngUtq" }
+        ]
+      },
+      {
+        "numero": 4,
+        "capitulos": [
+          { "numero": 1, "video": "OFklZGglJ" },
+          { "numero": 2, "video": "A0J-wE8BW" },
+          { "numero": 3, "video": "JbCjsRqzM" },
+          { "numero": 4, "video": "B484goAMp7" },
+          { "numero": 5, "video": "agD-2ArxH" },
+          { "numero": 6, "video": "nqB2SpEON" },
+          { "numero": 7, "video": "WEfxrbb8s" },
+          { "numero": 8, "video": "yKLYSb0wh" },
+          { "numero": 9, "video": "AxhFiRjPJ" },
+          { "numero": 10, "video": "Ew51yKSwD" },
+          { "numero": 11, "video": "gLe7Kv7ld" },
+          { "numero": 12, "video": "KR6tQ5J9q" },
+          { "numero": 13, "video": "2jjcslUgQ" },
+          { "numero": 14, "video": "6pJjzDlbJ" },
+          { "numero": 15, "video": "lyG-8PTVba" },
+          { "numero": 16, "video": "R95vsEh3O" },
+          { "numero": 17, "video": "f0pAlPpDz" },
+          { "numero": 18, "video": "IoN9AQb3Y" },
+          { "numero": 19, "video": "EcqvCDBAu" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seihantai-na-kimi-to-boku",
+    "titulo": "Seihantai na Kimi to Boku",
+    "malId": 63832,
+    "imagen": "https://cdn.myanimelist.net/images/anime/1143/158409.jpg",
+    "imagenFondo": "",
+    "descripcion": "Han pasado seis meses desde que los compañeros de clase polos opuestos Miyu Suzuki y Yuusuke Tani empezaron a salir. Al pasar tiempo juntos, junto con sus amigos del colegio, los dos han sido más felices que nunca. A medida que el año llega a su fin, la nueva pareja planea celebrar la Navidad y el Año Nuevo juntos, creando recuerdos para los años venideros. Mientras tanto, los amigos de Miyu y Yuusuke, Shuuji Taira y Kentarou Yamada, están desconcertados por sus propias situaciones. Debido a sus malas experiencias en la escuela secundaria, Taira sigue sobrepensando todo a su alrededor, especialmente después de que su compañera de clase Shino Azuma comenzó a prestarle más atención. Simultáneamente, el enérgico y extrovertido Yamada encuentra difícil encontrar el momento perfecto para confesar sus sentimientos a su tímida compañera Natsumi Nishi. A pesar de las diferencias de todos, continúan disfrutando de su adolescencia y encuentran sus propias maneras de convertir las vacaciones de invierno en un recuerdo preciado.",
+    "estado": "emision",
+    "destacado": false,
+    "finalizado": false,
+    "puntuacion": 8.39,
+    "anio": 2026,
+    "generos": ["Comedia", "Romance", "Escuela"],
+    "temporadas": [
+      {
+        "numero": 1,
+        "capitulos": [
+          { "numero": 1, "video": "HvM9s9qaZ" },
+          { "numero": 2, "video": "Ove0QnbSz" },
+          { "numero": 3, "video": "ZdHKnFdrb" },
+          { "numero": 4, "video": "Hanb7bItX" },
+          { "numero": 5, "video": "sW0dszx0G" },
+          { "numero": 6, "video": "tiJq_gV-k" },
+          { "numero": 7, "video": "gnFbWzLU5" },
+          { "numero": 8, "video": "yR7Z6Adu2" },
+          { "numero": 9, "video": "lT7t3uxGd" },
+          { "numero": 10, "video": "Z2nSYbDcV" },
+          { "numero": 11, "video": "KQEzLL-3J" },
+          { "numero": 12, "video": "ni6zm2idC" }
+        ]
+      },
+      {
+        "numero": 2,
+        "capitulos": [
+          { "numero": 1, "video": "G5pUxcSeZ" },
+          { "numero": 2, "video": "JoDeNg1-A" },
+          { "numero": 3, "video": "h5-XPw3Vw" },
+          { "numero": 4, "video": "Cylm9CENA" },
+          { "numero": 5, "video": "3BU14QzjG" },
+          { "numero": 6, "video": "YlSVAJFTV" },
+          { "numero": 7, "video": "IE9gwlBZy" },
+          { "numero": 8, "video": "wfooZdfaV" },
+          { "numero": 9, "video": "kDDY0Yky2" },
+          { "numero": 10, "video": "hCzWG5OuD8" },
+          { "numero": 11, "video": "BEmU5aV7G" },
+          { "numero": 12, "video": "Pm_aiELYe" },
+          { "numero": 13, "video": "AMzG_ygem" }
+        ]
+      }
+    ]
+  }
+]
   ],
   "idsEnEmision": [
     "cardfight-vanguard-divinez-genma-seisen-hen",

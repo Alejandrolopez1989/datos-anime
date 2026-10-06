@@ -609,7 +609,8 @@
             { "numero": 10, "video": "NDtHU0Td_" },
             { "numero": 11, "video": "wi4bSpIgA" },
             { "numero": 12, "video": "9TLIG4RDh" },
-            { "numero": 13, "video": "i26O0De91" }
+            { "numero": 13, "video": "i26O0De91" },
+            { "numero": 14, "video": "H6d8KxxD0" }
           ]
         }
       ]
@@ -1628,6 +1629,116 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "No6F6gA2V" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kyouran-reijou-nia-liston",
+      "titulo": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+      "malId": 63382,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1000/159223.jpg",
+      "imagenFondo": "",
+      "descripcion": "Recostada en su lecho de muerte sin aparentes posibilidades de recuperación, la joven Nia Liston está a punto de sucumbir a su enfermedad. Incapaces de perder la esperanza, sus padres buscan desesperadamente una cura incluso en los lugares más recónditos, lo que lleva a la aparición de un hombre encapuchado que afirma poder librar a Nia de su condición. Pero en lugar de curarla, el encapuchado trasplanta el alma de un héroe fallecido que fue invicto en batalla al frágil cuerpo de la niña. Con una segunda oportunidad de vida como Nia, la heroína está decidida a recuperar la fuerza de su nuevo cuerpo usando una técnica conocida como chi para atacar y eliminar la enfermedad de raíz. Con su entusiasta hambre de combate también heredada, Nia está ansiosa por volver a explorar el mundo. Sin embargo, el inquieto espíritu de la heroína anhela encontrar a un oponente digno que pueda derrotarla en el campo de batalla, desatando el caos allá donde Nia vaya.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.32,
+      "anio": 2026,
+      "generos": ["Fantasía", "Reencarnación"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "PCpyVNKgD" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tsuihou-sareta-cheat-fuyo-majutsushi",
+      "titulo": "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+      "malId": 63431,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1963/160339.jpg",
+      "imagenFondo": "",
+      "descripcion": "Rein, un encantador que fortalece equipo con su magia, es expulsado repentinamente de su gremio, simplemente porque cada pieza de equipo en el gremio ya ha sido mejorada lo suficiente. Indignado por el trato absurdo, Rein decide recuperar la enorme cantidad de maná que había vertido en su equipo. Cuando lo canaliza casualmente hacia una espada de cobre aleatoria, esta se transforma en un arma de nivel trampa con 10,000 puntos de mejora.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.25,
+      "anio": 2026,
+      "generos": ["Acción", "Aventura", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "A3lEo04ME" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "battle-spirits-re-zekkai-no-kuu",
+      "titulo": "Battle Spirits [Re]: Zekkai no Kuu",
+      "malId": 63818,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1135/159762.jpg",
+      "imagenFondo": "",
+      "descripcion": "La historia se desarrolla en Eito, Hinomoto, durante una era turbulenta posteriormente conocida como el final del período Edo. Sora Magami, un chico atraído por Battle Spirits que busca fuerza, se cruza con Zetsu Gi, un hombre conocido como el \"Asesino\" que lleva una promesa en su corazón. Dos caminos se entrelazan y la historia comienza a moverse.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": null,
+      "anio": 2026,
+      "generos": ["Fantasía", "Acción", "Juego de Estrategia"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "ecktfER3U" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shiotaiou-no-satou-san-ga-ore-ni-dake-amai",
+      "titulo": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+      "malId": 63754,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1160/160129.jpg",
+      "imagenFondo": "",
+      "descripcion": "Sota Oshio es un estudiante de secundaria que trabaja a tiempo parcial en la cafetería de su familia. Un día, ve a su compañera de clase Koharu Sato siendo molestada persistentemente por varios chicos en la cafetería y se acerca para ayudarla. Koharu es conocida por su actitud \"salada\" y actúa con frialdad hacia los demás, pero esa es solo su forma de protegerse; muestra un lado más suave solo a Oshio. Mientras Oshio administra la cuenta de la cafetería y es conocido por su excelente fotografía, Koharu es terrible tomando fotos. Por eso, los dos comienzan a pasar más tiempo juntos con la excusa de practicar fotografía. En realidad, ambos han tenido sentimientos el uno por el otro desde su primer encuentro en la escuela, pero ninguno puede expresar fácilmente sus verdaderas emociones. Su torpe enamoramiento mutuo se desarrolla lentamente en esta historia de amor juvenil de combustión lenta.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.96,
+      "anio": 2026,
+      "generos": ["Comedia", "Romance"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "eFuodGXrM" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "choujun-choujou-senpai",
+      "titulo": "Choujun! Choujou-senpai",
+      "malId": 62696,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1874/160335.jpg",
+      "imagenFondo": "",
+      "descripcion": "En Chinjuku, la ciudad que nunca duerme, hay un oficial de policía psíquico de último año con poderes que van más allá de la comprensión humana. Su nombre es Meguru Choujou. Junto a su compañera experta en judo, Nao Ippongi, este hilarante dúo mantendrá las calles limpias por cualquier medio necesario.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.63,
+      "anio": 2026,
+      "generos": ["Comedia", "Shounen"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "Yd7W8p5kR" }
           ]
         }
       ]

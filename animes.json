@@ -877,7 +877,8 @@
         {
           "numero": 5,
           "capitulos": [
-            { "numero": 1, "video": "-MZnK224P" }
+            { "numero": 1, "video": "-MZnK224P" },
+            { "numero": 2, "video": "X9ezRmvIH" }
           ]
         }
       ]
@@ -899,7 +900,8 @@
         {
           "numero": 2,
           "capitulos": [
-            { "numero": 1, "video": "fUIejHRdE" }
+            { "numero": 1, "video": "fUIejHRdE" },
+            { "numero": 2, "video": "8VtqRM3kh" }
           ]
         }
       ]
@@ -1739,6 +1741,138 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "Yd7W8p5kR" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sasaki-to-pii-chan-2",
+      "titulo": "Sasaki to Pii-chan Season 2",
+      "malId": 58518,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1655/159979.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda temporada de Sasaki to Pii-chan. Sasaki, un oficinista común, continúa su vida secreta como un poderoso mago tras conocer a Pii-chan, un pájaro parlante que resulta ser un legendario hechicero de otro mundo. Ahora, mientras equilibra su trabajo y su nueva vida, Sasaki se enfrenta a nuevos desafíos: desde compras en el mercado mágico hasta peligrosos encuentros con otros usuarios de magia y amenazas provenientes de otros mundos. Acompañado por Pii-chan y sus aliados, Sasaki deberá proteger su tranquila vida cotidiana mientras se adentra cada vez más en un mundo de fantasía lleno de intrigas.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.15,
+      "anio": 2026,
+      "generos": ["Aventura", "Comedia", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "TOq9xjTy5" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "juuou-mujin-dandivine",
+      "titulo": "Juuou Mujin Dandivine",
+      "malId": 64344,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1496/160013.jpg",
+      "imagenFondo": "",
+      "descripcion": "Han pasado veinte años desde que el robot combinable Dandivine derrotó a los misteriosos invasores conocidos como Aposdoll. Con la amenaza desaparecida, el mundo ha disfrutado de una larga era de paz. Pero para el fabricante de juguetes Casga, cuya fortuna se construyó sobre la popularidad de la mercancía de Dandivine, esa paz ha tenido un costo. Habiendo dependido demasiado de la fama del legendario robot, la compañía ha caído constantemente en declive. Desesperado por revivir tanto a Dandivine como a su negocio en apuros, el presidente de Casga, Genjurou Shijima, sueña con el regreso del robot, incluso si eso significa perturbar la paz. Entonces, como si respondiera a su deseo, los Aposdolls reaparecen repentinamente en Tokio. Mientras el pánico se extiende entre una población que no ha conocido más que paz durante dos décadas, el estudiante de secundaria Gekiha Shijima es reclutado por su tío, Yuusaku Kuroiwa, el antiguo piloto principal de Dandivine. Arrastrado a la cabina de la legendaria máquina, Gekiha se encuentra en el centro de una nueva batalla. ¿Por qué han regresado los Aposdolls después de todos estos años? ¿Y podrá Dandivine alzarse una vez más para enfrentar la amenaza? Un nuevo capítulo en la lucha por la humanidad está a punto de comenzar.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": null,
+      "anio": 2026,
+      "generos": ["Acción", "Ciencia Ficción", "Mecha"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "oJCT136GB" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kikansha-no-mahou-wa-tokubetsu-desu-2",
+      "titulo": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+      "malId": 57612,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1740/160052.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda temporada de Kikansha no Mahou wa Tokubetsu desu. Desir Arman y sus compañeros continúan su formación en la Academia Hebrion mientras se preparan para enfrentar la amenaza que se cierne sobre el mundo. Con su conocimiento del futuro, Desir deberá guiar a sus amigos a través de nuevos desafíos, enemigos poderosos y pruebas que pondrán a prueba no solo su magia, sino también su determinación para cambiar el destino.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.04,
+      "anio": 2026,
+      "generos": ["Acción", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "tabmsle81" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "magic-knight-rayearth-2026",
+      "titulo": "Magic Knight Rayearth (2026)",
+      "malId": 59204,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1478/160268.jpg",
+      "imagenFondo": "",
+      "descripcion": "Hikaru Shidou, Umi Ryuuzaki y Fuu Hououji son tres estudiantes de secundaria que, durante una excursión a la Torre de Tokio, son transportadas mágicamente al mundo de Cephiro. Allí, el Guru Clef les revela que son las legendarias Magic Knights, destinadas a rescatar a la Princesa Emeraude, quien se encuentra prisionera. Para lograrlo, deberán despertar sus poderes mágicos, conseguir armas legendarias y enfrentarse a peligrosos enemigos en un viaje lleno de aventuras y fantasía.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.15,
+      "anio": 2026,
+      "generos": ["Aventura", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "kTqR-9-xX" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sekai-saikyou-no-majo-hajimemashita",
+      "titulo": "Sekai Saikyou no Majo, Hajimemashita",
+      "malId": 64084,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1341/159753.jpg",
+      "imagenFondo": "",
+      "descripcion": "Cuando Lorna manifiesta una habilidad completamente inútil, es etiquetada como una vergüenza para su familia y expulsada de casa. Sin dinero ni comida, está a punto de tocar fondo. Pero entonces descubre cómo usar su supuestamente inútil habilidad de rango SSS, \"Internet\". Este talento de nivel trampa le da el conocimiento para reunir una cantidad ilimitada de objetos valiosos y adquirir fácilmente equipamiento raro. ¡Armada con un conocimiento divino, Lorna es libre de hacer lo que quiera! Si tan solo pudiera averiguar qué significa \"lmfao\"...",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.71,
+      "anio": 2026,
+      "generos": ["Aventura", "Comedia", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "S82artyDk" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tantei-wa-mou-shindeiru-2",
+      "titulo": "Tantei wa Mou, Shindeiru. Season 2",
+      "malId": 52480,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1414/160406.jpg",
+      "imagenFondo": "",
+      "descripcion": "Después de frustrar un secuestro aéreo junto a la hermosa detective de cabello plateado, Siesta, la vida de Kimihiko Kimizuka da un giro radical: se convierte en su asistente y juntos viajan por el mundo resolviendo casos y enfrentando a organizaciones criminales. Pero todo cambia cuando Siesta muere. Un año después, Kimihiko intenta llevar una vida normal, hasta que una nueva cliente, Nagisa Natsunagi, lo arrastra de vuelta al mundo de los misterios. Ahora, una nueva investigación reabrirá viejas heridas y lo llevará a descubrir la verdad sobre la muerte de Siesta, enfrentándose a un asesino, una conspiración mundial y al legado de su difunta compañera.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.10,
+      "anio": 2026,
+      "generos": ["Comedia", "Misterio", "Romance"],
+      "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "0wiZO_L_5" }
           ]
         }
       ]

@@ -126,7 +126,8 @@
           "capitulos": [
             { "numero": 1, "video": "FerO76Kr2" },
             { "numero": 2, "video": "DWo3SGL5o" },
-            { "numero": 3, "video": "WUCTtj3_w" }
+            { "numero": 3, "video": "WUCTtj3_w" },
+            { "numero": 4, "video": "lqx8_tHnL" }
           ]
         }
       ]
@@ -194,7 +195,8 @@
             { "numero": 11, "video": "djzPGmLdv" },
             { "numero": 12, "video": "y8C46hslk" },
             { "numero": 13, "video": "mdTCcdOAB" },
-            { "numero": 14, "video": "aQjsSU9aS" }
+            { "numero": 14, "video": "aQjsSU9aS" },
+            { "numero": 15, "video": "aqc6yyBwK" }
           ]
         }
       ]
@@ -707,7 +709,8 @@
             { "numero": 10, "video": "VDNDKBKtm" },
             { "numero": 11, "video": "blWQUsINY" },
             { "numero": 12, "video": "djuk4jy1A" },
-            { "numero": 13, "video": "vWeVllTPz" }
+            { "numero": 13, "video": "vWeVllTPz" },
+            { "numero": 14, "video": "GDN77XmMQY" }
           ]
         }
       ]
@@ -749,7 +752,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 8.70,
+      "puntuacion": 8.7,
       "anio": 2026,
       "generos": ["Drama", "Misterio", "Suspense"],
       "temporadas": [
@@ -764,7 +767,8 @@
             { "numero": 6, "video": "jgO6KsIlr" },
             { "numero": 7, "video": "POOqBPcOi" },
             { "numero": 8, "video": "tWrQ37gl8" },
-            { "numero": 9, "video": "ZpGaqYc0X" }
+            { "numero": 9, "video": "ZpGaqYc0X" },
+            { "numero": 10, "video": "_cQi4nvQ2" }
           ]
         }
       ]
@@ -825,7 +829,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 7.20,
+      "puntuacion": 7.2,
       "anio": 2026,
       "generos": ["Acción", "Fantasía"],
       "temporadas": [
@@ -855,7 +859,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "fQCQCkQMN" }
+            { "numero": 1, "video": "fQCQCkQMN" },
+            { "numero": 2, "video": "r0ih-5FsW" }
           ]
         }
       ]
@@ -893,7 +898,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 7.50,
+      "puntuacion": 7.5,
       "anio": 2026,
       "generos": ["Acción", "Aventura", "Fantasía"],
       "temporadas": [
@@ -923,7 +928,8 @@
         {
           "numero": 2,
           "capitulos": [
-            { "numero": 1, "video": "jZBTvHUF7" }
+            { "numero": 1, "video": "jZBTvHUF7" },
+            { "numero": 2, "video": "0Hh_tCUuY" }
           ]
         }
       ]
@@ -945,7 +951,8 @@
         {
           "numero": 2,
           "capitulos": [
-            { "numero": 1, "video": "_i5trHzuJ" }
+            { "numero": 1, "video": "_i5trHzuJ" },
+            { "numero": 2, "video": "bcee00ris" }
           ]
         }
       ]
@@ -989,7 +996,8 @@
         {
           "numero": 3,
           "capitulos": [
-            { "numero": 49, "video": "E7LLcbj52" }
+            { "numero": 1, "video": "E7LLcbj52" },
+            { "numero": 2, "video": "JLxOKBlzx" }
           ]
         }
       ]
@@ -1011,7 +1019,8 @@
         {
           "numero": 2,
           "capitulos": [
-            { "numero": 1, "video": "vTVT-U8Hy" }
+            { "numero": 1, "video": "vTVT-U8Hy" },
+            { "numero": 2, "video": "aD-hBjF-f" }
           ]
         }
       ]
@@ -1033,7 +1042,8 @@
         {
           "numero": 4,
           "capitulos": [
-            { "numero": 1, "video": "xKOQShyaHQ" }
+            { "numero": 1, "video": "xKOQShyaHQ" },
+            { "numero": 2, "video": "-4tK1WxlV" }
           ]
         }
       ]
@@ -1092,7 +1102,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 7.70,
+      "puntuacion": 7.7,
       "anio": 2026,
       "generos": ["Acción", "Comedia", "Romance", "Ecchi"],
       "temporadas": [
@@ -1203,7 +1213,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 8.80,
+      "puntuacion": 8.8,
       "anio": 2026,
       "generos": ["Acción", "Fantasía", "Shounen"],
       "temporadas": [
@@ -1314,7 +1324,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 6.80,
+      "puntuacion": 6.8,
       "anio": 2026,
       "generos": ["Comedia", "Fantasía", "Erótica"],
       "temporadas": [
@@ -1446,7 +1456,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 6.90,
+      "puntuacion": 6.9,
       "anio": 2026,
       "generos": ["Acción", "Ciencia Ficción", "Isekai", "Espacial"],
       "temporadas": [
@@ -1512,7 +1522,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 8.20,
+      "puntuacion": 8.2,
       "anio": 2026,
       "generos": ["Romance", "Deportes", "Shounen"],
       "temporadas": [
@@ -1578,7 +1588,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 6.80,
+      "puntuacion": 6.8,
       "anio": 2026,
       "generos": ["Fantasía", "Isekai", "Reencarnación", "Seinen"],
       "temporadas": [
@@ -1601,7 +1611,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 6.80,
+      "puntuacion": 6.8,
       "anio": 2026,
       "generos": ["Acción", "Romance", "Ciencia Ficción", "Sobrenatural", "Suspenso", "Shounen"],
       "temporadas": [
@@ -1865,7 +1875,7 @@
       "estado": "emision",
       "destacado": false,
       "finalizado": false,
-      "puntuacion": 7.10,
+      "puntuacion": 7.1,
       "anio": 2026,
       "generos": ["Comedia", "Misterio", "Romance"],
       "temporadas": [
@@ -1873,6 +1883,72 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "0wiZO_L_5" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tetsuryou-meet-with-tetsudou-musume",
+      "titulo": "Tetsuryou! Meet with Tetsudou Musume",
+      "malId": 62615,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1618/160107.jpg",
+      "imagenFondo": "",
+      "descripcion": "Misaki, una estudiante universitaria que siente el peso de la vida cotidiana y no está segura de su futuro, anhela aventuras y algo que realmente le apasione. Al comenzar un nuevo día en el campus, los miembros del Club de Viajes en Tren (conocido comúnmente como el Club Tetsuryo) invitan a Misaki a unirse a ellos, y ella entra en el mundo de los ferrocarriles...",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.55,
+      "anio": 2026,
+      "generos": ["Recuentos de la vida", "Adultos", "Chicas haciendo cosas lindas"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "K4pivNYmS" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hotaru-no-yomeiri",
+      "titulo": "Hotaru no Yomeiri",
+      "malId": 63293,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1172/159893.jpg",
+      "imagenFondo": "",
+      "descripcion": "Satoko, la hija mayor de la honorable familia Kirigaya, ha recibido numerosas propuestas de matrimonio de hombres cautivados por su belleza y gracia. Sin embargo, las ha rechazado todas debido a una afección cardíaca que oculta en secreto. A pesar de su condición, Satoko todavía está dispuesta a encontrar un marido para aliviar las preocupaciones de su amado padre. Mientras pasea, Satoko es secuestrada por un grupo de mercenarios, uno de ellos Shinpei Gotou, un legendario asesino encargado de ejecutarla. Satoko intenta sobornar a Gotou para que la libere, pero no lo logra. Sin opciones, Satoko hace una apuesta desesperada: bajo la apariencia de un amor a primera vista, le pide que se case con ella. Inesperadamente, Gotou muerde el anzuelo y jura protegerla. Mientras la pareja escapa hacia la libertad, Satoko lucha por mantener la farsa y entender al misterioso hombre con el que se ha fugado.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.85,
+      "anio": 2026,
+      "generos": ["Romance", "Histórico"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "XEs9905JP" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "toaru-anbu-no-item",
+      "titulo": "Toaru Anbu no Item",
+      "malId": 61014,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1531/159988.jpg",
+      "imagenFondo": "",
+      "descripcion": "En Ciudad Academia, donde las habilidades sobrenaturales son parte de la ciencia cotidiana, la paz de la ciudad es mantenida por una fuerza invisible: el lado oscuro. Entre los operativos encubiertos se encuentra ITEM, una unidad de élite formada por cuatro miembros. Con las habilidades de rastreo de Rikou Takitsubo, la pericia explosiva de Frenda Seivelun, la defensa impenetrable de Saiai Kinuhata y el poder abrumador de Shizuri Mugino como una de los siete espers de Nivel 5 de Ciudad Academia, navegan por el bajo mundo de la ciudad, asumiendo misiones secretas que nunca llegan a los titulares. Mientras se desarrolla su última asignación, el equipo se mueve con precisión, sin saber que sus acciones están preparando el escenario para una tragedia que pondrá a prueba sus lazos de confianza, amistad y supervivencia en la implacable oscuridad de Ciudad Academia.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.37,
+      "anio": 2026,
+      "generos": ["Acción", "Fantasía", "Ciencia Ficción", "Superpoderes", "Fantasía Urbana"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "vbuPmLtFh" }
           ]
         }
       ]
@@ -7386,8 +7462,8 @@
       ]
     },
     {
-      "id": "kusuriya-no-hitorigoto-2nd-season",
-      "titulo": "Kusuriya no Hitorigoto 2nd Season",
+      "id": "kusuriya-no-hitorigoto",
+      "titulo": "Kusuriya no Hitorigoto",
       "malId": 54492,
       "imagen": "https://cdn.myanimelist.net/images/anime/1708/138033.jpg",
       "imagenFondo": "",

@@ -288,7 +288,8 @@
             { "numero": 23, "video": "DobZpgoyj" },
             { "numero": 24, "video": "5G1zW6IOi" },
             { "numero": 25, "video": "avNaUk3nR" },
-            { "numero": 26, "video": "RsfT24D_Z" }
+            { "numero": 26, "video": "RsfT24D_Z" },
+            { "numero": 27, "video": "twkJJlYik" }
           ]
         }
       ]
@@ -791,7 +792,8 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "mJJg66qYP" },
-            { "numero": 2, "video": "FQz-8j_JJ" }
+            { "numero": 2, "video": "FQz-8j_JJ" },
+            { "numero": 3, "video": "xJGMy2We3J" }
           ]
         }
       ]
@@ -974,7 +976,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "Z92lL8BvP" }
+            { "numero": 1, "video": "Z92lL8BvP" },
+            { "numero": 2, "video": "Qo8WUNBsv" }
           ]
         }
       ]
@@ -1065,7 +1068,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "tBI9aI1Eu" }
+            { "numero": 1, "video": "tBI9aI1Eu" },
+            { "numero": 2, "video": "wv_pISnTk" }
           ]
         }
       ]
@@ -1087,7 +1091,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "TM795BFSHT" }
+            { "numero": 1, "video": "TM795BFSHT" },
+            { "numero": 2, "video": "AzjJ5fhxW" }
           ]
         }
       ]
@@ -1109,7 +1114,8 @@
         {
           "numero": 3,
           "capitulos": [
-            { "numero": 1, "video": "Op4b_ykZJ" }
+            { "numero": 1, "video": "Op4b_ykZJ" },
+            { "numero": 2, "video": "YpdF7qhlK" }
           ]
         }
       ]
@@ -1132,7 +1138,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "J35Pzy0FV" },
-            { "numero": 2, "video": "nxQZQE4mk" }
+            { "numero": 2, "video": "nxQZQE4mk" },
+            { "numero": 3, "video": "MsVFsBLXK" }
           ]
         }
       ]
@@ -1154,7 +1161,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "XPr1dANX9" }
+            { "numero": 1, "video": "XPr1dANX9" },
+            { "numero": 2, "video": "RfijgqGFU" }
           ]
         }
       ]
@@ -1176,7 +1184,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "QmisaPi-w" }
+            { "numero": 1, "video": "QmisaPi-w" },
+            { "numero": 2, "video": "Atd-84kQX" }
           ]
         }
       ]
@@ -1198,7 +1207,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "ntuXzi5Sw" }
+            { "numero": 1, "video": "ntuXzi5Sw" },
+            { "numero": 2, "video": "oJU_-Tsu7" }
           ]
         }
       ]
@@ -1220,7 +1230,8 @@
         {
           "numero": 2,
           "capitulos": [
-            { "numero": 1, "video": "Y9RGw9oi0F" }
+            { "numero": 1, "video": "Y9RGw9oi0F" },
+            { "numero": 2, "video": "mO6ydG-ZJ" }
           ]
         }
       ]
@@ -1264,7 +1275,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "Ci7uPoUnc" }
+            { "numero": 1, "video": "Ci7uPoUnc" },
+            { "numero": 2, "video": "WfUq92phO" }
           ]
         }
       ]
@@ -1287,7 +1299,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "EXxcsQCSH" },
-            { "numero": 2, "video": "q8-jKw4u5" }
+            { "numero": 2, "video": "q8-jKw4u5" },
+            { "numero": 3, "video": "K9U1TsHmM" }
           ]
         }
       ]
@@ -1551,7 +1564,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "zbPThZWNg" }
+            { "numero": 1, "video": "zbPThZWNg" },
+            { "numero": 2, "video": "6lRaFvSiB" }
           ]
         }
       ]
@@ -1949,6 +1963,50 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "vbuPmLtFh" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kyoufu-collector",
+      "titulo": "Kyoufu Collector",
+      "malId": 63053,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1751/160122.jpg",
+      "imagenFondo": "",
+      "descripcion": "Internet está lleno de creepypastas, avistamientos de criptidos, relatos de actividad paranormal y desapariciones sin resolver. En su mayoría son rumores y bromas alimentadas por trolls: puro entretenimiento. Pero unos pocos desafortunados aprenden por las malas que algunas leyendas son reales. Muchas de estas almas desafortunadas están condenadas, pero su suerte podría cambiar si se cruzan con el chico de la capucha roja. Él recorre de pueblo en pueblo y aparece dondequiera que ocurren cosas extrañas. ¿Es una luz en la oscuridad? ¿O la prueba viviente de que los monstruos son demasiado reales...?",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.20,
+      "anio": 2026,
+      "generos": ["Terror", "Misterio", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "D7_vs3kPu" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shuiro-no-kamen",
+      "titulo": "Shuiro no Kamen",
+      "malId": 61999,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1299/159977.jpg",
+      "imagenFondo": "",
+      "descripcion": "La máscara trae calamidad. La máscara se deleita con la matanza. La máscara tiene voluntad propia... Pelle, un comerciante de máscaras viajero, posee la habilidad de crear máscaras misteriosas que otorgan poderes únicos a quien las usa. En una ciudad envuelta en una atmósfera inquietante, se encuentra con Sonah, una misteriosa joven. Mientras se revelan secretos y surgen conflictos internos, un joven da sus primeros pasos hacia adelante. Sumérgete en una emocionante fantasía de batallas con máscaras.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.84,
+      "anio": 2026,
+      "generos": ["Acción", "Fantasía", "Seinen"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "p3iiAqqPY" }
           ]
         }
       ]

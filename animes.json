@@ -816,7 +816,8 @@
           "numero": 3,
           "capitulos": [
             { "numero": 1, "video": "I1iFJlcOl" },
-            { "numero": 2, "video": "l_Mj7uHUo" }
+            { "numero": 2, "video": "l_Mj7uHUo" },
+            { "numero": 3, "video": "QDcYsbDBc" }
           ]
         }
       ]
@@ -839,7 +840,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "_f92x6SsN" },
-            { "numero": 2, "video": "GXs-jLrmE" }
+            { "numero": 2, "video": "GXs-jLrmE" },
+            { "numero": 3, "video": "1y3IotUdG" }
           ]
         }
       ]
@@ -1322,7 +1324,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "lKuz82H5N" }
+            { "numero": 1, "video": "lKuz82H5N" },
+            { "numero": 2, "video": "JKaDC_3IMQ" }
           ]
         }
       ]
@@ -1344,7 +1347,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "3mvzCLPj7" }
+            { "numero": 1, "video": "3mvzCLPj7" },
+            { "numero": 2, "video": "eKusqACm3" }
           ]
         }
       ]
@@ -1366,7 +1370,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "RpzmSfmRp" }
+            { "numero": 1, "video": "RpzmSfmRp" },
+            { "numero": 2, "video": "zU5X27bpT" }
           ]
         }
       ]
@@ -1388,7 +1393,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "jMGDWP0VV" }
+            { "numero": 1, "video": "jMGDWP0VV" },
+            { "numero": 2, "video": "D7UfwA7eU" }
           ]
         }
       ]
@@ -1410,7 +1416,8 @@
         {
           "numero": 2,
           "capitulos": [
-            { "numero": 1, "video": "hvAP1Gq78" }
+            { "numero": 1, "video": "hvAP1Gq78" },
+            { "numero": 2, "video": "unImMjeLz" }
           ]
         }
       ]
@@ -1432,7 +1439,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "o-5RTz1qZ" }
+            { "numero": 1, "video": "o-5RTz1qZ" },
+            { "numero": 2, "video": "K3aj49vx4" }
           ]
         }
       ]
@@ -1454,7 +1462,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "N3lkR4X8X" }
+            { "numero": 1, "video": "N3lkR4X8X" },
+            { "numero": 2, "video": "Qtf0LXX-4" }
           ]
         }
       ]
@@ -1476,7 +1485,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "I9hsX-sq3" }
+            { "numero": 1, "video": "I9hsX-sq3" },
+            { "numero": 2, "video": "DXXhE7Zxz" }
           ]
         }
       ]
@@ -1498,7 +1508,8 @@
         {
           "numero": 2,
           "capitulos": [
-            { "numero": 1, "video": "t1RU_658v" }
+            { "numero": 1, "video": "t1RU_658v" },
+            { "numero": 2, "video": "TPGDQwGoJ" }
           ]
         }
       ]
@@ -1520,7 +1531,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "35N7bNsvc" }
+            { "numero": 1, "video": "35N7bNsvc" },
+            { "numero": 2, "video": "CxhS0c9zc" }
           ]
         }
       ]
@@ -1542,7 +1554,8 @@
         {
           "numero": 2,
           "capitulos": [
-            { "numero": 1, "video": "6adFYt480" }
+            { "numero": 1, "video": "6adFYt480" },
+            { "numero": 2, "video": "7qClk_xwl" }
           ]
         }
       ]
@@ -2007,6 +2020,116 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "p3iiAqqPY" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dragon-ball-super-beerus",
+      "titulo": "Dragon Ball Super: Beerus",
+      "malId": 63367,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1624/159991.jpg",
+      "imagenFondo": "",
+      "descripcion": "Han pasado varios años desde la feroz batalla contra Majin Buu, y la Tierra ha recuperado por fin un breve momento de paz. Al mismo tiempo, Beerus, el Dios de la Destrucción, despierta de su largo y profundo sueño. Atormentado por un sueño profético sobre un rival digno, Beerus se entera de un saiyajin llamado Goku que derrotó al tirano Freezer. Impulsado por el deseo de una pelea digna, Beerus y su asistente Whis viajan a la Tierra. Así comienza una batalla cósmica que sacudirá el universo entero, enfrentando al Dios de la Destrucción contra Goku y sus aliados para evitar la destrucción del planeta.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": null,
+      "anio": 2026,
+      "generos": ["Acción", "Aventura", "Fantasía", "Artes Marciales", "Shounen"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "N8URrCYCw" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diamond-no-ace-act-ii-second-season-part-2",
+      "titulo": "Diamond no Ace: Act II Second Season Part 2",
+      "malId": 64505,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1296/159929.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda parte de la segunda temporada de Diamond no Ace: Act II. La historia continúa siguiendo a Eijun Sawamura y al equipo de béisbol de la Preparatoria Seidou en su camino hacia el Torneo Nacional de Koshien. Con nuevos desafíos, rivales poderosos y la presión de superar sus límites, Eijun deberá demostrar su valía como lanzador y ayudar a su equipo a alcanzar la cima.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.48,
+      "anio": 2026,
+      "generos": ["Deportes", "Escolar", "Shounen"],
+      "temporadas": [
+        {
+          "numero": 5,
+          "capitulos": [
+            { "numero": 1, "video": "EbxrQmOga" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mahou-no-shimai-lulutto-lilly-part-2",
+      "titulo": "Mahou no Shimai Lulutto Lilly Part 2",
+      "malId": 63667,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1315/159864.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda parte de Mahou no Shimai Lulutto Lilly. La historia de las hermanas mágicas Lulutto y Lilly continúa mientras enfrentan nuevos desafíos, enemigos y aventuras que pondrán a prueba su vínculo y sus poderes.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.59,
+      "anio": 2026,
+      "generos": [],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 13, "video": "UNDxzyffe" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku",
+      "titulo": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+      "malId": 63292,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1016/159863.jpg",
+      "imagenFondo": "",
+      "descripcion": "Makoto Takatsuki es un estudiante de secundaria y un ávido jugador de RPG. Sin embargo, lo \"normal\" se esfuma cuando toda su clase se ve involucrada en un accidente de autobús y es transportada a otro mundo. Poderosos dioses gobiernan esta extraña tierra de magia y monstruos, y cada recién llegado recibe una bendición. Pero Makoto es el único que no obtiene ningún poder especial, quedando como el más débil de la clase. Pronto conoce a Noah, una diosa menor que aparece en sus sueños y le pide que se convierta en su primer creyente. Con la ayuda de las bendiciones de Noah y un arma divina, Makoto buscará volverse lo suficientemente fuerte para rescatar a su diosa de la mazmorra donde ha estado atrapada.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.55,
+      "anio": 2026,
+      "generos": ["Fantasía", "Romance", "Aventura", "Isekai"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "_ZX_slTxG" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yozakura-san-chi-no-daisakusen-2-part-2",
+      "titulo": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+      "malId": 64503,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1807/160135.jpg",
+      "imagenFondo": "",
+      "descripcion": "La segunda parte sigue a Taiyo Asano mientras busca descubrir la verdad detrás de la petición de Tsubomi Yozakura, la primera jefa del clan, quien desea que él la mate. En busca de respuestas, el joven se acerca a Kawashita y participa en nuevas misiones junto a los Yozakura, mientras que el regreso de Momo, el papá de Mutsumi, desencadena una serie de acontecimientos que podrían revelar nuevos secretos. Ante enfrentamientos y amenazas cada vez mayores, Taiyo y sus aliados deberán unir fuerzas para enfrentar los peligros que se crucen en su camino.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": null,
+      "anio": 2026,
+      "generos": ["Acción", "Comedia", "Shounen"],
+      "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 13, "video": "QBL__ba9y" }
           ]
         }
       ]

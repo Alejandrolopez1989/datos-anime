@@ -613,7 +613,8 @@
             { "numero": 11, "video": "wi4bSpIgA" },
             { "numero": 12, "video": "9TLIG4RDh" },
             { "numero": 13, "video": "i26O0De91" },
-            { "numero": 14, "video": "H6d8KxxD0" }
+            { "numero": 14, "video": "H6d8KxxD0" },
+            { "numero": 15, "video": "7rWjYKGCv" }
           ]
         }
       ]
@@ -1255,7 +1256,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "eQ2Bp9zd5" }
+            { "numero": 1, "video": "eQ2Bp9zd5" },
+            { "numero": 2, "video": "nwPONnDxX" }
           ]
         }
       ]
@@ -1600,7 +1602,8 @@
         {
           "numero": 2,
           "capitulos": [
-            { "numero": 1, "video": "6mulSHfRY" }
+            { "numero": 1, "video": "6mulSHfRY" },
+            { "numero": 2, "video": "M5oNSG-AJ" }
           ]
         }
       ]
@@ -1692,7 +1695,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "PCpyVNKgD" }
+            { "numero": 1, "video": "PCpyVNKgD" },
+            { "numero": 2, "video": "7pOlSLcJ5" }
           ]
         }
       ]
@@ -1714,7 +1718,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "A3lEo04ME" }
+            { "numero": 1, "video": "A3lEo04ME" },
+            { "numero": 2, "video": "A-i9ewipZ" }
           ]
         }
       ]
@@ -1736,7 +1741,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "ecktfER3U" }
+            { "numero": 1, "video": "ecktfER3U" },
+            { "numero": 2, "video": "_ZFwOZaza" }
           ]
         }
       ]
@@ -1758,7 +1764,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "eFuodGXrM" }
+            { "numero": 1, "video": "eFuodGXrM" },
+            { "numero": 2, "video": "uniMAfUj6r" }
           ]
         }
       ]
@@ -1780,7 +1787,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "Yd7W8p5kR" }
+            { "numero": 1, "video": "Yd7W8p5kR" },
+            { "numero": 2, "video": "bdJy9-8ea" }
           ]
         }
       ]
@@ -2133,6 +2141,50 @@
           "numero": 2,
           "capitulos": [
             { "numero": 13, "video": "QBL__ba9y" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dark-machine-the-animation",
+      "titulo": "Dark Machine: The Animation",
+      "malId": 59415,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1465/153763.jpg",
+      "imagenFondo": "",
+      "descripcion": "En un futuro cercano, el e-sport Dark Machine se ha convertido en un fenómeno global, transformando la sociedad e incluso la economía de Japón. La única región del país designada como zona económica especial para Dark Machine es Golden Valley, una ciudad dominada por su actual campeón Ajima, la séptima persona en heredar el título de Senki, el jugador más fuerte del juego. Siguiendo las últimas palabras de su difunto abuelo, \"Encuentra a Senki\", Kairi viaja a Golden Valley. Allí conoce inesperadamente a Rudra, una chica perseguida por el grupo de Ajima, los Aldabil. Al verse envuelto en sus problemas, Kairi se convierte él mismo en jugador de Dark Machine. A través de intensas batallas, comienza a desarrollar su propio talento oculto. Mientras Kairi asciende en el ranking, se acerca cada vez más a enfrentarse a Senki y a descubrir la verdad detrás del mensaje final de su abuelo. Su lucha por alcanzar la cima de Dark Machine está a punto de comenzar.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": null,
+      "anio": 2026,
+      "generos": ["Mecha", "Videojuego"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "Sx996aHtr" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chitose-kun-wa-ramune-bin-no-naka-part-2",
+      "titulo": "Chitose-kun wa Ramune Bin no Naka Part 2",
+      "malId": 62484,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1903/159669.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda parte de Chitose-kun wa Ramune Bin no Naka. La historia continúa explorando la vida escolar y las relaciones del carismático Chitose y sus amigos, con nuevos desarrollos románticos y cómicos.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.24,
+      "anio": 2026,
+      "generos": ["Comedia", "Romance"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 14, "video": "jlBC9Vce_" }
           ]
         }
       ]

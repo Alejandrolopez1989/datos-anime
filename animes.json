@@ -1623,7 +1623,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "rv9ouZHZQ" },
-            { "numero": 2, "video": "9q5iTmgjW" }
+            { "numero": 2, "video": "9q5iTmgjW" },
+            { "numero": 3, "video": "q23WJf2jB" }
           ]
         }
       ]
@@ -1645,7 +1646,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "7euNi6kmn" }
+            { "numero": 1, "video": "7euNi6kmn" },
+            { "numero": 2, "video": "33E5LyLcA" }
           ]
         }
       ]
@@ -1667,7 +1669,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "No6F6gA2V" }
+            { "numero": 1, "video": "No6F6gA2V" },
+            { "numero": 2, "video": "kKhyK_Jt3" }
           ]
         }
       ]

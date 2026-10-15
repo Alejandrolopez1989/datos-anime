@@ -196,7 +196,8 @@
             { "numero": 12, "video": "y8C46hslk" },
             { "numero": 13, "video": "mdTCcdOAB" },
             { "numero": 14, "video": "aQjsSU9aS" },
-            { "numero": 15, "video": "aqc6yyBwK" }
+            { "numero": 15, "video": "aqc6yyBwK" },
+            { "numero": 16, "video": "QcZN26vxM" }
           ]
         }
       ]
@@ -1290,7 +1291,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "fQCQCkQMN" },
-            { "numero": 2, "video": "r0ih-5FsW" }
+            { "numero": 2, "video": "r0ih-5FsW" },
+            { "numero": 3, "video": "gtwvgVSyGi" }
           ]
         }
       ]
@@ -1361,7 +1363,8 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "jZBTvHUF7" },
-            { "numero": 2, "video": "0Hh_tCUuY" }
+            { "numero": 2, "video": "0Hh_tCUuY" },
+            { "numero": 3, "video": "HIXEkedWy" }
           ]
         }
       ]
@@ -1384,7 +1387,8 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "_i5trHzuJ" },
-            { "numero": 2, "video": "bcee00ris" }
+            { "numero": 2, "video": "bcee00ris" },
+            { "numero": 3, "video": "_3jYfIdz2d" }
           ]
         }
       ]
@@ -2375,7 +2379,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "K4pivNYmS" }
+            { "numero": 1, "video": "K4pivNYmS" },
+            { "numero": 2, "video": "BBbpTLCdj" }
           ]
         }
       ]
@@ -2618,6 +2623,29 @@
           "numero": 1,
           "capitulos": [
             { "numero": 14, "video": "jlBC9Vce_" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyouken-no-majutsushi-ga-sekai-wo-suberu-ii",
+      "titulo": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+      "malId": 64254,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1190/159644.jpg",
+      "imagenFondo": "",
+      "descripcion": "Segunda temporada de Hyouken no Majutsushi ga Sekai wo Suberu. La historia continúa siguiendo a Ray White, un estudiante de magia que oculta su verdadera identidad como el legendario mago espadachín, mientras enfrenta nuevos desafíos y enemigos en la Academia de Magia.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 6.70,
+      "anio": 2024,
+      "generos": ["Acción", "Fantasía"],
+      "temporadas": [
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "TV5SsDTdd" },
+            { "numero": 2, "video": "27DCsHGtf" }
           ]
         }
       ]

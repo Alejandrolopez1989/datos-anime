@@ -122,12 +122,13 @@
       "generos": ["Acción", "Aventura", "Sobrenatural", "Deportes", "Shounen"],
       "temporadas": [
         {
-          "numero": 1,
+          "numero": 7,
           "capitulos": [
             { "numero": 1, "video": "FerO76Kr2" },
             { "numero": 2, "video": "DWo3SGL5o" },
             { "numero": 3, "video": "WUCTtj3_w" },
-            { "numero": 4, "video": "lqx8_tHnL" }
+            { "numero": 4, "video": "lqx8_tHnL" },
+            { "numero": 5, "video": "rX6QXb8Rh" }
           ]
         }
       ]
@@ -1138,7 +1139,8 @@
             { "numero": 11, "video": "blWQUsINY" },
             { "numero": 12, "video": "djuk4jy1A" },
             { "numero": 13, "video": "vWeVllTPz" },
-            { "numero": 14, "video": "GDN77XmMQY" }
+            { "numero": 14, "video": "GDN77XmMQY" },
+            { "numero": 15, "video": "YP6TE33bi" }
           ]
         }
       ]
@@ -1196,7 +1198,8 @@
             { "numero": 7, "video": "POOqBPcOi" },
             { "numero": 8, "video": "tWrQ37gl8" },
             { "numero": 9, "video": "ZpGaqYc0X" },
-            { "numero": 10, "video": "_cQi4nvQ2" }
+            { "numero": 10, "video": "_cQi4nvQ2" },
+            { "numero": 11, "video": "9SHnwLMpm" }
           ]
         }
       ]
@@ -1411,7 +1414,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "Z92lL8BvP" },
-            { "numero": 2, "video": "Qo8WUNBsv" }
+            { "numero": 2, "video": "Qo8WUNBsv" },
+            { "numero": 3, "video": "irqV5NpLs6" }
           ]
         }
       ]
@@ -1434,7 +1438,8 @@
           "numero": 3,
           "capitulos": [
             { "numero": 1, "video": "E7LLcbj52" },
-            { "numero": 2, "video": "JLxOKBlzx" }
+            { "numero": 2, "video": "JLxOKBlzx" },
+            { "numero": 3, "video": "luy9r_PqA" }
           ]
         }
       ]
@@ -1457,7 +1462,8 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "vTVT-U8Hy" },
-            { "numero": 2, "video": "aD-hBjF-f" }
+            { "numero": 2, "video": "aD-hBjF-f" },
+            { "numero": 3, "video": "GJJosBIfB" }
           ]
         }
       ]
@@ -1480,7 +1486,8 @@
           "numero": 4,
           "capitulos": [
             { "numero": 1, "video": "xKOQShyaHQ" },
-            { "numero": 2, "video": "-4tK1WxlV" }
+            { "numero": 2, "video": "-4tK1WxlV" },
+            { "numero": 3, "video": "mrNzbUYM6" }
           ]
         }
       ]
@@ -2402,7 +2409,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "XEs9905JP" }
+            { "numero": 1, "video": "XEs9905JP" },
+            { "numero": 2, "video": "DqhfREkZL" }
           ]
         }
       ]
@@ -2424,7 +2432,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "vbuPmLtFh" }
+            { "numero": 1, "video": "vbuPmLtFh" },
+            { "numero": 2, "video": "qHFguL4Y3" }
           ]
         }
       ]

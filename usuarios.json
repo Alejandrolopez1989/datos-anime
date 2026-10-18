@@ -1,6 +1,6 @@
 {
   "usuarios": [
-    { "usuario": "LeidyLourdes", "pass": "Leidylcd02?", "deviceId": "7ZKB-L0DH-H571" }
+    { "usuario": "LeidyLourdes", "pass": "Leidylcd02?", "deviceId": "" }
     { "usuario": "admin", "pass": "alejandro89", "deviceId": "7ZKB-L0DH-H571" }
   ]
 }

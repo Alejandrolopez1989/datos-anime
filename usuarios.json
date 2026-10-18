@@ -1,8 +1,6 @@
 {
   "usuarios": [
-    { "usuario": "admin", "pass": "admin123" },
-    { "usuario": "Orianny", "pass": "orianny0123@" },
-    { "usuario": "pupito", "pass": "lufy" },
-    { "usuario": "@LeidyLourdes", "pass": "#Lys12345" }
+    { "usuario": "juan", "pass": "juan123", "deviceId": "" },
+    { "usuario": "admin", "pass": "alejandro89", "deviceId": "" }
   ]
 }

@@ -886,7 +886,6 @@
             {"numero":548,"video":"U5iVGaUrz"},
             {"numero":549,"video":"6yvtT2VAn"},
             {"numero":550,"video":"jILtnQmQl"},
-            {"numero":550,"video":"jILtnQmQl"},
             {"numero":551,"video":"Wvv1sin0G"},
             {"numero":552,"video":"pPpUJU10b"},
             {"numero":553,"video":"_X3dRDsw0"},
@@ -947,6 +946,14 @@
             {"numero":608,"video":"EsAhL3qSc"},
             {"numero":609,"video":"AzbmWAmDUF"},
             {"numero":610,"video":"x0kJMQl6a"},
+            {"numero":611,"video":"9cvuP38GL"},
+            {"numero":612,"video":"2hNx61kyd"},
+            {"numero":613,"video":"CZmugJtEr"},
+            {"numero":614,"video":"hceY2iaKf"},
+            {"numero":615,"video":"yMHoOUbeM"},
+            {"numero":616,"video":"lb6o_k_L7"},
+            {"numero":617,"video":"K57-eEIex"},
+            {"numero":618,"video":"KTcOEXIak"},
             {"numero":1124,"video":"5wy7SDw_Q"},
             {"numero":1126,"video":"kufwmekHZ"},
             {"numero":1127,"video":"0mSjlbwq4"},
@@ -1310,7 +1317,8 @@
           "capitulos": [
             { "numero": 1, "video": "I1iFJlcOl" },
             { "numero": 2, "video": "l_Mj7uHUo" },
-            { "numero": 3, "video": "QDcYsbDBc" }
+            { "numero": 3, "video": "QDcYsbDBc" },
+            { "numero": 4, "video": "Y67KfcdlG" }
           ]
         }
       ]
@@ -1334,7 +1342,8 @@
           "capitulos": [
             { "numero": 1, "video": "_f92x6SsN" },
             { "numero": 2, "video": "GXs-jLrmE" },
-            { "numero": 3, "video": "1y3IotUdG" }
+            { "numero": 3, "video": "1y3IotUdG" },
+            { "numero": 4, "video": "WzugFby_-" }
           ]
         }
       ]
@@ -1838,7 +1847,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "lKuz82H5N" },
-            { "numero": 2, "video": "JKaDC_3IMQ" }
+            { "numero": 2, "video": "JKaDC_3IMQ" },
+            { "numero": 3, "video": "KGEkXNmk_" }
           ]
         }
       ]
@@ -1861,7 +1871,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "3mvzCLPj7" },
-            { "numero": 2, "video": "eKusqACm3" }
+            { "numero": 2, "video": "eKusqACm3" },
+            { "numero": 3, "video": "gdv7iYP1r" }
           ]
         }
       ]
@@ -1884,7 +1895,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "RpzmSfmRp" },
-            { "numero": 2, "video": "zU5X27bpT" }
+            { "numero": 2, "video": "zU5X27bpT" },
+            { "numero": 3, "video": "lV9icw6Pt" }
           ]
         }
       ]
@@ -1907,7 +1919,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "jMGDWP0VV" },
-            { "numero": 2, "video": "D7UfwA7eU" }
+            { "numero": 2, "video": "D7UfwA7eU" },
+            { "numero": 3, "video": "eP5iPPLdE" }
           ]
         }
       ]
@@ -1930,7 +1943,8 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "hvAP1Gq78" },
-            { "numero": 2, "video": "unImMjeLz" }
+            { "numero": 2, "video": "unImMjeLz" },
+            { "numero": 3, "video": "-ZcSXwk2jG" }
           ]
         }
       ]
@@ -1953,7 +1967,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "o-5RTz1qZ" },
-            { "numero": 2, "video": "K3aj49vx4" }
+            { "numero": 2, "video": "K3aj49vx4" },
+            { "numero": 3, "video": "xHhqU3ihu" }
           ]
         }
       ]
@@ -1976,7 +1991,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "N3lkR4X8X" },
-            { "numero": 2, "video": "Qtf0LXX-4" }
+            { "numero": 2, "video": "Qtf0LXX-4" },
+            { "numero": 3, "video": "Sa13EGttC" }
           ]
         }
       ]
@@ -1999,7 +2015,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "I9hsX-sq3" },
-            { "numero": 2, "video": "DXXhE7Zxz" }
+            { "numero": 2, "video": "DXXhE7Zxz" },
+            { "numero": 3, "video": "boXpn3QTu" }
           ]
         }
       ]
@@ -2022,7 +2039,8 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "t1RU_658v" },
-            { "numero": 2, "video": "TPGDQwGoJ" }
+            { "numero": 2, "video": "TPGDQwGoJ" },
+            { "numero": 3, "video": "TlvTNHnvC" }
           ]
         }
       ]
@@ -2045,7 +2063,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "35N7bNsvc" },
-            { "numero": 2, "video": "CxhS0c9zc" }
+            { "numero": 2, "video": "CxhS0c9zc" },
+            { "numero": 3, "video": "VKACypOgd" }
           ]
         }
       ]
@@ -2068,7 +2087,8 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "6adFYt480" },
-            { "numero": 2, "video": "7qClk_xwl" }
+            { "numero": 2, "video": "7qClk_xwl" },
+            { "numero": 3, "video": "_WAock35T" }
           ]
         }
       ]
@@ -2575,7 +2595,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "N8URrCYCw" }
+            { "numero": 1, "video": "N8URrCYCw" },
+            { "numero": 2, "video": "FPAvjVNmJ" }
           ]
         }
       ]
@@ -2597,7 +2618,8 @@
         {
           "numero": 5,
           "capitulos": [
-            { "numero": 1, "video": "EbxrQmOga" }
+            { "numero": 1, "video": "EbxrQmOga" },
+            { "numero": 2, "video": "aPEpNN4Xa" }
           ]
         }
       ]
@@ -2641,7 +2663,8 @@
         {
           "numero": 1,
           "capitulos": [
-            { "numero": 1, "video": "_ZX_slTxG" }
+            { "numero": 1, "video": "_ZX_slTxG" },
+            { "numero": 2, "video": "2_8ybxb-C" }
           ]
         }
       ]
@@ -2663,7 +2686,8 @@
         {
           "numero": 2,
           "capitulos": [
-            { "numero": 13, "video": "QBL__ba9y" }
+            { "numero": 13, "video": "QBL__ba9y" },
+            { "numero": 14, "video": "Qrshe4RWoP" }
           ]
         }
       ]

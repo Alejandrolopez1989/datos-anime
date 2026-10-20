@@ -2135,7 +2135,8 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "6mulSHfRY" },
-            { "numero": 2, "video": "M5oNSG-AJ" }
+            { "numero": 2, "video": "M5oNSG-AJ" },
+            { "numero": 3, "video": "F3VrZCwps" }
           ]
         }
       ]
@@ -2159,7 +2160,8 @@
           "capitulos": [
             { "numero": 1, "video": "rv9ouZHZQ" },
             { "numero": 2, "video": "9q5iTmgjW" },
-            { "numero": 3, "video": "q23WJf2jB" }
+            { "numero": 3, "video": "q23WJf2jB" },
+            { "numero": 4, "video": "ovnyJdZZK" }
           ]
         }
       ]
@@ -2182,7 +2184,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "7euNi6kmn" },
-            { "numero": 2, "video": "33E5LyLcA" }
+            { "numero": 2, "video": "33E5LyLcA" },
+            { "numero": 3, "video": "x5qxdX2Gy" }
           ]
         }
       ]
@@ -2205,7 +2208,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "No6F6gA2V" },
-            { "numero": 2, "video": "kKhyK_Jt3" }
+            { "numero": 2, "video": "kKhyK_Jt3" },
+            { "numero": 3, "video": "VDXs9-_Xo" }
           ]
         }
       ]
@@ -2777,6 +2781,36 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "P1OuA1ybNb" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bleach-sennen-kessen-hen-kashin-tan",
+      "titulo": "Bleach: Sennen Kessen-hen - Kashin-tan",
+      "malId": 60636,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1275/158595.jpg",
+      "imagenFondo": "",
+      "descripcion": "La guerra contra los Quincy continúa. Ichigo Kurosaki y sus aliados enfrentan nuevas y feroces batallas mientras Yhwach y su ejército avanzan implacablemente. En esta parte de la Guerra de los Mil Años, se revelan secretos del pasado, se intensifican los combates y los shinigamis deben dar todo de sí para proteger la Sociedad de Almas y el mundo de los vivos.",
+      "estado": "finalizado",
+      "destacado": false,
+      "finalizado": true,
+      "puntuacion": 9.00,
+      "anio": 2024,
+      "generos": ["Acción", "Aventura", "Sobrenatural"],
+      "temporadas": [
+        {
+          "numero": 4,
+          "capitulos": [
+            { "numero": 1, "video": "1J0Is5PK8" },
+            { "numero": 2, "video": "rUqixBUCi" },
+            { "numero": 3, "video": "UdQKYZR2V" },
+            { "numero": 4, "video": "tS0Vn44NY" },
+            { "numero": 5, "video": "V9yMJp5Go" },
+            { "numero": 6, "video": "fW8LkdEd6" },
+            { "numero": 7, "video": "yv2dHYYswK" },
+            { "numero": 8, "video": "UzM3EU0Lo" },
+            { "numero": 9, "video": "Bzs-ZJFgg" }
           ]
         }
       ]

@@ -23,38 +23,6 @@
       ]
     },
     {
-      "id": "princession-orchestra",
-      "titulo": "Princession Orchestra",
-      "malId": 59078,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1405/152146.jpg",
-      "imagenFondo": "",
-      "descripcion": "Alicepia Channel es un sitio web para compartir vídeos exclusivamente para chicas, donde comparten sus canciones, maquillaje y bailes. Sin que los demás lo sepan, los usuarios de la plataforma pueden viajar a Alicepia, un mundo secreto donde el tiempo pasa más lentamente que en la realidad. Para Minamo Sorano y su mejor amiga Natsu Hinoshita, Alicepia les permite ver en directo a la idol Kagari Shirube. Sin embargo, el ambiente alegre se arruina cuando unos monstruos llamados Jamaocks atacan el lugar del concierto de Shirube, causando pánico en el público. Solo las princesas cuyos corazones están llenos de canción pueden salvar a Alicepia de los Jamaocks, y Minamo se encontrará entre las valientes defensoras de este país de maravillas.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 7.18,
-      "anio": 2025,
-      "generos": ["Música", "Fantasía", "Idol"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 37, "video": "lod7rwUGm" },
-            { "numero": 38, "video": "-Awlru8ej" },
-            { "numero": 39, "video": "7fVYypZul" },
-            { "numero": 40, "video": "OaSgpc5SF" },
-            { "numero": 41, "video": "VLQklr_q7" },
-            { "numero": 42, "video": "JCaIyOwED" },
-            { "numero": 43, "video": "bqP7duyjM" },
-            { "numero": 44, "video": "uX7aYH_ix" },
-            { "numero": 45, "video": "HWVzL_9yK" },
-            { "numero": 46, "video": "babW488yX" },
-            { "numero": 47, "video": "vgu5Ljt6Y" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "jojos-bizarre-adventure-steel-ball-run",
       "titulo": "JoJo's Bizarre Adventure: STEEL BALL RUN",
       "malId": 61469,
@@ -1339,7 +1307,8 @@
           "capitulos": [
             { "numero": 1, "video": "-MZnK224P" },
             { "numero": 2, "video": "X9ezRmvIH" },
-            { "numero": 3, "video": "Db0PtbVmb" }
+            { "numero": 3, "video": "Db0PtbVmb" },
+            { "numero": 4, "video": "72pBjC2tH" }
           ]
         }
       ]
@@ -1363,7 +1332,8 @@
           "capitulos": [
             { "numero": 1, "video": "fUIejHRdE" },
             { "numero": 2, "video": "8VtqRM3kh" },
-            { "numero": 3, "video": "xn5LddukeK" }
+            { "numero": 3, "video": "xn5LddukeK" },
+            { "numero": 4, "video": "sQ__mAUA5" }
           ]
         }
       ]
@@ -2324,7 +2294,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "oJCT136GB" },
-            { "numero": 2, "video": "VJjOgg2bL" }
+            { "numero": 2, "video": "VJjOgg2bL" },
+            { "numero": 3, "video": "fz4XTpJOk" }
           ]
         }
       ]
@@ -2347,7 +2318,8 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "tabmsle81" },
-            { "numero": 2, "video": "jIysb9PlW" }
+            { "numero": 2, "video": "jIysb9PlW" },
+            { "numero": 3, "video": "6R4fV2UV3" }
           ]
         }
       ]
@@ -2370,7 +2342,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "kTqR-9-xX" },
-            { "numero": 2, "video": "ueb4rSBMo" }
+            { "numero": 2, "video": "ueb4rSBMo" },
+            { "numero": 3, "video": "4caFrC8tK" }
           ]
         }
       ]
@@ -2393,7 +2366,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "S82artyDk" },
-            { "numero": 2, "video": "82yifUcYl" }
+            { "numero": 2, "video": "82yifUcYl" },
+            { "numero": 3, "video": "LOe10dL3u" }
           ]
         }
       ]
@@ -2416,7 +2390,8 @@
           "numero": 2,
           "capitulos": [
             { "numero": 1, "video": "0wiZO_L_5" },
-            { "numero": 2, "video": "cOBEzjaEu" }
+            { "numero": 2, "video": "cOBEzjaEu" },
+            { "numero": 3, "video": "2ki0enhP1" }
           ]
         }
       ]
@@ -19677,6 +19652,75 @@
             { "numero": 8, "video": "jse8LHIJx" },
             { "numero": 9, "video": "iIbVn4nfgI" },
             { "numero": 10, "video": "6awBhUHFF" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "princession-orchestra",
+      "titulo": "Princession Orchestra",
+      "malId": 59078,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1405/152146.jpg",
+      "imagenFondo": "",
+      "descripcion": "Alicepia Channel es un sitio web para compartir vídeos exclusivamente para chicas, donde comparten sus canciones, maquillaje y bailes. Sin que los demás lo sepan, los usuarios de la plataforma pueden viajar a Alicepia, un mundo secreto donde el tiempo pasa más lentamente que en la realidad. Para Minamo Sorano y su mejor amiga Natsu Hinoshita, Alicepia les permite ver en directo a la idol Kagari Shirube. Sin embargo, el ambiente alegre se arruina cuando unos monstruos llamados Jamaocks atacan el lugar del concierto de Shirube, causando pánico en el público. Solo las princesas cuyos corazones están llenos de canción pueden salvar a Alicepia de los Jamaocks, y Minamo se encontrará entre las valientes defensoras de este país de maravillas.",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 7.18,
+      "anio": 2025,
+      "generos": ["Música", "Fantasía", "Idol"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "vPpnJtT-u" },
+            { "numero": 2, "video": "YIuf5bd_5-" },
+            { "numero": 3, "video": "0qV41i1pi" },
+            { "numero": 4, "video": "TKUI0_Hmt" },
+            { "numero": 5, "video": "-Fq7UkUl_" },
+            { "numero": 6, "video": "mrsTwP4Sm" },
+            { "numero": 7, "video": "UqVmr1xVy" },
+            { "numero": 8, "video": "ubHso7Yaj" },
+            { "numero": 9, "video": "__icBPED2" },
+            { "numero": 10, "video": "2U7bXpuSw" },
+            { "numero": 11, "video": "fkl301hB7j" },
+            { "numero": 12, "video": "xuLbdpU1d" },
+            { "numero": 13, "video": "tOpAML40y" },
+            { "numero": 14, "video": "wQg0aAA2o" },
+            { "numero": 15, "video": "0bw5GWLXq" },
+            { "numero": 16, "video": "BOtyaZU8s" },
+            { "numero": 17, "video": "ACBwZpwRZ" },
+            { "numero": 18, "video": "6qgzy8dUK" },
+            { "numero": 19, "video": "CtTrLk5Nm" },
+            { "numero": 20, "video": "nzwnXFuSl" },
+            { "numero": 21, "video": "rMhC5K_Ac" },
+            { "numero": 22, "video": "Bezrpoi5S" },
+            { "numero": 23, "video": "03YGyJpB0" },
+            { "numero": 24, "video": "lFxhu-BBp" },
+            { "numero": 25, "video": "kqew91mK0" },
+            { "numero": 26, "video": "8NdLYM4Ga" },
+            { "numero": 27, "video": "Bd1of9bc-" },
+            { "numero": 28, "video": "cpwFIAeDy" },
+            { "numero": 29, "video": "g9jNGPvP5" },
+            { "numero": 30, "video": "L0tj08xv6" },
+            { "numero": 31, "video": "2tfXNYYtT" },
+            { "numero": 32, "video": "-HQn737LB" },
+            { "numero": 33, "video": "23cQkLvk7" },
+            { "numero": 34, "video": "u4KLcLxYB" },
+            { "numero": 35, "video": "T282eXstm" },
+            { "numero": 36, "video": "yw-no1V9a" },
+            { "numero": 37, "video": "lod7rwUGm" },
+            { "numero": 38, "video": "-Awlru8ej" },
+            { "numero": 39, "video": "7fVYypZul" },
+            { "numero": 40, "video": "OaSgpc5SF" },
+            { "numero": 41, "video": "VLQklr_q7" },
+            { "numero": 42, "video": "JCaIyOwED" },
+            { "numero": 43, "video": "bqP7duyjM" },
+            { "numero": 44, "video": "uX7aYH_ix" },
+            { "numero": 45, "video": "HWVzL_9yK" },
+            { "numero": 46, "video": "babW488yX" },
+            { "numero": 47, "video": "vgu5Ljt6Y" },
+            { "numero": 48, "video": "DpYoC9iUh" }
           ]
         }
       ]

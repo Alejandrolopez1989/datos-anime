@@ -3,6 +3,6 @@
     { "usuario": "LeidyLourdes", "pass": "Leidylcd02?", "deviceId": "7B8B-QCJ7-1S57", "isVip": false },
     { "usuario": "leidrianff", "pass": "680713ea", "deviceId": "WRFH-GVC6-SZCV", "isVip": false },
     { "usuario": "Andro", "pass": "50814258", "deviceId": "3GTJ-8A5B-YKN6", "isVip": false },
-    { "usuario": "admin", "pass": "alejandro89", "deviceId": "4JWI-KXEX-KMT1", "isVip": false }
+    { "usuario": "admin", "pass": "alejandro89", "deviceId": "", "isVip": false }
   ]
 }

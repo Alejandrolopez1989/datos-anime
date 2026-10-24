@@ -2,6 +2,7 @@
   "usuarios": [
     { "usuario": "LeidyLourdes", "pass": "Leidylcd02?", "deviceId": "7B8B-QCJ7-1S57" },
     { "usuario": "leidrianff", "pass": "680713ea", "deviceId": "WRFH-GVC6-SZCV" },
+    { "usuario": "Andro", "pass": "50814258", "deviceId": "" },
     { "usuario": "admin", "pass": "alejandro89", "deviceId": "7ZKB-L0DH-H571" }
   ]
 }

@@ -271,39 +271,6 @@
       ]
     },
     {
-      "id": "ingoku-danchi",
-      "titulo": "Ingoku Danchi",
-      "malId": 63310,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1373/155741.jpg",
-      "imagenFondo": "",
-      "descripcion": "Yoshida es un pequeño y frágil recién graduado de secundaria que se convirtió en el gerente involuntario de un complejo de apartamentos cuando su padre, el antiguo gerente, se lesionó. Sin que él lo sepa, este complejo alberga a varias mujeres con preferencias sexuales muy... inusuales. Esto se convierte en un problema cuando una entidad misteriosa comienza a dar \"Telas de Libido\" a estas mujeres: atuendos diminutos que les otorgan superpoderes y las hacen embarcarse en alborotos lascivos. ¿Podrá Yoshida detenerlas?",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": false,
-      "puntuacion": 4.78,
-      "anio": 2026,
-      "generos": ["Comedia", "Sobrenatural", "Erótica"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "M1QtvB7kS" },
-            { "numero": 2, "video": "Ydchax8Cv" },
-            { "numero": 3, "video": "rUSvK55He" },
-            { "numero": 4, "video": "dtnscLren" },
-            { "numero": 5, "video": "U6mhF8Kw2q" },
-            { "numero": 6, "video": "bvt-y_J38" },
-            { "numero": 7, "video": "Q-eskED1S" },
-            { "numero": 8, "video": "WYWkMkLn5" },
-            { "numero": 9, "video": "8R1IsjdA1" },
-            { "numero": 10, "video": "exnWZK1eC" },
-            { "numero": 11, "video": "zKRaC90Xc" },
-            { "numero": 12, "video": "vbJdj-XY6" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "sora-wa-akai-kawa-no-hotori",
       "titulo": "Sora wa Akai Kawa no Hotori",
       "malId": 63489,
@@ -454,6 +421,28 @@
       "anio": 2026,
       "generos": ["Ecchi"],
       "temporadas": [
+          {
+    "numero": 1,
+    "capitulos": [
+      { "numero": 1, "video": "X-JBOKaFW" },
+      { "numero": 2, "video": "JP04e-T5a" },
+      { "numero": 3, "video": "kn91-Sr6l" },
+      { "numero": 4, "video": "4IUqdhzmd" },
+      { "numero": 5, "video": "jPN-qeAD5" },
+      { "numero": 6, "video": "xdI9Osxxh" }
+    ]
+  },
+  {
+    "numero": 2,
+    "capitulos": [
+      { "numero": 1, "video": "ARE7L05TR" },
+      { "numero": 2, "video": "R2HckrdVr" },
+      { "numero": 3, "video": "TCkWYr4Vg" },
+      { "numero": 4, "video": "1fJp38jXJ" },
+      { "numero": 5, "video": "_9bIoeKic" },
+      { "numero": 6, "video": "v02aUTjz8" }
+    ]
+  },
         {
           "numero": 3,
           "capitulos": [
@@ -19538,6 +19527,39 @@
             {"numero":1178,"video":"1H5IzAYK3"},
             {"numero":1179,"video":"xJdNO7E_K"},
             {"numero":1180,"video":"Tkf5rc6Yu"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ingoku-danchi",
+      "titulo": "Ingoku Danchi",
+      "malId": 63310,
+      "imagen": "https://cdn.myanimelist.net/images/anime/1373/155741.jpg",
+      "imagenFondo": "",
+      "descripcion": "Yoshida es un pequeño y frágil recién graduado de secundaria que se convirtió en el gerente involuntario de un complejo de apartamentos cuando su padre, el antiguo gerente, se lesionó. Sin que él lo sepa, este complejo alberga a varias mujeres con preferencias sexuales muy... inusuales. Esto se convierte en un problema cuando una entidad misteriosa comienza a dar \"Telas de Libido\" a estas mujeres: atuendos diminutos que les otorgan superpoderes y las hacen embarcarse en alborotos lascivos. ¿Podrá Yoshida detenerlas?",
+      "estado": "emision",
+      "destacado": false,
+      "finalizado": false,
+      "puntuacion": 4.78,
+      "anio": 2026,
+      "generos": ["Comedia", "Sobrenatural", "Erótica"],
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "M1QtvB7kS" },
+            { "numero": 2, "video": "Ydchax8Cv" },
+            { "numero": 3, "video": "rUSvK55He" },
+            { "numero": 4, "video": "dtnscLren" },
+            { "numero": 5, "video": "U6mhF8Kw2q" },
+            { "numero": 6, "video": "bvt-y_J38" },
+            { "numero": 7, "video": "Q-eskED1S" },
+            { "numero": 8, "video": "WYWkMkLn5" },
+            { "numero": 9, "video": "8R1IsjdA1" },
+            { "numero": 10, "video": "exnWZK1eC" },
+            { "numero": 11, "video": "zKRaC90Xc" },
+            { "numero": 12, "video": "vbJdj-XY6" }
           ]
         }
       ]

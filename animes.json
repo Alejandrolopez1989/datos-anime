@@ -297,7 +297,8 @@
             { "numero": 8, "video": "WYWkMkLn5" },
             { "numero": 9, "video": "8R1IsjdA1" },
             { "numero": 10, "video": "exnWZK1eC" },
-            { "numero": 11, "video": "zKRaC90Xc" }
+            { "numero": 11, "video": "zKRaC90Xc" },
+            { "numero": 11, "video": "vbJdj-XY6" }
           ]
         }
       ]
@@ -2332,28 +2333,6 @@
       ]
     },
     {
-      "id": "one-piece-heroines",
-      "titulo": "One Piece: Heroines",
-      "malId": 62233,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1993/151415l.jpg",
-      "imagenFondo": "",
-      "descripcion": "Adéntrate detrás de la pasarela mientras Nami, el ícono de estilo, protagoniza un desfile de modas que cambiará su vida; observa a la sabia Robin mientras ayuda a descifrar una tableta antigua junto a Koala y Sabo; mira cómo la solemne Princesa Vivi recibe una carta de amor de un admirador inesperado; y descubre la batalla de la Princesa Fantasma Perona por la última botella de vino con Zoro y Mihawk.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 6.50,
-      "anio": 2026,
-      "generos": ["Acción", "Aventura", "Comedia", "Fantasía"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "0QxgA4uyV" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "loop-7-kaime-no-akuyaku-reijou-wa",
       "titulo": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu ni Kimama na Hanayome Seikatsu wo Mankitsu suru",
       "malId": 57619,
@@ -3179,78 +3158,6 @@
             { "numero": 10, "video": "DUSHt66MA-E" },
             { "numero": 11, "video": "yVcDpT2tAE" },
             { "numero": 12, "video": "c_u8WzPG3" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "mushoku-tensei",
-      "titulo": "Mushoku Tensei: Isekai Ittara Honki Dasu",
-      "malId": 39535,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg",
-      "imagenFondo": "",
-      "descripcion": "Un hombre de 34 años fracasado en la vida muere y reencarna en un mundo de fantasía como un bebé llamado Rudeus Greyrat. Con sus recuerdos intactos, Rudeus decide vivir su nueva vida sin arrepentimientos, mejorando sus habilidades mágicas y forjando relaciones significativas. Su viaje lo llevará a enfrentar desafíos que pondrán a prueba su determinación.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 8.35,
-      "anio": 2021,
-      "generos": ["Acción", "Aventura", "Drama", "Fantasía", "Isekai"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "-YoCXc3Uh" },
-            { "numero": 2, "video": "VhSmzcEhZ" },
-            { "numero": 3, "video": "oOlvgv8Ee" },
-            { "numero": 4, "video": "9PEUKtTUeB" },
-            { "numero": 5, "video": "A6rWPWCdu" },
-            { "numero": 6, "video": "6Mk5lllkQGE" },
-            { "numero": 7, "video": "ttLi6k9Xn" },
-            { "numero": 8, "video": "Hkke638P1VX" },
-            { "numero": 9, "video": "EVoX6cO2ICa" },
-            { "numero": 10, "video": "uBC054gsgeA" },
-            { "numero": 11, "video": "RT65Deq9S" },
-            { "numero": 12, "video": "P47_nmvfK" },
-            { "numero": 13, "video": "LYcu5y_-d" },
-            { "numero": 14, "video": "ymwRc5-pV" },
-            { "numero": 15, "video": "ZUD59TC16i" },
-            { "numero": 16, "video": "BcfDeAZLI" },
-            { "numero": 17, "video": "ke4jsCPI1" },
-            { "numero": 18, "video": "1ZhhamIfd" },
-            { "numero": 19, "video": "fBzADOgp6BA" },
-            { "numero": 20, "video": "svg3KMbDLo" },
-            { "numero": 21, "video": "KqT9psIQg" },
-            { "numero": 22, "video": "LJRYWll8rH" }
-          ]
-        },
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "F1RK_RhlL" },
-            { "numero": 2, "video": "09wghY_daU" },
-            { "numero": 3, "video": "KLCjultVj" },
-            { "numero": 4, "video": "RgDdryDmQf" },
-            { "numero": 5, "video": "YZ1KVYk_q" },
-            { "numero": 6, "video": "jLeCTTAdagT" },
-            { "numero": 7, "video": "Pnmbl-aeoe" },
-            { "numero": 8, "video": "FKs2x1sP4" },
-            { "numero": 9, "video": "cNEr0Z0QFX" },
-            { "numero": 10, "video": "pMKKzZcdU0" },
-            { "numero": 11, "video": "axXP6MnlVU" },
-            { "numero": 12, "video": "YgdJr9OOR" },
-            { "numero": 13, "video": "6lqbn6pFs" },
-            { "numero": 14, "video": "xqdPHExrUc" },
-            { "numero": 15, "video": "6CJJG4PrnO" },
-            { "numero": 16, "video": "A70jZFaWI" },
-            { "numero": 17, "video": "EFLoW8gru" },
-            { "numero": 18, "video": "O6ldrsDCDa7" },
-            { "numero": 19, "video": "PmEhX0wSa" },
-            { "numero": 20, "video": "CUy4i0GSS" },
-            { "numero": 21, "video": "pWuUp8hAM" },
-            { "numero": 22, "video": "NJd-8lgIW" },
-            { "numero": 23, "video": "7YHV-tWqk" },
-            { "numero": 24, "video": "OMIfZzoazcM" }
           ]
         }
       ]
@@ -4957,82 +4864,6 @@
             { "numero": 10, "video": "8Ggq1OKBj" },
             { "numero": 11, "video": "t6NPH9Uf-" },
             { "numero": 12, "video": "j46UXiw4jo" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "code-geass-hangyaku-no-lelouch",
-      "titulo": "Code Geass: Hangyaku no Lelouch",
-      "malId": 1575,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
-      "imagenFondo": "",
-      "descripcion": "En el año 2010, el Sacro Imperio de Britannia se establece como una nación militar dominante, comenzando con la conquista de Japón. Renombrado como Área 11, Japón ha visto una resistencia significativa contra estos tiranos. Lelouch Lamperouge, un estudiante britanniano, se ve atrapado en un fuego cruzado y obtiene el poder de Geass, el \"Poder de los Reyes\". Decide usar este poder para vengarse de Britannia y crear un mundo mejor.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 8.71,
-      "anio": 2006,
-      "generos": ["Acción", "Ciencia Ficción", "Mecha", "Drama"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "LzRHmh0xI" },
-            { "numero": 2, "video": "j9nDGKMzy" },
-            { "numero": 3, "video": "sabZd8soD" },
-            { "numero": 4, "video": "XQGdnhCay" },
-            { "numero": 5, "video": "IdFMID-WB" },
-            { "numero": 6, "video": "PHU59q1hf" },
-            { "numero": 7, "video": "LLOWZ6h-1" },
-            { "numero": 8, "video": "0mFBNny6X" },
-            { "numero": 9, "video": "BS4nkjpwF" },
-            { "numero": 10, "video": "kKWgNzOsW" },
-            { "numero": 11, "video": "L27RyO2uj" },
-            { "numero": 12, "video": "e9VDgDkJY" },
-            { "numero": 13, "video": "amGkYKdlV" },
-            { "numero": 14, "video": "PkhlEjhkza" },
-            { "numero": 15, "video": "Oa2hBf5WE" },
-            { "numero": 16, "video": "d5VFfAF5w" },
-            { "numero": 17, "video": "nyxhkyWiG" },
-            { "numero": 18, "video": "wdwqefr3k" },
-            { "numero": 19, "video": "dweaz7av8" },
-            { "numero": 20, "video": "E_ww_evqE" },
-            { "numero": 21, "video": "8lOuV5g-z" },
-            { "numero": 22, "video": "F6PK92Y8M" },
-            { "numero": 23, "video": "0Teh2NBaz" },
-            { "numero": 24, "video": "2qWBz578u" },
-            { "numero": 25, "video": "wyEDQlTRy" }
-          ]
-        },
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "f5doUzVFw" },
-            { "numero": 2, "video": "yxQbdOKW2t" },
-            { "numero": 3, "video": "4fFxvDP1A" },
-            { "numero": 4, "video": "lUYzvs7we" },
-            { "numero": 5, "video": "JsuOQtEbw" },
-            { "numero": 6, "video": "PZ0Ha01oO" },
-            { "numero": 7, "video": "STKgu13dV" },
-            { "numero": 8, "video": "Qa-z2bmMu" },
-            { "numero": 9, "video": "hRK5uhnF4" },
-            { "numero": 10, "video": "kSG1gNRXEl" },
-            { "numero": 11, "video": "hckoOsgNr" },
-            { "numero": 12, "video": "wv47708N0" },
-            { "numero": 13, "video": "ajzrV2D1J" },
-            { "numero": 14, "video": "jI1L-Ijc3" },
-            { "numero": 15, "video": "9tc-psGbB" },
-            { "numero": 16, "video": "Npu7IMG7E" },
-            { "numero": 17, "video": "EJU2-amGj" },
-            { "numero": 18, "video": "M6oxtKy7d" },
-            { "numero": 19, "video": "qD_E5R8LD" },
-            { "numero": 20, "video": "lvHd3hOoP" },
-            { "numero": 21, "video": "4HJdUvEdg" },
-            { "numero": 22, "video": "myqqKtvpk" },
-            { "numero": 23, "video": "5nvp8VK3E" },
-            { "numero": 24, "video": "t6r8dkdgW" },
-            { "numero": 25, "video": "jfWV6_Ggn8" }
           ]
         }
       ]
@@ -7442,56 +7273,6 @@
       ]
     },
     {
-      "id": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
-      "titulo": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-      "malId": 54714,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1812/136764.jpg",
-      "imagenFondo": "",
-      "descripcion": "Tercera temporada de Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
-      "estado": "emision",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 8.10,
-      "anio": 2026,
-      "generos": ["Comedia", "Romance", "Seinen"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "BMq46g2sQ" },
-            { "numero": 2, "video": "_5uQuutCl" },
-            { "numero": 3, "video": "uiQrcBk03" },
-            { "numero": 4, "video": "ceA7X0Ktb" },
-            { "numero": 5, "video": "L4XU645Bk" },
-            { "numero": 6, "video": "-ISROG4XT" },
-            { "numero": 7, "video": "EzHfw6qek" },
-            { "numero": 8, "video": "e5bEcfJDA" },
-            { "numero": 9, "video": "FlniQBdNq" },
-            { "numero": 10, "video": "Q8P9vupkA" },
-            { "numero": 11, "video": "DpED-ljTT" },
-            { "numero": 12, "video": "6nV2jxCgX" }
-          ]
-        },
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "D8tfcF0lb" },
-            { "numero": 2, "video": "Nfs35FXE_P" },
-            { "numero": 3, "video": "7bkBRwi8G" },
-            { "numero": 4, "video": "8SCHCKhyT" },
-            { "numero": 5, "video": "A1JsLuMJh" },
-            { "numero": 6, "video": "fJh7XZ_sf" },
-            { "numero": 7, "video": "ZdaOyyNHI" },
-            { "numero": 8, "video": "GlrqR0hpE" },
-            { "numero": 9, "video": "VcFDOnmex" },
-            { "numero": 10, "video": "C-9s-6OLX" },
-            { "numero": 11, "video": "1eeIal4D1" },
-            { "numero": 12, "video": "rFIR6VGwF" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "kisaki-kyouiku-kara-nigetai-watashi",
       "titulo": "Kisaki Kyouiku kara Nigetai Watashi",
       "malId": 57050,
@@ -8537,7 +8318,7 @@
       "descripcion": "La serie sigue a Baki Hanma en su búsqueda por convertirse en el luchador más fuerte del mundo. Después de derrotar a su padre, Yujiro Hanma, Baki se enfrenta a nuevos desafíos y oponentes poderosos. La serie es conocida por sus intensas peleas de artes marciales y su estilo único.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 7.46,
       "anio": 2025,
       "generos": ["Acción", "Artes Marciales", "Deportes", "Shounen"],
@@ -9035,39 +8816,6 @@
             { "numero": 10, "video": "xUFOM7hA3" },
             { "numero": 11, "video": "EsdicY8Fy" },
             { "numero": 12, "video": "Owh4d0sAq" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "mayonaka-heart-tune",
-      "titulo": "Mayonaka Heart Tune",
-      "malId": 61211,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1769/152823.jpg",
-      "imagenFondo": "",
-      "descripcion": "Un estudiante de secundaria llamado Haru escucha una voz misteriosa que canta en medio de la noche. Fascinado por la voz, decide encontrar a la persona que canta. Su búsqueda lo lleva a conocer a una joven llamada Hana, que tiene el poder de curar a través de su canto. Juntos, deben enfrentar las dificultades de la vida y descubrir el poder de la música.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 6.23,
-      "anio": 2025,
-      "generos": ["Romance", "Musica", "Escuela", "Shounen"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "fQ2A3P4wa" },
-            { "numero": 2, "video": "XNO4vi3qD" },
-            { "numero": 3, "video": "40Sh9wOk-" },
-            { "numero": 4, "video": "LNv4oC38v" },
-            { "numero": 5, "video": "nGNKKDjOI" },
-            { "numero": 6, "video": "QeFurKIov" },
-            { "numero": 7, "video": "Uy9doy_ap" },
-            { "numero": 8, "video": "oNRkYrleU" },
-            { "numero": 9, "video": "LJ4AJMFNs" },
-            { "numero": 10, "video": "xfBEpVn4Q" },
-            { "numero": 11, "video": "eMMc1I12_" },
-            { "numero": 12, "video": "cR5xWTZ1F" }
           ]
         }
       ]
@@ -9927,39 +9675,6 @@
             { "numero": 10, "video": "KN5H_rgoH" },
             { "numero": 11, "video": "-z7rKIjcP" },
             { "numero": 12, "video": "4C0SGiMNo" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "jingai-kyoushitsu-no-ningengirai-kyoushi",
-      "titulo": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-      "malId": 62432,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1387/154934.jpg",
-      "imagenFondo": "",
-      "descripcion": "Marcado por experiencias que lo dejaron cansado de las relaciones humanas, Rei Hitoma abiertamente desprecia a la gente. Buscando una vida tranquila y sin incidentes, se convierte en profesor en una escuela para semihumanos. Pero sus estudiantes están lejos de ser ordinarios, y su actitud misántropa se pondrá a prueba.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 6.55,
-      "anio": 2026,
-      "generos": ["Drama", "Sobrenatural"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "yYl4tZ9aH" },
-            { "numero": 2, "video": "jF-VR_8_T" },
-            { "numero": 3, "video": "BaiydfhMH" },
-            { "numero": 4, "video": "WYCRJGWi-" },
-            { "numero": 5, "video": "_M8Z_Gpy9" },
-            { "numero": 6, "video": "V2DC08tFi" },
-            { "numero": 7, "video": "rfzWPO_MA" },
-            { "numero": 8, "video": "ptwz05QPc" },
-            { "numero": 9, "video": "D1c1E_OK7" },
-            { "numero": 10, "video": "Gt-VIei44z" },
-            { "numero": 11, "video": "ewFL-VoPx" },
-            { "numero": 12, "video": "ecYQzCUi8" }
           ]
         }
       ]
@@ -10916,7 +10631,7 @@
       "descripcion": "Nueva entrega de la franquicia Digimon. Los detalles de la trama aún no han sido revelados, pero continúa la historia de los niños elegidos y sus compañeros Digimon en nuevas aventuras.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 6.45,
       "anio": 2025,
       "generos": ["Acción", "Aventura", "Comedia", "Drama", "Fantasía", "Ciencia Ficción", "Shounen"],
@@ -15476,39 +15191,6 @@
       ]
     },
     {
-      "id": "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken",
-      "titulo": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
-      "malId": 62893,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1045/157132.jpg",
-      "imagenFondo": "",
-      "descripcion": "Maria 'Mimi' Annovazzi, entrenada para heredar su ducado, viaja a una academia real en busca de marido. Su amiga Aida la acompaña. El príncipe Renato confunde a Mimi con Aida y anula su compromiso. Aunque el malentendido se aclara, Mimi le pide a Renato que le ayude a encontrar un pretendiente. Sin que ella lo sepa, las habilidades de lucha de Mimi captan la atención del mismísimo Renato.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 7.14,
-      "anio": 2026,
-      "generos": ["Comedia", "Romance"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "Fh1AzbhTE" },
-            { "numero": 2, "video": "kj2ymQPS4" },
-            { "numero": 3, "video": "yM7meFfxg" },
-            { "numero": 4, "video": "VZhGmGtde" },
-            { "numero": 5, "video": "vjZ2SOaQ8" },
-            { "numero": 6, "video": "XOZSog9n3" },
-            { "numero": 7, "video": "Nv8l1zkRK" },
-            { "numero": 8, "video": "dZJ6HbBPo" },
-            { "numero": 9, "video": "tcaHa3Vo3" },
-            { "numero": 10, "video": "-jC0xSjTi" },
-            { "numero": 11, "video": "rniH0ECXWX" },
-            { "numero": 12, "video": "OIFMmoe4B" }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ganbare-nakamura-kun",
       "titulo": "Ganbare! Nakamura-kun!!",
       "malId": 59551,
@@ -16109,56 +15791,6 @@
       ]
     },
     {
-      "id": "grand-blue",
-      "titulo": "Grand Blue",
-      "malId": 37105,
-      "imagen": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
-      "imagenFondo": "",
-      "descripcion": "Iori Kitahara se muda a una ciudad costera para comenzar la universidad. Allí, se une al club de buceo de su tío, pero descubre que el club está más interesado en beber y hacer fiestas que en bucear. A pesar de todo, Iori aprende a disfrutar de la vida universitaria y a hacer amigos en este club peculiar.",
-      "estado": "finalizado",
-      "destacado": false,
-      "finalizado": true,
-      "puntuacion": 8.39,
-      "anio": 2018,
-      "generos": ["Comedia", "Slice of Life", "Universidad"],
-      "temporadas": [
-        {
-          "numero": 1,
-          "capitulos": [
-            { "numero": 1, "video": "8gSJqN52B" },
-            { "numero": 2, "video": "3c1CxqvUv" },
-            { "numero": 3, "video": "_fvq7S9dw" },
-            { "numero": 4, "video": "GAVCzWJI8" },
-            { "numero": 5, "video": "G53e6vmPD" },
-            { "numero": 6, "video": "Oz0O4bW17" },
-            { "numero": 7, "video": "gsJHJIDis" },
-            { "numero": 8, "video": "8vW5bpofp" },
-            { "numero": 9, "video": "J2cOhFJZO" },
-            { "numero": 10, "video": "6msje_4EQg" },
-            { "numero": 11, "video": "UZo8Pt8JW" },
-            { "numero": 12, "video": "9sAiipDkC" }
-          ]
-        },
-        {
-          "numero": 2,
-          "capitulos": [
-            { "numero": 1, "video": "_QdcYGLYK" },
-            { "numero": 2, "video": "aMl9ibZco" },
-            { "numero": 3, "video": "-ii5f3JHR" },
-            { "numero": 4, "video": "Abq2P8CHV" },
-            { "numero": 5, "video": "toU6mzWk0" },
-            { "numero": 6, "video": "tZB3kwD9K" },
-            { "numero": 7, "video": "a1n4El_8-" },
-            { "numero": 8, "video": "8RlKjFbzi" },
-            { "numero": 9, "video": "vVoLA8f8F" },
-            { "numero": 10, "video": "NoZYQ3Ho9" },
-            { "numero": 11, "video": "a039RY93id" },
-            { "numero": 12, "video": "2lZ3YI-Mq" }
-          ]
-        }
-      ]
-    },
-    {
   "id": "gachiakuta",
   "titulo": "Gachiakuta",
   "malId": 59062,
@@ -16217,7 +15849,7 @@
   "descripcion": "En un futuro cercano, la Mayor Motoko Kusanagi y la Sección 9 de Seguridad Pública investigan crímenes cibernéticos y amenazas terroristas en un mundo donde la frontera entre humanos y máquinas se desdibuja.",
   "estado": "emision",
   "destacado": false,
-  "finalizado": false,
+  "finalizado": true,
   "puntuacion": 7.89,
   "anio": 2026,
   "generos": ["Acción", "Misterio", "Ciencia Ficción", "Suspense"],
@@ -16369,7 +16001,7 @@
   "descripcion": "Reunidas de la nada para hacer su debut, cada una de estas miembros tiene una chispa de talento único, pero no están en absoluta forma para ser una banda. ¿Podrán estas chicas, y su banda, realmente sobrevivir a esto? «Incluso cuando el sonido se detiene, contraataca».",
   "estado": "emision",
   "destacado": false,
-  "finalizado": false,
+  "finalizado": true,
   "puntuacion": 7.54,
   "anio": 2026,
   "generos": ["Drama", "Música"],
@@ -16935,7 +16567,7 @@
       "descripcion": "En el Japón de mediados de la década de 1950, durante el apogeo de su auge económico, el circo era una forma de entretenimiento que se convirtió en una parte central de la vida de muchas personas. Las mejores compañías pueden participar en el festival \"Colección de Circos\", de renombre mundial, y muchas vienen de todo Japón para competir a diario. La historia se centra en la compañía del \"Circo Girasol\", que lucha por sobrevivir, dirigida por la directora Maria, y una nueva prodigio que se une a sus filas por razones desconocidas: Mizuka Tsurumaki. ¿Es su encuentro con los miembros tan originales de la compañía del Circo Girasol una coincidencia o el destino? ¡Este circo único que muestra a jóvenes persiguiendo sus sueños comienza! (Fuente: Sitio oficial, traducido)",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 7.17,
       "anio": 2026,
       "generos": ["Drama", "Música", "Recuentos de la vida"],
@@ -17230,7 +16862,7 @@
       "descripcion": "La muerte del empleado corporativo Arihito Atobe en un accidente de autobús marca el comienzo de su nueva vida como un tipo de aventurero llamado Buscador. Renacido en un mundo de fantasía, se establece en una clase de trabajo previamente desconocida llamada 'retaguardia', capaz de proporcionar a su grupo (totalmente femenino) un apoyo crítico de ataque, defensa y recuperación.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 6.50,
       "anio": 2026,
       "generos": ["Acción", "Fantasía", "Isekai"],
@@ -17263,7 +16895,7 @@
       "descripcion": "El manga original de Iron Wok Jan! se centra en un brillante joven chef llamado Jan Akiyama, que trabaja en un restaurante de primera clase donde desafía constantemente a Kiriko Gobanchou, la nieta del dueño del restaurante y una gran chef por derecho propio. Mientras Kiriko cree que la comida debe hacerse pensando en el cliente, Jan cree que cocinar es un campo de batalla donde solo los más fuertes sobreviven.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 7.24,
       "anio": 2026,
       "generos": ["Comedia", "Drama", "Shounen", "Cocina"],
@@ -17296,7 +16928,7 @@
       "descripcion": "Dentro de la opulenta corte interior del Reino de Ei se encuentra la floreciente Corte de las Doncellas, donde la emperatriz y las cuatro consortes imperiales son elegidas de cinco clanes prominentes. Entre ellas, una consorte en entrenamiento, Reirin Kou, destaca como la candidata perfecta para la futura emperatriz. Su virtud y elegancia son inigualables, y es impecable, salvo por su constitución extremadamente enfermiza. Comparada con la gentil mariposa de la corte, la rústica Keigetsu Shu es como una rata de alcantarilla. Siempre mirando a Reirin con amarga envidia, Keigetsu es una desgracia para la Corte de las Doncellas. Durante la noche de un raro avistamiento de cometa, los celos de Keigetsu alcanzan su punto máximo, e intenta asesinar a Reirin empujándola desde un balcón. Reirin es rápidamente salvada de la muerte, y Keigetsu es encarcelada para esperar su ejecución. Sin que nadie lo sepa, Keigetsu ha lanzado un hechizo para intercambiar cuerpos con Reirin y robar todo lo que le pertenece. Pero mientras Keigetsu se ve obstaculizada por el frágil cuerpo de Reirin, Reirin abraza plenamente la libertad y la fuerza física por primera vez en su vida.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 8.20,
       "anio": 2026,
       "generos": ["Fantasía", "Romance"],
@@ -17328,7 +16960,7 @@
   "descripcion": "Iori Kitahara se muda a la ciudad costera de Izu para su primer año en la universidad, instalándose encima de Grand Blue, la tienda de buceo de su tío. Iori tiene grandes esperanzas y sueños sobre tener la experiencia universitaria ideal, pero cuando entra en la tienda es absorbido por las actividades alcohólicas de los despreocupados miembros del Club de Buceo que frecuentan el lugar. Persuadido por los estudiantes de último año Shinji Tokita y Ryuujirou Kotobuki, Iori se une a regañadientes a su extraña fiesta. Su prima Chisa Kotegawa llega más tarde y lo sorprende en el acto, ganándose el desdén absoluto de Iori. Basado en el popular manga cómico de Kenji Inoue y Kimitake Yoshioka, Grand Blue sigue las desventuras de Iori con sus excéntricos nuevos amigos mientras se esfuerza por realizar su sueño universitario ideal, mientras también aprende a bucear.",
   "estado": "emision",
   "destacado": false,
-  "finalizado": false,
+  "finalizado": true,
   "puntuacion": 8.45,
   "anio": 2026,
   "generos": ["Comedia"],
@@ -17395,7 +17027,7 @@
       "descripcion": "El deporte de combate más feroz y legendario de la historia: el Dodgeball. Alguna vez fuente de innumerables relatos heroicos y multitudes apasionadas, el juego ahora comienza un nuevo capítulo. En el corazón de esta historia está Danko Ichigeki, hija del legendario 'Danpei Ichigeki'. Heredando el espíritu fogoso de su padre, Danko está lista para traer esa misma energía explosiva a la era Reiwa.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 6.34,
       "anio": 2026,
       "generos": ["Comedia", "Deportes"],
@@ -17428,7 +17060,7 @@
       "descripcion": "Rin Takanashi, una cuidadora de treinta y tantos años, es invocada a otro mundo junto con otra chica. Mientras que la otra es una santa, Rin es desterrada al bosque por tener habilidades aparentemente inútiles como 'camper truck' y 'appraisal'. Afortunadamente, Rin descubre que puede invocar una autocaravana y comienza un viaje culinario por el mundo de fantasía, conociendo nuevos amigos en el camino.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 6.43,
       "anio": 2026,
       "generos": ["Fantasía", "Gourmet", "Romance"],
@@ -17461,7 +17093,7 @@
       "descripcion": "Elizabeth Leiston, la hija del poderoso primer ministro de Haldoria, es la imagen de una refinada dama noble y la futura reina perfecta. Pero cuando su prometido la humilla públicamente, cancela su compromiso y comienza a difundir rumores desagradables sobre ella, Elizabeth llega a su punto límite. ¿Por qué su única amiga debería ser su leal doncella, y por qué debería seguir sirviendo a un país que no la respeta? Elizabeth concluye que no lo soportará más y derribará el reino, ¡aunque sea lo último que haga! Como tal, utiliza su ingenio rápido y, más importante aún, sus siete grimorios mágicos para embarcarse en una búsqueda de venganza. Y déjame decirte, ¡habrá un infierno que pagar!",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 6.75,
       "anio": 2026,
       "generos": ["Drama", "Fantasía"],
@@ -17494,7 +17126,7 @@
       "descripcion": "Uno no necesita bailar para vivir. En 1374, durante la turbulenta era en que las Cortes del Norte y del Sur estaban en conflicto, el shogun de la Corte del Norte, Ashikaga Yoshimitsu, se estaba convirtiendo en una fuerza cada vez más dominante. Nacido como hijo de Kanami, jefe de la tropa Kanze de artistas de sarugaku, Oniyasha deambula por sus días con una pregunta vaga alojada en su corazón: ¿Por qué baila la gente? Su espíritu permanece nublado, hasta el día en que encuentra un baile que es verdaderamente 'bueno'. Curioso, sensible y llamativamente bello, el chico conoce gente, ríe, llora, se enfrenta a sus propias debilidades y comienza lentamente a dar forma a una nueva forma de danza para un mundo sumido en la impermanencia.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 7.29,
       "anio": 2026,
       "generos": ["Drama", "Histórico", "Artes Escénicas"],
@@ -17528,7 +17160,7 @@
   "descripcion": "Un joven llamado Nobu, que busca trabajo en el mundo post-apocalíptico, termina siendo engañado para unirse al Ejército de Raoh.",
   "estado": "emision",
   "destacado": false,
-  "finalizado": false,
+  "finalizado": true,
   "puntuacion": 5.65,
   "anio": 2026,
   "generos": ["Acción", "Comedia", "Sobrenatural"],
@@ -17573,7 +17205,7 @@
       "descripcion": "El imperio Adrasia en el continente Vogel. Hay una batalla por el trono de tan poderoso imperio que posee un ejército poderoso y un vasto territorio. Con el sucesor aún por decidir, los hijos del emperador compiten por expandir su poder. Sin embargo, había un príncipe del que todos dicen que definitivamente no se convertirá en emperador...",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 6.30,
       "anio": 2026,
       "generos": ["Acción", "Aventura", "Fantasía"],
@@ -17606,7 +17238,7 @@
   "descripcion": "Segunda temporada de Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
   "estado": "emision",
   "destacado": false,
-  "finalizado": false,
+  "finalizado": true,
   "puntuacion": 6.78,
   "anio": 2026,
   "generos": ["Acción", "Fantasía", "Magia", "Isekai"],
@@ -19000,7 +18632,7 @@
       "descripcion": "Alicepia Channel es un sitio web para compartir vídeos exclusivamente para chicas, donde comparten sus canciones, maquillaje y bailes. Sin que los demás lo sepan, los usuarios de la plataforma pueden viajar a Alicepia, un mundo secreto donde el tiempo pasa más lentamente que en la realidad. Para Minamo Sorano y su mejor amiga Natsu Hinoshita, Alicepia les permite ver en directo a la idol Kagari Shirube. Sin embargo, el ambiente alegre se arruina cuando unos monstruos llamados Jamaocks atacan el lugar del concierto de Shirube, causando pánico en el público. Solo las princesas cuyos corazones están llenos de canción pueden salvar a Alicepia de los Jamaocks, y Minamo se encontrará entre las valientes defensoras de este país de maravillas.",
       "estado": "emision",
       "destacado": false,
-      "finalizado": false,
+      "finalizado": true,
       "puntuacion": 7.18,
       "anio": 2025,
       "generos": ["Música", "Fantasía", "Idol"],

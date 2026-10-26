@@ -421,28 +421,28 @@
       "anio": 2026,
       "generos": ["Ecchi"],
       "temporadas": [
-          {
-    "numero": 1,
-    "capitulos": [
-      { "numero": 1, "video": "X-JBOKaFW" },
-      { "numero": 2, "video": "JP04e-T5a" },
-      { "numero": 3, "video": "kn91-Sr6l" },
-      { "numero": 4, "video": "4IUqdhzmd" },
-      { "numero": 5, "video": "jPN-qeAD5" },
-      { "numero": 6, "video": "xdI9Osxxh" }
-    ]
-  },
-  {
-    "numero": 2,
-    "capitulos": [
-      { "numero": 1, "video": "ARE7L05TR" },
-      { "numero": 2, "video": "R2HckrdVr" },
-      { "numero": 3, "video": "TCkWYr4Vg" },
-      { "numero": 4, "video": "1fJp38jXJ" },
-      { "numero": 5, "video": "_9bIoeKic" },
-      { "numero": 6, "video": "v02aUTjz8" }
-    ]
-  },
+        {
+          "numero": 1,
+          "capitulos": [
+            { "numero": 1, "video": "X-JBOKaFW" },
+            { "numero": 2, "video": "JP04e-T5a" },
+            { "numero": 3, "video": "kn91-Sr6l" },
+            { "numero": 4, "video": "4IUqdhzmd" },
+            { "numero": 5, "video": "jPN-qeAD5" },
+            { "numero": 6, "video": "xdI9Osxxh" }
+          ]
+        },
+        {
+          "numero": 2,
+          "capitulos": [
+            { "numero": 1, "video": "ARE7L05TR" },
+            { "numero": 2, "video": "R2HckrdVr" },
+            { "numero": 3, "video": "TCkWYr4Vg" },
+            { "numero": 4, "video": "1fJp38jXJ" },
+            { "numero": 5, "video": "_9bIoeKic" },
+            { "numero": 6, "video": "v02aUTjz8" }
+          ]
+        },
         {
           "numero": 3,
           "capitulos": [
@@ -535,7 +535,8 @@
             { "numero": 1, "video": "I1iFJlcOl" },
             { "numero": 2, "video": "l_Mj7uHUo" },
             { "numero": 3, "video": "QDcYsbDBc" },
-            { "numero": 4, "video": "Y67KfcdlG" }
+            { "numero": 4, "video": "Y67KfcdlG" },
+            { "numero": 5, "video": "uBew2985L" }
           ]
         }
       ]
@@ -560,7 +561,8 @@
             { "numero": 1, "video": "_f92x6SsN" },
             { "numero": 2, "video": "GXs-jLrmE" },
             { "numero": 3, "video": "1y3IotUdG" },
-            { "numero": 4, "video": "WzugFby_-" }
+            { "numero": 4, "video": "WzugFby_-" },
+            { "numero": 5, "video": "Qy2ttkBv1" }
           ]
         }
       ]
@@ -1084,7 +1086,8 @@
           "capitulos": [
             { "numero": 1, "video": "lKuz82H5N" },
             { "numero": 2, "video": "JKaDC_3IMQ" },
-            { "numero": 3, "video": "KGEkXNmk_" }
+            { "numero": 3, "video": "KGEkXNmk_" },
+            { "numero": 4, "video": "T3v61Hm6p" }
           ]
         }
       ]
@@ -1108,7 +1111,8 @@
           "capitulos": [
             { "numero": 1, "video": "3mvzCLPj7" },
             { "numero": 2, "video": "eKusqACm3" },
-            { "numero": 3, "video": "gdv7iYP1r" }
+            { "numero": 3, "video": "gdv7iYP1r" },
+            { "numero": 4, "video": "ghHIfp9SP" }
           ]
         }
       ]
@@ -1132,7 +1136,8 @@
           "capitulos": [
             { "numero": 1, "video": "RpzmSfmRp" },
             { "numero": 2, "video": "zU5X27bpT" },
-            { "numero": 3, "video": "lV9icw6Pt" }
+            { "numero": 3, "video": "lV9icw6Pt" },
+            { "numero": 4, "video": "_Bjby88UW" }
           ]
         }
       ]
@@ -1156,7 +1161,8 @@
           "capitulos": [
             { "numero": 1, "video": "jMGDWP0VV" },
             { "numero": 2, "video": "D7UfwA7eU" },
-            { "numero": 3, "video": "eP5iPPLdE" }
+            { "numero": 3, "video": "eP5iPPLdE" },
+            { "numero": 4, "video": "aOvwtHs1O" }
           ]
         }
       ]
@@ -1180,7 +1186,8 @@
           "capitulos": [
             { "numero": 1, "video": "hvAP1Gq78" },
             { "numero": 2, "video": "unImMjeLz" },
-            { "numero": 3, "video": "-ZcSXwk2jG" }
+            { "numero": 3, "video": "-ZcSXwk2jG" },
+            { "numero": 4, "video": "sbEPiHmOE" }
           ]
         }
       ]
@@ -1204,7 +1211,8 @@
           "capitulos": [
             { "numero": 1, "video": "o-5RTz1qZ" },
             { "numero": 2, "video": "K3aj49vx4" },
-            { "numero": 3, "video": "xHhqU3ihu" }
+            { "numero": 3, "video": "xHhqU3ihu" },
+            { "numero": 4, "video": "mOtOxbOFy" }
           ]
         }
       ]
@@ -1228,7 +1236,8 @@
           "capitulos": [
             { "numero": 1, "video": "N3lkR4X8X" },
             { "numero": 2, "video": "Qtf0LXX-4" },
-            { "numero": 3, "video": "Sa13EGttC" }
+            { "numero": 3, "video": "Sa13EGttC" },
+            { "numero": 4, "video": "9GhNK-7Bn" }
           ]
         }
       ]
@@ -1252,7 +1261,8 @@
           "capitulos": [
             { "numero": 1, "video": "I9hsX-sq3" },
             { "numero": 2, "video": "DXXhE7Zxz" },
-            { "numero": 3, "video": "boXpn3QTu" }
+            { "numero": 3, "video": "boXpn3QTu" },
+            { "numero": 4, "video": "YxGm-fpki" }
           ]
         }
       ]
@@ -1276,7 +1286,8 @@
           "capitulos": [
             { "numero": 1, "video": "t1RU_658v" },
             { "numero": 2, "video": "TPGDQwGoJ" },
-            { "numero": 3, "video": "TlvTNHnvC" }
+            { "numero": 3, "video": "TlvTNHnvC" },
+            { "numero": 4, "video": "fZAsktyNl" }
           ]
         }
       ]
@@ -1300,7 +1311,8 @@
           "capitulos": [
             { "numero": 1, "video": "35N7bNsvc" },
             { "numero": 2, "video": "CxhS0c9zc" },
-            { "numero": 3, "video": "VKACypOgd" }
+            { "numero": 3, "video": "VKACypOgd" },
+            { "numero": 4, "video": "U82lOrH1v" }
           ]
         }
       ]
@@ -1324,7 +1336,8 @@
           "capitulos": [
             { "numero": 1, "video": "6adFYt480" },
             { "numero": 2, "video": "7qClk_xwl" },
-            { "numero": 3, "video": "_WAock35T" }
+            { "numero": 3, "video": "_WAock35T" },
+            { "numero": 4, "video": "7VybN7Gp_" }
           ]
         }
       ]
@@ -1852,7 +1865,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "N8URrCYCw" },
-            { "numero": 2, "video": "FPAvjVNmJ" }
+            { "numero": 2, "video": "FPAvjVNmJ" },
+            { "numero": 3, "video": "fiygn1s0O" }
           ]
         }
       ]
@@ -1875,7 +1889,8 @@
           "numero": 5,
           "capitulos": [
             { "numero": 1, "video": "EbxrQmOga" },
-            { "numero": 2, "video": "aPEpNN4Xa" }
+            { "numero": 2, "video": "aPEpNN4Xa" },
+            { "numero": 3, "video": "Pq2RZi2rO" }
           ]
         }
       ]
@@ -1898,7 +1913,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 13, "video": "UNDxzyffe" },
-            { "numero": 14, "video": "lP8-bmLz0" }
+            { "numero": 14, "video": "lP8-bmLz0" },
+            { "numero": 15, "video": "HV8zKGCYT" }
           ]
         }
       ]
@@ -1921,7 +1937,8 @@
           "numero": 1,
           "capitulos": [
             { "numero": 1, "video": "_ZX_slTxG" },
-            { "numero": 2, "video": "2_8ybxb-C" }
+            { "numero": 2, "video": "2_8ybxb-C" },
+            { "numero": 3, "video": "8FOl_a96u" }
           ]
         }
       ]
@@ -1944,7 +1961,8 @@
           "numero": 2,
           "capitulos": [
             { "numero": 13, "video": "QBL__ba9y" },
-            { "numero": 14, "video": "Qrshe4RWoP" }
+            { "numero": 14, "video": "Qrshe4RWoP" },
+            { "numero": 15, "video": "q5FWmaLtG" }
           ]
         }
       ]
